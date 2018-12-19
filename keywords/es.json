@@ -1,0 +1,4 @@
+{
+    "health" : ["malaria", "diarrea", "infección", "enfermedad", "sars", "sarampión", "neumonía", "epidemia", "pandemia", "salud pública", "salud", "epidemiología", "salud", "salud", "mortalidad", "morbilidad", "nutrición", "enfermedad", "enfermedad infecciosa", "NCD", "no transmisible", "enfermedad contagiosa", "transmisible", "contaminación del aire", "nutrición", "desnutrición", "trastorno mental", "retraso del crecimiento"],
+    "climate" : ["cambio climático", "calentamiento global", "temperatura", "clima extremo", "cambio ambiental global", "variabilidad climática", "invernadero", "bajo carbono", "ghge", "energía renovable", "emisiones de carbono", "emisiones de CO2", "contaminantes climáticos"]
+}

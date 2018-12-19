@@ -1,0 +1,5 @@
+{
+    "health" : ["paludisme", "diarrhée", "infection", "maladie", "sars", "rougeole", "pneumonie", "épidémie", "pandémie", "santé publique", "soins de santé", "épidémiologie", "santé", "mortalité", "morbidité", "nutrition", "infectieux", "MNT", "maladie non transmissible", "Maladie transmissible", "pollution de l'air", "nutrition", "malnutrition", "désordre mental", "retard de croissance"],
+    "climate" : ["changement climatique", "réchauffement climatique", "serre", "température", "conditions météorologiques extrêmes", "changement environnemental global", "variabilité climatique", "serre", "faible teneur en carbone", "ghge", "énergie renouvelable", "émission de dioxyde de carbone", "éamissions de CO2", "polluants climatiques"],
+    "comment" : "Automatic translations from English using Google Translate"
+}

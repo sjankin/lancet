@@ -1,0 +1,4 @@
+{
+    "health" : ["Malaria", "Durchfallerkrankung", "Infektion", "Erkrankung", "SARS", "Masern", "Lungenentzündung", "epidemisch", "pandemisch", "Gesundheitswesen", "Gesundheitsvorsorge", "Epidemiologie", "Gesundheit", "Sterblichkeit", "Krankhaftigkeit", "Ernährung", "Krankheit", "infektiös", "nicht-übertragbare Krankheit", "übertragbare Krankheit", "Luftverschmutzung", "Ernährung", "Mangelernährung", "mentale Störung", "Kleinwuchs"],
+    "climate" : ["Klimawandel", "Globale Erwärmung", "Treibhaus", "Temperatur", "Extremwetter", "globale Umweltveränderungen", "Klimavariabilität", "wenig Kohlenstoff", "Erneuerbare Energie", "Kohlenstoffemissionen", "CO2 Emissionen", "Klimaschadstoffe"]
+}
