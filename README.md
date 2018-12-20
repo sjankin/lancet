@@ -1,10 +1,13 @@
 # The _Lancet_ Countdown on health and climate change
 
-## Analysis for the indicators of political and corporate engagement
 
-### The Lancet publication
+## The 2018 Report
 
-* [2018 Article](https://goo.gl/X4o3ER)
+Analysis for the indicators of political and corporate engagement, and a pilot study of social media indicators.
+
+### The Lancet article
+
+* [2018 Article](https://doi.org/10.1016/S0140-6736(18)32594-7)
 
 
 ### Indicator 5.3: Engagement in health and climate change in the United Nations General Assembly
