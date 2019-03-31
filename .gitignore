@@ -34,3 +34,12 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Output PDF
+/data/cops/pdfs/*
+
+# Output txt
+/data/cops/txts/*
+
+# ipynb checkpoint
+.ipynb_checkpoints
