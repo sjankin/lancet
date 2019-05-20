@@ -43,3 +43,6 @@ rsconnect/
 
 # ipynb checkpoint
 .ipynb_checkpoints
+
+# venv
+/venv/

@@ -1,3 +1,5 @@
+import requests
+import re
 import PyPDF2
 import shutil
 import os
@@ -18,7 +20,7 @@ language_ref = { 'en' : { 'name' : 'English', 'min_coocurrence' : 10},
 pdfs_folder = "/Volumes/M/pdfs/"
 
 # set verbosity of code
-verbosity = 0
+verbosity = 1
 
 # --------------------------------------------
 # Selecting COP reports that match required criteria
@@ -55,7 +57,7 @@ for pdf in pdfs.keys():
 
 # --------------------------------------------
 # Downloading PDF file for each COP report that matches required criteria
-
+gc_base_url = "https://www.unglobalcompact.org"
 filenameregex = re.compile(r'(?<=/)[^$/]+(?=$)')
 
 num_saved = 0
@@ -66,6 +68,8 @@ try:
     os.stat(pdfs_folder)
 except:
     os.mkdir(pdfs_folder)
+
+print("Downloading PDFS...")
 
 for pdf in selected_pdfs.keys():
     filename = pdfs_folder + filenameregex.search(pdf)[0]
