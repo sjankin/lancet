@@ -6,7 +6,7 @@ import os
 import pandas as pd
 
 # set focus year and language here
-focus_year = "2018"
+focus_year = "2019"
 focus_language = "en"
 
 language_ref = { 'en' : { 'name' : 'English', 'min_coocurrence' : 10},
@@ -20,7 +20,7 @@ language_ref = { 'en' : { 'name' : 'English', 'min_coocurrence' : 10},
 pdfs_folder = "/Volumes/M/pdfs/"
 
 # set folder for text here
-txts_folder = "../data/cops/txts/"
+txts_folder = "../data/cops/txts/" + focus_year + "/"
 
 # set verbosity of code
 verbosity = 0

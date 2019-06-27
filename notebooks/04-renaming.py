@@ -15,12 +15,14 @@ language_ref = { 'en' : { 'name' : 'English', 'min_coocurrence' : 10},
                }
 
 # set folder for where text files are stored
-txts_folder = "/Users/yuantinglee/Documents/SM_Projects/lancet/data/cops/txts/2018/"
+txts_folder = "/Users/yuantinglee/Documents/SM_Projects/lancet/data/cops/txts/"
 
 # --------------------------------------------
 # Selecting COP reports that match required criteria
 # (up to focus_year, written in focus_language)
-reports_index_csv_filename = "../data/cops/reports_index_" + focus_year + ".csv"
+# reports_index_csv_filename = "../data/cops/reports_index_" + focus_year + ".csv"
+reports_index_csv_filename = "../data/cops/reports_index.csv"
+
 
 df_pdfs = pd.read_csv(reports_index_csv_filename, sep='\t', encoding='utf-8', index_col=0, dtype={'year': object})
 pdfs = df_pdfs.to_dict(orient='index')
@@ -69,5 +71,8 @@ for pdf in selected_pdfs.keys():
     if os.path.isfile(os.path.join(txts_folder, filename)):
         sector = selected_pdfs[pdf]["sector"].replace(" ", "")
         newname = selected_pdfs[pdf]["country"] + "-SEP-" + selected_pdfs[pdf]["year"] + "-SEP-" + sector + "-SEP-" + filename
-        shutil.move(filename, newname)
+        try:
+            shutil.move(filename, newname)
+        except OSError:
+            print("Error renaming: %s" % filename)
         print(".", end='')
