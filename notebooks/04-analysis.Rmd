@@ -18,7 +18,6 @@ output:
 
 Loading data from the UNGC data
 
-
 ```{r message=FALSE}
 #Loading packages and data
 library(readtext)
@@ -345,7 +344,7 @@ tier2_countries$region <- "tier2"
 ```
 
 Processing country names
-```{r}
+```{r, results = 'hide'}
 `%not_in%` <- purrr::negate(`%in%`)
 
 abbrev_countries <- str_extract(total_counts$country, '(?<=^)[^\\.]+')
@@ -702,44 +701,6 @@ ungc_hces$who[ungc_hces$Country %in% south_east_asia$countries] <- "South-East A
 ungc_hces$who[ungc_hces$Country %in% western_pacific$countries] <- "Western Pacific" 
 ```
 
-```{r}
-climate_speeches_who <- regional_data %>% filter(climate_count>0) %>% group_by(year, WHO) %>% tally(name = "climate_speeches")
-health_speeches_who <- regional_data %>% filter(health_count>0) %>% group_by(year, WHO) %>% tally(name = "health_speeches")
-intersection_speeches_who <- regional_data %>% filter(intersection_count>0) %>% group_by(year, WHO) %>% tally(name = "intersection_speeches")
-
-#merging WHO designations with mention counts
-ungd_files$Country <- str_replace(ungd_files$Country, "YUG", "SRB")
-
-total_speeches_who <- inner_join(ungc_files, regions, by = c("Country" = "Country or Area")) %>% 
-  group_by(Year, WHO) %>% tally(name = "total_speeches")
-
-proportions_who <- left_join(total_speeches_who, health_speeches_who, by = c("Year"="year", "WHO")) %>% 
-  left_join(., climate_speeches_who, by = c("Year"="year", "WHO")) %>% 
-  left_join(., intersection_speeches_who, by = c("Year"="year", "WHO")) %>% 
-  replace_na(list(health_speeches=0, climate_speeches=0, intersection_speeches=0))
-
-proportions_who$percent_int <- proportions_who$intersection_speeches/proportions_who$total_speeches*100
-proportions_who$percent_CC <- proportions_who$climate_speeches/proportions_who$total_speeches*100
-proportions_who$percent_PH <- proportions_who$health_speeches/proportions_who$total_speeches*100
-
-```
-
-```{r}
-# Data preparation
-#loading WHO regions country identifiers and preprocessing
-regions <- readr::read_csv("../UNSD Methodology.csv")
-
-#UNGDC used YUG designation while WHO is using SRB
-total_counts$country <- str_replace(total_counts$country, "YUG", "SRB")
-
-#merging WHO designations with mention counts
-regional_data <- inner_join(total_counts, regions, by = c("country" = "Country or Area"))
-
-# total sum of mention counts by year and WHO region, with means
-who_sum <- summarise(group_by(regional_data, year, WHO), 
-                     who_int = sum(intersection_count), who_PH = sum(health_count), who_CC = sum(climate_count))
-
-```
 
 ```{r}
 hces_who_total <- ungc_hces %>%
@@ -821,12 +782,13 @@ ggplot(proportions_hces_who, aes(x=Year)) +
   scale_x_continuous(limits=c(2011, 2018), breaks = c(2012,2014,2016,2018)) +
   annotate("text", x = 2014, y = 7, label = "Africa", colour = "blue")+
   annotate("text", x = 2013, y = 4, label = "Eastern Mediterranean", colour = "orange")+
-  annotate("text", x = 2013, y = 1.5, label = "Europe", colour = "darkgreen") +
+  annotate("text", x = 2013, y = 22, label = "Europe", colour = "darkgreen") +
   #annotate("text", x = 2012, y = 10, label = "Latin Am. & Carribean", colour = "red")+
-  annotate("text", x = 2013, y = 4, label = "North America", colour = "purple")+
-  annotate("text", x = 2013, y = 1.5, label = "South-East Asia", colour = "brown") +
-  annotate("text", x = 2013, y = 1.5, label = "Western Pacific", colour = "pink") 
+  annotate("text", x = 2012, y = 6, label = "North America", colour = "purple")+
+  annotate("text", x = 2015, y = 1.5, label = "South-East Asia", colour = "brown") +
+  annotate("text", x = 2016, y = 7, label = "Western Pacific", colour = "pink") 
 
+ ggsave("who_countries_percent.pdf")
 ```
 
 #English Speaking Countries
@@ -877,7 +839,7 @@ ggplot(proportions_eng, aes(x=Year)) +
   annotate("text", x = 2017, y = 24, label = "United States", colour = "blue")+
   annotate("text", x = 2014, y = 5, label = "United Kingdom", colour = "pink")
 
-#  ggsave("all_three_percent.pdf")
+#  ggsave("english_speaking_percent.pdf")
 ```
 
 
