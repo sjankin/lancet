@@ -41,6 +41,9 @@ rsconnect/
 
 # Output txt
 /data/cops/txts/*
+/data/cops/txtscopy2/*
+/data/cops/txtscopy3/*
+/data/cops/txts_2018/*
 
 # ipynb checkpoint
 .ipynb_checkpoints
