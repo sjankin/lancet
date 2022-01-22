@@ -1,0 +1,71 @@
+Year,WHO Region,Climate,Health,Intersection
+2011,Africa,444,788,56
+2012,Africa,242,960,20
+2013,Africa,429,1460,38
+2014,Africa,552,1536,73
+2015,Africa,663,1880,50
+2016,Africa,686,1988,41
+2017,Africa,486,1383,51
+2018,Africa,397,1210,31
+2019,Africa,551,1527,52
+2020,Africa,459,907,42
+2011,Eastern Mediterranean,124,475,14
+2012,Eastern Mediterranean,236,945,18
+2013,Eastern Mediterranean,201,1133,29
+2014,Eastern Mediterranean,196,721,13
+2015,Eastern Mediterranean,290,1083,10
+2016,Eastern Mediterranean,398,1073,29
+2017,Eastern Mediterranean,349,1048,28
+2018,Eastern Mediterranean,793,1662,46
+2019,Eastern Mediterranean,748,1675,47
+2020,Eastern Mediterranean,478,1450,51
+2011,Europe,9455,12354,525
+2012,Europe,10235,15910,547
+2013,Europe,10684,15754,657
+2014,Europe,12147,18610,680
+2015,Europe,11079,16718,626
+2016,Europe,12369,18716,803
+2017,Europe,12299,19129,836
+2018,Europe,12988,20714,891
+2019,Europe,16866,24566,1217
+2020,Europe,21566,28534,1597
+2011,Latin America and the Caribbean,563,1214,41
+2012,Latin America and the Caribbean,1339,2128,52
+2013,Latin America and the Caribbean,876,1703,60
+2014,Latin America and the Caribbean,804,1719,65
+2015,Latin America and the Caribbean,703,1661,15
+2016,Latin America and the Caribbean,958,1656,38
+2017,Latin America and the Caribbean,1306,1961,64
+2018,Latin America and the Caribbean,1179,2514,102
+2019,Latin America and the Caribbean,1092,2837,76
+2020,Latin America and the Caribbean,1756,3554,152
+2011,North America,1755,3479,125
+2012,North America,1853,3416,123
+2013,North America,1589,4206,152
+2014,North America,1840,5760,134
+2015,North America,2188,7050,253
+2016,North America,2341,6677,265
+2017,North America,2553,6623,281
+2018,North America,2538,6043,247
+2019,North America,3562,5848,311
+2020,North America,3978,6842,398
+2011,South-East Asia,824,1527,57
+2012,South-East Asia,868,1769,56
+2013,South-East Asia,1201,2353,76
+2014,South-East Asia,937,2272,55
+2015,South-East Asia,1158,3050,105
+2016,South-East Asia,1415,2648,116
+2017,South-East Asia,944,2820,111
+2018,South-East Asia,1073,2642,110
+2019,South-East Asia,1230,2911,128
+2020,South-East Asia,1123,2448,166
+2011,Western Pacific,5755,5341,205
+2012,Western Pacific,6308,5757,173
+2013,Western Pacific,5641,6341,308
+2014,Western Pacific,6097,7262,301
+2015,Western Pacific,5489,7263,246
+2016,Western Pacific,5579,7100,279
+2017,Western Pacific,6748,8739,368
+2018,Western Pacific,7476,10397,401
+2019,Western Pacific,10069,11653,590
+2020,Western Pacific,12474,16419,959

@@ -1,0 +1,36 @@
+Year,HDI Level,Total documents,Climate,Health,Intersection
+2011,Very high human development,9,0.67,1,0
+2012,Very high human development,13,0.54,0.92,0.15
+2013,Very high human development,22,0.36,0.86,0.18
+2014,Very high human development,21,0.43,0.81,0.14
+2015,Very high human development,17,0.65,0.94,0.24
+2016,Very high human development,22,0.55,0.82,0.18
+2017,Very high human development,26,0.65,0.88,0.12
+2018,Very high human development,26,0.85,0.96,0.42
+2019,Very high human development,29,0.83,0.97,0.41
+2020,Very high human development,37,0.7,0.89,0.41
+2011,Medium human development,4,0.25,1,0
+2012,Medium human development,2,0.5,1,0.5
+2013,Medium human development,3,0,1,0
+2014,Medium human development,5,0.2,1,0.2
+2015,Medium human development,6,0.17,1,0.17
+2016,Medium human development,4,0.25,1,0.25
+2017,Medium human development,3,0,1,0
+2018,Medium human development,3,0,1,0
+2019,Medium human development,4,0,1,0
+2020,Medium human development,2,0.5,1,0
+2016,Low human development,1,0,1,0
+2017,Low human development,1,0,1,0
+2018,Low human development,1,0,1,0
+2019,Low human development,2,0,1,0
+2020,Low human development,1,0,1,0
+2011,High human development,1,1,1,0
+2012,High human development,3,0.33,0.67,0.33
+2013,High human development,7,0.43,0.43,0.14
+2014,High human development,4,0,0.5,0
+2015,High human development,7,0.29,0.57,0
+2016,High human development,5,0.6,0.4,0.2
+2017,High human development,4,0.5,0.5,0
+2018,High human development,7,0.71,0.57,0.29
+2019,High human development,7,0.71,0.86,0.14
+2020,High human development,6,0.83,0.83,0.33

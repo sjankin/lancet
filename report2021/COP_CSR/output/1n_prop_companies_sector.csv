@@ -1,0 +1,44 @@
+Sector,Year,Climate,Health,Intersection
+Aerospace & Defense,2020,0.72,0.89,0.39
+Alternative Energy,2020,0.91,0.96,0.7
+Automobiles & Parts,2020,0.83,0.89,0.55
+Banks,2020,0.87,0.85,0.42
+Beverages,2020,0.61,0.86,0.33
+Chemicals,2020,0.85,0.89,0.68
+Construction & Materials,2020,0.78,0.83,0.44
+Diversified,2020,0.78,0.84,0.31
+Electricity,2020,0.79,0.79,0.51
+Electronic & Electrical Equ...,2020,0.66,0.85,0.29
+Equity Investment Instruments,2020,0.6,0.9,0.3
+Financial Services,2020,0.8,0.77,0.37
+Fixed Line Telecommunications,2020,0.69,0.85,0.38
+Food & Drug Retailers,2020,1,1,0.75
+Food Producers,2020,0.76,0.89,0.47
+Forestry & Paper,2020,0.71,0.86,0.36
+"Gas, Water & Multiutilities",2020,0.76,0.88,0.6
+General Industrials,2020,0.77,0.86,0.39
+General Retailers,2020,0.71,0.81,0.31
+Health Care Equipment & Ser...,2020,0.7,0.89,0.37
+Household Goods & Home Cons...,2020,0.74,0.94,0.45
+Industrial Engineering,2020,0.67,0.73,0.33
+Industrial Goods & Services,2020,0.5,1,0
+Industrial Metals & Mining,2020,0.89,0.89,0.46
+Industrial Transportation,2020,0.73,0.81,0.33
+Leisure Goods,2020,0.64,0.73,0.18
+Life Insurance,2020,0.91,0.64,0.36
+Media,2020,0.73,0.75,0.14
+Mining,2020,0.89,0.89,0.58
+Mobile Telecommunications,2020,0.81,0.96,0.5
+Nonequity Investment Instru...,2020,0.5,1,0.5
+Nonlife Insurance,2020,0.77,1,0.38
+Not Applicable,2020,1,1,0
+Oil & Gas Producers,2020,0.84,0.91,0.72
+"Oil Equipment, Services & D...",2020,0.67,0.89,0.37
+Personal Goods,2020,0.7,0.81,0.22
+Pharmaceuticals & Biotechno...,2020,0.82,0.93,0.6
+Real Estate Investment & Se...,2020,0.78,0.92,0.5
+Real Estate Investment Trusts,2020,0.7,0.8,0.6
+Software & Computer Services,2020,0.63,0.83,0.25
+Support Services,2020,0.66,0.81,0.27
+Technology Hardware & Equip...,2020,0.83,0.85,0.36
+Travel & Leisure,2020,0.76,0.79,0.16

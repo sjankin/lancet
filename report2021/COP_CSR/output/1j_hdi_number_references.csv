@@ -1,0 +1,41 @@
+Year,HDI Level,Climate,Health,Intersection
+2011,Very high human development,16600,20564,820
+2012,Very high human development,18267,24889,833
+2013,Very high human development,17807,26430,1106
+2014,Very high human development,19867,31121,1094
+2015,Very high human development,18624,30789,1097
+2016,Very high human development,20204,32259,1333
+2017,Very high human development,21492,34297,1465
+2018,Very high human development,22757,36927,1531
+2019,Very high human development,30285,41851,2100
+2020,Very high human development,37984,51885,2939
+2011,Medium human development,707,1318,60
+2012,Medium human development,900,2034,52
+2013,Medium human development,736,1879,65
+2014,Medium human development,634,1900,74
+2015,Medium human development,815,2376,95
+2016,Medium human development,961,2526,96
+2017,Medium human development,653,2261,77
+2018,Medium human development,734,2382,91
+2019,Medium human development,916,2290,80
+2020,Medium human development,682,1641,115
+2011,Low human development,29,131,5
+2012,Low human development,42,133,3
+2013,Low human development,13,148,0
+2014,Low human development,10,113,0
+2015,Low human development,30,175,7
+2016,Low human development,53,155,3
+2017,Low human development,56,143,10
+2018,Low human development,140,398,16
+2019,Low human development,149,472,13
+2020,Low human development,28,122,13
+2011,High human development,1568,3129,136
+2012,High human development,1853,3793,101
+2013,High human development,2015,4261,126
+2014,High human development,2017,4633,138
+2015,High human development,2071,5250,98
+2016,High human development,2524,4890,137
+2017,High human development,2460,4976,186
+2018,High human development,2781,5443,188
+2019,High human development,2767,6402,228
+2020,High human development,3122,6478,296

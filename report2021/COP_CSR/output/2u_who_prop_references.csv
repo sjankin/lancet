@@ -1,0 +1,65 @@
+Year,WHO Region,Total documents,Climate,Health,Intersection
+2011,Western Pacific,3,1,1,0
+2012,Western Pacific,1,1,1,1
+2013,Western Pacific,5,0.8,0.8,0.4
+2014,Western Pacific,3,0.67,0.67,0.33
+2015,Western Pacific,2,1,1,0.5
+2016,Western Pacific,5,1,0.8,0.6
+2017,Western Pacific,5,0.6,0.6,0.2
+2018,Western Pacific,5,1,1,0.4
+2019,Western Pacific,5,0.8,0.8,0.4
+2020,Western Pacific,4,1,1,0.25
+2011,South-East Asia,2,0.5,1,0
+2012,South-East Asia,1,0,1,0
+2013,South-East Asia,1,0,0,0
+2014,South-East Asia,2,0,1,0
+2015,South-East Asia,2,0,1,0
+2016,South-East Asia,2,0.5,1,0
+2017,South-East Asia,2,0.5,1,0
+2018,South-East Asia,2,0.5,1,0
+2019,South-East Asia,2,0.5,1,0
+2020,South-East Asia,2,1,1,0.5
+2011,North America,1,1,1,0
+2012,North America,2,0.5,1,0.5
+2013,North America,3,0,0.67,0
+2014,North America,1,0,0,0
+2017,North America,1,1,1,1
+2018,North America,2,1,1,1
+2019,North America,3,1,1,0.67
+2020,North America,4,1,1,0.25
+2012,Latin America and the Caribbean,2,0.5,0.5,0.5
+2013,Latin America and the Caribbean,3,0.33,0.33,0.33
+2014,Latin America and the Caribbean,1,0,0,0
+2015,Latin America and the Caribbean,5,0.2,0.4,0
+2016,Latin America and the Caribbean,2,0,0,0
+2017,Latin America and the Caribbean,2,0,0,0
+2018,Latin America and the Caribbean,4,0.5,0.25,0
+2019,Latin America and the Caribbean,3,0.67,0.67,0
+2020,Latin America and the Caribbean,3,0.67,0.67,0
+2011,Europe,5,0.4,1,0
+2012,Europe,10,0.5,0.9,0
+2013,Europe,16,0.31,0.88,0.12
+2014,Europe,18,0.39,0.83,0.11
+2015,Europe,15,0.6,0.93,0.2
+2016,Europe,19,0.47,0.79,0.11
+2017,Europe,21,0.67,0.95,0.05
+2018,Europe,20,0.8,0.95,0.4
+2019,Europe,22,0.82,1,0.36
+2020,Europe,29,0.66,0.86,0.45
+2011,Eastern Mediterranean,2,0,1,0
+2012,Eastern Mediterranean,1,0,1,0
+2013,Eastern Mediterranean,3,0.33,1,0
+2014,Eastern Mediterranean,1,0,1,0
+2015,Eastern Mediterranean,1,0,1,0
+2019,Eastern Mediterranean,1,0,1,0
+2020,Eastern Mediterranean,1,0,1,0
+2011,Africa,1,1,1,0
+2012,Africa,1,1,1,1
+2013,Africa,1,0,1,0
+2014,Africa,4,0.25,1,0.25
+2015,Africa,5,0.4,1,0.2
+2016,Africa,4,0.25,1,0.25
+2017,Africa,3,0,1,0
+2018,Africa,4,0.25,1,0.25
+2019,Africa,6,0.17,1,0.17
+2020,Africa,3,0.33,1,0.33

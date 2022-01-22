@@ -1,0 +1,1473 @@
+---
+title: "Lancet Draft Output"
+date: "`r format(Sys.time(), '%B %d, %Y | %H:%M:%S | %Z')`"
+output:
+  html_document:
+    code_folding: hide
+    df_print: paged
+    highlight: tango
+    number_sections: no
+    theme: cosmo
+    toc: no
+---
+
+<style>
+div.answer {background-color:#f3f0ff; border-radius: 5px; padding: 20px;}
+</style>
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      eval = TRUE,
+                      error = FALSE,
+                      message = FALSE,
+                      warning = FALSE,
+                      comment = NA)
+```
+
+***
+
+```{r, include = F}
+## load helpers ------------------
+source("helpers.R")
+
+## load packages -----------------
+library(readtext)
+library(quanteda)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(ggplot2)
+library(scales)
+library(rworldmap)
+library(RColorBrewer)
+library(haven)
+library(readxl)
+library(tm)
+
+## load data ---------------------
+
+load("../data/total_counts.RData")
+load("../data/tallied_texts.RData")
+load("../data/intersection_covid_gender.RData")
+```
+
+
+```{r fig.align="center"}
+##########################################
+
+# extract counts and proportions for plotting
+
+# composite reference_df
+agg_reference_df <- dplyr::left_join(
+  total_counts %>% 
+    dplyr::filter(Year >= 2011) %>%
+    dplyr::group_by(Year) %>%
+    dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                     health_references = sum(health_count, na.rm = T),
+                     intersection_references = sum(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("Year"),
+                        names_to = "Type", values_to = "Count"),
+  total_counts %>% 
+    dplyr::filter(Year >= 2011) %>%
+    dplyr::group_by(Year) %>%
+    dplyr::summarize(climate_references = mean(climate_count, na.rm = T),
+                     health_references = mean(health_count, na.rm = T),
+                     intersection_references = mean(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("Year"),
+                        names_to = "Type", values_to = "Avg")) %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L))
+
+# health sector reference_df
+
+reference_df <- dplyr::left_join(
+  total_counts %>% 
+    dplyr::filter(Year >= 2011) %>%
+    dplyr::group_by(Sector, Year) %>%
+    dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                     health_references = sum(health_count, na.rm = T),
+                     intersection_references = sum(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("Sector", "Year"),
+                        names_to = "Type", values_to = "Count"),
+  total_counts %>% 
+    dplyr::filter(Year >= 2011) %>%
+    dplyr::group_by(Sector, Year) %>%
+    dplyr::summarize(climate_references = mean(climate_count, na.rm = T),
+                     health_references = mean(health_count, na.rm = T),
+                     intersection_references = mean(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("Sector", "Year"),
+                        names_to = "Type", values_to = "Avg")) %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L))
+
+# composite plot_df
+agg_plot_df <- total_texts %>% dplyr::filter(Year >= 2011)  %>%
+  tidyr::pivot_longer(cols = -c("Sector", "Year", "total_texts"),
+                      names_to = "text", values_to = "value") %>%
+  dplyr::group_by(Year, text) %>%
+  dplyr::summarise(total_texts = sum(total_texts, na.rm = T),
+                   value = sum(value, na.rm = T)) %>%
+  dplyr::mutate(value = tidyr::replace_na(value, 0),
+                Prop = value/total_texts,
+                Key = factor(dplyr::case_when(text == "climate_texts" ~ "Climate",
+                                              text == "intersection_texts" ~ "Intersection",
+                                              text == "health_texts" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L))
+
+# health sector plot_df
+plot_df <- total_texts %>% dplyr::filter(Year >= 2011)  %>%
+  tidyr::pivot_longer(cols = -c("Sector", "Year", "total_texts"),
+                      names_to = "text", values_to = "value") %>%
+  dplyr::mutate(value = tidyr::replace_na(value, 0),
+                Prop = value/total_texts,
+                Key = factor(dplyr::case_when(text == "climate_texts" ~ "Climate",
+                                              text == "intersection_texts" ~ "Intersection",
+                                              text == "health_texts" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L))
+
+```
+
+---
+
+# Data summary
+
+```{r}
+data_summary <- tibble::tibble(
+  count = length(total_counts$Participant),
+  unique = unique(total_counts$Participant) %>% length(),
+  total_health = total_counts %>% dplyr::filter(!is.na(health_count)) %>% dplyr::filter(health_count != 0) %>% nrow(),
+  total_climate = total_counts %>% dplyr::filter(!is.na(climate_count)) %>% dplyr::filter(climate_count != 0) %>% nrow(),
+  total_intersection = total_counts %>% dplyr::filter(!is.na(intersection_count)) %>% dplyr::filter(intersection_count != 0) %>% nrow()
+) %>%
+  dplyr::mutate(prop_health = round(total_health/count,2),
+                prop_climate = round(total_climate/count,2),
+                prop_intersection = round(total_intersection/count,2)) 
+
+colnames(data_summary) <- c("Companies (N)", "Companies (Unique)", 
+                             "Health, (N)" , "Climate, (N)", "Intersection, (N)", 
+                             "Health, %" , "Climate, %", "Intersection, %")
+data_summary %>%
+  knitr::kable()
+
+readr::write_csv(data_summary, "../output/0_0_data_summary.csv")
+```
+
+---
+
+### Yearly breakdown
+
+```{r}
+a <- total_counts %>% dplyr::filter(Year >= 2011) %>% dplyr::group_by(Year) %>% 
+  dplyr::summarize("Companies (N)" = n_distinct(Participant)) 
+
+b <- agg_plot_df %>%
+  dplyr::select(Year, Key, value) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "value") %>%
+  dplyr::rename("Climate (N)" = "Climate", "Health (N)" = "Health", "Intersection (N)" = "Intersection")
+  
+c <- agg_plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  dplyr::rename("Climate (Prop)" = "Climate", "Health (Prop)" = "Health", "Intersection (Prop)" = "Intersection")
+  
+yearly_breakdown <- dplyr::left_join(a, b) %>% left_join(., c) 
+
+yearly_breakdown %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(yearly_breakdown, "../output/0_1_yearly_breakdown.csv")
+
+```
+
+---
+
+### Table of English language COP reports by year
+
+```{r}
+reports_by_year <- total_counts %>% dplyr::filter(Year >= 2011) %>% dplyr::group_by(Year) %>% 
+  dplyr::summarize(count = n_distinct(Participant)) %>%
+  dplyr::rename("Companies (N)" = "count")
+
+reports_by_year %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(reports_by_year, "../output/0_2_reports_by_year.csv")
+
+```
+
+
+# All Sectors (Composite)
+
+<h5 style = "color:#cc0055">These are the figures generated with the composite measures from all sectors</h5>
+
+## a. Main text - Proportion of companies, % {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## a. Main text - Proportion of companies, %
+p <- agg_plot_df %>% 
+  ggplot(aes(x = Year, y = Prop, color = Key)) +
+  geom_path(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 0.85, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 0.48, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2012-12-31"), y = 0.1, label = "Intersection", color = "red") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0,1)) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Proportion of companies, %") 
+
+p
+
+ggsave("../output/1a_prop_of_companies.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- agg_plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1a_prop_of_companies.csv")
+```
+
+---
+
+## b. Appendix - Total number of references {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## b. Appendix - Total number of references
+p <- agg_reference_df %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2011-05-31"), y = 31500, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 25000, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2016-12-31"), y = 4000, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+p
+
+ggsave("../output/1b_number_of_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- agg_plot_df %>%
+  dplyr::select(Year, Key, value) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "value") 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1b_number_of_references.csv")
+```
+
+---
+
+## c. Appendix - Total number of references (Intersection) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## c. Appendix - Total number of references (Intersection)
+p <- agg_reference_df %>% 
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line() +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = 1500, label = "Intersection", color = "red") +
+  theme_minimal() +
+  scale_y_continuous(limits = c(0, 4000)) +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+p
+
+ggsave("../output/1c_number_of_references_intersection.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- agg_reference_df %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  dplyr::select(Year, Intersection) 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1c_number_of_references_intersection.csv")
+```
+
+---
+
+## d. Appendix - Proportion of companies, % (Intersection) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+p <- agg_plot_df %>% 
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Prop, color = Key)) +
+  geom_path(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2015-12-31"), y = 0.3, label = "Intersection", color = "red") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.4)) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Proportion of companies, %") 
+
+p
+
+ggsave("../output/1d_proportion_intersection.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+agg_plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Prop = round(Prop, 2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  dplyr::select(Year, Intersection) 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1d_proportion_intersection.csv")
+```
+
+---
+
+## e. Appendix - Average number of references {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+p <- agg_reference_df %>%
+  ggplot(aes(x = Year, y = Avg, color = Key)) +
+  geom_line(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2011-05-31"), y = 29, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2014-01-01"), y = 17, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2016-12-31"), y = 3, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Average number of references") 
+
+p
+
+ggsave("../output/1e_avg_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- agg_reference_df %>%
+  dplyr::select(Year, Key, Avg) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Avg = round(Avg,2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Avg")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1e_avg_references.csv")
+```
+
+---
+
+## f. Appendix - Total number of references by WHO region {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## f. Appendix - Total number of references by WHO region
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "who_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = who_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "WHO Region") 
+
+p
+
+ggsave("../output/1f_who_number_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(who_region, Year) 
+
+colnames(t) <- c("Year", "WHO Region", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1f_who_number_references.csv")
+
+```
+
+---
+
+## g. Appendix - Proportion of references by WHO region {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by by SIDS, Tier 1 and Tier 2 categories
+
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "who_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(who_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = who_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.5))
+
+p
+
+ggsave("../output/1g_who_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(who_region), Year) %>%
+  dplyr::filter(!is.na(who_region)) 
+
+colnames(t) <- c("Year", "WHO Region", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1g_who_prop_references.csv")
+```
+
+---
+
+## h. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2 {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## i. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "tier_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Count, color = tier_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "") 
+
+p
+
+ggsave("../output/1h_sids_number_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  dplyr::arrange(tier_region, Year)
+
+colnames(t) <- c("Year", "Region", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1h_sids_number_references.csv")
+```
+
+---
+
+## i. Appendix - Proportion of references by SIDS, Tier 1 and Tier 2 {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by by SIDS, Tier 1 and Tier 2 categories
+
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "tier_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = tier_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.5))
+
+p
+
+ggsave("../output/1i_sids_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(tier_region), Year) %>%
+  dplyr::filter(!is.na(tier_region)) 
+
+colnames(t) <- c("Year", "Category", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1i_sids_prop_references.csv")
+```
+
+
+---
+
+## j. Appendix - Total number of regerences by HDI categories {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by HDI categories
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "hdi_level"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Count, color = hdi_level)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "") 
+
+p
+
+ggsave("../output/1j_hdi_number_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>% 
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), Year) %>%
+  dplyr::filter(!is.na(hdi_level))
+
+colnames(t) <- c("Year", "HDI Level", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1j_hdi_number_references.csv")
+```
+
+
+---
+
+## k. Appendix - Proportion of references by HDI categories {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by HDI categories
+
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "hdi_level"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Prop, color = hdi_level)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.5))
+
+p
+
+ggsave("../output/1k_hdi_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), Year) %>%
+  dplyr::filter(!is.na(hdi_level)) 
+
+colnames(t) <- c("Year", "HDI Level", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1k_hdi_prop_references.csv")
+```
+
+
+---
+
+## l. Appendix - Number of references 2020 per sector 
+
+
+```{r fig.align="center"}
+
+## f. Appendix - Number of references 2020 per sector
+t <- total_counts %>% 
+  dplyr::filter(Year == 2020) %>%
+  dplyr::group_by(Sector, Year) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::select(Sector, health_references, climate_references, intersection_references) 
+
+colnames(t) <- c("Sector", "Health", "Climate", "Intersection")
+
+readr::write_csv(t, "../output/1l_sector_references_2020.csv")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+---
+
+## m. Appendix - Average of references 2020 per sector
+
+```{r fig.align="center"}
+## g. Appendix - Average of references 2020 per sector
+t <- total_counts %>% 
+  dplyr::filter(Year == 2020) %>%
+  dplyr::group_by(Sector, Year) %>%
+  dplyr::summarize(climate_references = mean(climate_count, na.rm = T),
+                   health_references = mean(health_count, na.rm = T),
+                   intersection_references = mean(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::mutate_if(is.numeric,round,1) %>%
+  dplyr::select(Sector, health_references, climate_references, intersection_references) 
+
+
+colnames(t) <-c("Sector", "Health, %", "Climate, %", "Intersection, %")
+
+readr::write_csv(t, "../output/1m_avg_sector_references_2020.csv")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+
+```
+
+---
+
+## n. Appendix - Proportion of companies 2020 per sector {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+
+## h. Appendix - Proportion of companies 2020 per sector
+p <- plot_df %>%
+  dplyr::filter(Year >= "2020-01-01") %>% 
+  ggplot(., aes(x = Sector, y = Prop, fill = Key)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_minimal() +
+  scale_y_continuous(labels = scales::percent) +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1)) +
+  theme(legend.position = "bottom") +
+  labs(fill = "",
+       y = "Proportion of companies, %",
+       x = "\nSector")
+
+p
+
+ggsave("../output/1n_prop_companies_sector.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- plot_df %>%
+  dplyr::filter(Year >= "2020-01-01") %>%
+  dplyr::select(Sector, Year, Key, Prop) %>%
+  dplyr::mutate(Year = lubridate::year(Year), 
+                Prop = round(Prop, 2)) %>%
+  dplyr::arrange(Sector, Year) %>%
+  tidyr::pivot_wider(names_from = "Key", values_from = "Prop") 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/1n_prop_companies_sector.csv")
+```
+
+
+
+---
+
+## o. Table with COVID and Gender dictionary counts in intersection documents 
+
+```{r fig.align="center"}
+intersection_covid %>% knitr::kable(col.names = c("Year", "Total documents", "Keyword hits", "Flagged documents (N)", "Flagged documents (Prop)")) %>%
+  kableExtra::add_header_above(c("", "", "COVID dictionary" = 3)) %>% 
+  kableExtra::kable_styling()
+
+intersection_gender %>% knitr::kable(col.names = c("Year", "Total documents", "Keyword hits", "Flagged documents (N)", "Flagged documents (Prop)")) %>%
+  kableExtra::add_header_above(c("", "", "Gender dictionary" = 3)) %>% 
+  kableExtra::kable_styling()
+
+readr::write_csv(intersection_covid, "../output/1o_intersection_covid.csv")
+readr::write_csv(intersection_gender, "../output/1o_intersection_gender.csv")
+
+p <- ggplot(intersection_gender, aes(x = year, y = prop_doct, group = 1)) +
+  geom_line(color = "#cc0055") +
+  theme_minimal() +
+  labs(x= "Year",
+       y = "Proportion of documents\n Gender mention in intersection, %\n") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.25))
+
+p
+
+ggsave("../output/1o_prop_intersecion_gender.pdf", p,  width = 10, height = 7)
+
+```
+
+---
+
+# Health Care Sector
+
+<h5 style = "color:#cc0055">These are the figures generated with the Health Care Equipment and Services Sector</h5>
+
+
+## p. Main text - Proportion of companies, % (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+
+## a. Main text - Proportion of companies, %
+p <- plot_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser...") %>%
+  ggplot(aes(x = Year, y = Prop, color = Key)) +
+  geom_line(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 0.85, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 0.48, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2012-12-31"), y = 0.1, label = "Intersection", color = "red") +
+  scale_y_continuous(labels = scales::percent_format()) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Proportion of companies, %") 
+
+p
+
+ggsave("../output/2p_prop_of_companies.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- plot_df %>%
+  dplyr::filter(Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2p_prop_of_companies.csv")
+```
+
+---
+
+## q. Appendix - Total number of references (Health Care Sector) {.tabset .tabset-pills}
+
+
+### Plot
+
+```{r fig.align="center"}
+## b. Appendix - Total number of references
+p <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser...") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2011-05-31"), y = 500, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2013-05-31"), y = 250, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2016-12-31"), y = 75, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+p
+
+ggsave("../output/2q_number_of_references.pdf", p,  width = 10, height = 7)
+
+```
+
+### Table
+
+```{r}
+t <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2q_number_of_references.csv")
+```
+
+---
+
+## r. Appendix - Total number of references (Intersection) — (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## c. Appendix - Total number of references (Intersection)
+p <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser..." & Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line() +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = 18, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+p
+
+ggsave("../output/2r_number_of_references_intersection.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser..." & Key == "Intersection") %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  dplyr::select(Sector, Year, Count) 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2r_number_of_references_intersection.csv")
+```
+
+---
+
+## s. Appendix - Average number of references (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## d. Appendix - Average number of references
+p <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser...") %>%
+  ggplot(aes(x = Year, y = Avg, color = Key)) +
+  geom_line(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2011-05-31"), y = 32, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2012-05-31"), y = 8, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2016-12-31"), y = 3, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Average number of references") 
+
+p
+
+ggsave("../output/2s_avg_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- reference_df %>% 
+  dplyr::filter(Sector == "Health Care Equipment & Ser..." & Key == "Intersection") %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Avg = round(Avg, 2)) %>%
+  dplyr::select(Sector, Year, Avg) 
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2s_avg_references.csv")
+```
+
+---
+
+## t. Appendix - Total number of references by WHO region (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## e. Appendix - Total number of references by WHO region
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Sector", "Year", "who_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = who_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "WHO Region") 
+
+p
+
+ggsave("../output/2t_who_number_references.pdf", p,  width = 10, height = 7)
+```
+
+
+### Table
+
+```{r fig.align="center"}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(who_region, Year) 
+
+colnames(t) <- c("Sector", "Year", "WHO Region", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2t_who_number_references.csv")
+```
+
+---
+
+## u. Appendix - Proportion references by WHO region (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "who_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(who_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = who_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 1))
+
+p
+
+ggsave("../output/2u_who_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+
+### Table
+
+```{r fig.align="center"}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(who_region), Year) %>%
+  dplyr::filter(!is.na(who_region)) 
+
+colnames(t) <- c("Year", "WHO Region", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2u_who_prop_references.csv")
+```
+
+---
+
+## v. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2  (Health Care Sector) {.tabset .tabset-pills}
+
+
+### Plot
+
+```{r fig.align="center"}
+## i. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Sector", "Year", "tier_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Count, color = tier_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "") 
+
+p
+
+ggsave("../output/2v_sids_number_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  dplyr::arrange(tier_region, Year) 
+
+colnames(t) <- c("Sector", "Year", "Region", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2v_sids_number_references.csv")
+```
+
+---
+
+
+## w. Appendix - Proportion references by by SIDS, Tier 1 and Tier 2 (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "tier_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = tier_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 1))
+
+p
+
+ggsave("../output/2w_sids_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+
+### Table
+
+```{r fig.align="center"}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(tier_region), Year) %>%
+  dplyr::filter(!is.na(tier_region)) 
+
+colnames(t) <- c("Year", "Category", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2w_sids_prop_references.csv")
+```
+
+---
+
+## x. Appendix - Total number of regerences by HDI categories (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot 
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by HDI categories
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Sector", "Year", "hdi_level"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Count, color = hdi_level)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "") 
+p
+
+ggsave("../output/2x_hdi_number_references.pdf", p,  width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::group_by(Sector, Year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::filter(!is.na(hdi_level)) %>%
+  dplyr::arrange(hdi_level, Year) 
+
+colnames(t) <- c("Sector", "Year", "HDI Level", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2x_hdi_number_references.csv")
+```
+
+---
+
+## y. Appendix - Proportion references by HDI categories (Health Care Sector) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+p <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("Year", "hdi_level"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(Year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Prop, color = hdi_level)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 1))
+
+p
+
+ggsave("../output/2y_hdi_prop_references.pdf", p,  width = 10, height = 7)
+```
+
+
+### Table
+
+```{r fig.align="center"}
+t <- total_counts %>% 
+  dplyr::filter(Year >= 2011 & Sector == "Health Care Equipment & Ser...") %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(Year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), Year) %>%
+  dplyr::filter(!is.na(hdi_level)) 
+
+colnames(t) <- c("Year", "HDI Level", "Total documents", "Climate", "Health", "Intersection")
+
+t %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+readr::write_csv(t, "../output/2y_hdi_prop_references.csv")

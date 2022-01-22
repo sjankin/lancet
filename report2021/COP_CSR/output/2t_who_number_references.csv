@@ -1,0 +1,65 @@
+Sector,Year,WHO Region,Climate,Health,Intersection
+Health Care Equipment & Ser...,2011,Africa,1,48,0
+Health Care Equipment & Ser...,2012,Africa,3,115,1
+Health Care Equipment & Ser...,2013,Africa,0,86,0
+Health Care Equipment & Ser...,2014,Africa,24,201,44
+Health Care Equipment & Ser...,2015,Africa,32,175,12
+Health Care Equipment & Ser...,2016,Africa,2,53,2
+Health Care Equipment & Ser...,2017,Africa,0,9,0
+Health Care Equipment & Ser...,2018,Africa,8,107,1
+Health Care Equipment & Ser...,2019,Africa,33,144,3
+Health Care Equipment & Ser...,2020,Africa,19,68,2
+Health Care Equipment & Ser...,2011,Eastern Mediterranean,0,12,0
+Health Care Equipment & Ser...,2012,Eastern Mediterranean,0,10,0
+Health Care Equipment & Ser...,2013,Eastern Mediterranean,9,195,0
+Health Care Equipment & Ser...,2014,Eastern Mediterranean,0,2,0
+Health Care Equipment & Ser...,2015,Eastern Mediterranean,0,3,0
+Health Care Equipment & Ser...,2019,Eastern Mediterranean,0,57,0
+Health Care Equipment & Ser...,2020,Eastern Mediterranean,0,6,0
+Health Care Equipment & Ser...,2011,Europe,19,67,0
+Health Care Equipment & Ser...,2012,Europe,28,114,0
+Health Care Equipment & Ser...,2013,Europe,49,245,8
+Health Care Equipment & Ser...,2014,Europe,71,608,10
+Health Care Equipment & Ser...,2015,Europe,87,436,4
+Health Care Equipment & Ser...,2016,Europe,78,455,4
+Health Care Equipment & Ser...,2017,Europe,127,519,1
+Health Care Equipment & Ser...,2018,Europe,157,1026,25
+Health Care Equipment & Ser...,2019,Europe,189,760,21
+Health Care Equipment & Ser...,2020,Europe,220,1016,34
+Health Care Equipment & Ser...,2012,Latin America and the Caribbean,15,117,3
+Health Care Equipment & Ser...,2013,Latin America and the Caribbean,5,122,1
+Health Care Equipment & Ser...,2014,Latin America and the Caribbean,0,0,0
+Health Care Equipment & Ser...,2015,Latin America and the Caribbean,3,163,0
+Health Care Equipment & Ser...,2016,Latin America and the Caribbean,0,0,0
+Health Care Equipment & Ser...,2017,Latin America and the Caribbean,0,0,0
+Health Care Equipment & Ser...,2018,Latin America and the Caribbean,3,10,0
+Health Care Equipment & Ser...,2019,Latin America and the Caribbean,7,267,0
+Health Care Equipment & Ser...,2020,Latin America and the Caribbean,3,187,0
+Health Care Equipment & Ser...,2011,North America,2,8,0
+Health Care Equipment & Ser...,2012,North America,2,8,1
+Health Care Equipment & Ser...,2013,North America,0,10,0
+Health Care Equipment & Ser...,2014,North America,0,0,0
+Health Care Equipment & Ser...,2017,North America,29,42,2
+Health Care Equipment & Ser...,2018,North America,25,70,10
+Health Care Equipment & Ser...,2019,North America,35,447,13
+Health Care Equipment & Ser...,2020,North America,19,97,1
+Health Care Equipment & Ser...,2011,South-East Asia,2,44,0
+Health Care Equipment & Ser...,2012,South-East Asia,0,4,0
+Health Care Equipment & Ser...,2013,South-East Asia,0,0,0
+Health Care Equipment & Ser...,2014,South-East Asia,0,112,0
+Health Care Equipment & Ser...,2015,South-East Asia,0,170,0
+Health Care Equipment & Ser...,2016,South-East Asia,10,43,0
+Health Care Equipment & Ser...,2017,South-East Asia,10,47,0
+Health Care Equipment & Ser...,2018,South-East Asia,10,46,0
+Health Care Equipment & Ser...,2019,South-East Asia,10,61,0
+Health Care Equipment & Ser...,2020,South-East Asia,6,8,2
+Health Care Equipment & Ser...,2011,Western Pacific,66,198,0
+Health Care Equipment & Ser...,2012,Western Pacific,34,110,2
+Health Care Equipment & Ser...,2013,Western Pacific,76,250,31
+Health Care Equipment & Ser...,2014,Western Pacific,57,325,12
+Health Care Equipment & Ser...,2015,Western Pacific,73,330,11
+Health Care Equipment & Ser...,2016,Western Pacific,72,340,21
+Health Care Equipment & Ser...,2017,Western Pacific,113,495,2
+Health Care Equipment & Ser...,2018,Western Pacific,111,611,12
+Health Care Equipment & Ser...,2019,Western Pacific,78,243,8
+Health Care Equipment & Ser...,2020,Western Pacific,89,369,6

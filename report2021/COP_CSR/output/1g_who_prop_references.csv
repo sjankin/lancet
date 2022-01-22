@@ -1,0 +1,71 @@
+Year,WHO Region,Total documents,Climate,Health,Intersection
+2011,Western Pacific,165,0.84,0.87,0.38
+2012,Western Pacific,215,0.78,0.84,0.3
+2013,Western Pacific,222,0.77,0.86,0.34
+2014,Western Pacific,225,0.76,0.85,0.35
+2015,Western Pacific,225,0.74,0.86,0.36
+2016,Western Pacific,248,0.73,0.82,0.3
+2017,Western Pacific,257,0.79,0.86,0.37
+2018,Western Pacific,265,0.79,0.85,0.41
+2019,Western Pacific,300,0.77,0.86,0.41
+2020,Western Pacific,279,0.84,0.91,0.57
+2011,South-East Asia,91,0.62,0.76,0.24
+2012,South-East Asia,107,0.59,0.79,0.2
+2013,South-East Asia,129,0.63,0.82,0.22
+2014,South-East Asia,134,0.55,0.83,0.16
+2015,South-East Asia,156,0.58,0.78,0.21
+2016,South-East Asia,151,0.56,0.79,0.23
+2017,South-East Asia,145,0.57,0.86,0.23
+2018,South-East Asia,146,0.55,0.84,0.2
+2019,South-East Asia,156,0.59,0.86,0.28
+2020,South-East Asia,132,0.58,0.86,0.26
+2011,North America,101,0.76,0.83,0.3
+2012,North America,133,0.7,0.83,0.26
+2013,North America,139,0.65,0.78,0.26
+2014,North America,141,0.64,0.82,0.19
+2015,North America,153,0.67,0.82,0.26
+2016,North America,156,0.67,0.84,0.27
+2017,North America,160,0.79,0.86,0.37
+2018,North America,167,0.73,0.83,0.33
+2019,North America,188,0.76,0.84,0.33
+2020,North America,181,0.87,0.9,0.46
+2011,Latin America and the Caribbean,61,0.56,0.66,0.23
+2012,Latin America and the Caribbean,104,0.55,0.62,0.23
+2013,Latin America and the Caribbean,95,0.55,0.62,0.22
+2014,Latin America and the Caribbean,106,0.48,0.6,0.16
+2015,Latin America and the Caribbean,82,0.54,0.66,0.13
+2016,Latin America and the Caribbean,137,0.42,0.46,0.14
+2017,Latin America and the Caribbean,133,0.5,0.5,0.19
+2018,Latin America and the Caribbean,143,0.49,0.5,0.21
+2019,Latin America and the Caribbean,127,0.48,0.5,0.23
+2020,Latin America and the Caribbean,133,0.56,0.6,0.32
+2011,Europe,557,0.75,0.82,0.25
+2012,Europe,743,0.74,0.82,0.22
+2013,Europe,863,0.71,0.81,0.19
+2014,Europe,950,0.7,0.8,0.21
+2015,Europe,997,0.69,0.8,0.22
+2016,Europe,1068,0.68,0.79,0.22
+2017,Europe,1100,0.69,0.79,0.22
+2018,Europe,1095,0.72,0.82,0.26
+2019,Europe,1236,0.73,0.84,0.27
+2020,Europe,1181,0.77,0.85,0.37
+2011,Eastern Mediterranean,42,0.48,0.81,0.19
+2012,Eastern Mediterranean,63,0.54,0.76,0.22
+2013,Eastern Mediterranean,80,0.4,0.78,0.11
+2014,Eastern Mediterranean,77,0.44,0.7,0.06
+2015,Eastern Mediterranean,114,0.51,0.8,0.08
+2016,Eastern Mediterranean,118,0.5,0.8,0.12
+2017,Eastern Mediterranean,121,0.5,0.83,0.09
+2018,Eastern Mediterranean,136,0.51,0.82,0.18
+2019,Eastern Mediterranean,131,0.56,0.84,0.19
+2020,Eastern Mediterranean,99,0.58,0.82,0.24
+2011,Africa,42,0.71,0.93,0.21
+2012,Africa,61,0.52,0.87,0.13
+2013,Africa,75,0.45,0.85,0.13
+2014,Africa,93,0.47,0.81,0.13
+2015,Africa,90,0.48,0.91,0.16
+2016,Africa,100,0.56,0.89,0.17
+2017,Africa,94,0.5,0.83,0.18
+2018,Africa,89,0.53,0.87,0.18
+2019,Africa,113,0.55,0.88,0.17
+2020,Africa,61,0.61,0.85,0.25

@@ -1,0 +1,205 @@
+year,hdi_level,climate_references,health_references,intersection_references
+1970,Very high human development,0,13,0
+1971,Very high human development,0,16,0
+1972,Very high human development,0,21,0
+1973,Very high human development,0,19,0
+1974,Very high human development,0,21,0
+1975,Very high human development,0,17,0
+1976,Very high human development,0,16,0
+1977,Very high human development,2,28,0
+1978,Very high human development,7,26,0
+1979,Very high human development,1,24,0
+1980,Very high human development,1,27,0
+1981,Very high human development,0,28,0
+1982,Very high human development,0,21,0
+1983,Very high human development,0,21,0
+1984,Very high human development,0,28,0
+1985,Very high human development,0,62,0
+1986,Very high human development,0,39,0
+1987,Very high human development,0,33,0
+1988,Very high human development,11,35,1
+1989,Very high human development,44,41,2
+1990,Very high human development,21,42,1
+1991,Very high human development,18,29,2
+1992,Very high human development,12,32,0
+1993,Very high human development,8,44,0
+1994,Very high human development,4,42,0
+1995,Very high human development,12,47,3
+1996,Very high human development,14,35,3
+1997,Very high human development,28,45,0
+1998,Very high human development,27,30,1
+1999,Very high human development,35,60,3
+2000,Very high human development,28,100,2
+2001,Very high human development,14,51,0
+2002,Very high human development,14,63,2
+2003,Very high human development,12,93,5
+2004,Very high human development,25,77,1
+2005,Very high human development,25,76,1
+2006,Very high human development,47,80,17
+2007,Very high human development,269,88,22
+2008,Very high human development,200,76,10
+2009,Very high human development,297,81,19
+2010,Very high human development,179,90,24
+2011,Very high human development,140,93,24
+2012,Very high human development,86,57,4
+2013,Very high human development,104,93,13
+2014,Very high human development,162,112,22
+2015,Very high human development,160,94,7
+2016,Very high human development,159,85,11
+2017,Very high human development,177,65,3
+2018,Very high human development,195,100,18
+2019,Very high human development,450,98,33
+2020,Very high human development,176,783,84
+1970,Medium human development,0,6,0
+1971,Medium human development,0,9,0
+1972,Medium human development,0,16,0
+1973,Medium human development,0,10,0
+1974,Medium human development,0,12,0
+1975,Medium human development,0,3,0
+1976,Medium human development,0,10,0
+1977,Medium human development,0,25,0
+1978,Medium human development,0,17,0
+1979,Medium human development,0,28,0
+1980,Medium human development,0,29,0
+1981,Medium human development,1,21,0
+1982,Medium human development,2,16,0
+1983,Medium human development,0,21,0
+1984,Medium human development,0,16,0
+1985,Medium human development,0,44,0
+1986,Medium human development,0,32,0
+1987,Medium human development,0,18,0
+1988,Medium human development,3,19,0
+1989,Medium human development,13,25,0
+1990,Medium human development,3,17,0
+1991,Medium human development,15,25,1
+1992,Medium human development,6,20,0
+1993,Medium human development,2,33,0
+1994,Medium human development,7,45,0
+1995,Medium human development,5,27,0
+1996,Medium human development,10,49,2
+1997,Medium human development,10,19,0
+1998,Medium human development,17,21,0
+1999,Medium human development,4,52,0
+2000,Medium human development,11,51,1
+2001,Medium human development,17,79,10
+2002,Medium human development,19,61,4
+2003,Medium human development,15,66,2
+2004,Medium human development,12,73,2
+2005,Medium human development,19,69,0
+2006,Medium human development,13,69,2
+2007,Medium human development,150,45,8
+2008,Medium human development,140,67,11
+2009,Medium human development,207,61,20
+2010,Medium human development,193,60,22
+2011,Medium human development,123,78,9
+2012,Medium human development,76,56,8
+2013,Medium human development,76,90,5
+2014,Medium human development,114,124,18
+2015,Medium human development,151,47,6
+2016,Medium human development,131,75,13
+2017,Medium human development,147,38,16
+2018,Medium human development,101,56,9
+2019,Medium human development,202,90,21
+2020,Medium human development,85,376,48
+1970,Low human development,0,4,0
+1971,Low human development,0,15,0
+1972,Low human development,0,18,0
+1973,Low human development,0,22,0
+1974,Low human development,0,17,0
+1975,Low human development,0,16,0
+1976,Low human development,0,17,0
+1977,Low human development,0,26,0
+1978,Low human development,0,30,0
+1979,Low human development,0,40,0
+1980,Low human development,1,31,0
+1981,Low human development,1,24,0
+1982,Low human development,1,18,0
+1983,Low human development,0,16,0
+1984,Low human development,0,38,0
+1985,Low human development,1,32,0
+1986,Low human development,1,42,0
+1987,Low human development,0,37,0
+1988,Low human development,0,36,0
+1989,Low human development,3,30,0
+1990,Low human development,6,34,0
+1991,Low human development,1,26,0
+1992,Low human development,6,40,0
+1993,Low human development,1,30,0
+1994,Low human development,3,35,0
+1995,Low human development,2,48,0
+1996,Low human development,1,41,0
+1997,Low human development,4,31,0
+1998,Low human development,0,33,0
+1999,Low human development,1,50,0
+2000,Low human development,0,90,0
+2001,Low human development,1,86,0
+2002,Low human development,0,82,0
+2003,Low human development,0,87,0
+2004,Low human development,0,86,0
+2005,Low human development,1,66,1
+2006,Low human development,3,72,0
+2007,Low human development,126,75,23
+2008,Low human development,44,60,6
+2009,Low human development,112,65,8
+2010,Low human development,75,75,9
+2011,Low human development,42,62,3
+2012,Low human development,20,48,3
+2013,Low human development,21,87,4
+2014,Low human development,66,182,6
+2015,Low human development,69,87,11
+2016,Low human development,98,67,8
+2017,Low human development,95,60,4
+2018,Low human development,69,45,7
+2019,Low human development,176,119,19
+2020,Low human development,80,384,45
+1970,High human development,0,10,0
+1971,High human development,0,13,0
+1972,High human development,0,19,0
+1973,High human development,1,22,0
+1974,High human development,0,15,0
+1975,High human development,0,14,0
+1976,High human development,0,13,0
+1977,High human development,0,20,0
+1978,High human development,0,19,0
+1979,High human development,1,32,0
+1980,High human development,1,22,0
+1981,High human development,0,24,0
+1982,High human development,0,19,0
+1983,High human development,2,24,0
+1984,High human development,0,37,0
+1985,High human development,0,27,0
+1986,High human development,0,12,0
+1987,High human development,1,42,0
+1988,High human development,5,38,0
+1989,High human development,18,34,1
+1990,High human development,13,51,0
+1991,High human development,19,36,1
+1992,High human development,17,43,0
+1993,High human development,14,35,4
+1994,High human development,7,33,0
+1995,High human development,22,52,1
+1996,High human development,24,46,0
+1997,High human development,24,31,0
+1998,High human development,29,48,1
+1999,High human development,9,60,4
+2000,High human development,11,119,0
+2001,High human development,23,83,1
+2002,High human development,17,97,2
+2003,High human development,16,83,1
+2004,High human development,16,69,2
+2005,High human development,25,103,5
+2006,High human development,26,68,1
+2007,High human development,294,91,11
+2008,High human development,178,92,20
+2009,High human development,305,81,23
+2010,High human development,190,80,17
+2011,High human development,182,126,27
+2012,High human development,155,86,14
+2013,High human development,114,142,15
+2014,High human development,175,138,19
+2015,High human development,251,64,10
+2016,High human development,180,82,19
+2017,High human development,211,69,8
+2018,High human development,219,105,29
+2019,High human development,308,70,20
+2020,High human development,139,565,76
