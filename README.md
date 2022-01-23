@@ -21,6 +21,9 @@
 * [txt](report2021/COP_CSR/txt/)
 
 
+
+
+
 ## The 2018 Report
 
 Analysis for the indicators of political and corporate engagement, and a pilot study of social media indicators.

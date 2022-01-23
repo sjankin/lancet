@@ -1,0 +1,888 @@
+---
+title: "Analysis of UN Global Compact text"
+date: 27 March 2020
+output:
+  html_notebook: 
+    toc: yes
+  html_document: default
+  pdf_document: 
+    toc: yes
+  word_document: 
+    toc: yes
+#biblio-style: apsr
+#bibliography: eu.bib
+---
+
+
+# Data
+
+Loading data from the UNGC data
+
+```{r message=FALSE, warning=FALSE}
+#Loading packages and data
+library(readtext)
+library(quanteda)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(ggplot2)
+library(rworldmap)
+library(RColorBrewer)
+library(haven)
+library(readxl)
+```
+
+```{r cache=TRUE}
+DATA_DIR <- "../data/cops/" 
+
+ungc_files <- readtext(paste0(DATA_DIR, "txts_combined/*"), 
+                                 docvarsfrom = "filenames", 
+                                 dvsep="-SEP-", 
+                                 docvarnames = c("Country", "Year", "Sector", "Name"))
+
+
+ungc_files$doc_id <- str_replace(ungc_files$doc_id , ".txt", "") %>%
+   str_replace(. , "_\\d{2}", "")
+```
+
+ 
+ 
+##Creating corpus object(s)
+
+Sub-setting corpus by sector
+```{r}
+ungc_hces <- ungc_files %>%
+  filter(Sector=="HealthCareEquipment&Ser...")
+```
+
+```{r}
+ungc_corpus <- corpus(ungc_hces, text_field = "text") 
+```
+
+```{r}
+corp_summary <- summarise(group_by(summary(ungc_corpus)),
+                           total_speeches=sum(Types),total_sentences=sum(Sentences),total_words=sum(Tokens))
+
+readr::write_csv(corp_summary, "corp_summary.csv")
+```
+
+```{r}
+rm(ungc_files)
+```
+
+# Pre-processing
+
+Tokenizing corpus.
+
+```{r}
+#Tokenization and basic pre-processing
+tok <- tokens(ungc_corpus, what = "word",
+              remove_punct = TRUE,
+              remove_symbols = TRUE,
+              remove_numbers = TRUE,
+              remove_twitter = TRUE,
+              remove_url = TRUE,
+              remove_hyphens = FALSE,
+              verbose = TRUE)
+```
+
+Lowercasing and removing stopwords
+
+```{r}
+tok <- tokens_tolower(tok)
+tok.r <- tokens_select(tok, stopwords("english"), selection = "remove", padding = FALSE)
+```
+
+# Setting up agreed dictionaries
+
+Creating compound tokens from the key terms (phrases) in our dictionaries:
+ 
+```{r}
+mylist <- list( c("air", "pollution"), c("mental", "disorder"), c("mental", "disorders"), c("climate","change"), c("changing","climate"), c("climate","emergency"), c("climate","crisis"), c("climate","decay"), c("global","warming"), c("green","house"), c("extreme","weather"), c("global", "environmental", "change"), c("climate","variability"),  c("low","carbon"), c("renewable","energy"), c("carbon","emission"), c("carbon","emissions"), c("carbon","dioxide"), c("co2","emission"), c("co2","emissions"), c("climate","pollutant"), c("climate","pollutants"), c("carbon","neutral"), c("carbon","neutrality"), c("climate","neutrality"), c("climate","action"), c("net","zero")) 
+```
+ 
+
+```{r}
+tok.compound <- tokens_compound(tok.r, mylist, valuetype = "fixed", concatenator = "_")
+```
+
+
+Creating the dictionary of climate change terms:
+
+```{r}
+climate_dict <- dictionary(list(climate =  c("climate_change", "changing_climate", "climate_emergency", "climate_crisis", "climate_decay", "global_warming", "green_house", "temperature", "extreme_weather", "global_environmental_change", "climate_variability", "greenhouse", "greenhouse-gas", "low_carbon", "ghge", "ghges", "renewable_energy", "carbon_emission", "carbon_emissions", "carbon_dioxide", "carbon-dioxide", "co2_emission", "co2_emissions", "climate_pollutant", "climate_pollutants", "decarbonization", "decarbonisation", "carbon_neutral", "carbon-neutral", "carbon_neutrality", "climate_neutrality", "climate_action", "net-zero", "net_zero"
+)))
+
+```
+
+Creating the dictionary of health terms:
+
+```{r}
+health_dict <- dictionary(list(health = c("malaria", "diarrhoea", "infection", "disease", "diseases", "sars", "measles", "pneumonia", "epidemic", "epidemics", "pandemic", "pandemics", "epidemiology", "healthcare", "health", "mortality", "morbidity", "nutrition", "illness", "illnesses", "ncd", "ncds", "air_pollution", "nutrition", "malnutrition", "malnourishment", "mental_disorder", "mental_disorders", "stunting")))
+
+```
+
+```{r}
+combined_dict <- dictionary(list(
+  climate =  c("climate_change", "changing_climate", "climate_emergency", "climate_crisis", "climate_decay", "global_warming", "green_house", "temperature", "extreme_weather", "global_environmental_change", "climate_variability", "greenhouse", "greenhouse-gas", "low_carbon", "ghge", "ghges", "renewable_energy", "carbon_emission", "carbon_emissions", "carbon_dioxide", "carbon-dioxide", "co2_emission", "co2_emissions", "climate_pollutant", "climate_pollutants", "decarbonization", "decarbonisation", "carbon_neutral", "carbon-neutral", "carbon_neutrality", "climate_neutrality", "climate_action", "net-zero", "net_zero"), 
+  health = c("malaria", "diarrhoea", "infection", "disease", "diseases", "sars", "measles", "pneumonia", "epidemic", "epidemics", "pandemic", "pandemics", "epidemiology", "healthcare", "health", "mortality", "morbidity", "nutrition", "illness", "illnesses", "ncd", "ncds", "air_pollution", "nutrition", "malnutrition", "malnourishment", "mental_disorder", "mental_disorders", "stunting")
+  ))
+```
+
+## KWIC
+
+Performing a keyword-in-context search. The window is set to 25 words before and after the term - reflecting approximately half a paragraph before and after the term (on average a paragraph in English is 50 words). 
+
+-- UNGD speeches are highly structured documents drafted over long periods of time and reflect internal discussions and negotiations in government. Hence we assume that terms appearing within specific proximity of each other are related through the structured process of document generation. --
+
+We search for terms from our health dictionary and show the 25-word context around them. 
+
+```{r}
+tok.hea <- kwic(tok.compound, health_dict, window = 25, valuetype = "fixed")
+
+readr::write_csv(tok.hea, "health_kwic_25_fixed.csv")
+```
+
+We search for terms from our climate change dictionary and show the 25-word context around them. 
+
+```{r}
+tok.cc <- kwic(tok.compound, climate_dict, window = 25, valuetype = "fixed")
+
+readr::write_csv(tok.cc, "climate_kwic_25_fixed.csv")
+```
+
+To tap into the core proposition of this analysis - the link between climate change and health terms - we take the 25-word context around the health terms and search this context for climate change terms. 
+
+Text surrounding health terms (25 words each side) is saved and transformed to a corpus object. We then perform key-word-in-context search of this health related corpus for the terms in our climate change dictionary. 
+
+```{r}
+corpus_health <- corpus(tok.hea, split_context = FALSE, extract_keyword = TRUE)
+
+tok.climate.kwic <- kwic(corpus_health, climate_dict, window = 25, valuetype = "fixed")
+
+readr::write_csv(tok.climate.kwic, "intersection_kwic_25_fixed.csv")
+```
+
+```{r}
+# view keywords
+df_hces_health_keywords <- data.frame(tok.hea$keyword) %>%
+  dplyr::select(keyword=tok.hea.keyword) %>%
+  group_by(keyword) %>%
+  tally(name="count") %>%
+  arrange(-count)
+
+df_hces_climate_keywords <- data.frame(tok.cc$keyword) %>%
+  dplyr::select(keyword=tok.cc.keyword) %>%
+  group_by(keyword) %>%
+  tally(name="count") %>%
+  arrange(-count)
+
+df_hces_health_keywords
+df_hces_climate_keywords
+```
+
+
+### Robustness analysis
+
+For robustness analysis we looked at different context window sizes and manually assessed them for the balance of false positives vs false negatives.
+
+```{r}
+tok.hea.5 <- kwic(tok.compound, health_dict, window = 5, valuetype = "fixed")
+tok.cc.5 <- kwic(tok.compound, climate_dict, window = 5, valuetype = "fixed")
+corpus_health.5 <- corpus(tok.hea.5, split_context = FALSE, extract_keyword = TRUE)
+tok.climate.kwic.5 <- kwic(corpus_health.5, climate_dict, window = 5, valuetype = "fixed")
+readr::write_csv(tok.climate.kwic.5, "intersection_kwic_5_fixed.csv")
+readr::write_csv(tok.hea.5, "health_kwic_5_fixed.csv")
+readr::write_csv(tok.cc.5, "climate_kwic_5_fixed.csv")
+
+tok.hea.10 <- kwic(tok.compound, health_dict, window = 10, valuetype = "fixed")
+tok.cc.10 <- kwic(tok.compound, climate_dict, window = 10, valuetype = "fixed")
+corpus_health.10 <- corpus(tok.hea.10, split_context = FALSE, extract_keyword = TRUE)
+tok.climate.kwic.10 <- kwic(corpus_health.10, climate_dict, window = 10, valuetype = "fixed")
+readr::write_csv(tok.climate.kwic.10, "intersection_kwic_10_fixed.csv")
+readr::write_csv(tok.hea.10, "health_kwic_10_fixed.csv")
+readr::write_csv(tok.cc.10, "climate_kwic_10_fixed.csv")
+
+tok.hea.30 <- kwic(tok.compound, health_dict, window = 30, valuetype = "fixed")
+tok.cc.30 <- kwic(tok.compound, climate_dict, window = 30, valuetype = "fixed")
+corpus_health.30 <- corpus(tok.hea.30, split_context = FALSE, extract_keyword = TRUE)
+tok.climate.kwic.30 <- kwic(corpus_health.30, climate_dict, window = 30, valuetype = "fixed")
+readr::write_csv(tok.climate.kwic.30, "intersection_kwic_30_fixed.csv")
+readr::write_csv(tok.hea.30, "health_kwic_30_fixed.csv")
+readr::write_csv(tok.cc.30, "climate_kwic_30_fixed.csv")
+
+tok.hea.50 <- kwic(tok.compound, health_dict, window = 50, valuetype = "fixed")
+tok.cc.50 <- kwic(tok.compound, climate_dict, window = 50, valuetype = "fixed")
+corpus_health.50 <- corpus(tok.hea.50, split_context = FALSE, extract_keyword = TRUE)
+tok.climate.kwic.50 <- kwic(corpus_health.50, climate_dict, window = 50, valuetype = "fixed")
+readr::write_csv(tok.climate.kwic.50, "intersection_kwic_50_fixed.csv")
+readr::write_csv(tok.hea.50, "health_kwic_50_fixed.csv")
+readr::write_csv(tok.cc.50, "climate_kwic_50_fixed.csv")
+```
+
+
+```{r}
+health_dfm <- dfm(corpus_health)
+
+corpus_climate <- corpus(tok.cc, split_context = FALSE, extract_keyword = TRUE)
+climate_dfm <- dfm(corpus_climate)
+
+corpus_intersection <- corpus(tok.climate.kwic, split_context = FALSE, extract_keyword = TRUE)
+intersection_dfm <- dfm(corpus_intersection)
+
+health <- convert(health_dfm, "data.frame")
+climate <- convert(climate_dfm, "data.frame")
+intersection <- convert(intersection_dfm, "data.frame")
+
+names(health)[1] <- "docid"
+names(climate)[1] <- "docid"
+names(intersection)[1] <- "docid"
+
+health$"docid" <- str_match(health$docid, "(.*)(\\.L\\d)")[,2]
+climate$"docid" <- str_match(climate$docid, "(.*)(\\.L\\d)")[,2]
+intersection$"docid" <- str_match(intersection$docid, "(.*)(\\.L\\d)")[,2]  
+intersection$"docid" <- str_match(intersection$docid, "(.*)(\\.L\\d)")[,2]
+
+health_counts <- health %>% group_by(docid) %>% dplyr::summarise(health_count = n())
+climate_counts <- climate %>% group_by(docid) %>% dplyr::summarise(climate_count = n())
+intersection_counts <- intersection %>% group_by(docid) %>% dplyr::summarise(intersection_count = n())
+
+total_counts <- climate_counts %>% 
+  full_join(health_counts, by = "docid") %>% 
+  full_join(intersection_counts, by = "docid") %>%
+  replace_na(list(health_count=0, climate_count=0, intersection_count=0)) %>%
+  separate(docid, c("country", "year", "sector", "name"), "-SEP-")
+
+total_counts$year <- as.numeric(total_counts$year)
+total_counts <- arrange(total_counts, country, year, sector, name)
+```
+
+
+```{r}
+readr::write_csv(total_counts, "total_counts.csv")
+```
+
+Defining WHO regions
+```{r}
+africa = as.data.frame(c("Algeria", "Angola", "Benin", "Botswana", "British Indian Ocean Territory", 
+                         "Burkina Faso", "Burundi", "Cabo Verde", "Cameroon", "Central African Republic", 
+                         "Chad", "Comoros", "Congo, Democratic Republic of the", "Cote d'Ivoire", 
+                         "Democratic Republic of the Congo", "Congo, Republic of the", 
+                         "Equatorial Guinea", "Eritrea", "Ethiopia", "French Southern Territories", "Gabon", 
+                         "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Kenya", "Lesotho", "Liberia", 
+                         "Madagascar", "Malawi", "Mali", "Mauritania", "Mauritius", "Mayotte", "Mozambique", 
+                         "Namibia", "Niger", "Nigeria", "Rwanda", "Réunion", "Saint Helena", 
+                         "Sao Tome And Principe", "Senegal", "Seychelles", "Sierra Leone", "South Africa", 
+                         "South Sudan", "Swaziland", "Togo", "Uganda", "Tanzania, United Republic of", 
+                         "Western Sahara", "Zambia", "Zimbabwe"))
+names(africa)[1] <- "countries"
+africa$who_region <- "africa"
+
+eastern_mediterranean = as.data.frame(c("Afghanistan", "Bahrain", "Djibouti", "Egypt", 
+                                        "Iran, Islamic Republic of", "Iraq", "Jordan", "Kuwait", "Lebanon", 
+                                        "Libya", "Morocco", "Oman", "Pakistan", "Qatar", "Saudi Arabia", 
+                                        "Somalia", "Palestine, State of", "Sudan", "Syrian Arab Republic", 
+                                        "Tunisia", "United Arab Emirates", "Yemen"))
+names(eastern_mediterranean)[1] <- "countries"
+eastern_mediterranean$who_region <- "eastern_mediterranean"
+
+europe = as.data.frame(c("Albania", "Andorra", "Armenia", "Austria", "Azerbaijan", "Belarus", "Belgium", 
+                         "Bosnia-Herzegovina", "Bulgaria", "Croatia", "Cyprus", "Czechia", "Denmark", 
+                         "Estonia", "Faroe Islands", "Finland", "France", "Georgia", "Germany", "Gibraltar", 
+                         "Greece", "Guernsey", "Holy See", "Hungary", "Iceland", "Ireland", "Isle of Man", 
+                         "Israel", "Italy", "Jersey", "Kazakhstan", "Kyrgyzstan", "Latvia", "Liechtenstein", 
+                         "Lithuania", "Luxembourg", "Malta", "Monaco", "Montenegro", "Netherlands", "North Macedonia", "Norway", 
+                         "Poland", "Portugal", "Moldova, Republic of", "Romania", "Russian Federation", 
+                         "San Marino", "Sark", "Serbia", "Slovakia", "Slovenia", "Spain", 
+                         "Svalbard and Jan Mayen Islands", "Sweden", "Switzerland", "Tajikistan", 
+                         "Macedonia, The former Yugoslav Republic of", "Turkey", "Turkmenistan", "Ukraine", 
+                         "United Kingdom", "Uzbekistan", 
+                         "Åland Islands"))
+names(europe)[1] <- "countries"
+europe$who_region <- "europe"
+
+latin_america_and_the_caribbean = as.data.frame(c("Anguilla", "Antigua and Barbuda", "Argentina", "Aruba", 
+                                                  "Bahamas", "Barbados", "Belize", "Bolivia", "Bonaire", 
+                                                  "Bouvet Island", "Brazil", "British Virgin Islands", 
+                                                  "Cayman Islands", "Chile", "Colombia", "Costa Rica", "Cuba", 
+                                                  "Curaçao", "Dominica", "Dominican Republic", "Ecuador", 
+                                                  "El Salvador", "Falkland Islands (Malvinas)", "French Guiana", 
+                                                  "Grenada", "Guadeloupe", "Guatemala", "Guyana", "Haiti", 
+                                                  "Honduras", "Jamaica", "Martinique", "Mexico", "Montserrat", 
+                                                  "Nicaragua", "Panama", "Paraguay", "Peru", "Puerto Rico", 
+                                                  "Saint Barthթlemy", "Saint Kitts and Nevis", "Saint Lucia", 
+                                                  "Saint Martin", "Saint Vincent and the Grenadines", 
+                                                  "Sint Maarten", "South Georgia and the South Sandwich Islands", 
+                                                  "Suriname", "Trinidad And Tobago", "Turks and Caicos Islands", 
+                                                  "Virgin Islands", "Uruguay", "Venezuela"))
+names(latin_america_and_the_caribbean)[1] <- "countries"
+latin_america_and_the_caribbean$who_region <- "latin_america_and_the_caribbean"
+
+north_america = as.data.frame(c("Bermuda", "Canada", "Greenland", "Saint Pierre and Miquelon", 
+                                "United States of America"))
+names(north_america)[1] <- "countries"
+north_america$who_region <- "north_america"
+
+south_east_asia = as.data.frame(c("Bangladesh", "Bhutan", "Democratic People's Republic of Korea", "India", 
+                                  "Indonesia", "Maldives", "Myanmar", "Nepal", "Sri Lanka", "Thailand", 
+                                  "Timor-Leste"))
+names(south_east_asia)[1] <- "countries"
+south_east_asia$who_region <- "south_east_asia"
+
+western_pacific = as.data.frame(c("American Samoa", "Australia", "Brunei", "Cambodia", "China", 
+                                  "Hong Kong", "Macao", "Taiwan", "Christmas Island", "Cocos (Keeling) Islands", 
+                                  "Cook Islands", "Fiji", "French Polynesia", "Guam", 
+                                  "Heard Island and McDonald Islands", "Japan", "Kiribati", 
+                                  "Laos", "Malaysia", "Marshall Islands", "Micronesia", "Mongolia", "Nauru", 
+                                  "New Caledonia", "New Zealand", "Niue", "Norfolk Island", 
+                                  "Northern Mariana Islands", "Palau", "Papua New Guinea", "Philippines", 
+                                  "Pitcairn", "Korea, Republic of", "Samoa", "Singapore", "Solomon Islands", 
+                                  "Tokelau", "Tonga", "Tuvalu", "Minor Outlying Islands", "Vanuatu", 
+                                  "Viet Nam", "Wallis and Futuna Islands"))
+names(western_pacific)[1] <- "countries"
+western_pacific$who_region <- "western_pacific"
+
+countries_who_regions <- do.call("rbind", list(africa, eastern_mediterranean, europe, latin_america_and_the_caribbean, north_america, south_east_asia, western_pacific))
+```
+
+
+Defining SIDS, Tier 1, Tier 2 regions
+```{r}
+sids_countries = as.data.frame(c("American Samoa", "Anguilla", "Antigua and Barbuda", "Bahamas", "Bahrain", "Barbados", "Belize", "Bermuda", "Cape Verde", "Comoros", "Cook Islands", "Cuba", "Dominica", "Fiji", "Grenada", "Guam", "Guinea-Bissau", "Guyana", "Haiti", "Jamaica", "Kiribati", "Maldives", "Marshall Islands", "Mauritius", "Micronesia", "Montserrat", "Nauru", "New Caledonia", "Niue", "Palau", "Papua New Guinea", "Puerto Rico", "Saint Kitts and Nevis", "Saint Lucia", "Saint Vincent and the Grenadines", "Samoa", "Sao Tome and Principe", "Seychelles", "Singapore", "Solomon Islands", "Suriname", "Timor-Leste", "Tonga", "Trinidad and Tobago", "Tuvalu", "Vanuatu"))
+names(sids_countries)[1] <- "countries"
+sids_countries$region <- "sids"
+
+tier1_countries = as.data.frame(c("United States of America", "China"))
+names(tier1_countries)[1] <- "countries"
+tier1_countries$region <- "tier1"
+
+tier2_countries = as.data.frame(c("Poland", "Australia", "South Africa", "Brazil", "India", "France", "Germany", "Indonesia", "United Kingdom"))
+names(tier2_countries)[1] <- "countries"
+tier2_countries$region <- "tier2"
+```
+
+Processing country names
+```{r, results = 'hide'}
+`%not_in%` <- purrr::negate(`%in%`)
+
+abbrev_countries <- str_extract(total_counts$country, '(?<=^)[^\\.]+')
+total_counts$country[abbrev_countries %not_in% countries_who_regions]
+
+total_counts$country[total_counts$country == "Korea, Repub..."] <- "Korea, Republic of"
+total_counts$country[total_counts$country == "United State..."] <- "United States of America" 
+total_counts$country[total_counts$country == "Syrian Arab ..."] <- "Syrian Arab Republic"
+total_counts$country[total_counts$country == "Tanzania, Un..."] <- "Tanzania, United Republic of"
+
+ungc_hces$Country[ungc_hces$Country == "Korea, Repub..."] <- "Korea, Republic of"
+ungc_hces$Country[ungc_hces$Country == "United State..."] <- "United States of America"
+ungc_hces$Country[ungc_hces$Country == "Syrian Arab ..."] <- "Syrian Arab Republic"
+ungc_hces$Country[ungc_hces$Country == "Tanzania, Un..."] <- "Tanzania, United Republic of"
+```
+
+```{r}
+ungc_hces$country_groups <- ifelse(ungc_hces$Country %in% sids_countries$countries, "SIDS", "none")
+ungc_hces$country_groups[ungc_hces$Country %in% tier1_countries$countries] <- "Tier1"
+ungc_hces$country_groups[ungc_hces$Country %in% tier2_countries$countries] <- "Tier2"
+
+ungc_hces$who <- ifelse(ungc_hces$Country %in% africa$countries, "Africa", "none")
+ungc_hces$who[ungc_hces$Country %in% eastern_mediterranean$countries] <- "Eastern Mediterranean"
+ungc_hces$who[ungc_hces$Country %in% europe$countries] <- "Europe"
+ungc_hces$who[ungc_hces$Country %in% latin_america_and_the_caribbean$countries] <- "Latin America and the Carribean"
+ungc_hces$who[ungc_hces$Country %in% north_america$countries] <- "North America"
+ungc_hces$who[ungc_hces$Country %in% south_east_asia$countries] <- "South-East Asia"
+ungc_hces$who[ungc_hces$Country %in% western_pacific$countries] <- "Western Pacific" 
+```
+
+```{r}
+total_counts$country_groups <- ifelse(total_counts$country %in% sids_countries$countries, "SIDS", "other")
+total_counts$country_groups[total_counts$country %in% tier1_countries$countries] <- "Tier1"
+total_counts$country_groups[total_counts$country %in% tier2_countries$countries] <- "Tier2"
+```
+
+# Maps of mention counts
+
+
+## Map for 2018 of PH and CC in HCES
+
+Keeping only country-years with at least one mention of CC in PH context 
+
+
+```{r}
+map <- joinCountryData2Map(subset(total_counts, year==2018 & health_count>0), joinCode="NAME", nameJoinColumn="country")
+
+new_world <- subset(map, continent != "Antarctica")
+
+pdf("worldmap_2018_health.pdf", width = 7, height = 3)
+
+par(mai=c(0,0,0.2,0),xaxs="i",yaxs="i")
+
+mapParams <- mapCountryData(new_world, nameColumnToPlot="health_count", 
+                            mapTitle="2018 UN Global Compact: Health", 
+                            catMethod = "categorical", 
+                            colourPalette = "heat", 
+                            oceanCol = "lightblue", 
+                            missingCountryCol = "white", 
+                            addLegend="FALSE")
+
+do.call(addMapLegendBoxes, c(mapParams,title="Number of mentions",x = "bottom", horiz=TRUE, cex=0.5))
+
+dev.off()
+```
+
+
+```{r}
+map <- joinCountryData2Map(subset(total_counts, year==2018 & climate_count>0), joinCode="NAME", nameJoinColumn="country")
+
+new_world <- subset(map, continent != "Antarctica")
+
+pdf("worldmap_2018_climate.pdf", width = 7, height = 3)
+
+par(mai=c(0,0,0.2,0),xaxs="i",yaxs="i")
+
+mapParams <- mapCountryData(new_world, nameColumnToPlot="climate_count", 
+                            mapTitle="2018 UN Global Compact: Climate Change", 
+                            catMethod = "categorical", 
+                            colourPalette = "heat", 
+                            oceanCol = "lightblue", 
+                            missingCountryCol = "white", 
+                            addLegend="FALSE")
+
+do.call( addMapLegendBoxes, c(mapParams,title="Number of mentions",x = "bottom", horiz=TRUE, cex=0.5))
+
+dev.off()
+```
+
+
+```{r}
+map <- joinCountryData2Map(subset(total_counts, year==2018 & intersection_count>0), joinCode="NAME", nameJoinColumn="country")
+
+new_world <- subset(map, continent != "Antarctica")
+
+pdf("worldmap_2018_intersection.pdf", width = 7, height = 3)
+
+par(mai=c(0,0,0.2,0),xaxs="i",yaxs="i")
+
+mapParams <- mapCountryData(new_world, nameColumnToPlot="intersection_count", 
+                            mapTitle="2018 UN Global Compact: Intersection", 
+                            catMethod = "categorical", 
+                            colourPalette = "heat", 
+                            oceanCol = "lightblue", 
+                            missingCountryCol = "white", 
+                            addLegend="FALSE")
+
+do.call( addMapLegendBoxes, c(mapParams,title="Number of mentions",x = "bottom", horiz=TRUE, cex=0.5))
+
+dev.off()
+```
+
+
+# Time series of PH/CC/I mentions
+
+```{r}
+# calculating the total number of mentions by year
+sum_total <-  dplyr::summarise(group_by(total_counts, year), 
+                 sum_CC = sum(climate_count), sum_PH = sum(health_count), sum_int = sum(intersection_count),
+                 mean_CC = mean(climate_count), mean_PH = mean(health_count), mean_int = mean(intersection_count))
+```
+
+
+```{r}
+ggplot(sum_total, aes(x=year)) +
+  theme_bw() +
+  geom_line(aes(y=sum_PH), colour = "blue", alpha = 0.9, linetype="dotdash") +
+  geom_line(aes(y=sum_CC), colour = "darkgreen", alpha = 0.9, linetype="dashed") +
+#  geom_line(aes(y= count), colour = "black", alpha = 0.9) +
+  #ggtitle("Political engagement with the intersection of climate change and health") + 
+  ylab("Total number of references") + xlab("Year") + 
+#  scale_y_continuous(limits=c(0, 140), breaks = c(1, 50, 100, 134)) +
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+ annotate("text", x = 2012, y = 150, label = "Climate Change", colour = "darkgreen")+
+  annotate("text", x = 2012, y = 600, label = "Health", colour = "blue")
+
+ggsave("timeseries_PHCC_total_count.pdf")
+```
+
+
+
+```{r}
+ggplot(sum_total, aes(x=year)) +
+  theme_bw() +
+  geom_line(aes(y= sum_int), colour = "red", alpha = 0.9) +
+  ylab("Total number of references") + xlab("Year") + 
+#  scale_y_continuous(limits=c(0, 140), breaks = c(1, 50, 100, 134)) +
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+   annotate("text", x = 2015, y = 10, label = "Intersection", colour = "red")
+
+ggsave("timeseries_intersection_total_count.pdf")
+```
+
+
+
+```{r}
+ggplot(sum_total, aes(x=year)) +
+  theme_bw() +
+  geom_line(aes(y= sum_PH), colour = "blue", alpha = 0.9, linetype="dotdash") +
+  geom_line(aes(y= sum_CC), colour = "darkgreen", alpha = 0.9, linetype="dashed") +
+  geom_line(aes(y= sum_int), colour = "red", alpha = 0.9) +
+  #ggtitle("Political engagement with the intersection of climate change and health") + 
+  ylab("Total number of references") + xlab("Year") + 
+#  scale_y_continuous(limits=c(0, 140), breaks = c(1, 50, 100, 134)) +
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+ annotate("text", x = 2012, y = 150, label = "Climate Change", colour = "darkgreen")+
+  annotate("text", x = 2012, y = 600, label = "Health", colour = "blue") +
+  annotate("text", x = 2015, y = 75, label = "Intersection", colour = "red")
+
+ggsave("timeseries_all_total_count.pdf")
+```
+
+
+```{r}
+ggplot(sum_total, aes(x=year)) +
+  theme_bw() +
+  geom_line(aes(y= mean_PH), colour = "blue", alpha = 0.9, linetype="dotdash") +
+  geom_line(aes(y= mean_CC), colour = "darkgreen", alpha = 0.9, linetype="dashed") +
+  geom_line(aes(y= mean_int), colour = "red", alpha = 0.9) +
+  #ggtitle("Political engagement with the intersection of climate change and health") + 
+  ylab("Average number of references") + xlab("Year") + 
+#  scale_y_continuous(limits=c(0, 140), breaks = c(1, 50, 100, 134)) +
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+ annotate("text", x = 2012, y = 5, label = "Climate Change", colour = "darkgreen")+
+  annotate("text", x = 2012, y = 35, label = "Health", colour = "blue") +
+  annotate("text", x = 2016, y = 2, label = "Intersection", colour = "red")
+
+ggsave("timeseries_all_avg_count.pdf")
+```
+
+
+
+## Proportion of countries presentation
+
+Proportion of companies that had at least one mention
+
+```{r}
+# Data preparation
+climate_texts <- total_counts %>% filter(climate_count>0) %>% group_by(year) %>% tally(name = "climate_texts")
+health_texts <- total_counts %>% filter(health_count>0) %>% group_by(year) %>% tally(name = "health_texts")
+intersection_texts <- total_counts %>% filter(intersection_count>0) %>% group_by(year) %>% tally(name = "intersection_texts")
+total_texts <- ungc_hces %>% group_by(Year) %>% tally(name = "total_texts")
+
+proportions <- left_join(total_texts, health_texts, by = c("Year"="year")) %>% 
+  left_join(., climate_texts, by = c("Year"="year")) %>% 
+  left_join(., intersection_texts, by = c("Year"="year")) %>% 
+  replace_na(list(health_texts=0, climate_texts=0, intersection_texts=0))
+
+proportions$percent_int <- proportions$intersection_texts/proportions$total_texts*100
+proportions$percent_CC <- proportions$climate_texts/proportions$total_texts*100
+proportions$percent_PH <- proportions$health_texts/proportions$total_texts*100
+
+readr::write_csv(proportions, "proportion_results.csv")
+```
+
+
+Plotting the company proportion
+
+```{r}
+ggplot(proportions, aes(x=Year, y=percent_CC, group = 1)) +
+  geom_line(colour="darkgreen", alpha = 0.9) +
+  theme_bw() +
+  #ggtitle("Corporate engagement with the intersection of climate change and health") + 
+  ylab("Proportion of companies discussing climate change, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))
+
+ ggsave("total_percent_CC.pdf")
+```
+
+
+```{r}
+ggplot(proportions, aes(x=Year, y=percent_PH, group = 1)) +
+  geom_line(colour="blue", alpha = 0.9) +
+  theme_bw() +
+  ylab("Proportion of comapnies discussing health, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))
+
+  ggsave("total_percent_PH.pdf")
+```
+
+
+```{r}
+ggplot(proportions, aes(x=Year, y=percent_int, group = 1)) +
+  geom_line(colour="red", alpha = 0.9) +
+  theme_bw() +
+  ylab("Proportion of companies discussing intersection, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))
+
+  ggsave("total_percent_intersection.pdf")
+```
+
+
+```{r}
+ggplot(proportions, aes(x=Year)) +
+  geom_line(aes(y=percent_int), colour="red", alpha = 0.9) +
+  geom_line(aes(y=percent_CC), colour="darkgreen", alpha = 0.9, linetype = "dashed") +
+  geom_line(aes(y=percent_PH), colour="blue",alpha = 0.9, linetype = "dotdash") +
+  theme_bw() +
+  ylab("Proportion of companies, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+ annotate("text", x = 2014, y = 5, label = "Intersection", colour = "red")+
+  annotate("text", x = 2011, y = 55, label = "Health", colour = "blue") +
+  annotate("text", x = 2012, y = 40, label = "Climate Change", colour = "darkgreen")
+
+  ggsave("all_three_percent.pdf")
+```
+
+# Tier Analysis
+Regional distribution of reports
+- SIDS, Tier 1, Tier 2
+
+## Healthcare & Equipment Sector
+
+```{r}
+# Data preparation
+hces_tiers <- ungc_hces %>%
+  dplyr::select(country_groups, Year) %>%
+  filter(country_groups!="none") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches=n()) 
+
+hces_tiers_total <- ungc_hces %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches=n())
+
+hces_sids <- ungc_hces %>%
+  dplyr::select(country_groups, Year) %>%
+  filter(country_groups == "SIDS") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_sids=n()) 
+
+hces_tier1 <- ungc_hces %>%
+  dplyr::select(country_groups, Year) %>%
+  filter(country_groups == "Tier1") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_tier1=n()) 
+
+hces_tier2 <- ungc_hces %>%
+  dplyr::select(country_groups, Year) %>%
+  filter(country_groups == "Tier2") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_tier2=n()) 
+
+proportions_hces <- left_join(hces_tiers_total, hces_tier2, by = c("Year"="Year")) %>%
+  left_join(., hces_tier1, by = c("Year"="Year")) %>%
+  left_join(., hces_sids, by = c("Year"="Year")) %>%
+  replace_na(list(total_speeches_sids=0, total_speeches_tier1=0, total_speeches_tier2=0))
+
+proportions_hces$percent_sids <- proportions_hces$total_speeches_sids/proportions_hces$total_speeches*100
+proportions_hces$percent_tier1 <- proportions_hces$total_speeches_tier1/proportions_hces$total_speeches*100
+proportions_hces$percent_tier2<- proportions_hces$total_speeches_tier2/proportions_hces$total_speeches*100
+
+readr::write_csv(proportions_hces, "proportion_hces_tiers_results.csv")
+```
+
+```{r}
+ggplot(proportions_hces, aes(x=Year)) +
+  geom_line(aes(y=total_speeches_sids), colour="darkgreen", alpha=0.9) +
+  geom_line(aes(y=total_speeches_tier1), colour="blue", alpha=0.9) +
+  geom_line(aes(y=total_speeches_tier2), colour="orange", alpha=0.9) +
+  theme_bw() +
+  ylab("Total number of references") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018)) +
+  annotate("text", x = 2012, y = 10, label = "Tier 2", colour = "orange")+
+  annotate("text", x = 2013, y = 4, label = "Tier 1", colour = "blue")+
+  annotate("text", x = 2013, y = 1, label = "SIDS", colour = "darkgreen")
+
+  ggsave("total_tiers.pdf")
+```
+
+
+```{r}
+# Proportion
+ggplot(proportions_hces, aes(x=Year)) +
+  geom_line(aes(y=percent_sids), colour="darkgreen", alpha=0.9) +
+  geom_line(aes(y=percent_tier1), colour="blue", alpha=0.9) +
+  geom_line(aes(y=percent_tier2), colour="orange", alpha=0.9) +
+  theme_bw() +
+  ylab("Proportion of countries, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018)) +
+  annotate("text", x = 2012, y = 32, label = "Tier 2", colour = "orange") +
+  annotate("text", x = 2013, y = 10, label = "Tier 1", colour = "blue") +
+  annotate("text", x = 2013, y = 3, label = "SIDS", colour = "darkgreen")
+
+  ggsave("proportion_tiers.pdf")
+```
+
+# WHO Countries
+## Healthcare & Equipment Sector
+
+```{r}
+hces_who_total <- ungc_hces %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches=n())
+
+hces_who_africa <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "Africa") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_africa=n()) 
+
+hces_who_em <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "Eastern Mediterranean") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_em=n()) 
+
+hces_who_europe <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "Europe") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_europe=n()) 
+
+hces_who_latamc <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "Latin America and the Carribean") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_latamc=n()) 
+
+hces_who_na<- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "North America") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_na=n()) 
+
+hces_who_sea <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "South-East Asia") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_sea=n()) 
+
+hces_who_wp <- ungc_hces %>%
+  dplyr::select(who, Year) %>%
+  filter(who == "Western Pacific") %>%
+  group_by(Year) %>%
+  dplyr::summarise(total_speeches_wp=n()) 
+
+proportions_hces_who <- left_join(hces_who_total, hces_who_wp, by = c("Year"="Year")) %>%
+  left_join(., hces_who_sea, by = c("Year"="Year")) %>%
+  left_join(., hces_who_na, by = c("Year"="Year")) %>%
+  left_join(., hces_who_latamc, by = c("Year"="Year")) %>%
+  left_join(., hces_who_europe, by = c("Year"="Year")) %>%
+  left_join(., hces_who_em, by = c("Year"="Year")) %>%
+  left_join(., hces_who_africa, by = c("Year"="Year")) %>%
+  replace_na(list(total_speeches_wp=0, total_speeches_sea=0, total_speeches_na=0, total_speeches_latamc=0, total_speeches_europe=0, total_speeches_em=0, total_speeches_africa=0))
+
+proportions_hces_who$percent_africa <- proportions_hces_who$total_speeches_africa/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_em <- proportions_hces_who$total_speeches_em/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_europe <- proportions_hces_who$total_speeches_europe/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_latamc <- proportions_hces_who$total_speeches_latamc/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_na <- proportions_hces_who$total_speeches_na/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_sea <- proportions_hces_who$total_speeches_sea/proportions_hces_who$total_speeches*100
+proportions_hces_who$percent_wp <- proportions_hces_who$total_speeches_wp/proportions_hces_who$total_speeches*100
+
+readr::write_csv(proportions_hces_who, "proportion_hces_who_results.csv")
+```
+
+```{r}
+ggplot(proportions_hces_who, aes(x=Year)) +
+  geom_line(aes(y=total_speeches_africa, colour="Africa"), size=.5) +
+  geom_line(aes(y=total_speeches_em, colour="Eastern Mediterranean") , size=.5) +
+  geom_line(aes(y=total_speeches_europe, colour="Europe"), size=.5) +
+  geom_line(aes(y=total_speeches_latamc, colour="Latin America & the Carribean"), size=.5) +
+  geom_line(aes(y=total_speeches_na, colour="North America"), size=.5) +
+  geom_line(aes(y=total_speeches_sea, colour="South East Asia"), size=.5) +
+  geom_line(aes(y=total_speeches_wp, colour="Western Pacific"), size=.5) +
+  scale_colour_manual("", 
+                      values = c("Africa"="blue", "Eastern Mediterranean"="orange", "Europe"="darkgreen", "Latin America & the Carribean"="red", "North America"="purple", "South East Asia"="brown", "Western Pacific"="pink")) +
+  theme_bw() + 
+  ylab("Total number of references") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018)) 
+
+ ggsave("who_countries_total.pdf")
+ 
+```
+
+```{r}
+ggplot(proportions_hces_who, aes(x=Year)) +
+  geom_line(aes(y=percent_africa, colour="Africa"), size=.5) +
+  geom_line(aes(y=percent_em, colour="Eastern Mediterranean") , size=.5) +
+  geom_line(aes(y=percent_europe, colour="Europe"), size=.5) +
+  geom_line(aes(y=percent_latamc, colour="Latin America & the Carribean"), size=.5) +
+  geom_line(aes(y=percent_na, colour="North America"), size=.5) +
+  geom_line(aes(y=percent_sea, colour="South East Asia"), size=.5) +
+  geom_line(aes(y=percent_wp, colour="Western Pacific"), size=.5) +
+  scale_colour_manual("", 
+                      values = c("Africa"="blue", "Eastern Mediterranean"="orange", "Europe"="darkgreen", "Latin America & the Carribean"="red", "North America"="purple", "South East Asia"="brown", "Western Pacific"="pink")) +
+  theme_bw() + 
+  ylab("Total number of references") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018)) 
+
+ ggsave("who_countries_percent.pdf")
+```
+
+# English Speaking Countries
+```{r}
+eng_countries <- c("Australia", "United Kingdom", "United States of America", "Canada", "New Zealand", "South Africa")
+eng_texts <- total_counts %>% filter(country %in% eng_countries)
+
+aus_texts <- total_counts %>% filter(country=="Australia") %>% group_by(year) %>% tally(name = "aus_texts")
+can_texts <- total_counts %>% filter(country=="Canada") %>% group_by(year) %>% tally(name = "can_texts")
+nz_texts <- total_counts %>% filter(country=="New Zealand") %>% group_by(year) %>% tally(name = "nz_texts")
+sa_texts <- total_counts %>% filter(country=="South Africa") %>% group_by(year) %>% tally(name = "sa_texts")
+uk_texts <- total_counts %>% filter(country=="United Kingdom") %>% group_by(year) %>% tally(name = "uk_texts")
+us_texts <- total_counts %>% filter(country=="United States of America") %>% group_by(year) %>% tally(name = "us_texts")
+
+total_texts <- ungc_hces %>% group_by(Year) %>% tally(name = "total_texts")
+
+proportions_eng <- left_join(total_texts, aus_texts, by = c("Year"="year")) %>% 
+  left_join(., can_texts, by = c("Year"="year")) %>% 
+  left_join(., nz_texts,  by = c("Year"="year")) %>% 
+  left_join(., sa_texts,  by = c("Year"="year")) %>%
+  left_join(., uk_texts, by = c("Year"="year")) %>%
+  left_join(., us_texts,  by = c("Year"="year")) %>%
+  replace_na(list(aus_texts=0, can_texts=0, nz_texts=0, sa_texts=0, uk_texts=0, us_texts=0))
+
+proportions_eng$percent_aus <- proportions_eng$aus_texts/proportions_eng$total_texts*100
+proportions_eng$percent_can <- proportions_eng$can_texts/proportions_eng$total_texts*100
+proportions_eng$percent_nz <- proportions_eng$nz_texts/proportions_eng$total_texts*100
+proportions_eng$percent_sa <- proportions_eng$sa_texts/proportions_eng$total_texts*100
+proportions_eng$percent_uk <- proportions_eng$uk_texts/proportions_eng$total_texts*100
+proportions_eng$percent_us <- proportions_eng$us_texts/proportions_eng$total_texts*100
+
+readr::write_csv(proportions, "proportion_eng_results.csv")
+```
+
+```{r}
+ggplot(proportions_eng, aes(x=Year)) +
+  geom_line(aes(y=percent_aus, colour="Australia"), size=.5) +
+  geom_line(aes(y=percent_can, colour="Canada"), linetype = "dashed", size=.5) +
+  geom_line(aes(y=percent_nz, colour="New Zealand"), linetype = "dotdash", size=.5) +
+  geom_line(aes(y=percent_sa, colour="South Africa"), size=.5) +
+  geom_line(aes(y=percent_uk, colour="United Kingdom"), linetype = "dashed", size=.5) +
+  geom_line(aes(y=percent_us, colour="United States of America"), linetype = "dotdash", size=.5) +
+  theme_bw() +
+  #ggtitle("Political engagement with the intersection of climate change and health") + 
+  ylab("Proportion of countries, %") + xlab("Year") + 
+  scale_x_continuous(limits=c(2011, 2019), breaks = c(2012,2014,2016,2018))+
+  scale_colour_manual("", 
+                      values = c("Australia"="red", "Canada"="darkgreen", "New Zealand"="orange", "South Africa"="black", "United Kingdom"="magenta", "United States of America"="blue")) 
+
+  ggsave("english_speaking_percent.pdf")
+```
+
+# Network Graph
+
+```{r}
+# network graph
+fcm <- fcm(tok.compound, context = "window", count = "frequency", window = 25L, span_sentence = FALSE)
+
+fcm_dict <- fcm_select(fcm, pattern = combined_dict, selection = "keep", valuetype = "regex")
+
+feat <- names(topfeatures(fcm_dict, 20))
+```
+
+```{r}
+set.seed(1234)
+fcm_select(fcm_dict, pattern = feat, verbose = FALSE) %>%
+    textplot_network(min_freq = 0.5)
+ ggsave("network_cooccurrence.pdf")
+```
+
+

@@ -1,0 +1,425 @@
+year,WHO,who_int,who_PH,who_CC
+1959,Africa,0,7,0
+1959,Eastern Mediterranean,0,10,0
+1959,Europe,0,49,1
+1959,Latin America and the Caribbean,0,17,0
+1959,North America,0,3,0
+1959,South-East Asia,0,8,0
+1959,Western Pacific,0,5,1
+1960,Africa,0,6,0
+1960,Eastern Mediterranean,0,8,0
+1960,Europe,0,19,0
+1960,Latin America and the Caribbean,0,25,0
+1960,North America,0,6,0
+1960,South-East Asia,0,2,0
+1960,Western Pacific,0,14,0
+1961,Africa,0,15,0
+1961,Eastern Mediterranean,0,13,0
+1961,Europe,0,14,0
+1961,Latin America and the Caribbean,0,16,0
+1961,North America,0,3,0
+1961,South-East Asia,0,2,0
+1961,Western Pacific,0,4,0
+1962,Africa,0,18,0
+1962,Eastern Mediterranean,0,14,0
+1962,Europe,0,7,0
+1962,Latin America and the Caribbean,0,20,0
+1962,North America,0,3,0
+1962,South-East Asia,0,2,0
+1962,Western Pacific,0,9,0
+1963,Africa,0,17,0
+1963,Eastern Mediterranean,0,12,0
+1963,Europe,0,22,0
+1963,Latin America and the Caribbean,0,34,0
+1963,North America,0,4,0
+1963,South-East Asia,0,1,0
+1963,Western Pacific,0,5,0
+1964,Africa,0,19,1
+1964,Eastern Mediterranean,0,10,0
+1964,Europe,0,17,0
+1964,Latin America and the Caribbean,0,10,0
+1964,North America,0,4,0
+1964,South-East Asia,0,3,0
+1964,Western Pacific,0,6,0
+1965,Africa,0,18,0
+1965,Eastern Mediterranean,0,6,0
+1965,Europe,0,4,0
+1965,Latin America and the Caribbean,0,12,0
+1965,North America,0,2,0
+1965,South-East Asia,0,4,0
+1965,Western Pacific,0,9,0
+1966,Africa,0,17,0
+1966,Eastern Mediterranean,0,8,0
+1966,Europe,0,7,1
+1966,Latin America and the Caribbean,0,20,0
+1966,North America,0,1,0
+1966,South-East Asia,0,2,0
+1966,Western Pacific,0,7,0
+1967,Africa,0,16,0
+1967,Eastern Mediterranean,0,11,0
+1967,Europe,0,4,0
+1967,Latin America and the Caribbean,0,13,0
+1967,North America,0,1,0
+1967,South-East Asia,0,2,0
+1967,Western Pacific,0,4,0
+1968,Africa,0,16,0
+1968,Eastern Mediterranean,0,11,0
+1968,Europe,0,6,0
+1968,Latin America and the Caribbean,0,17,1
+1968,North America,0,1,0
+1968,South-East Asia,0,5,0
+1968,Western Pacific,0,6,0
+1969,Africa,0,19,0
+1969,Eastern Mediterranean,0,10,0
+1969,Europe,0,8,0
+1969,Latin America and the Caribbean,0,27,0
+1969,North America,0,3,0
+1969,South-East Asia,0,4,0
+1969,Western Pacific,0,5,0
+1970,Africa,0,11,0
+1970,Europe,0,7,0
+1970,Latin America and the Caribbean,0,9,0
+1970,North America,0,1,0
+1970,South-East Asia,0,3,0
+1970,Western Pacific,0,3,0
+1971,Africa,0,21,0
+1971,Eastern Mediterranean,0,7,0
+1971,Europe,0,7,0
+1971,Latin America and the Caribbean,0,10,0
+1971,North America,0,2,0
+1971,South-East Asia,0,2,0
+1971,Western Pacific,0,4,0
+1972,Africa,0,29,0
+1972,Eastern Mediterranean,0,6,0
+1972,Europe,0,9,0
+1972,Latin America and the Caribbean,0,21,0
+1972,North America,0,3,0
+1972,South-East Asia,0,4,0
+1972,Western Pacific,0,3,0
+1973,Africa,0,23,0
+1973,Eastern Mediterranean,0,6,0
+1973,Europe,0,8,0
+1973,Latin America and the Caribbean,0,24,1
+1973,North America,0,2,0
+1973,Western Pacific,0,10,0
+1974,Africa,0,15,0
+1974,Eastern Mediterranean,0,11,0
+1974,Europe,0,8,0
+1974,Latin America and the Caribbean,0,20,0
+1974,North America,0,3,0
+1974,South-East Asia,0,3,0
+1974,Western Pacific,0,7,0
+1975,Africa,0,17,0
+1975,Eastern Mediterranean,0,3,0
+1975,Europe,0,7,0
+1975,Latin America and the Caribbean,0,17,0
+1975,North America,0,3,0
+1975,South-East Asia,0,1,0
+1975,Western Pacific,0,3,0
+1976,Africa,0,25,0
+1976,Eastern Mediterranean,0,5,0
+1976,Europe,0,7,0
+1976,Latin America and the Caribbean,0,11,0
+1976,North America,0,2,0
+1976,South-East Asia,0,3,0
+1976,Western Pacific,0,4,0
+1977,Africa,0,31,0
+1977,Eastern Mediterranean,0,13,0
+1977,Europe,0,14,1
+1977,Latin America and the Caribbean,0,20,0
+1977,North America,0,1,0
+1977,South-East Asia,0,8,0
+1977,Western Pacific,0,12,1
+1978,Africa,0,34,0
+1978,Eastern Mediterranean,0,6,0
+1978,Europe,0,14,3
+1978,Latin America and the Caribbean,0,26,0
+1978,North America,0,3,3
+1978,South-East Asia,0,4,0
+1978,Western Pacific,0,5,1
+1979,Africa,0,48,0
+1979,Eastern Mediterranean,0,11,0
+1979,Europe,0,13,0
+1979,Latin America and the Caribbean,0,41,1
+1979,North America,0,4,1
+1979,South-East Asia,0,8,0
+1979,Western Pacific,0,8,0
+1980,Africa,0,48,1
+1980,Eastern Mediterranean,0,12,0
+1980,Europe,0,11,0
+1980,Latin America and the Caribbean,0,27,2
+1980,North America,0,1,0
+1980,South-East Asia,0,10,0
+1980,Western Pacific,0,4,0
+1981,Africa,0,32,1
+1981,Eastern Mediterranean,0,8,0
+1981,Europe,0,14,0
+1981,Latin America and the Caribbean,0,28,1
+1981,North America,0,6,0
+1981,South-East Asia,0,4,0
+1981,Western Pacific,0,7,0
+1982,Africa,0,22,3
+1982,Eastern Mediterranean,0,9,0
+1982,Europe,0,13,0
+1982,Latin America and the Caribbean,0,23,0
+1982,North America,0,1,0
+1982,South-East Asia,0,3,0
+1982,Western Pacific,0,3,0
+1983,Africa,0,30,0
+1983,Eastern Mediterranean,0,6,0
+1983,Europe,0,11,0
+1983,Latin America and the Caribbean,0,26,2
+1983,South-East Asia,0,1,0
+1983,Western Pacific,0,8,0
+1984,Africa,0,44,0
+1984,Eastern Mediterranean,0,11,0
+1984,Europe,0,16,0
+1984,Latin America and the Caribbean,0,29,0
+1984,North America,0,3,0
+1984,South-East Asia,0,12,0
+1984,Western Pacific,0,5,0
+1985,Africa,0,47,1
+1985,Eastern Mediterranean,0,9,0
+1985,Europe,0,31,0
+1985,Latin America and the Caribbean,0,41,0
+1985,North America,0,4,0
+1985,South-East Asia,0,13,0
+1985,Western Pacific,0,22,0
+1986,Africa,0,48,0
+1986,Eastern Mediterranean,0,12,0
+1986,Europe,0,25,0
+1986,Latin America and the Caribbean,0,17,0
+1986,North America,0,1,0
+1986,South-East Asia,0,6,0
+1986,Western Pacific,0,18,0
+1987,Africa,0,39,0
+1987,Eastern Mediterranean,0,13,0
+1987,Europe,0,25,0
+1987,Latin America and the Caribbean,0,33,0
+1987,North America,0,3,0
+1987,South-East Asia,0,5,0
+1987,Western Pacific,0,16,1
+1988,Africa,0,51,1
+1988,Eastern Mediterranean,0,11,0
+1988,Europe,2,17,7
+1988,Latin America and the Caribbean,0,32,3
+1988,North America,0,4,3
+1988,South-East Asia,0,9,4
+1988,Western Pacific,0,7,1
+1989,Africa,0,45,6
+1989,Eastern Mediterranean,1,11,1
+1989,Europe,1,17,26
+1989,Latin America and the Caribbean,0,33,15
+1989,North America,0,6,3
+1989,South-East Asia,0,8,6
+1989,Western Pacific,1,12,21
+1990,Africa,0,47,6
+1990,Eastern Mediterranean,0,17,1
+1990,Europe,1,18,16
+1990,Latin America and the Caribbean,0,50,4
+1990,North America,0,4,0
+1990,South-East Asia,0,7,8
+1990,Western Pacific,0,9,8
+1991,Africa,0,35,4
+1991,Eastern Mediterranean,0,14,0
+1991,Europe,0,17,12
+1991,Latin America and the Caribbean,1,36,11
+1991,North America,2,5,2
+1991,South-East Asia,1,8,3
+1991,Western Pacific,0,4,37
+1992,Africa,0,47,6
+1992,Eastern Mediterranean,0,18,1
+1992,Europe,0,20,4
+1992,Latin America and the Caribbean,0,37,12
+1992,North America,0,1,1
+1992,South-East Asia,0,14,3
+1992,Western Pacific,0,6,24
+1993,Africa,0,36,2
+1993,Eastern Mediterranean,0,23,1
+1993,Europe,0,21,4
+1993,Latin America and the Caribbean,4,33,6
+1993,North America,0,12,0
+1993,South-East Asia,0,14,0
+1993,Western Pacific,0,6,18
+1994,Africa,0,51,4
+1994,Eastern Mediterranean,0,14,2
+1994,Europe,0,25,1
+1994,Latin America and the Caribbean,0,40,5
+1994,North America,0,3,0
+1994,South-East Asia,0,17,1
+1994,Western Pacific,0,13,16
+1995,Africa,0,62,2
+1995,Eastern Mediterranean,0,9,1
+1995,Europe,1,29,5
+1995,Latin America and the Caribbean,1,32,17
+1995,North America,0,4,1
+1995,South-East Asia,0,13,0
+1995,Western Pacific,2,27,27
+1996,Africa,0,58,4
+1996,Eastern Mediterranean,0,18,0
+1996,Europe,3,22,7
+1996,Latin America and the Caribbean,0,43,6
+1996,North America,0,3,1
+1996,South-East Asia,0,10,3
+1996,Western Pacific,2,19,32
+1997,Africa,0,42,8
+1997,Eastern Mediterranean,0,13,0
+1997,Europe,0,27,16
+1997,Latin America and the Caribbean,0,29,6
+1997,North America,0,4,2
+1997,South-East Asia,0,6,8
+1997,Western Pacific,0,6,26
+1998,Africa,0,48,3
+1998,Eastern Mediterranean,0,14,1
+1998,Europe,1,23,18
+1998,Latin America and the Caribbean,1,32,14
+1998,North America,0,1,1
+1998,South-East Asia,0,10,9
+1998,Western Pacific,0,9,35
+1999,Africa,0,91,1
+1999,Eastern Mediterranean,0,24,1
+1999,Europe,1,30,6
+1999,Latin America and the Caribbean,0,42,3
+1999,North America,2,12,1
+1999,South-East Asia,0,12,2
+1999,Western Pacific,4,15,43
+2000,Africa,0,124,1
+2000,Eastern Mediterranean,0,43,0
+2000,Europe,1,55,13
+2000,Latin America and the Caribbean,0,100,10
+2000,North America,0,2,1
+2000,South-East Asia,0,14,2
+2000,Western Pacific,2,34,27
+2001,Africa,0,139,3
+2001,Eastern Mediterranean,0,18,2
+2001,Europe,0,36,9
+2001,Latin America and the Caribbean,0,71,17
+2001,North America,0,2,0
+2001,South-East Asia,0,14,2
+2001,Western Pacific,11,37,47
+2002,Africa,0,129,1
+2002,Eastern Mediterranean,1,28,1
+2002,Europe,2,42,8
+2002,Latin America and the Caribbean,1,81,8
+2002,North America,0,3,0
+2002,South-East Asia,0,7,2
+2002,Western Pacific,5,28,40
+2003,Africa,0,138,5
+2003,Eastern Mediterranean,0,20,0
+2003,Europe,4,44,10
+2003,Latin America and the Caribbean,1,53,8
+2003,North America,0,11,0
+2003,South-East Asia,0,29,2
+2003,Western Pacific,4,69,37
+2004,Africa,0,127,9
+2004,Eastern Mediterranean,0,24,0
+2004,Europe,1,52,13
+2004,Latin America and the Caribbean,0,60,12
+2004,North America,0,11,0
+2004,South-East Asia,0,16,1
+2004,Western Pacific,5,45,33
+2005,Africa,3,115,4
+2005,Eastern Mediterranean,0,15,0
+2005,Europe,2,55,21
+2005,Latin America and the Caribbean,1,70,21
+2005,North America,0,7,0
+2005,South-East Asia,0,25,2
+2005,Western Pacific,2,65,36
+2006,Africa,11,125,10
+2006,Eastern Mediterranean,0,19,0
+2006,Europe,2,56,29
+2006,Latin America and the Caribbean,1,51,18
+2006,North America,0,1,0
+2006,South-East Asia,0,15,5
+2006,Western Pacific,6,41,58
+2007,Africa,32,108,227
+2007,Eastern Mediterranean,2,21,27
+2007,Europe,11,43,192
+2007,Latin America and the Caribbean,7,83,188
+2007,North America,2,15,2
+2007,South-East Asia,0,13,76
+2007,Western Pacific,10,28,189
+2008,Africa,14,102,97
+2008,Eastern Mediterranean,0,14,36
+2008,Europe,14,55,147
+2008,Latin America and the Caribbean,19,90,108
+2008,North America,0,7,7
+2008,South-East Asia,4,18,45
+2008,Western Pacific,4,26,200
+2009,Africa,20,94,196
+2009,Eastern Mediterranean,6,23,45
+2009,Europe,17,55,200
+2009,Latin America and the Caribbean,12,70,212
+2009,North America,2,8,17
+2009,South-East Asia,6,19,72
+2009,Western Pacific,19,42,260
+2010,Africa,15,97,129
+2010,Eastern Mediterranean,1,23,42
+2010,Europe,16,40,136
+2010,Latin America and the Caribbean,18,76,141
+2010,North America,1,8,2
+2010,South-East Asia,9,20,65
+2010,Western Pacific,16,73,163
+2011,Africa,9,85,107
+2011,Eastern Mediterranean,1,10,10
+2011,Europe,17,64,104
+2011,Latin America and the Caribbean,23,109,134
+2011,North America,2,12,1
+2011,South-East Asia,0,11,31
+2011,Western Pacific,16,90,153
+2012,Africa,7,83,47
+2012,Eastern Mediterranean,2,19,11
+2012,Europe,2,37,51
+2012,Latin America and the Caribbean,13,79,115
+2012,North America,0,1,0
+2012,South-East Asia,5,14,33
+2012,Western Pacific,4,34,124
+2013,Africa,15,124,49
+2013,Eastern Mediterranean,2,12,16
+2013,Europe,10,73,69
+2013,Latin America and the Caribbean,8,163,76
+2013,North America,0,6,1
+2013,South-East Asia,0,20,24
+2013,Western Pacific,5,54,133
+2014,Africa,10,256,116
+2014,Eastern Mediterranean,4,17,21
+2014,Europe,12,77,115
+2014,Latin America and the Caribbean,13,124,130
+2014,North America,0,15,3
+2014,South-East Asia,5,19,24
+2014,Western Pacific,43,85,190
+2015,Africa,16,119,118
+2015,Eastern Mediterranean,1,13,23
+2015,Europe,7,32,154
+2015,Latin America and the Caribbean,6,77,152
+2015,North America,0,9,8
+2015,South-East Asia,2,18,39
+2015,Western Pacific,10,53,177
+2016,Africa,12,103,163
+2016,Eastern Mediterranean,0,10,20
+2016,Europe,8,36,123
+2016,Latin America and the Caribbean,9,94,122
+2016,North America,0,8,4
+2016,South-East Asia,2,16,34
+2016,Western Pacific,24,58,165
+2017,Africa,9,77,157
+2017,Eastern Mediterranean,3,13,34
+2017,Europe,3,47,132
+2017,Latin America and the Caribbean,4,66,169
+2017,North America,0,6,2
+2017,South-East Asia,2,22,48
+2017,Western Pacific,19,34,145
+2018,Africa,11,71,97
+2018,Eastern Mediterranean,2,9,11
+2018,Europe,16,62,146
+2018,Latin America and the Caribbean,17,98,172
+2018,North America,0,0,4
+2018,South-East Asia,1,26,40
+2018,Western Pacific,17,56,172
+2019,Africa,20,150,225
+2019,Eastern Mediterranean,1,12,32
+2019,Europe,18,88,312
+2019,Latin America and the Caribbean,9,61,195
+2019,North America,2,4,6
+2019,South-East Asia,3,29,43
+2019,Western Pacific,36,84,262
