@@ -2,10 +2,15 @@
 
 ## The 2021 Report
 
+* [2021 Article](https://doi.org/10.1016/S0140-6736(21)01787-6)
 
 ### Indicator 5.4 Government Engagement in Health and Climate Change
 
 * [UN General Debate Corpus](https://doi.org/10.7910/DVN/0TJX8Y)
+
+* [code](report2021/UNGD_Lancet_2021/code/)
+* [data](report2021/UNGD_Lancet_2021/output/)
+* [output](report2021/UNGD_Lancet_2021/txt/)
 
 
 
