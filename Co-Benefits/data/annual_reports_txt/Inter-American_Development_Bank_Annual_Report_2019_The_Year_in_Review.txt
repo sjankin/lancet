@@ -1,0 +1,1871 @@
+Inter-American Development Bank
+
+
+
+
+Annual Report
+The Year in Review
+
+
+    2019
+-----------------------Page 1 End-----------------------
+
+                                                                                           FINANCIAL SUMMARY 2015–2019
+Ordinary Capital
+    (Amounts expressed in millions of United States dollars)                                2019            2018         2017           2016          2015
+Operational Highlights
+  Loans and Guarantees Approveda                                                          $12,961       $14,250      $ 13,003       $10,803       $ 10,404
+  Undisbursed Portion of Approved Loans                                                    32,187        32,079       31,264         30,007         30,711
+  Gross Loan Disbursements                                                                 10,574        11,304       10,250          9,600          9,719
+  Loan Repayments                                                                           7,186         6,828         7,748         6,023          5,132
+Balance Sheet Data
+  Cash and Investments-Net, After Swaps                                                   $35,165       $32,704      $33,600        $27,750       $27,969
+  Loans Outstanding                                                                        96,723        93,377       89,082         81,952         78,745
+  Total Assets                                                                            136,358       129,459      126,240        113,325        111,116
+  Borrowings Outstanding, After Swaps                                                       97,141       92,491       89,632         82,641        80,464
+  Equity                                                                                   33,871        32,929       32,247         26,460        25,253
+Income Statement Data
+  Loan Income, After Swaps                                                                $ 3,406       $ 3,057      $ 2,535        $ 2,365       $ 1,946
+  Investment Income                                                                         1,012           825          488            321            60
+  Borrowing Expenses, After Swaps                                                            2,522          2,255        1,223           797           409
+  Operating Incomeb                                                                            962            752          902           946           692
+Ratio
+  Total Debtc to Equityd ratioe                                                                 2.9           2.9           2.9           3.2           3.3
+
+Fund for Special Operations
+(In millions of United States dollars)                                                      2019f           2018f        2017f          2016          2015
+Operational Highlights
+  Loans Approved                                                                                 —      $      —     $       —      $     247     $     282
+  Loan Disbursements                                                                             —             —             —            190           310
+  Loan Repayments                                                                                —             —             —            184           184
+Balance Sheet Data
+  Cash and Investment                                                                            —      $      —     $       —      $     822     $     841
+  Loans Outstanding, Net                                                                         —             —             —          4,510         4,502
+  Undisbursed Portion of Approved Loans                                                          —             —             —            782           726
+  Total Assets                                                                                   —             —             —          5,420         5,408
+  Fund Balance                                                                                   —             —             —          5,160         5,113
+Income Statement Data
+  Loan Income                                                                                    —      $      —     $       —      $     60      $      61
+  Technical Cooperation Income                                                                   —             —             —             5              6
+  General Reserve Transfers                                                                      —             —             —            —              —
+  Net Income                                                                                     —             —             —            43             22
+a
+  	Excludes guarantees issued under the Trade Facilitation Program, non-sovereign-guaranteed loan participations, and exposure and exchange
+     agreements.
+b
+   	Effective January 1, 2018, the Bank adopted a new accounting standard (ASU) that required the other components of net pension benefit costs to be
+     presented separately from the service cost component, and outside of Operating income. The related prior years amounts were adjusted to conform
+     to the 2018 presentation.
+c
+  	 Borrowings (after swaps) and guarantee exposure.
+d
+   	 “Total Equity” is defined as Paid-in capital stock and Additional paid-in capital, net of Capital subscriptions receivable, less Receivable from members,
+     plus Retained earnings minus borrowing countries’ local currency cash balances and Accumulated other comprehensive income (non-GAAP measure).
+e
+  	In 2017, the Bank implemented a non-risk based leverage limit based on the Debt-to-Equity Ratio, which complements the current risk-based capital
+     constraint.
+f
+  	 Effective January 1, 2017, all assets and liabilities of the FSO were transferred to the ORC. The FSO continues to exist as a separate account but with
+     no assets or operations.
+
+Letter of Transmittal
+As required by the By-laws of the Inter-American Development Bank, the Board of Executive Directors hereby
+submits to the Board of Governors the Annual Report of the Bank for 2019. The Annual Report consists of
+a volume entitled “The Year in Review,” containing a review of the Bank’s operations (loans, guarantees and
+grants). A second volume, in English and Spanish, contains in addition the full set of the financial statements of
+the Bank’s resources.
+March 22, 2020
+-----------------------Page 2 End-----------------------
+
+  A PARTNER FOR
+
+Latin America and
+  the Caribbean
+-----------------------Page 3 End-----------------------
+
+     The IDB Group comprises the Inter-American Development Bank (IDB), IDB Invest
+     (the commercial name of the Inter-American Investment Corporation, IIC) and IDB LAB
+     (the commercial name of the Multilateral Investment Fund, which is administered by
+     the IDB). As the world’s oldest and largest regional multilateral development bank, the
+     IDB is the main source of multilateral financing for economic, social, and institutional
+     development in Latin America and the Caribbean.
+        The mission of IDB Invest is to promote the economic development of Latin America
+     and the Caribbean through the private sector. As part of its mission, IDB Invest supports
+     private sector and state-owned enterprises through financing, including loans, equity
+     investments and guarantees. IDB Invest also partners with clients to provide advisory
+     and training services.
+        IDB Lab is the IDB Group’s innovation lab. It conducts high-risk experiments to
+     test new models for engaging and inspiring the private sector to solve economic
+     development problems in Latin America and the Caribbean.
+        The IDB’s financial resources come from its 48 member countries and from borrowing
+     in financial markets, trust funds that it administers and cofinancing ventures.
+        The IDB’s debt rating is Triple-A, the highest available. The IDB is headquartered in
+     Washington, D.C. and has offices in its 26 member countries in Latin America and the
+     Caribbean, as well as in Madrid and Tokyo.
+
+
+
+
+     IDB MEMBER COUNTRIES
+     Argentina, Austria, The Bahamas, Barbados, Belgium, Belize, Bolivia, Brazil, Canada,
+     Chile, China, Colombia, Costa Rica, Croatia, Denmark, Dominican Republic, Ecuador,
+     El Salvador, Finland, France, Germany, Guatemala, Guyana, Haiti, Honduras, Israel, Italy,
+     Jamaica, Japan, Republic of Korea, Mexico, Netherlands, Nicaragua, Norway, Panama,
+     Paraguay, Peru, Portugal, Slovenia, Spain, Suriname, Sweden, Switzerland, Trinidad and
+     Tobago, United Kingdom, United States, Uruguay and Venezuela.
+
+
+
+
+ii               IDB ANNUAL REPORT 2019
+-----------------------Page 4 End-----------------------
+
+Table of
+Contents
+                                    1
+                              Message from
+                              the President
+
+
+
+              3                                       5
+             Executive                            1. Operational
+             Directors                               Summary
+
+
+
+                                13
+                             2. Highlights by
+                                  Sector
+
+
+
+
+   The independently audited Financial
+                                                    31
+                                                   Appendixes
+   Statements of the Bank, together with
+   Management’s Discussion and Analysis:
+   Ordinary Capital, are available at
+   www.iadb.org/ar2019/fs.
+
+
+
+
+                                           IDB ANNUAL REPORT 2019   iii
+-----------------------Page 5 End-----------------------
+
+      Honduras is investing in human
+capital in children and adolescents by
+      improving educational services.
+-----------------------Page 6 End-----------------------
+
+Message from
+the President
+
+
+It is incredible to think that 60 years ago, when the
+IDB was born, one in three people in our region
+could not read. The average life expectancy was
+just 57 years, and tens of millions of people lacked
+access to essential services.
+     Since then, Latin American and Caribbean
+countries have made historic progress in almost
+all areas of development. At the IDB, which has
+financed thousands of projects that have helped
+reduce poverty and improve the quality of peo-
+ple’s lives, we are proud of what has been achieved
+over the years.
+     But we are also very aware of the great gap that still exists between the
+aspirations of the people we serve and the reality they face every day. The
+social protests experienced by several of the region’s countries in 2019 have
+diverse and complex causes that range from demands for better wages to
+outrage over corruption. But underlying all these protests is a sense of frus-
+tration over a lack of equal opportunity.
+     The intensity of the unrest might have surprised the founders of the IDB.
+It is clear that Latin American and Caribbean citizens no longer base their ex-
+pectations on their parents’ experiences, but instead, on the experiences of
+their peers in more successful countries.
+     That is the challenge facing the IDB: just as the IDB was born 60 years ago
+with the mission of accelerating growth and regional integration, today our
+duty is to help our countries address the changing demands of their people
+and build more prosperous, sustainable and inclusive societies.
+     That challenge is even greater in a highly complex global context, marked
+by geopolitical tension, and amid a stagnant regional economy that is already
+eroding progress made against poverty. But the biggest risk resides in the
+possibility that, if we don’t find ways to meet widespread demands, we could
+face even greater turbulence in the near future.
+     Last September, at the Bank’s 60th anniversary celebration in Washington,
+D.C., we discussed this challenge with Governors and representatives from
+across the region. We know that we have a duty to think and act boldly.
+
+
+
+
+                                       IDB ANNUAL REPORT 2019                      1
+-----------------------Page 7 End-----------------------
+
+        We also know that to meet our challenge, the region needs a solid institution,
+    like the one on display in last year’s operating results. In 2019, the Bank approved
+    106 sovereign guaranteed loan projects for a total of $11.3 billion. For its part, IDB
+    Invest approved about $4.7 billion in operations and sealed commitments for a
+    similar amount, exceeding its annual goals.
+        Not only did we maintain our triple-A rating, but credit ratings agencies
+    all recognized the significant effort we made to ensure our financial strength
+    through strict budgetary discipline.
+        Our administrative austerity did not prevent us from increasing our activities
+    or taking on new development activities. Just as in the past we focused in detail
+    on topics such as citizen security, climate change and transparency, in 2019 we
+    approved the first operation from our Migration Initiative.
+        In addition, we continued our internal drive toward gender equality and raised
+    the percentage of women in higher pay grades at both the IDB and IDB Invest.
+    We also moved to strengthen our social and environmental safeguards, our
+    transparency and integrity frameworks, and our access to information policy.
+        These advances both strengthen our reputation as the region’s preferred
+    partner and confirm my conviction that we can adapt to meet demands that are
+    continuously evolving.
+        In a few months, I will conclude what has been the most fascinating and
+    gratifying experience of my professional life. I appreciate the trust our countries
+    have placed in me to lead the IDB Group over the past 15 years.
+        I will continue working until my last day to clear the path for my successors.
+    I will do so convinced that for us to meet the great challenges of the coming
+    decades, the IDB must be able to continually experiment and reinvent itself.
+        More than six decades ago, the founders of this institution made a commitment
+    to do exactly that. And today, fulfilling that commitment requires knowing how to
+    listen to those voices in Latin America and the Caribbean that rightly demand a
+    better present and a future full of opportunities.
+
+
+
+
+    Luis Alberto Moreno
+    President
+    Inter-American Development Bank
+
+
+
+
+2           IDB ANNUAL REPORT 2019
+-----------------------Page 8 End-----------------------
+
+                Executive
+                Directors
+
+
+                  The IDB’s shareholders—its 48 member countries—are represented by the Board
+                  of Governors, the highest decision-making body of the Bank. The Governors
+                  delegate many of their powers to the Board of Executive Directors, whose
+                                                             14 members they elect or appoint
+                                                             for three-year terms. Executive
+                                                             Directors for the United States
+                                                             and Canada represent their own
+                                                             countries; all others represent
+                                                             groups of countries. The Board
+                                                             of Executive Directors also in-
+                                                             cludes 14 Alternates, who have
+                                                             full power to act when their
+                                                             principals are absent. The Board
+                                                             of Executive Directors is respon-
+                                                             sible for day-to-day oversight of
+                                                             the Bank’s operations. It estab-
+                                                             lishes the institution’s policies,
+                Front row (left to right):                   approves projects, sets interest
+Gina Montiel (Venezuela), Edna Camacho (Costa Rica),         rates for Bank loans, authorizes
+      Christiane Bogemann-Hagedorn (Germany),                borrowings in capital markets,
+    Federico Poli (Argentina), Bosco Martí (Mexico)
+                                                             and approves the institution’s ad-
+                      Middle row:                            ministrative budget. The work of
+Selwin Hart (Barbados), Sergio Savino Portugal (Brazil),
+                                                             the Board of Executive Directors
+ Toshiyuki Yasui (Japan), Marcelo Bisogno (Uruguay),
+                                                             is guided by the Regulations of
+     Germán Rojas (Paraguay), Alex Foxley (Chile),
+         Fernando de León de Alba (Panama),                  the Board of Executive Directors
+ Patrick Hervé (France), Eliot Pedrosa (United States),      and the Code of Ethics for
+  Donald Bobiash (Canada), Lucio Castro (Argentina)          Executive Directors. The agendas
+                       Back row:                             and minutes of the meetings of
+  Adolfo Di Carluccio (Italy), Eric Madueño (Canada),        the Board of Executive Directors
+       José Guilherme Almeida dos Reis (Brazil),             and its standing committees are
+              Bernardo Acosta (Ecuador),                     public documents.
+          Malcolm Geere (United Kingdom)
+
+
+
+
+                                                       IDB ANNUAL REPORT 2019                     3
+-----------------------Page 9 End-----------------------
+
+      Uruguay is using long-term
+   financing to design, construct
+and operate a 50 MW wind farm.
+          Photo: Herbert Morello
+-----------------------Page 10 End-----------------------
+
+1   Operational
+    Summary
+
+
+    Loan Approvals
+
+    In 2019, the Bank approved a total of 106 sovereign guaranteed loan operations with
+    total financing of $11.3 billion. The sovereign guaranteed lending program included
+    84 investment projects for $5.9 billion, 21 policy-based loan projects for $4.9 billion,
+    and a special development lending project for $500 million in Ecuador.
+
+        Investment projects included 17 operations for $1.29 billion under conditional
+    credit lines for investment projects (CCLIPs) and one multiphase project for $600
+    million to support the equity and effectiveness of the social safety net in Argentina.
+        Of the 21 policy-based loan (PBL) projects, the Bank approved three multiple
+    tranche PBLs for $450 million and 18 programmatic PBLs for $4.46 billion, of which
+    10 loans, for $1.85 billion, corresponded to first stages and eight loans, for $2.6 bil-
+    lion, corresponded to subsequent stages.
+        Approvals of sovereign guaranteed loan projects returned to the level of the
+    preceding five-year period. Average annual approvals for 2015–2019 were $10.9
+    billion, matching the 2010–2014 average.
+        The sovereign guaranteed lending program financed projects with a total cost
+    of $12.9 billion. That includes $11.1 billion from the Ordinary Capital, five projects for
+    $119 million from the IDB Grant Facility, three projects with $91 million in financing from
+    Bank-administered funds, and $1.58 billion from other sources and local contributions.
+        The Bank approved three new contingent credit facilities for natural disaster
+    emergencies for $340 million and one $160 million replenishment of funds for Ecua-
+    dor’s facility. As a result, 10 countries of the region have this natural disaster facility
+    with a coverage of $1.9 billion. Additionally, the Bank approved 10 conditional credit
+    lines for investment programs (CCLIPs) for $3.9 billion. Of the 10 CCLIPs, two were
+    multisector for $480 million.
+        New financing for smaller, more vulnerable nations, known as Group C and D
+    countries, accounted for 44%  of approvals in 2019, two percentage points more
+    than in 2018. As a result, the Bank continued to solidify its standing as the leading
+    source of multilateral finance for the region.
+        In terms of sectors, 41% of approved financing was channeled through the Institutions
+    for Development Sector (IFD), 30% through the Infrastructure and Energy Sector (INE),
+    15% through the Social Sector (SCL), 11% through the Climate Change and Sustainable
+    Development Sector (CSD), and 3% through the Integration and Trade Sector (INT).
+
+
+
+
+                                             IDB ANNUAL REPORT 2019                          5
+-----------------------Page 11 End-----------------------
+
+    2019 Approvals by Sector                                           1
+
+
+                     (In millions of U.S. dollars)
+	        Infrastructure and Environment
+         SECTORS                             NUMBER OF PROJECTS   APPROVED AMOUNT
+         Agriculture and Rural Development           3                     115
+         Energy                                      6                     821
+         Environment and Natural Disasters           3                     117
+         Sustainable Tourism                         1                      6
+         Transport                                   11                1,677
+         Water and Sanitation                        10                    919
+         Urban Development and Housing               7                 1,049
+         SUBTOTAL                                    41                4,704
+
+
+
+
+	        Institutions for Development
+         Financial Markets                           3                     340
+         Industry                                    —                     —
+         Private Firms And Sme Development           7                     485
+         Reform/Modernization of the state           28                3,461
+         Science And Technology                      4                     146
+         SUBTOTAL                                   42                 4,432
+
+
+
+	        Trade and Regional Integration
+         Regional Integration
+         Trade                                       5                     314
+         SUBTOTAL                                    5                     314
+
+
+
+
+	        Social Sector
+         Education                                   2                     70
+         Health                                      5                     348
+         Social Investment                           11                1,443
+         SUBTOTAL                                    18                1,861
+
+         TOTAL GENERAL                              106                11,311
+
+     1
+         It excludes reformulations.		
+
+
+
+
+6    IDB ANNUAL REPORT 2019
+-----------------------Page 12 End-----------------------
+
+FIGURE I. Approvals and Disbursements, 2015–2019
+                  (In millions of U.S. dollars)
+
+
+       2015
+
+
+
+       2016
+Year
+
+
+
+
+       2017
+
+
+
+       2018
+
+
+
+       2019
+
+              0            2,000         4,000    6,000       8,000        10,000       12,000         14,000        16,000
+                                                              Amount
+                                                  Approvals           Disbursements
+
+
+
+
+    Approvals by sector do not fully reflect the              Active Portfolio of Sovereign
+progress made in promoting joint work. In 2019,               Guaranteed Projects
+the continuation of the multiple booking category
+and efforts to incentivize these synergies resulted           By the end of 2019, the Bank’s active portfolio of
+in 51%  of financing deriving from joint work by              sovereign guaranteed projects in execution con-
+different operating units.                                    sisted of 595 projects with an undisbursed balance
+    By economic activity group, 42% of approved               of $31.4 billion2, 58%  of the originally approved
+financing went to the infrastructure and environ-             amount and five percentage points higher than the
+ment sectors, 39%  to institutional support for               value in 2018. Of the total undisbursed resources,
+development, 16% to social sector programs, and               58%  were in the infrastructure and environment
+3% to integration and trade programs. In terms of             sector, 21%  in institutions for development pro-
+the number of projects, 39%  of newly approved                grams, 17%  in social sector programs, and 4%  in
+operations were in the infrastructure and envi-               trade and regional integration programs.
+ronment sectors, 39% in institutional support for
+development, 17% in the social sectors, and 5% in
+the integration and trade sectors.                            1	
+                                                                 This figure includes resources from the Ordinary Capital,
+                                                              IDB Grant Facility, Clean Technology Fund, China Cofinancing
+                                                              Fund for Latin America and the Caribbean, Canadian Climate
+                                                              Fund for the Private Sector in the Americas, Strategic Climate
+Disbursements                                                 Fund, and Korea Cofinancing Facility.
+                                                              2	
+                                                                 In order to avoid double counting, the project for the
+                                                              Modernization and Strengthening of the Agricultural Health
+The Bank disbursed a total of $8.95 billion1 on
+                                                              and Food Safety Services (BR-L1496), approved in 2018 for US
+sovereign guaranteed projects in 2019. This is                $ 160 million, consists of two investment instruments, a loan
+10% lower than the disbursement level in 2018.                based on the results, and a technical cooperation loan.
+
+
+
+
+                                                                      IDB ANNUAL REPORT 2019                              7
+-----------------------Page 13 End-----------------------
+
+    The approved value of the Bank’s portfolio of      includes six OC-SDPs, 49 bilateral or multi-donor
+sovereign guaranteed projects in execution has been    donor trust funds, and 14 financial intermediary
+growing because of a higher level of approvals. On     funds. Contributions totaled $556 million in 2019.
+average, portfolio volume has increased 21%  over      These contributions, coupled with the $110 million
+the last five years compared with the previous         available in OCSDPs for 2019 and the stock of
+five-year period. Average annual volume rose           funds available at the end of 2018, bring the total
+from $44.79 billion in 2010–2014 to $54.2 billion in   level of resources administered by the Bank in
+2015–2019.                                             2019 to $968 million.
+
+
+
+IDB Lab                                                Cofinancing, strategic partnerships,
+                                                       and resource mobilization
+In March 2019, an agreement took effect that
+ratifies IDB Lab’s role as an innovation laboratory    Resource mobilization became a new pillar of the
+of and for the IDB Group. This has resulted in a       IDB’s institutional strategy, which was updated
+2019–2021 business plan that focuses on co-            and approved at the IDB’s Annual Meeting. The
+creating market solutions with an impact that can      strategy recognizes that the region faces major
+transform the lives of poor and vulnerable groups      obstacles in financing the United Nations’ Sustain-
+in Latin America and the Caribbean (LAC).              able Development Goals (SDGs).
+    By the end of 2019, IDB Lab had approved 62           In 2019, the IDB continued to prioritize the
+projects for $82.6 million in which it mobilized       development of partnerships with traditional
+$460  million in third-party resources. During the     partners that use IDB and donor funds to
+year, 54%  of the proceeds approved for projects       catalyze private investment. One key example
+benefited Group C and D countries, 23% benefited       is phase II of the Canadian Climate Fund for the
+Group A and B countries, while 23% had regional        Private Sector in the Americas (C2F) established
+coverage. IDB Lab also continued to intensify its      by the Canadian government and IDB Invest. This
+‘innovation for inclusion’ mission, with 90%  of its   CAD$223.5 million initiative seeks to leverage up
+projects being innovative, 39% addressing a gender     to $1 billion in private investments in sectors such
+gap, 28% addressing a diversity gap, 46% address-      as renewable energy, sustainable agriculture,
+ing climate change mitigation or adaptation, and       forestry, etc.
+67% targeting poverty and vulnerability.
+                                                       Cofinancing The amount of cofinancing totaled
+                                                       $4.2 billion in mobilized resources, or 94% of the
+Concessional and non-reimbursable                      total mobilized in the year.
+financing
+                                                       Strategic partnerships The IDB continued to
+In 2019 the ordinary capital resources available       expand its global partnerships. A key partner was
+for strategic development programs (OC-SDPs)           the United States through the Overseas Private
+totaled $110 million. This included $102 million ap-   Investment Corporation (OPIC), with which a
+proved by the Board of Executive Directors, plus       memorandum of understanding was signed
+$6.6 million in cancellations in 2018 and $1.5 mil-    committing a joint investment of $3 billion in Latin
+lion in cancellations in 2019.                         American and Caribbean development projects
+    The Bank managed 69 funds for loans and non-       over the next five years, with the option of
+reimbursable financing operations. This figure         increasing it to $5 billion. IDB Invest and OPIC aim
+
+
+
+
+ 8                  IDB ANNUAL REPORT 2019
+-----------------------Page 14 End-----------------------
+
+                                                                           NICARAGUA
+                                                                 Mus dolo quam volorep eruptae nullenditis
+                                                                   evellic tem quid ut omni nim quas et aut
+                                                                    am, cum et rem. Lo beat maio. Acitincte
+                                                                     nis apiti blab ipsus autemposa ventium
+                                                                            nonsed quia asim re voluptibus.
+
+
+
+
+Nicaragua is making its trade sector more competitive by updating infrastructure, equipment,
+and computer systems at border crossings.
+
+
+
+
+to equal this investment by galvanizing additional      of Technology’s MIT Solve initiative, which seeks to
+private sector capital for a total of between           compile and support global solutions to social and
+$6 billion and $10 billion.                             environmental challenges.
+
+Agreements with nontraditional partners The IDB         Resource mobilization In 2019 the total resources
+continued to work with nontraditional partners such     mobilized by the Bank’s Office of Outreach and
+as universities, foundations, and other philanthropic   Partnerships (ORP) amounted to $4.4 billion. This
+institutions, as well as on high-level events and       was achieved through 118  transactions and 67
+knowledge platforms. In its work with universities,     active partnerships. More than $245 million of that
+one key milestone was the expansion of a partnership    amount are non-reimbursable resources, while
+between the IDB and the Massachusetts Institute         $4.1 billion are reimbursable.
+
+
+
+
+                                                            IDB ANNUAL REPORT 2019                        9
+-----------------------Page 15 End-----------------------
+
+                                                                                                          Approvalsd
+
+
+
+
+                         TABLE I   Yearly (2019) and Cumulative (1961–2019) Approvals and Disbursementsa,b (In millions of U.S. dollars)
+
+
+
+
+10
+                                                                                 Approvalsd                                                                           Disbursements
+                                                                                                  Fund for                                                                                       Fund for
+                                                                                 Ordinary         Special     Funds in                                                         Ordinary          Special     Funds in
+                                                   Total Amount                   Capital        Operations Administrationc                      Total Amount                   Capital         Operations Administrationc
+                             Country           2019           1961–2019         1961–2019        1961–2019e           1961–2019               2019           1961–2019         1961–2019        1961–2019e     1961–2019
+                         Argentina            $ 2,229.0        $ 43,561.7        $ 42,745.0        $ 644.8              $ 172.0              $ 1,394.0        $ 37,293.0        $ 36,568.2        $ 644.9        $ 80.0
+                         Bahamas                    50.0             930.5             928.4                —                  2.1                37.0              717.4             715.3               —          2.0
+                         Barbados                   70.0             970.0             885.6             42.8                41.5                 28.0             805.9              733.7             38.9       33.3
+                         Belize                     24.0             280.3             280.3                —                  —                  13.0              217.7             217.7               —          —
+                         Bolivia                  205.0            8,011.7           4,996.8           2,910.1              104.8                513.0            6,769.0           3,968.1          2,712.9       88.0
+                         Brazil                  1,468.0          55,908.9          54,025.0          1,555.9               328.0              1,548.0          49,033.6           47,221.8          1,555.4      256.3
+                         Chile                     227.0           8,276.7            7,925.1           202.7               148.8                138.0            7,694.7           7,344.0            204.1      146.7
+                         Colombia                1,381.0          26,150.6          25,076.1            746.8               327.6               1,173.0          24,177.6          23,188.6            753.5      235.5
+                         Costa Rica               575.0            6,053.9           5,476.7            351.8               225.4                484.0            5,107.1           4,584.8            348.8      173.5
+                         Dominican               339.0            7,832.9           7,035.4            710.9                86.6                464.0            6,888.1           6,090.5            711.0       86.6
+                          Republic
+
+
+
+
+IDB ANNUAL REPORT 2019
+                         Ecuador                 1,326.0          12,613.0          11,306.7            949.8               356.6                985.0           11,100.2           9,821.0            943.5      335.7
+                         El Salvador              292.0            6,073.5           5,080.5            760.1               232.9                254.0            5,710.6           4,752.4            761.5      196.7
+                         Guatemala                329.0            6,284.6           5,469.8            744.7                70.1                101.0            5,576.7           4,768.9            739.2       68.6
+                         Guyana                       —            1,440.9             367.1          1,066.9                 6.9                 36.0            1,321.4             314.3          1,000.2         6.9
+                         Haiti                    128.0            3,461.3                7.0          1,105.7            2,348.7                 64.0            2,640.7               7.0          1,107.2     1,526.5
+                         Honduras                 272.0            5,707.6           2,937.6           2,651.4              118.7                205.0            5,085.7           2,449.7          2,567.1       68.9
+                         Jamaica                    62.0           4,342.5           3,955.9            163.8               222.8                169.0            4,084.5           3,704.7            166.6       213.1
+                         Mexico                  1,639.0          41,874.6          40,911.6            559.0               403.9              1,578.0           38,755.8          37,882.3            559.0       314.6
+                         Nicaragua                  38.0           4,667.1           1,675.3          2,843.3               148.5                156.0            4,206.2           1,422.0          2,673.2       111.0
+                         Panama                    591.0           8,097.3           7,683.7            280.0               133.5                445.0            6,847.8           6,468.4            283.9       95.5
+                         Paraguay                 602.0             6,167.8          5,327.9            690.4               149.5                314.0            3,987.5           3,288.4            646.4        52.7
+                         Peru                     492.0           13,836.2          13,098.8             418.1              319.2                222.0           11,266.3          10,616.1            427.9      222.4
+                         Suriname                   85.0             890.6             834.2               6.4               50.0                 33.0              685.1             628.7              6.4        50.0
+                         Trinidad and              38.0           2,083.4            2,027.7            30.6                25.2                 57.0            1,935.1           1,879.3             30.6       25.2
+                          Tobago
+                         Uruguay                  604.0            9,310.0           8,918.4            104.1               287.5                223.0            7,381.9           7,001.8            103.8      276.3
+                         Venezuela                    —            6,824.6           6,650.3            101.4                72.9                   —             6,409.4           6,235.2            101.4        72.9
+                         Regional                 323.0            5,620.4           5,239.2            229.3               151.9                224.0            4,181.2           3,910.7            229.8       40.8
+                         TOTAL                $13,389.0         $297,272.3        $270,866.0        $19,870.7            $6,535.7            $10,858.0        $259,880.1        $235,783.4         $19,317.1    $4,779.6
+                         a
+                           Cumulative amounts are after cancellations and exchange adjustments. Totals may not add up due to rounding.
+                         b
+                           Detail includes non-sovereign-guaranteed loans, net of participations, and guarantees, as applicable.
+                         c
+                           Includes loans and financings of the IDB Grant Facility.
+                         d
+                           Excludes lines of credit approved and guarantees issued under the Trade Finance Facilitation Program.
+                         e
+                           Effective January 1, 2017, all assets and liabilities of the FSO were transferred to the ORC. The FSO continues to exist as a separate account but with no assets or operations.
+-----------------------Page 16 End-----------------------
+
+TABLE II   Ten years of Operations, 2010–2019 (In millions of U.S. dollars)
+                                         2010                2011         2012          2013         2014         2015         2016         2017         2018         2019
+    CAPITAL
+    Subscriptions (End of Year)
+    Ordinary Capitala                 104,980              104,980 116,862           128,780       144,174      156,864      170,916      170,934      170,934      170,934
+    Fund for Special Operationsa         10,000             10,069  10,142            10,179        10,204       10,231       10,232           —            —            —
+    Other Fundsb                          4,459              4,823   5,340             5,572         6,200        6,621        6,639        7,143        7,468        8,025
+    Total                              119,439             119,872 132,344           144,531       160,578      173,716      187,787      178,077      178,402      178,959
+    BORROWINGS c
+    Outstanding (End of Year)            61,124              59,630       65,513       66,729       74,938       77,657       79,298        87,048       88,926       94,377
+    Gross Annual Borrowings              13,719               6,798       12,067       15,763       20,928       18,789       15,584        18,868       19,524       20,297
+    OPERATIONS
+    Loans and Guarantees Approved (Cumulative)d
+    Ordinary Capitale                   176,180            186,041      196,302 208,582            218,784 226,930 235,229 246,762 260,136 270,866
+    Fund for Special Operationsj         19,054             19,204       19,486  19,622             19,558  19,571  19,781  20,030  19,871  19,871
+    Other Fundsi                          1,791              1,877        1,940   2,210              2,866   3,229   3,384   3,666   4,070   4,201
+    Total                              197,025             207,122      217,728 230,414            241,208 249,730 258,394 270,458 284,077 294,938
+    Loans and Guarantees Approved (Annual)f
+    Ordinary Capitale                    12,136              10,400       10,799       13,290       12,652       10,404       10,803        13,003       14,250       12,961
+    Fund for Special Operationsj            297                 181          320          251          300          282          247            —            —            —
+    Other Fundsi                             31                  90           60          270          677          388          275           347          506          307
+    Total                                12,464              10,671       11,179       13,811       13,629       11,074       11,325        13,350       14,756       13,268
+    Loan Disbursements (Annual)f
+    Ordinary Capitale                    10,341               7,902        6,882       10,558         9,423        9,719        9,600       10,250       11,304       10,574
+    Fund for Special Operationsj            398                 368          317          322           301          310          190           —            —            —
+    Other Fundsi                             34                  —            50          143           238          182          162          329          178          223
+    Total                                10,773               8,270        7,249       11,023         9,962       10,211        9,952       10,579       11,482       10,797
+    Loan Repayments (Annual)f
+    Ordinary Capital                      5,598               4,601        4,571         8,462        5,213        5,132        6,023        7,748        6,828         7,186
+    Fund for Special Operationsj            214                 195          196           222          187          184          184           —            —             —
+    Other Funds                               5                   6            6             8            8            8           45           46           78            77
+    Total                                 5,817               4,802        4,773         8,692        5,408        5,324        6,252        7,794        6,906         7,263
+    Loans Outstanding
+    Ordinary Capital                     63,007              66,130       68,640       70,679       74,585       78,745        81,952       89,082       93,377       96,723
+    Fund for Special Operationsj          4,004               4,162        4,277        4,364        4,418        4,502         4,510           —            —            —
+    Other Funds                             156                 142          184          317          534          698           806        1,096        1,185        1,324
+    Total                                67,167              70,434       73,101       75,360       79,537       83,945        87,268       90,178       94,562       98,047
+    Grant Financings Approved (Annual)g
+    Ordinary Capital                         86                   93           93          148          123          112          102          113           117          114
+    Fund for Special Operationsj             36                   —            —            —            —            —            —            —             —            —
+    IDB Grant Facility                      251                  241          245          188          214          190           20          128           424          119
+    Other Funds                             457                  311          187          256          374          200          181          193           263          221
+    Total                                   830                  645          525          592          711          502          303          434           804          454
+    Multilateral Investment Fund
+    Operations Approved (Annual)h           122                  108           97          112            94           90           86           85           66           83
+    ADMINISTRATION
+    Administrative Expenses
+    Total—Bank Fundsk                       584                  618          683          837          688          791          696           736          844          834
+a
+   Net of Capital subscriptions receivable $6 million (2018 – $6 million; 2017 – $6 million, 2016 – $24 million for ORC and $10 million for FSO). Effective Januarry 1, 2017, all
+assets and liabilities of the FSO were transferred to the ORC. The FSO continues to exist as a separate account, but with no assets or operations.
+b
+   Includes de Multilateral Investment Fund. Excludes terminated funds.
+c
+   Medium- and long- term borrowings net of unamortized discounts (before swaps and mark-to-market-adjustments). Medium-and long-term Gross Annual borrowings at
+face value, before swaps.
+d
+   Net of cancellations. Includes exchange adjustments.
+e
+   Net of non-sovereign-guaranteed loan participations.
+f
+  Based on original amounts in U.S dollar equivalent.
+g
+   Includes Social Entrepreneurship Program financing, technical cooperations, special program, project specific and other grants. Excludes Multilateral Investment Fund
+Operations which are presented separately.
+h
+   Includes technical cooperations, loans and equity investments. Also includes increases of already existing operations.
+i
+  Does not include IDB Grant Facility.
+j
+  In September 2016, the Board of Governors of the Bank approved a proposal to transfer the net assets from the FSO to the OC with effective date January 1st, 2017 as part
+of the proposal for sustaining concessional assistance by optimizing the Bank’s balance sheet.	
+k
+   Effective January 1, 2018, the Bank adopted a new accounting standard (ASU) that required the other components of net pension benefit costs to be presented separately
+from the service cost component, and outside of Operating income. The related prior years amounts were adjusted to conform to the 2018 presentation.
+
+
+
+
+                                                                                                    IDB ANNUAL REPORT 2019                                                    11
+-----------------------Page 17 End-----------------------
+
+Argentina has been developing
+     novel satellite technology
+        that provides valuable
+              data in real time.
+-----------------------Page 18 End-----------------------
+
+2   Highlights by Sector
+
+
+    Institutions for Development Sector (IFD)
+
+    In 2019, IFD continued supporting the efforts of the countries of the region, focusing
+    on leveraging technological innovation and consolidating institutional capacity and
+    the rule of law.
+        In competitiveness, technology, and innovation, IFD continued to foster private
+    sector innovation and development by supporting the design and implementation
+    of innovation policies and strengthening the associated institutional frameworks. In
+    terms of investment, financing was approved for the first CCLIP in the Caribbean,
+    which aims to support the Jamaican entrepreneurship ecosystem.
+        This program fosters business innovation, technology deployment and develop-
+    ment, competitiveness promotion, and strengthening of advanced human capital.
+    In terms of technical cooperation, support was provided through regional and local
+    proposals in areas ranging from innovation and creative cultural ecosystems in
+    Ecuador, Honduras, and Argentina to promotion of green technology use in Brazil,
+    stimulation of private sector investment, and promotion of best practices in innova-
+    tive public procurement.
+        In connectivity, markets, and finance, the IDB continued to design financial
+    solutions and risk mitigation structures to mobilize greater private sector investment,
+    promote the financing of digital connectivity infrastructure, and improve natural
+    disaster risk management and climate change adaptation. Through a combination
+    of investment loans, policy-based loans (PBLs), contingent loans, and technical
+    assistance, IFD focused on improving productivity in the region’s countries. IFD
+    also expanded support to governments for formulating inclusive public policies that
+    increase the impact of the fintech industry.
+        In fiscal management, IFD continued to strengthen the region’s public finances
+    through interventions in tax policy, revenue administration, and quality of public
+    spending. At the national level, the sector promoted policies and reforms aimed at
+    improving fiscal sustainability through stronger institutional capacity and regulatory
+    frameworks, greater efficiency and transparency in fiscal management, and more
+    effective and better-quality public spending and national budgets.
+        At the subnational level, efforts focused on contributing to provincial/state
+    and municipal growth and fiscal sustainability through the modernization of fiscal
+    management and improvements in revenue, expenditure, and public investment
+    management.
+
+
+
+
+                                            IDB ANNUAL REPORT 2019                       13
+-----------------------Page 19 End-----------------------
+
+    In the area of innovations to serve citizens,          ports for tourism, a school, a hospital, and 300 new
+work focused on promoting quality institutional            dwellings as part of a future resettlement program
+solutions and frameworks, and on improving                 for the San Blas islands affected by climate change.
+service delivery by governments. In the data and               Projects were implemented to heighten com-
+digital governance area, the Bank strengthened             petitiveness in the transportation sector, such as
+its leadership role in the design of comprehensive         the improvement of transportation corridors for
+digital transformation projects and continued to           agroindustrial activities (Paraguay and Uruguay)
+expand its digital governance interventions to             and regional connectivity (Argentina, Bolivia,
+support competitiveness and social inclusion.              Brazil, Ecuador, Guatemala, and Suriname).
+    In addition, the importance of cybersecurity in            In addition, the IDB supported flagship projects
+the operations portfolio increased, as illustrated         in the region. In particular, the Bank supported
+by the first-ever approval of a cybersecurity loan.        Colombia in the process of awarding the concession
+In the area of transparency and integrity area, it         contract for construction and operation of Line 1
+is worth noting its inclusion in the Update to the         of the Bogotá Metro, a project that will improve
+Institutional Strategy as a priority and crosscutting      the quality of life of the city’s residents, promoting
+theme. Also, worth noting is the adoption of               major urban development changes and a better
+the first Transparency and Integrity Sector                use of space. It will also generate yearly savings
+Framework Document, which will guide technical             of 268 million hours of travel time and reduce air
+dialogue and operational work in this area.                pollution by 171,000 tons of CO2 per year.
+    In the citizen security and justice area, activities       INE implemented a digital transformation plan
+aimed at increasing police effectiveness in pre-           promoting the adoption of a digital culture and
+venting violence by improving crime analysis and           experimentation with more advanced technolo-
+evidence-based, community policing capabilities.           gies, such as the Internet of Things, drones and
+                                                           satellites, electric, autonomous, and connected
+                                                           vehicles, big data, and artificial intelligence. These
+Infrastructure and Energy Sector (INE)                     topics formed the basis for 13 pilots, including close
+                                                           to 100 activities that made it possible to boost the
+The institutional challenges set out in the Update         productivity, efficiency, and effectiveness of re-
+to the Institutional Strategy 2010–2020, such as           gion’s infrastructure and energy operations.
+social inclusion and equality, productivity and                In addition, by organizing and making presen-
+innovation, and economic integration, as well as           tations at international forums, INE continued
+the crosscutting themes of climate change and              to position itself as a source of knowledge gen-
+environmental sustainability, gender equality and          eration on key issues, exchange of experiences,
+diversity, and institutional capacity and rule of law,     and the formation of strategic partnerships. One
+were incorporated into the Bank’s infrastructure           example: the IDB jointly organized the first Amer-
+projects by INE project teams.                             icas Transportation Summit with the United States
+   As a result, the IDB approved a program to              Department of Transportation.
+bring electric power to 100% of the communities
+in Panama by 2030. This included a gender and
+diversity approach and socio-culturally appropri-          Climate Change and Sustainable
+ate community consultations and participation.             Development Sector (CSD)
+   In addition, together with the national authorities,
+the Bank consolidated a program in the Guna Yala           Since 2015, climate finance has almost doubled,
+indigenous reserve that will bring electricity to key      from 16%  to 30.7%, and climate integration is
+
+
+
+
+ 14                   IDB ANNUAL REPORT 2019
+-----------------------Page 20 End-----------------------
+
+                                                                              NICARAGUA
+                                                                    Mus dolo quam volorep eruptae nullenditis
+                                                                      evellic tem quid ut omni nim quas et aut
+                                                                      am, cum et rem. Lo beat maio. Acitincte
+                                                                       nis apiti blab ipsus autemposa ventium
+                                                                               nonsed quia asim re voluptibus.
+
+
+
+
+To increase security, Jamaica is investing in a program to help young people enter the labor
+market.
+
+
+
+
+expanding beyond the infrastructure and sustain-           Mexico’s Yucatán state, and structuring municipal
+ability sectors to the institutional and social sectors.   bonds to promote green and sustainable cities.
+It is worth noting CSD’s collaboration with IFD in            Furthermore, with €24 million in commitments
+linking fiscal management to climate change; its           from France as a founding country and £12.75
+collaboration with INE and SCL in green buildings;         million from the United Kingdom for mangrove
+and its collaboration with INE in clean transport,         projects, the Natural Capital Lab (NCL) was
+electromobility, and a strategy for water resource         approved as a one-stop shop for the IDB Group
+management.                                                to drive innovation in the conservation, landscape,
+    Moreover, CSD continued efforts to increase            regenerative agriculture, biodiversity, and marine
+access to climate finance, including support for           ecosystem finance spaces.
+Chile’s launch of a $1.4 billion sovereign green bond,        Regarding innovation and knowledge, CSD
+the first of its kind in the region. In addition, the      completed, disseminated, and began to im-
+IDB Group’s NDC Invest platform was consolidated,          plement the Disaster and Climate Change Risk
+supporting 25 countries in implementing their              Assessment Methodology for IDB Projects. It
+national contributions to meet Paris Agreement goals.      also reinforced the operationalization of the
+    In addition, CSD implemented an ambi-                  Framework for Sustainable Infrastructure, both in-
+tious agenda of supporting innovative financial            ternally and in Brazil, Colombia, Mexico, and Peru,
+mechanisms that facilitate the transition toward           through financial support from the United King-
+sustainable economic models. Green bonds were              dom’s Sustainable Infrastructure Program (SIP)
+the most noteworthy mechanism this year, in-               and technical support from the German Federal
+cluding the Chilean bond, developing frameworks            Enterprise for International Cooperation (GIZ),
+for these type of instruments in Colombia and in           and in collaboration with our strategic partners at
+
+
+
+
+                                                               IDB ANNUAL REPORT 2019                       15
+-----------------------Page 21 End-----------------------
+
+Brookings, Harvard, The Nature Conservancy, and          excluded by reason of sexual orientation or
+the World Wildlife Fund.                                 gender identity.
+     Through the Cities Network, the technical capaci-       Since these diverse populations account for
+ties of more than 180 cities were strengthened on such   about 40% of the region’s total population, attention
+issues as migration, public spaces, sustainable mobil-   to diversity is not only a moral but an economic im-
+ity, energy efficiency, comprehensive urban planning,    perative. The DAP proposes creating an institutional
+women’s leadership, heritage, local economic devel-      culture that promotes development with identity
+opment agencies, and urban regeneration.                 and inclusion as an integral part of the Bank’s work.
+     Furthermore, support in digital transition and      The plan aims to help generate data on diverse pop-
+emerging technologies was intensified, including         ulations and information on effective interventions,
+on issues such as digital agriculture, opportunities     while also providing technical assistance and training
+and challenges in CRISPR plant breeding innovation       to support project teams in mainstreaming diversity
+for agriculture in LAC, digital transformation in the    issues in Bank operations across all sectors.
+tourism sector, use of blockchain technology in land         In 2019, the Bank achieved significant progress
+titling projects and other rural development issues,     in implementing the DAP, including in direct
+and technologies to facilitate urban management          investment operation. In Colombia, the Program
+and transparency with regard to climate change.          to Strengthen Polices for the Social and Productive
+                                                         Inclusion of Persons with Disabilities is aimed at
+                                                         advancing toward the inclusion of persons with
+Social Sector (SCL)                                      disabilities with a view to their full and effective
+                                                         participation in society on an equal basis. Among
+In 2019, SCL led an innovation program that pri-         the most innovative aspects of this operation is
+oritizes investment in people and highlights the         that it replaces the concept of legal incompetence
+importance of diversity and inclusion for economic       with the notion that an individual with disabilities
+growth. To address the urgent issue of migration,        can make independent decisions.
+the Bank approved an operation in Ecuador, the               In the area of Gender Equality, the IDB achieved
+first of its kind, that uses supplementary resources     significant progress on key action aspects of its
+available through the IDB Grant Facility to sup-         Gender Action Plan (GAP), including direct invest-
+port countries receiving sudden and massive              ment, mainstreaming gender in the loan portfolio,
+intraregional migration flows. The program aims          and support for the regional agenda. In Panama, the
+to increase social services in key migrant hosting       Program to Support Gender Equality Policies had its
+cities through a design that provides a solid and        first operation aimed at reducing gender inequality in
+replicable platform for channeling the Bank’s            the country. The operation’s objective is to implement
+multisector support for a high-priority agenda for       effective and timely policies that promote women’s
+several countries in the region.                         physical autonomy, finances, and decision-mak-
+    In addition, important precedents were set           ing. It focuses on strengthening the regulatory and
+in intersector coordination, both by the gov-            institutional framework in the country and improv-
+ernments and within the Bank, to address the             ing the capacity for gender policy management.
+multidisciplinary challenges of greater gender               In terms of analytical work, SCL published one
+equity and diversity. In this regard, the Bank ap-       book, 22 monographs, three chapters for books,
+proved the first Diversity Action Plan (DAP) as          16 working papers, 31 technical notes, 11 policy
+a new institutional mainstreaming instrument,            summaries, and 23 articles in academic journals.
+including actions for indigenous peoples, Afrode-        This work covered a range of topics that can be
+scendants, persons with disabilities, and persons        grouped into three areas: accumulation of human
+
+
+
+
+ 16                  IDB ANNUAL REPORT 2019
+-----------------------Page 22 End-----------------------
+
+                                                                            NICARAGUA
+                                                                 Mus dolo quam volorep eruptae nullenditis
+                                                                    evellic tem quid ut omni nim quas et aut
+                                                                    am, cum et rem. Lo beat maio. Acitincte
+                                                                     nis apiti blab ipsus autemposa ventium
+                                                                            nonsed quia asim re voluptibus.
+
+
+
+
+Barbados is helping students and secondary-school graduates obtain the skills required by
+modern labor markets. Photo: Yajaira Archibald.
+
+
+
+
+capital and job skills; inclusive social services;      information, regulatory, and financial costs for the
+and emerging issues, such as the challenge of           region’s countries.
+demographic aging. A crosscutting theme in SCL’s            INT focused its operational work on supporting
+analytical work is the digital transformation and       institutional improvements that promote greater
+how the Fourth Industrial Revolution will change        foreign direct investment (FDI) in the region. For
+the social contract between the State and citizens,     example, in Ecuador it financed the launch of a na-
+between companies and employees, and between            tional investment attraction and facilitation system.
+service providers and the user population.              Similarly, in Suriname it supported the promotion
+                                                        of FDI and export capacity through a new institu-
+                                                        tional architecture and programs to provide better
+Integration and Trade Sector (INT)                      services. In Uruguay, the Bank supported the
+                                                        modernization of the regulatory and institutional
+In 2019, INT continued to prioritize alignment of       framework for investment, trade, and innovation.
+its work program with the Update to the Bank’s          In Haiti, it promoted institution-strengthening and
+Institutional Strategy as it relates to regional eco-   development of services for local and foreign
+nomic integration. It continued to strengthen           investors. Lastly, in Colombia, it promoted diver-
+support for innovation both in operations and           sification and internationalization of the economy,
+research. INT also held a deep dialogue with gov-       supporting exports of knowledge-based products
+ernments and other external clients to continue         and new tools for increased FDI flows.
+forging closer ties and, based on specific needs,           In terms of research work, INT and the Re-
+designing cutting-edge operations under an in-          search Department (RES) jointly authored the
+novative approach that can help reduce logistical,      chapter, “From Promises to Results in International
+
+
+
+
+                                                            IDB ANNUAL REPORT 2019                         17
+-----------------------Page 23 End-----------------------
+
+AUGARACIN
+sitidnellun eatpure perolov mauq olod suM
+tua te sauq min inmo tu diuq met cilleve
+etcniticA .oiam taeb oL .mer te muc ,ma
+muitnev asopmetua suspi balb itipa sin
+.subitpulov er misa aiuq desnon
+
+
+
+
+Mexico is using innovative methods to modernize civil registration systems.
+
+
+
+
+Trade: What Global Integration Can Do for Latin      drew 1,500 attendees from governments, com-
+America and the Caribbean,” in the 2019 edition      panies, and organizations from 40 countries,
+of the Bank’s flagship publication Development in    including 370 entrepreneurs and business leaders.
+the Americas (DIA). Also, worth noting is publica-       In addition, the Eleventh LAC Flavors Forum
+tion of the report, “How to Solve the Investment     (Cali, Colombia) produced a record 2,600 one-
+Promotion Puzzle,” which maps investment pro-        on-one meetings and potential business deals for
+motion agencies in LAC and OECD countries.           $80 million. The IDB also helped organize events in
+    In addition, by organizing a variety of forums   Korea, China and Brazil, as well as the Brazil Invest-
+and events, INT continued in 2019 to promote         ment Forum 2019, Latin America’s most important
+a dialogue between various government and            investment attraction event. It brought together
+business representatives on issues related to        more than 3,000 businesspeople and government
+integration, foreign trade, and investment attrac-   officials from 56 countries in São Paulo.
+tion. The Global Business Forum Latin America
+(Panama City, Panama), attended by more than
+800 delegates from 50 Arab Gulf and LAC coun-        Knowledge, Innovation and
+tries, was one of the IDB’s key events.              Communication (KIC)
+    Other key events included the India-LAC Trade
+and Investment Roundtable (New Delhi, India), or-    In 2019, under KIC’s leadership, 4,597 IDB Group
+ganized by the IDB, IDB Invest, and the Federation   employees participated in knowledge and learn-
+of Indian Chambers of Commerce and Indus-            ing activities, completing more than 298,1603
+try, and the Made in the Americas Global Digital
+Services Summit (Buenos Aires, Argentina), which     3	
+                                                          Data as of November 31, 2019.
+
+
+
+
+ 18                 IDB ANNUAL REPORT 2019
+-----------------------Page 24 End-----------------------
+
+hours of training in diverse knowledge and skills             Meanwhile, KIC redesigned the IDB Group
+acquisition areas including Environmental and             Visitors Program to enhance the experience for
+Social Safeguards; Institutional Capacity As-             external users. The program welcomed 1,756
+sessment; Digital Transformation Public-Private           visitors through more than 80 groups from uni-
+Partnerships. These programs were offered both            versities and government institutions. KIC also
+to Bank staff and government counterparts.                created a new Visitors Center at the Bank’s head-
+    Regarding training programs for clients, worth        quarters, which uses multimedia storytelling and
+noting is the launch of 39 mass, open, online             interactives to welcome, engage and inform both
+courses (MOOCs) on the IDBx platform, which is            select audiences and the general public.
+part of Harvard and MIT’s edX. In 2019, more than             In 2019, KIC continued working to increase
+299,935 participants enrolled, and new MOOCs were         the IDB Group’s visibility and strengthen its
+launched on subjects such as big data, partnerships       reputation among a variety of external audiences
+to promote Sustainable Development Goals, ex-             and stakeholders, using digital channels, press
+tractive sector sustainability, and analysis of natural   initiatives, and event support.
+disaster risks, climate change, and infrastructure.           Improving Lives gained momentum as the main
+    KIC also made a significant effort to increase        digital storytelling platform for the IDB. Launched
+the visibility of the Bank’s knowledge products in        in late 2018, its more than 80 multimedia stories
+the region, where people downloaded 5.4 million           have garnered almost 1  million views. Improving
+documents from the IDB publications website—a             Lives also won two prestigious awards and an
+new record. KIC produced 695 new publications             honorable mention in the 2019 Content Marketing
+in 2019.                                                  Awards from Ragan Communications.
+    KIC launched a series of new tools including Pa-
+perflite, which analyzes user interactions with IDB
+publications; Findability, an artificial-intelligence     Crosscutting activities
+tool that provides information to the public in real
+time about IDB operations and knowledge prod-             Migration Initiative Sudden and massive in-
+ucts; and Who Knows?, a search tool that helps            traregional migration flows have become an
+find IDB staff who know about specific topics.            emerging challenge for inclusive development
+    In addition, KIC used a wide range of initiatives     in LAC, creating a potential crisis in the mi-
+to promote a culture of innovation and creativity         grant-hosting communities. Since 2015, more than
+at the IDB Group. KIC also accelerated the design         4.8 million people have emigrated from Venezu-
+of new products and solutions to operational and          ela. Moreover, the United Nations projects that
+institutional challenges. In that context, KIC de-        by year-end 2020 close to 6.5 million Venezue-
+signed, developed and launched Eureka!—a digital          lans will be living in another country. Unless these
+platform that centralizes, highlights and humanizes       flows are urgently and effectively addressed, they
+innovation initiatives throughout the IDB Group.          can adversely affect the region’s poverty reduc-
+    KIC also bolstered open innovation through            tion and social inclusion efforts, triggering political
+initiatives that included contests, participation in      and social instability.
+global innovation platforms, strategic events and            The Migration Initiative was created in 2018 to
+increased collaboration with strategic partners.          promote a better understanding of migration flows
+Noteworthy activities included the launch of              and policies in the region, encourage dialogue on
+Rethink Plastics, in collaboration with MIT Solve,        relevant policies in this area, and increase technical
+which aims to identify and foster innovation to           and financial support for managing sudden mass
+substantially reduce or eliminate the use of plastic.     migration flows.
+
+
+
+
+                                                              IDB ANNUAL REPORT 2019                          19
+-----------------------Page 25 End-----------------------
+
+     To support the design and implementation            Update of the Access to Information Policy
+of operations aimed at benefiting the inbound            Under the leadership of the Office of the Presi-
+countries of migrant flows, the Bank approved            dency, and with the support of a multidisciplinary
+the use of up to $100 million under the IDB Grant        group from the IDB Group, the Bank began the
+Facility to support countries receiving sudden and       process of the 2019–2020 review of the Access to
+massive intraregional migration flows. These funds,      Information Policy (the Policy). The objective of
+combined with Ordinary Capital resources, will           this policy update is to reaffirm the Bank’s commit-
+be allocated to investment loan operations in the        ment to transparency in its activities, enhancing
+following thematic areas: (i) access to identification   the effectiveness of IDB operations and strength-
+and registry services; (ii) access to basic services;    ening governance and accountability at the IDB.
+(iii)  access to social services; and (iv)  expansion       This objective will be achieved by updating the
+of economic opportunities. Accordingly, the              Policy to reflect new information access trends
+Migration Initiative, in collaboration with various      and standards seen in International Financial
+units, has been working since June 2019 on the           Institutions (IFIs) and globally, and to leverage
+preparation of seven operations that, for the            lessons learned and close gaps identified in
+Bank, entail investments of $393 million. Of that        current regulations and standards and in the
+amount, $50.38 million will be financed by the IDB       Policy’s implementation since it took effect in 2011.
+Grant Facility, $28.63 million will be in donor grant       For these purposes, the IDB launched a two-
+resources, and $314 million will be reimbursable         phase public consultation that includes: (i) a 45-day
+resources.                                               comment period on the policy profile, which took
+                                                         place in 2019; and (ii) a 120-day comment period
+Environmental and social safeguards Under the            on the policy draft, which is taking place in 2020.
+leadership of the Office of the Presidency’s Special     Management aims to submit the final draft of
+Unit, a process of modernization of the Bank’s pol-      the Access to Information Policy to the Board of
+icies was initiated in 2019 to properly manage its       Executive Directors for consideration in mid-2020.
+operations’ environmental and social risk and im-        Once the Policy is approved, Management will
+pacts. This process of modernization will promote a      establish and execute an action plan to implement it.
+more effective response to the challenges faced by       The Policy is expected to take effect in January 2021.
+countries in the region seeking sustainable growth.
+    The process aims at strengthening the supervision    Transparency and Integrity Sector Framework
+of risk-based projects, as well as a closer support to   In 2019, the IDB introduced major reforms to its
+clients for the application of safeguards in their re-   corporate instruments for transparency and in-
+spective countries. The proposed policy broadly and      tegrity, including the Update to the Institutional
+systematically addresses environmental and social        Strategy (UIS) and the first Transparency and In-
+risks and impacts, and makes important advances in       tegrity Sector Framework Document (SFD). The
+the areas of human rights, gender equality, nondis-      SFD is meant to guide sector specialists on the IDB
+crimination, and stakeholder engagement.                 Group’s work with countries and governments in
+    In 2019, one of the most relevant achievements in    the transparency and integrity area in operational
+implementing this process included the development       areas, dialogue, and knowledge generation and
+of a draft policy framework that will be submitted       dissemination and it is aligned with the UIS. Based
+to public consultation in early 2020. The objective      on a rigorous analysis of transparency and integrity
+of the consultation is to reach a broad, inclusive       indicators, an in-depth review of the current aca-
+and transparent consensus with Bank clients, civil       demic literature and the IDB Group’s experience,
+society organizations and other key actors.              the SFD provides general guidance on addressing
+
+
+
+
+20                   IDB ANNUAL REPORT 2019
+-----------------------Page 26 End-----------------------
+
+Brazil is improving public facilities and environmental conditions in low-income urban
+neighborhoods. Photo: Hub Studio.
+
+
+
+
+the wide range of challenges and institutional con-      transformation, and improve public policies for
+texts facing the 26 borrowing member countries.          the use of digital technologies in Argentina.
+                                                            The IDB also provided support for new tech-
+Digital Agenda The IDB continued its efforts to help     nologies that facilitate the development of
+both the public and private sectors in the region        capabilities for deploying satellite technology in
+make progress on digital transformation. For exam-       Argentina, roadmaps for digital transformation of
+ple, the IDB helped strengthen the comprehensive         strategic sectors in Peru and Uruguay, a test plat-
+vision of digital transformation through technical       form for 5G technologies in Costa Rica, and the
+support in key areas such as governance, interop-        use of artificial intelligence to detect regulatory
+erability, data policy, and digital identity. The Bank   obstacles in Chile.
+maintained close working relations with institutions        Productive digital innovation was also fostered
+in charge of the digital agenda in different countries   through support for the large-scale adoption of
+of the region through the Network of e Government        Building Information Modelling (BIM) in the con-
+Leaders of Latin America and the Caribbean.              struction industry of eight countries in the region;
+    In addition, the Bank increased the presence         innovative public procurement was promoted in
+of cybersecurity on its digital agenda it has            Uruguay, Ecuador, and Peru through actions to
+provided support for sectors such as energy,             facilitate the adoption of new digital solutions in
+citizen security, finance, and transportation.           the water and urban transportation sectors; and
+Another noteworthy advance is the Bank’s                 a digital maturity tool was developed for SMEs,
+institutional framework modernization program,           with a pilot launch in Chile.
+which aims to help develop the digital economy,             Digital talent was also present in the form
+strengthen crosscutting public policies for digital      of initiatives to promote new formats through
+
+
+
+
+                                                             IDB ANNUAL REPORT 2019                        21
+-----------------------Page 27 End-----------------------
+
+AUGARACIN
+sitidnellun eatpure perolov mauq olod suM
+tua te sauq min inmo tu diuq met cilleve
+etcniticA .oiam taeb oL .mer te muc ,ma
+muitnev asopmetua suspi balb itipa sin
+.subitpulov er misa aiuq desnon
+Colombia is using a grant to improve socioeconomic conditions in post-conflict areas. Photo:
+María Cabal.
+
+
+
+
+bootcamp-type approaches in seven countries.              The IDB is supporting the preparation of 14 PPP
+In fiscal management, Brazil received support to       projects in the region and the PPP team has received
+modernize the individual state ministries of finance   support for the second time from the Global Infra-
+through the effective use of electronic billing; in    structure Facility (GIF) to carry out due diligence
+the Dominican Republic, Mexico, and Peru support       (Project Readiness Assessment or PRA) on the
+was provided to combat fraud and tax evasion           Route 1 Project in Paraguay. Once the PRA is com-
+through data laboratories to manage tax risks;         pleted, the team will lead coordination of the project.
+and infrastructure investment gaps were identified        The PPP team has also completed nine PPP
+in Argentina through the application of big data       country profiles, analyzing the regulatory frame-
+and blockchain. In addition, a growing number of       work and institutional capacity of countries to
+countries in the region already use technology to      implement PPPs. These are used as inputs for the
+manage their social services programs.                 preparation of the IDB Group’s Country Strate-
+                                                       gies. In relation to knowledge development and
+Public-Private Partnerships The public-private-        dissemination, the PPP team, in coordination with
+partnership (PPP) team continued supporting the        the Knowledge, Innovation and Communication
+countries of the region in successful implementa-      Sector (KIC), developed four training courses on
+tion of PPPs through the IDB’s one-stop shop for       PPP project evaluation, one for each of the Bank’s
+PPPs. The PPP team led technical assistance in         regional departments (CAN, CCB, CID, and CSC).
+Brazil, Paraguay, Honduras, Peru, the Dominican           The Bank also began developing version 3.0
+Republic, and Trinidad and Tobago in sectors such      of the PPP MOOC and is updating the Peru and
+as transportation, electric power, water and sanita-   Colombia versions of the MOOC. In May 2019,
+tion, and education.                                   the first version of PPP Americas was held in the
+
+
+
+
+22                  IDB ANNUAL REPORT 2019
+-----------------------Page 28 End-----------------------
+
+Dominican Republic, organized jointly by the IDB        of technology adoption. The region has a clean
+and IDB Invest. The event was attended by more          energy generation matrix but urgently needs
+than 400 participants, most of whom represented         to improve energy efficiency in the transporta-
+the PPP private sector (financial institutions, busi-   tion sector to reduce greenhouse gas emissions
+nesses, consultants, and operators) as well as PPP      as well as local contaminants such as particulate
+units in the region. A meeting of the PPP Risk Man-     matter. Currently, lower technology costs, partic-
+agement Group was held during the event with all        ularly for batteries, make electric transportation
+member countries attending. The meeting’s partic-       an economically and socially viable alternative, es-
+ipants were active, holding 246 bilateral meetings      pecially in heavily used modes (buses and fleets,
+and exchanging 3,449 contacts. Furthermore,             followed by individually owned cars).
+PPP Americas 2019 received a very satisfactory              The Platform supports the countries to design
+evaluation (4.4/5 on average) from participants.        public policies and strategies, technical and eco-
+                                                        nomic regulations, and introduce technologies
+Compete Caribbean In 2019, the Compete Carib-           based on viable business models and models for
+bean Partnership Facility (CCPF) made headway in        convergence between the electric power and
+programming and implementing projects to reform         transportation sectors.
+the business climate and support private-sector in-         The platform has already supported the devel-
+novation in its 13 beneficiary countries. The CCPF      opment of national strategies in countries such
+has focused on supporting new economic diver-           as the Dominican Republic, Panama, Paraguay,
+sification opportunities for the Caribbean and on       Barbados, and Jamaica. Support has also been
+promoting the incorporation of industry 4.0 tech-       provided for pioneering processes to procure
+nology. Noteworthy in this regard are projects to       electric fleets in countries such as Colombia and
+support governments in digitizing company regis-        Chile, in addition to financing for new fleets of
+ters in various countries and programs to strengthen    electric vehicles in Costa Rica and freight infra-
+entrepreneurship and innovation ecosystems.             structure in Barbados. The platform will continue
+    One project worthy of note is the open inno-        its efforts to strengthen decision-making, public
+vation initiative, Corporate Venturing, which with      policy, and regulatory tools, develop financial
+the cooperation of IDB Invest, connects large           plans for technology adoption, and generate an-
+Caribbean companies with technology start-              alytic and digital tools to build local capacity to
+ups and supports projects to adopt technology           adopt electromobility.
+in tourism and agrifood businesses. The program
+also promotes the development of export value
+chains in areas where the Caribbean could have          Natural disaster risk management and
+competitive advantages, such as the blue econ-          climate change adaptation
+omy or cultural and community tourism. The
+CCPF’s portfolio currently consists of 38 projects      In 2019, the Bank reaffirmed its commitment to in-
+for a total investment of $14.8 million.                crease its support for the region in natural disaster
+                                                        risk management and climate change adaptation.
+Electromobility Together with IDB Lab and               Given the devastating impacts of the 2017 hurri-
+IDB Invest, the IDB created the Electromobility         cane season on the region, the IDB has redoubled
+Platform, a multisector initiative (energy, transpor-   its efforts to boost climate resilience, through a
+tation, and climate change) that seeks to promote       menu of initiatives, technical assistance, and fi-
+the transition to electric mobility in the coun-        nancing. In view of the region’s high exposure and
+tries of the region and to maximize the benefits        vulnerability to the financial impacts of hurricanes,
+
+
+
+
+                                                            IDB ANNUAL REPORT 2019                        23
+-----------------------Page 29 End-----------------------
+
+the Bank began to deploy its Contingent Credit          of a new generation of education and training
+Facility For Natural Disaster Emergencies by ap-        policies in LAC. The activities include the es-
+proving contingent loans first for Bahamas and          tablishment of a partnership led by IDB Lab to
+Jamaica and then for Belize and Suriname.               introduce an IT Certificate that will improve the
+    After the impact of Hurricane Dorian in the         employment possibilities of vulnerable young
+Bahamas, the Bank disbursed $100 million to             people, particularly women, in the information
+finance humanitarian aid and reconstruction.            technology sector.
+This ex ante coverage will serve to strengthen              This certification will help establish a training
+financial risk management strategies, giving            and employment model that is sustainable, ef-
+governments rapid access to resources to support        fective, and inclusive. As part of the initiative, a
+victims and reestablish essential public services.      CLIC platform was developed to enable the coun-
+The Bank will also promote comprehensive risk           tries of the region to certify crosscutting skills,
+management as a public policy and concrete              generate information and evidence, and manage
+actions to analyze vulnerabilities, reduce and          talent more effectively at the individual level and
+mitigate risks, and bolster response capacity           from a public planning and policy standpoint. With
+during emergencies.                                     the cooperation of this initiative, the Technical
+    In South America, the El Niño phenomenon            and Vocational Education and Training Multidonor
+has been causing severe flooding with significant       Fund (TVET), approved this year with the sup-
+economic losses. To mitigate the impact of such         port of the German and Swiss governments, will
+events on public finances, in 2019 a contingent loan    have the goal of transforming technical education
+for $300 million was also approved for Argentina.       and training, laying the groundwork for the future
+Seeking to fulfill its commitments to support coun-     of work.
+tries in adapting to climate change, the Bank has
+positioned itself as one of the main financial insti-
+tutions, providing more than $2 billion in coverage     Social infrastructure
+against catastrophic risks in the region.
+                                                        The Social Infrastructure Unit consists of a team
+                                                        of technical experts in infrastructure that provides
+Skills for the 21st century                             ongoing and comprehensive support for SCL
+                                                        teams in project preparation and execution and
+Although specific technical skills remain important     for project executing agencies upon request.
+for success in the labor market, their importance           The unit continued its support activities,
+has waned in recent decades. Yet, the returns           promoting good practices in programming, con-
+on crosscutting and socioemotional skills—              tracting, design, construction, and maintenance
+e.g. creativity, critical thinking, flexibility, and    of social infrastructure through advisory services
+communication—have risen in value. The Skills           and knowledge products. This year, its support
+for the 21st Century initiative was launched in         increased to a total of 22 operations, five in prepa-
+response to new challenges faced by individuals in      ration—two by education (EDU), three by Social
+the 21st century, who must move in an extremely         Protection & Health (SPH) and 17 in execution—
+dynamic context, a changing labor market, and           four by EDU, four by Gender & Diversity (GDI),
+increasingly diverse societies.                         two by Labor Markets (LMK), and seven by SPH.
+   Together with 22 partners from the public and            The unit also provided support for calculating
+private sectors, the IDB established a coalition to     climate financing contributions in EDU and SPH
+promote these skills, supporting implementation         operations, significantly increasing their size. Active
+
+
+
+
+24                  IDB ANNUAL REPORT 2019
+-----------------------Page 30 End-----------------------
+
+                                                                             NICARAGUA
+                                                                 Mus dolo quam volorep eruptae nullenditis
+                                                                    evellic tem quid ut omni nim quas et aut
+                                                                     am, cum et rem. Lo beat maio. Acitincte
+                                                                      nis apiti blab ipsus autemposa ventium
+                                                                             nonsed quia asim re voluptibus.
+
+Chile is investing to help develop autonomous vehicle technology for passengers and cargo.
+
+
+
+
+participation was promoted in initiatives linked to     Citizen security Two interventions to promote
+sustainable infrastructure, and the incorporation       studies and pilot projects for vulnerable groups
+of innovation into operations through the use of        stand out in this area. The project “Strengthening
+the Building Information Modeling  (BIM) and the        Capacities and Economic Empowerment of
+application of nontraditional construction systems.     Women Deprived of Freedom for Reintegration
+    Guidelines were also developed for: (i) the         and Social Inclusion” in Chile, supported by the
+selection of measures to be included in health          IDB, Chile’s Ministry of Justice, Banco Estado,
+care infrastructure to obtain increased resilience      and Corporación Abriendo Puertas graduated
+to climate change at a given incremental cost; and      114 female beneficiaries of the program. Eighty
+(ii) recommendations to remove infrastructural          percent of the beneficiaries have their freedom
+barriers for people with disabilities. As well, with    and are continuing with their work or have found
+the cooperation of SCL specialists, different events    employment.
+were organized, notably: (i) a competition for              Meanwhile, “Analysis of the Quality of Spending
+university students organized into multidisciplinary    in Combatting Violence against Women,” is a study
+teams to present innovative ideas on education          financed under the project “Strengthening Local
+infrastructure that could give rise to new learning     Policies to Reduce Violence against Women” in
+models; (ii) workshops offering training in tools for   Bolivia. This analysis has inspired various regulations,
+certifying green buildings; and (iii) presentations     including the Law to Shorten Criminal Proceedings
+by experts in health infrastructure to encourage        and the Supreme Decree, which increases funds
+the exchange of experiences among different             for subnational government to work on reducing
+public sector stakeholders.                             violence against women.
+
+
+
+
+                                                             IDB ANNUAL REPORT 2019                          25
+-----------------------Page 31 End-----------------------
+
+TABLE III   Approved Operations ($5 million or above), 2019 (In millions of U.S. dollars)
+Country         Name                                                                                               Type Amount
+Argentina       Provincial Management Strengthening Program II                                                     ESP       150
+                Social and Urban Integration Program in Greater Buenos Aires                                       GOM       100
+                Program to Support Integrated Public Expenditure Management                                        ESP       40
+                Project to Improve the Provincial Route 82 Corridor in the Province of Mendoza                     ESP       50
+                Program to Support Transparency and Integrity Reforms in Argentina II                              PBP      200
+                Program for Strengthening of the Digital Agenda: Connectivity, Electronic Government and           PBP      300
+                Digital Productive Transformation
+                Social and Urban Integration Program                                                               GOM       50
+                Federal Program for Regional Transport Infrastructure                                              GOM      300
+                Program to Support the Equity and Effectiveness of the Social Safety Net in Argentina – Phase II   ESP      600
+                Satellite Technology Development Program (PROSAT II)                                               ESP       60
+                Program of Strengthening and Integration of Health Networks of the Province of Buenos Aires        LBR       150
+Barbados        Sustainable Energy Investment Program (SMART FUND II)                                              ESP       30
+                Public Sector Modernization Programme                                                              ESP        40
+Bahamas         Credit Enhancement Program for Micro, Small and Medium Enterprises                                 GCR        25
+Belize          Education Quality Improvement Program (EQIP) II                                                    ESP        10
+                Strengthening of Tax Administration                                                                ESP        14
+Bolivia         Program for the Strengthening of Environmental and Natural Resource Management II                  PBP       100
+                Policy Reform Program for the Water, Sanitation, Solid Waste, and Water Resources Sectors In       PBP       100
+                Bolivia
+Brazil          Urban Upgrade Program in the Western Area of Aracaju – Building for the Future                     ESP        75
+                Program To Expand And Improve Drinking Water Services In The State Of Rio Grande Do Sul            GOM      200
+                (PROSASUL)
+                Environmental Sanitation, Macrodrainage, and Recovery Project for the Igarapés and the Banks       GOM        70
+                of the Parauapebas River/PA
+                Fiscal Management Modernization Project for the State of ESPÍRITO SANTO – PROFISCO II – ES         ESP        38
+                Program to Strengthen the Care Model in the Paraiba Health Network                                 ESP        45
+                Logistics Efficiency Program of Espirito Santo                                                     GOM       217
+                Fiscal Management Modernization Project for the State of Amapa – PROFISCO II AP                    ESP        30
+                Fiscal Management Modernization Project of the State of Paraná – PROFISCO II PR                    ESP        50
+                Curitiba's Sustainable Urban Mobility Program                                                      GOM       107
+                Fiscal Management Modernization Project for the State of Rio Grande do Sul – PROFISCO II – RS      ESP       60
+                Tietê River Recovery Project Upstream of the Penha Dam in the State of Sao Paulo – Renasce         ESP        80
+                Tietê
+ Chile          Program to Strengthen the Strategic Management of Public Security in Chile                         ESP        48
+                Support Program for Productive and Sustainable Investment                                          PBL       100
+                Support for Strengthening the Institutional Framework for Science, Technology, Knowledge and       PBL        50
+                Innovation in Chile
+ Colombia       Program for the Adoption and Implementation of a Rural-Urban Multipurpose Cadastre                 ESP        50
+                First Productive Business Financing Program. CCLIP (CO-O0004)                                      GCR       60
+                Program to Support the improvement of Educational Paths in Targeted Rural Areas                    ESP       60
+                National Program to Ensure Sustainable and Efficient Energy Supply, Phase II                       PBP      600
+                Program to support the diversification and internationalization of the Colombian economy           ESP        24
+                Program to Strengthen Public Sector Strategic Management Capacities                                ESP        15
+                Strengthening of the National Legal Defense Agenda of the State of Colombia                        ESP        15
+                Program to Strengthen Policies for the Social and Productive Inclusion and Employment of           PBP      300
+                Persons with Disabilities
+                Program to strengthen employment policies                                                          ESP        23
+
+                                                                                                            (continued on next page)
+
+
+
+
+26                  IDB ANNUAL REPORT 2019
+-----------------------Page 32 End-----------------------
+
+TABLE III   Approved Operations ($5 million or above), 2019 (In millions of U.S. dollars) (continued)
+ Country        Name                                                                                                Type Amount
+ Costa Rica     Fiscal Sustainability Support Program                                                                PBP       350
+                Citizen Security and Violence Prevention Program                                                    GOM        100
+                Road Infrastructure Program and promotion of Public-Private Partnerships (PPP)                       ESP       125
+ Dominican      Implementation of the Energy Efficiency (EE) Program of the Dominican Republic                       ESP        39
+ Republic       Program to Support the Mobility, Land Transportation, Traffic and Road Safety Policy of the          PBP       250
+                Dominican Republic
+                Agricultural Health and Innovation Project                                                           ESP        50
+ Ecuador        Potable Water and Sewerage Program for Quito                                                        GOM         87
+                National System for Investment Attraction and Facilitation                                           ESP        12
+                First individual operation under the CCLIP Housing Solutions for poor and vulnerable                 ESP        94
+                households
+                Water and Sanitation Program for Portoviejo Canton                                                   ESP        28
+                Financial Management Modernization Program                                                           ESP        43
+                Institutional Strengthening for Competitiveness Project                                              ESP        42
+                State-Owned Enterprise Reform Support Program                                                        ESP        75
+                Program to Support Improved Fiscal Management and Productive Development.                            PBL       300
+                Emergency Program for Macroeconomic Sustainability and Prosperity                                    SDS       500
+                Inclusion of the migrant and receptor population in the social services in Ecuador                   ESP        63
+ El Salvador    Strengthening the Climate Change Resilience in El Salvador’s Coffee Forests                          ESP        45
+                Fiscal Strengthening for Inclusive Growth II                                                         PBP       200
+ Guatemala      Program to Strengthen the Institutional Healthcare Service Network (PRORISS)                        GOM        100
+                Road Infrastructure Development Program                                                             GOM        150
+ Haiti          Strengthening Public Management to Improve Service Delivery.                                         ESP        55
+                Project to Support Private Sector Development through Investment Promotion                           ESP        18
+                Improving Electricity Access in Haiti                                                                ESP        32
+ Honduras       Program for the Restoration of Climate-resilient Forests and Forestry for Sustainable                ESP        11
+                Water-related Ecosystem Services
+                Digital Transformation for Increased Competitiveness                                                 ESP        45
+                Program to Support Social Protection Reforms II                                                      PBP        60
+                Central District Water and Sanitation Services Reform Program                                        PBP        60
+                Comprehensive Rural Development and Productivity Project                                             GCR        55
+ Jamaica        Boosting Innovation, Growth and Entrepreneurship Ecosystems Programme                                ESP        25
+ Mexico         Program to Strengthen Fiscal Management in States and Municipios II                                  PBP       600
+                Financing program for productive, inclusive and sustainable rural development                        GCR       250
+                Strengthening Program for Urban Development Reform and Territorial Planning II                       PBP       600
+ Panama         Economic Diversification and Competitiveness Promotion Program                                       PBP       200
+                Integral Urban Development of Cities with Tourist Vocation.                                         GOM        100
+                Universal Energy Access Program                                                                     GOM         90
+                Program to support gender equality policies                                                          PBP       150
+                Indigenous Entrepreneurship and Financial Inclusion Program                                         GOM         40
+ Paraguay       Strengthening the National “Don Carlos Antonio Lopez” Scholarship Program for Postgraduate           ESP        30
+                Studies Abroad
+                Institutional Strengthening of the Pension Systems under the Ministry of Finance                     ESP        21
+                Program to Support the Transparency Agenda in Paraguay                                               PBP        90
+                First Individual Program of Financing for the Improvement of Research, Innovation and                ESP        20
+                Transfer of Agricultural Technology of Paraguay
+                Program for the Habilitation and Conservation of Agroindustrial Corridors                           GOM        235
+
+                                                                                                              (continued on next page)
+
+
+
+
+                                                                             IDB ANNUAL REPORT 2019                                  27
+-----------------------Page 33 End-----------------------
+
+TABLE III   Approved Operations ($5 million or above), 2019 (In millions of U.S. dollars) (continued)
+    Country                Name                                                                                             Type Amount
+                           Program to Strengthen Integrated and Comprehensive Health Services Networks based on             GOM    45
+                           Primary Health Care
+                           Access to Financing for Investments in Paraguay´s Agriculture Sector                             GCR    30
+    Peru                   Improvement of Crime Prevention Services in the Population Most Vulnerable to Crime and          ESP    40
+                           Violence in Peru
+                           Support the Interoperability of the Criminal Justice Administration System Program               ESP    100
+                           Comprehensive stormwater drainage program in prioritized cities of Peru                          GOM    100
+                           Program for the Improvement of Productivity and Competitiveness                                  PBP    50
+                           Investment Program to Improve the Historic Centers of Lima, Arequipa, Trujillo, and Ayacucho     ESP    30
+                           Improvement of the Public Sector Payroll Budget Information Service                              ESP     27
+    Suriname               Consolidating A Sustainable Energy Sector                                                        ESP    30
+                           Foreign Investment and Export Promotion Program                                                  ESP     10
+                           Improving Transport Logistics and Competitiveness in Suriname                                    ESP    45
+    Uruguay                Strengthening Cybersecurity in Uruguay                                                           ESP      8
+                           Program to Improve Road Corridors for Agroindustry and Forestry                                  GOM     70
+                           Program for the Development of Emerging Tourist Destinations.                                    ESP      6
+                           Investment, Trade and Innovation Framework Modernization Program II                              PBP    250
+                           Environmental Management Strengthening Program for the MVOTMA                                    ESP      6
+                           Business Innovation and Entrepreneurship Program II                                              LBR    30
+                           Program to Support the Digital Government Strategy                                               ESP     25
+                           Program to Strengthen the Management of ASSE                                                     ESP      8
+                           Program to support research and innovation on food and health                                    ESP      6
+    Regional               Comprehensive Sanitation Program for the Cities of the Uruguay River Basin – Province of Entre   GOM    80
+                           Ríos
+                           Border Integration Project – Axis Road No. 4 Bellavista-Zumba-La Balza Zamora-Chinchipe          ESP    128
+                           Province
+                           Potable Water and Sanitation Project for the Metropolitan Area of Ciudad del Este                ESP    115
+a
+    It excludes reformulations.
+
+
+
+
+    28                            IDB ANNUAL REPORT 2019
+-----------------------Page 34 End-----------------------
+
+TABLE IV   Subscriptions to capital stock, contribution quotas and voting power
+as of December 31, 2019 (In millions of United States dollars)a
+                                                        Ordinary Capital Subscribed Capital Stock
+                                                                                                                                     % of Total
+                                                                                       Additional                                    Number of
+    Member countries                           Paid-in             Callable          paid-in capitalc               Total             Votesb
+    Regional developing members
+     Argentina                                 $ 672.9             $ 18,742.5              $ 303.3                $ 19,718.7              11.354
+     Bahamas                                       15.1                  341.4                  6.0                    362.5               0.209
+     Barbados                                       8.1                 224.8                   1.1                    234.0               0.137
+     Belize                                         9.3                 189.9                   4.1                    203.3               0.117
+     Bolivia                                       54.0               1,505.7                  28.6                  1,588.3               0.913
+     Brazil                                       672.9              18,742.5                 325.5                 19,740.9              11.354
+     Chile                                        184.8                5,147.2                 94.0                  5,425.9               3.119
+     Colombia                                     184.8                5,147.2                 91.0                  5,423.0               3.119
+     Costa Rica                                    27.0                 753.3                  13.8                    794.1               0.457
+     Dominican Republic                            36.1               1,005.2                  20.0                  1,061.3               0.610
+     Ecuador                                       36.0               1,002.5                  18.0                  1,056.6               0.608
+     El Salvador                                   27.0                  751.3                 12.8                    791.0               0.456
+     Guatemala                                     34.7                  951.2                 19.3                  1,005.2               0.577
+     Guyana                                        10.5                 264.1                   4.7                    279.4               0.162
+     Haiti                                         27.0                  751.3                 12.9                    791.2               0.456
+     Honduras                                      27.0                 753.3                  15.5                    795.8               0.457
+     Jamaica                                       34.7                  951.2                 17.0                  1,003.0               0.577
+     Mexico                                       432.6              12,048.4                 197.4                 12,678.4               7.299
+     Nicaragua                                     27.0                  751.3                 14.2                    792.4               0.456
+     Panama                                        27.0                  751.3                 14.9                    793.1               0.456
+     Paraguay                                      27.0                  751.3                 16.6                    794.9               0.456
+     Peru                                          90.1               2,508.9                  47.3                  2,646.3               1.521
+     Suriname                                       7.2                 143.8                   3.4                    154.5               0.089
+     Trinidad and Tobago                           26.0                  712.8                 12.5                    751.4               0.433
+     Uruguay                                       72.2               2,010.5                  33.2                  2,115.9               1.219
+     Venezuela                                    249.3               5,568.5                 171.0                  5,988.8               3.403
+     Total regional developing members          3,020                82,471                 1,498                   86,990                  50.0
+    Canada                                        241.7               6,598.8                 184.5                  7,025.0               4.001
+    United States                               1,813.1              49,500.7               2,923.3                 54,237.1              30.006
+    Nonregional members
+     Austria                                        9.6                 263.4                   11.2                   284.2               0.161
+     Belgium                                       19.8                 541.7                   23.6                   585.1               0.329
+     China                                          0.2                   5.0                  123.9                   129.1               0.004
+     Croatia                                        2.9                  80.2                    3.5                    86.7               0.050
+     Denmark                                       10.3                 280.0                   11.1                   301.4               0.171
+     Finland                                        9.6                 263.4                   10.6                   283.6               0.161
+     France                                       114.5               3,126.4                  123.3                 3,364.2               1.896
+     Germany                                      114.5               3,126.4                  127.8                 3,368.7               1.896
+     Israel                                         9.5                 259.7                    9.1                   278.3               0.158
+     Italy                                        117.4               3,241.8                  121.0                 3,480.1               1.965
+     Japan                                       302.1                8,248.8                  326.6                 8,877.5               5.001
+     Korea, Republic of                             0.2                   5.0                    1.0                     6.1               0.004
+     Netherlands                                   14.6                 325.6                   18.6                   358.9               0.200
+     Norway                                        10.3                 280.0                   10.9                   301.1               0.171
+     Portugal                                       3.2                  89.2                    4.4                    96.9               0.055
+     Slovenia                                       1.8                  49.0                    1.9                    52.8               0.031
+     Spain                                        117.4               3,241.8                  120.0                 3,479.2               1.965
+     Sweden                                        19.7                 538.3                   22.7                   580.7               0.327
+     Switzerland                                   28.4                 776.3                   36.9                   841.6               0.471
+     United Kingdom                                58.1               1,588.0                   98.6                 1,744.8               0.964
+     Total nonregional members                    964                26,330                  1,207                  28,501                15.979
+    GRAND TOTAL                                $6,039              $164,901                $ 5,813                $176,753                   100
+a
+  Data are rounded; detail may not add to subtotals and grand total because of rounding.
+b
+  Each member country’s voting power is the same in making decisions concerning the operations of the Ordinary Capital. Except where otherwise expressly
+provided in the Agreement Establishing the Bank, all matters are decided by a majority of the total voting power of the member countries.	
+c
+  Does not affect votting power.
+
+
+
+
+                                                                                      IDB ANNUAL REPORT 2019                                         29
+-----------------------Page 35 End-----------------------
+
+TABLE V   Salary Structure International Staff (as of December 31, 2019) (In U.S. dollars)
+                                                              Salary              Salary             Staff at                                   Average
+                                                              Range               Range            Grade Level             Average              Benefits
+    Grade Representative Job Titles                          Minimum             Maximum               (%)                  Salary             Budgeteda
+         P     Presidentb                                                           481,517               0.1%               481,517             202,237.14
+       E2      Vice President                                  305,900              412,800               0.2%               394,867            165,844.00
+       E3      General Manager                                  279,800            406,000                0.6%               350,333             147,139.91
+       E4      Head of Independent Office                       241,200            362,500                0.9%               307,929            129,330.24
+       E5      Sector Manager                                   214,400            322,000                0.9%               257,023             107,949.68
+         R     Country Representative                           187,200            289,300                1.4%               227,528              95,561.66
+         1     Division Chief – Principal Technical             187,200            289,300                4.3%               229,476              96,379.90
+               Leader/Principal Advisor
+         2     Unit Chief - Principal Specialist/               165,800            256,500                8.6%               196,685              82,607.79
+               Senior Advisor
+         3     Lead Specialist/Advisor                          140,500            224,700               17.8%               161,096              67,660.22
+         4     Senior Specialist                                123,700             197,700             23.0%                134,724              56,584.26
+         5     Specialist                                       112,600            169,000              18.6%                118,479              49,761.21
+         6     Senior Associate                                 100,100            150,000                7.3%               103,554              43,492.76
+         7     Associate                                         88,900            133,300                4.6%                96,774              40,645.03
+         8     Senior Analyst – Senior                           78,100             116,900               5.7%                86,278              36,236.78
+               Administrative Coordinator
+         9     Analyst – Administrative Coordinator              69,000            103,300                3.6%                77,748              32,654.11
+       10      Senior Assistant                                  55,600              88,800               2.1%                67,435              28,322.90
+       11      Assistant                                         48,500              77,500               0.3%                51,691              21,710.14
+a
+    Represents average budgeted amount per grade; including medical, life and disability insurance, accrued termination benefits, and other non-salary benefits.
+b
+    The President’s salary does not include an Executive Allowance of $86,176.				
+
+
+
+TABLE VI   Consolidated Administrative Expenses (In millions of U.S. dollars)
+                                                                                           2017                        2018                       2019
+    Category                                                                              Actual                      Actual                     Actual
+    Board of Governors                                                                     $     4.0                   $     4.0                  $     4.0
+    Board of Executive Directors                                                               21.6                         21.3                       21.9
+    Evaluation Office                                                                            6.9                         6.9                        6.2
+    Independent Consultation and Ivestigation Mechanism (MEC)                                    2.3                         2.1                        2.1
+    Administrative Tribunal                                                                      0.8                         0.9                        0.9
+    Bank's 60th Year Anniversary                                                                  —                           —                         1.4
+    Headquarters and Country Offices                                                          539.7                     546.1                         557.7
+    Total Administrative Grossa,b,c,d,e                                                       575.2                        581.3                      594.2
+    Reimbursement from Funds under Administration and IIC                                      (19.1)                      (19.6)                     (19.2)
+    MIF and INTAL Reimbursements, Administrative Income                                        (11.5)                      (12.5)                     (14.2)
+    Total Administrative Net                                                                  544.6                        549.2                      560.8
+    Capital                                                                                    52.4                         50.6                       49.1
+    Total Administrative Net and Capital                                                   $597.0                      $599.8                     $609.9
+a
+  Excludes depreciation of $33.7 million, $38.5 million and $41.5 million in 2017, 2018 and 2019,respectively.
+b
+  Excludes pension and post-retirement benefit costs of $134 million, $149 million and $126.1 million in 2017, 2018 and 2019, respectively.
+c
+  Excludes $4.3 million, $1.5 million and $2.2 million of capital projects expenditures not capitalized in 2017, 2018 and 2019, respectively.
+d
+  Includes prepaid expenses of $6.2 million, $5.6 million, and $9.7 million in 2017, 2018 and 2019, respectively.
+e
+  Excludes expenses reimbursed from Funds under Administration of $4.0 million, $6.7 million and $ 8.2 million in 2017, 2018 and 2019, respectively. Excludes
+expenses reimbursed from the IIC of $8.6 million, $9.0 million and $ 9.4 in 2017, 2018 and 2019, respectively. In 2017, 2018 and 2019, excludes $63.7 million, $72.9
+million and $72.0 million of expenses paid to the IIC, respectively. Excludes $2.2 million, $2.0 million and $0.1 million related to the Restructuring of the Private
+Sector Activities in 2017, 2018 and 2019, respectively; and $3.4 million, $(17.3) million and $(15.3) million of other non-budgetary items in 2017, 2018 and 2019,
+respectively.
+
+
+
+
+    30                          IDB ANNUAL REPORT 2019
+-----------------------Page 36 End-----------------------
+
+APPENDIX I   Governors and Alternate Governors
+ Country                      Governor                                Alternate Governor
+ ARGENTINA                    Gustavo Osvaldo Beliz                   Christian Asinelli
+ AUSTRIA                      Eduard Müller                           Edith Frauwallner
+ BAHAMAS                      Peter Turnquest                         Marlon S. Johnson
+ BARBADOS                     Mia Amor Mottley                        Ian Carrington
+ BELGIUM                      Alexander De Croo
+ BELIZE                       Dean Barrow                             Joseph Waight
+ BOLIVIA                      Carlos Melchor Díaz Villavicencio       José Luis Parada Rivero
+ BRAZIL                       Paulo Guedes                            Marcos Troyjo
+ CANADA                       Karina Gould                            Rick Stewart
+ CHILE                        Ignacio Briones Rojas                   José Francisco Moreno Guzmán
+ CHINA                        Yi Gang
+ COLOMBIA                     Alberto Carrasquilla Barrera            Luis Alberto Rodríguez-Ospino
+ COSTA RICA                   Rodrigo Alberto Chaves                  Rodrigo Cubero Brealey
+ CROATIA                      Zdravko Maric                           Stipe Župan
+ DENMARK                      Stephan Schonemann                      Anders Oernemark
+ DOMINICAN REPUBLIC           Donald Guerrero Ortiz
+ ECUADOR                      Richard Iván Martínez Alvarado          Verónica Artola Jarrín
+ EL SALVADOR                  Nelson Eduardo Fuentes Menjivar         Carlos Federico Paredes Castillo
+ FINLAND                      Elina Kalkku                            Satu Santala
+ FRANCE                       Bruno Le Maire                          Odile Renaud-Basso
+ GERMANY                      Norbert Barthle                         Marianne Kothé
+ GUATEMALA                    Alvaro Gonzalez Ricci                   Sergio Francisco Recinos Rivera
+ GUYANA                       Winston DaCosta Jordan
+ HAITI                        Joseph Jouthe, a.i.
+ HONDURAS                     Rocío Izabel Tábora Morales             Wilfredo Rafael Cerrato Rodriguez
+ ISRAEL                       Moshe Kahlon                            Shira Greenberg
+ ITALY                        Roberto Gualtieri                       Ignazio Visco
+ JAMAICA                      Nigel Clarke                            Darlene Morrison
+ JAPAN                        Taro Aso                                Haruhiko Kuroda
+ KOREA, REPUBLIC OF           Nam-Ki Hong                             Juyeol Lee
+ MEXICO                       Arturo Herrera Gutiérrez                Gabriel Yorio
+ NETHERLANDS                  Sigrid Kaag                             K. (Kitty) van der Heijden
+ NICARAGUA                    Ivan Adolfo Acosta Montalván            Manuel Coronel Novoa
+ NORWAY                       Aksel Jakobsen                          Bjørn Brede Hansen
+ PANAMA                       Héctor E. Alexander H.                  Javier Enrique Carrizo Esquivel
+ PARAGUAY                     Benigno María López Benítez             Humberto Colmán Castillo
+ PERU                         María Antonieta Alva Luperdi            José Carlos Chávez Cuentas
+ PORTUGAL                     Mário Centeno                           Maris Teresa Ribeiro
+ SLOVENIA                     Andrej Bertoncelj                       Andrej Kavcic
+ SPAIN                        Nadia Calviño Santamaría                Ana de la Cueva Fernández
+ SURINAME                     Gillmore Hoefdraad                      Stephen Tsang
+ SWEDEN                       Per Olsson Fridh                        Magnus Lennartsson
+ SWITZERLAND                  Raymund Furrer                          Reto Grüninger
+ TRINIDAD AND TOBAGO          Keith Rowley                            Cherrie-Ann Crichlow-Cockburn
+ UNITED KINGDOM               Alok Sharma                             Elizabeth Sugg
+ UNITED STATES                Steven Terner Mnuchin                   Keith Krach
+ URUGUAY                      Danilo Astori                           Pablo Ferreri
+ VENEZUELA                    Ricardo Hausmann
+As of December 31, 2019.
+
+
+
+
+                                                             IDB ANNUAL REPORT 2019                       31
+-----------------------Page 37 End-----------------------
+
+APPENDIX II   Executive Directors and Alternates
+                                                                                                         Percentage
+                                                                                            Number        of Voting
+                                                                                            of Votes       Power
+ Toshiyuki Yasui. JAPAN                                 Elected by:                           865,302        6.10
+ Malcolm Geere (Alternate). UNITED KINGDOM              Croatia	Portugal
+                                                        Japan	Slovenia
+                                                        Republic of Korea	 United Kingdom
+ Christiane Elisabeth Bogemann-Hagedorn. GERMANY        Elected by:                           712,259        5.02
+ Adolfo Di Carluccio (Alternate). ITALY                 Belgium	Italy
+                                                        China	      The Netherlands
+                                                        Germany	Switzerland
+                                                        Israel
+ Alicia Montalvo Santamaría. SPAIN                      Elected by:                           687,703        4.85
+ Patrick Jean Hervé (Alternate). FRANCE                 Austria	Norway
+                                                        Denmark	Spain
+                                                        Finland	Sweden
+                                                        France
+ Eliot Pedrosa. UNITED STATES OF AMERICA                Elected by:                         4,253,799       30.01
+                                                        United States
+ Gina Montiel. VENEZUELA                                Elected by:                           547,051        3.86
+ Fernando Ernesto de León de Alba (Alternate). PANAMA   Panama	Venezuela
+ Juan Bosco Martí Ascencio. MEXICO                      Elected by:                          1,121,196       7.91
+ Carlos Augusto Pared Vidal (Alternate). DOMINICAN      Dominican Republic	 Mexico
+ REPUBLIC
+ Germán Hugo Rojas Irigoyen. PARAGUAY                   Elected by:                           366,858        2.59
+ Marcelo Bisogno (Alternate). URUGUAY                   Bolivia	Uruguay
+                                                        Paraguay
+ Federico Ignacio Poli. ARGENTINA                       Elected by:                          1,674,226      11.81
+ Lucio Castro (Alternate)                               Argentina	Haiti
+ José Guilherme Almeida dos Reis. BRAZIL                Elected by:                         1,622,236       11.44
+ Sergio Savino Portugal (Alternate). BRAZIL             Brazil	Suriname
+ Alex Foxley. CHILE                                     Elected by:                           528,355        3.73
+ Bernardo Acosta (Alternate). ECUADOR                   Chile	Ecuador
+ Donald John Bobiash. CANADA                            Elected by:                            567,174       4.00
+ Eric Daniel Madueño (Alternate). CANADA                Canada
+ Selwin Charles Hart. BARBADOS                          Elected by:                           215,269        1.52
+                                                        Bahamas	Jamaica
+                                                        Barbados	   Trinidad and
+                                                        Guyana	      Tobago
+ Francisco José Mayorga Balladares. NICARAGUA           Elected by:                           357,450        2.52
+ Edna Gabriela Camacho (Alternate). COSTA RICA          Belize	Guatemala
+                                                        Costa Rica	  Honduras
+                                                        El Salvador	 Nicaragua
+ Gerardo M. Corrochano. PERU                            Elected by:                            657,710       4.64
+ Sergio Díaz Granados (Alternate). COLOMBIA             Colombia	Peru
+ TOTAL                                                                                      14,176,588     100.00*
+As of December 31, 2019.
+*The total may not add up due to rounding.
+
+
+
+
+ 32                          IDB ANNUAL REPORT 2019
+-----------------------Page 38 End-----------------------
+
+APPENDIX III   Principal Officers
+ President                                                                               Luis Alberto Moreno
+ Executive Vice President                                                                Brian D. O’Neill
+ Vice President for Countries                                                            Alexandre Meira da Rosa
+ Vice President for Sectors and Knowledge                                                Ana Maria Rodríguez-Ortiz
+ Vice President for Finance and Administration                                           Claudia Bock-Valotta
+ General Manager, Research Department, and Chief Economist                               Eric Parrado Herrera
+ General Manager, Southern Cone Country Department                                       José Luis Lupo
+ General Manager, Andean Group Country Department                                        Rafael de la Cruz
+ General Manager, Central America, Haiti, Mexico, Panama & the Dominican Republic        Verónica Zavala
+ Country Department
+ General Manager, Caribbean Country Department                                           Therese Turner-Jones
+ Secretary                                                                               Martín Bès
+ General Counsel                                                                         John Scott
+ Chief of Staff, Office of the Presidency                                                Luis Alberto Giorgio
+ Chief Advisor to the Executive Vice President                                           José Seligmann-Silva
+ General Manager, Finance Department and Chief Financial Officer                         Gustavo De Rosa
+ General Manager, Office of Strategic Planning and Develoment Effectiveness and          Carola Álvarez
+ Chief Development Effectiveness Officer a.i.
+ General Manager, Budget and Administrative Services Department                          Diego Murguiondo
+ General Manager, Human Resources Department                                             Carolina Serra
+ General Manager, Information Technology Department and Chief Information Officer        Nuria Simo Vila
+ General Manager, IDB LAB                                                                Irene Arias
+ Executive Auditor, Office of the Auditor General                                        Jorge da Silva
+ Sector Manager, Knowledge, Innovation and Communication Sector                          Federico Basañes
+ Sector Manager, Infrastructure and Energy Sector                                        José Agustín Aguerre
+ Manager, Social Sector                                                                  Marcelo Cabrol
+ Manager, Institutions for Development Sector                                            Moisés Schwartz
+ Manager, Climate Change and Sustainable Development Sector                              Juan Pablo Bonilla
+ Manager, Integration and Trade Sector                                                   Fabrizio Opertti
+ Manager, Office of Outreach and Partnerships                                            Bernardo Guillamón
+ Chief Risk Officer                                                                      Federico Galizia
+ Chief, Office of Institutional Integrity                                                Laura Profeta
+ Director, Independent Consultation and Investigation Mechanism                          Victoria Márquez Mees
+ Ethics Officer                                                                          Alberto Rivera-Fournier
+As of December 31, 2019.
+
+
+
+
+                                                                             IDB ANNUAL REPORT 2019                  33
+-----------------------Page 39 End-----------------------
+
+APPENDIX IV   Country Offices and Representatives
+ARGENTINA, José Luis Lupo                       DOMINICAN REPUBLIC,                           PANAMA, Verónica Zavala Lombardi
+Calle Esmeralda 130, pisos 19 y 20              Miguel Coronado Hunter                        Calle 50 con calle Elvira Méndez
+(Casilla de correo 181, Sucursal 1)             Calle Luis F. Thomen esq. Winston Churchill   Edificio Tower Financial Center (Towerbank)
+Buenos Aires                 Tel: 4320–1800    Torre BHD, piso 10                            (Apartado postal 0816–02900 Zona 5)
+                                                (Apartado postal 1386)                                                      Tel: 206–0900
+BAHAMAS, Daniela Carrera Marquis                Santo Domingo               Tel: 784–6400
+IDB House, East Bay Street                                                                    PARAGUAY, María Florencia Attademo-Hirt
+(P.O. Box N-3743)                               ECUADOR, Fernando Quevedo                     Calle Quesada esq.
+Nassau                    Tel: 396–7800        Avda. 12 de Octubre N24–528 y Cordero         Legión Civil Extranjera
+                                                Ed. World Trade Center – Torre II, piso 9     (Casilla 1209)
+BARBADOS, Juan Carlos de la Hoz                 (Apartado postal 17–07–9041)                  Asunción                  Tel: 616–2000
+“Hythe” Welches Maxwell Main Road               Quito                       Tel: 299–6900
+BB17068                                                                                       PERU, Viviana Caro Hinojosa
+Christ Church                                   EL SALVADOR, José Manuel Ruiz, a.i.           Dean Valdivia 148-Piso 10
+P.O. Box 402                                    Edificio World Trade Center, piso 4           Centro Empresarial Platinum Plaza
+Bridgetown BB11000         Tel: 227–8500       89 Avda. Norte y Calle El Mirador             San Isidro, Lima             Tel: 215–7800
+                                                San Salvador                Tel: 2233–8900
+BELIZE, Cassandra Rogers                                                                      SURINAME, César Falconi
+1024 Newtown Barracks                           GUATEMALA, Carlos Melo                        Peter Bruneslaan 2–4
+101 1st floor                                   3era Avenida 13–78, Zona 10                   Paramaribo                      Tel: 52–1201
+Marina Towers Building                          Torre Citigroup – Nivel 10
+(P.O. Box 1853)                                 (Apartado postal 935)                         TRINIDAD AND TOBAGO,
+Belize City                   Tel: 221–5300    Guatemala                  Tel: 2327–4300    Rocío Medina-Bolívar
+                                                                                              17 Alexandra Street, St. Clair
+BOLIVIA, Alejandro Melandri                     GUYANA, Sophie Makonnen                       (P.O. Box 68)
+Av. 6 de Agosto 2818,                           47 High Street, Kingston                      Port of Spain                 Tel: 822–6400
+entre calles Cordero y Clavijo La Paz           (P.O. Box 10867)
+(Casilla 12954)                                 Georgetown                   Tel: 225–7951   URUGUAY, Morgan Doyle
+La Paz                        Tel: 2217–7700                                                 Rincón 640 esq. Bartolomé Mitre
+                                                HAITI, Felipe Gómez-Acebo                     (Casilla de correo 5029)
+BRAZIL, Hugo Florez Timoran                     Banque interaméricaine de développement       11000 Montevideo            Tel: 915–4330
+Setor de Embaixadas Norte                       Bourdon 389
+Quadra 802 Conjunto F                           (Boîte postale 1321)                          VENEZUELA, Vacant
+Brasília – DF                                   Port-au-Prince             Tel: 2812–5000     Av. Venezuela, Torre Principal
+(Correo):                                                                                     Banco Bicentenario Piso 3,
+Alameda Santos, 2300 Ed. Haddock                HONDURAS, Eduardo Marques Almeida             El Rosal, Caracas 1060
+Santos, 2 andar Bairro Cerqueira Cesar          Colonia Lomas del Guijarro Sur
+Sao Paulo – SP              Tel: 3317–4200     Primera Calle
+                                                (Apartado postal 3180)                        INSTITUTE FOR THE INTEGRATION OF
+CHILE, Yolanda Martinez Mancilla                Tegucigalpa                 Tel: 290–3500    LATIN AMERICA AND THE CARIBBEAN
+Avenida Pedro de Valdivia 0193, piso 10                                                       Pablo Marcelo García
+(Casilla 16611)                                 JAMAICA, Therese Turner-Jones                 Calle Esmeralda 130, Piso 16
+Correo 9 (Providencia)                          6 Montrose Rd                                 (Casilla de Correo 181, Sucursal 1)
+Santiago                   Tel: 2431–3700      Kingston 6                Tel: 764–0815      Buenos Aires                 Tel: 4323–2365
+
+COLOMBIA, Rafael de la Cruz                     MEXICO, Tomás Bermúdez                        OFFICE IN ASIA
+Carrera 7, N 71–21                              Avda. Paseo de la Reforma 222, piso 11        Keisuke Nakamura
+Torre B, piso 19                                Colonia Juárez                                Fukoku Seimei Building 16-F 2–2-2
+Edificio Bancafe                                Delegación Cuauhtémoc                         Uchisaiwaicho, Chiyoda-ku
+Bogotá                     Tel: 325–7000       06600 CDMX                 Tel: 9138–6200    Tokyo 100–0011, Japan       Tel: 3591–0461
+
+COSTA RICA, Fidel Jaramillo                     NICARAGUA, Baudouin Duquesne                  OFFICE IN EUROPE
+Centro Corporativo El Cedral                    Edificio BID                                  Ignacio Corlazzoli
+Edificio A, piso 4                              Boulevard Jean Paul Genie                     Calle de Bailén 41
+Escazú, San José           Tel: 2588–8700      Km. 4 ½ Carretera a Masaya                    Madrid, Spain 28005       Tel: 91–364–6950
+                                                (Apartado postal 2512)
+                                                Managua                   Tel: 264–9080
+
+As of December 31, 2019.
+
+
+
+
+ 34                        IDB ANNUAL REPORT 2019
+-----------------------Page 40 End-----------------------
+
+Cataloging-in-Publication data provided by the
+Inter-American Development Bank
+Felipe Herrera Library
+
+
+Inter-American Development Bank Annual Report 2019: the Year in Review / Inter-American
+Development Bank.
+
+	   p. cm.
+
+1. Development banks-Latin America-Yearbooks. 2. Economic assistance-Latin America.
+3. Bank loans-Latin America. I. Inter-American Development Bank. Knowledge, Innovation
+and Communication Sector.
+IDB-AN-217
+
+
+Copyright © 2020 Inter-American Development Bank. This work is licensed under a Creative
+Commons IGO 3.0 Attribution-NonCommercial-NoDerivatives (CC-IGO BY-NC-ND 3.0 IGO)
+license (http://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode) and may be
+reproduced with attribution to the IDB and for any non-commercial purpose. No derivative
+work is allowed.
+
+Any dispute related to the use of the works of the IDB that cannot be settled amicably shall
+be submitted to arbitration pursuant to the UNCITRAL rules. The use of the IDB’s name
+for any purpose other than for attribution, and the use of IDB’s logo shall be subject to a
+separate written license agreement between the IDB and the user and is not authorized as
+part of this CC-IGO license.
+Note that link provided above includes additional terms and conditions of the license.
+
+
+
+
+The Annual Report is produced by the IDB Knowledge, Innovation and Communication Sector.
+
+Managing Editor: Taos Turner
+Design and Lay-out: The Word Express, Inc.
+
+The independently audited Financial Statements of the Bank, together with Management’s
+Discussion and Analysis: Ordinary Capital, are available at www.iadb.org/ar2019/fs.
+-----------------------Page 41 End-----------------------
+
+www.iadb.org
+-----------------------Page 42 End-----------------------
+

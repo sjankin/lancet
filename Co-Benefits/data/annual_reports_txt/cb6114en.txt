@@ -1,0 +1,3409 @@
+-----------------------Page 1 End-----------------------
+
+-----------------------Page 2 End-----------------------
+
+Food and Agriculture Organization of the United Nations 
+Rome, 2021
+
+-----------------------Page 3 End-----------------------
+
+Required citation:
+FAO. 2021. 2020 Annual Report – Plant Production and Protection. Rome.
+
+The designations employed and the presentation of material in this information product do not imply the expression of any opinion whatsoever on the
+part of the Food and Agriculture Organization of the United Nations (FAO)
+concerning the legal or development status of any country, territory, city
+or area or of its authorities, or concerning the delimitation of its frontiers
+or boundaries. The mention of specific companies or products of manufacturers, whether or not these have been patented, does not imply that these
+have been endorsed or recommended by FAO in preference to others of a
+similar nature that are not mentioned. The views expressed in this information product are those of the author(s) and do not necessarily reflect the
+views or policies of FAO.
+The views expressed in this information product are those of the author(s) and
+do not necessarily reflect the views or policies of FAO.
+ISBN ISBN 978-92-5-134801-7
+© FAO, 2021
+
+Some rights reserved. This work is made available under the Creative Commons
+Attribution- NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO;
+https://creativecommons.org/licenses/by-nc-sa/3.0/igo/legalcode).
+Under the terms of this licence, this work may be copied, redistributed and
+adapted for non-commercial purposes, provided that the work is appropriately cited. In any use of this work, there should be no suggestion that
+FAO endorses any specific organization, products or services. The use of the
+FAO logo is not permitted. If the work is adapted, then it must be licensed
+under the same or equivalent Creative Commons licence. If a translation of
+this work is created, it must include the following disclaimer along with the
+required citation: “This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the
+content or accuracy of this translation. The original English edition shall be
+the authoritative edition.”
+Third-party materials. Users wishing to reuse material from this work that is
+attributed to a third party, such as tables, figures or images, are responsible
+for determining whether permission is needed for that reuse and for obtaining permission from the copyright holder. The risk of claims resulting from
+infringement of any third-party owned component in the work rests solely
+with the user.
+Sales, rights and licensing. FAO information products are available on the
+FAO website (www.fao.org/publications) and can be purchased through
+publications-sales@fao.org. Requests for commercial use should be submitted via: www.fao.org/contact-us/licence-request. Queries regarding rights
+and licensing should be submitted to: copyright@fao.org.
+Text in this document is not an official legal interpretation of the Plant Production
+and Protection Division (NSP) or its related documents, and is produced for public information only. To translate this material please contact nsp@fao.org for
+information about a co-publishing agreement.
+Cover photograph: ©Peter Hammer
+
+-----------------------Page 4 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Contents
+
+
+Welcome message	
+
+iv
+
+
+
+Foreword	
+
+vi
+
+
+
+Acknowledgements	
+
+viii
+
+- Project implementation in 2020
+- Key collaborators		
+
+xii
+
+
+
+The plant production and protection community	
+
+
+
+Acronyms and abbreviations	
+
+
+
+Executive summary	
+
+xviii
+
+
+
+Key achievements	
+
+2
+
+Mitigation of COVID-19	
+
+2
+
+Seed technology	
+
+4
+
+Production technology 	
+
+6
+
+Protection technology 	
+
+8
+
+Technology promotion	
+
+10
+
+Normative work	
+
+12
+
+Communications and advocacy 	
+
+14
+
+Partnership and network	
+
+16
+
+Transformation of FAO Plant Production and Protection	
+
+18
+
+
+
+Way forward	
+
+20
+
+
+
+Further reading	
+
+22
+
+xvi
+
+iii
+
+-----------------------Page 5 End-----------------------
+
+Welcome message
+
+I am pleased to share with you the 2020 Annual Report of the Plant Production and
+Protection Division (NSP).
+2020 was marked by extraordinary challenges. COVID-19 shook the world, causing loss of life, compromising livelihoods and disrupting our normal ways of living.
+But for many people, this pandemic was just one more hardship – in addition to
+poverty, hunger, endemic diseases, conflict, drought, extreme weather events and
+many other life-threatening difficulties.
+For the fourth year in a row, the number of hungry people around the globe increased, as reported by FAO in The State of Food Security and Nutrition in the World.
+Plant production was again threatened by biotic and abiotic constraints, including diminishing areas of arable land, water scarcity, decreasing biodiversity, pests,
+diseases and extreme weather events.
+2020 also brought important change for the Plant Production and Protection
+Division. Taking a new name, NSP, it was repositioned under the Partnerships and
+Outreach Stream as part of the FAO organizational renewal. NSP has put in place a
+five-year communication strategy (2021–2025), as well as a series of transformative
+measures to enhance internal management and strategic development. The Division is acting on key issues, such as the promotion
+of technology transfer for seed security, agroecology, plant nutrition, sustainable mechanization, urban and peri-urban agriculture,
+monitoring and control of desert locust and fall armyworm, and
+pesticide risk management.
+“Building back better” to a more sustainable and equitable postpandemic world is at the heart of FAO’s new Strategic Framework
+2022–2031, with the aim of “leaving no one behind through MORE
+efficient, inclusive, resilient and sustainable agri-food systems for
+better production, better nutrition, a better environment, and a
+better life”.
+Under the new Strategic Framework, FAO will make a more distinct
+connection between its work and the achievement of the Sustainable Development Goals (SDGs), particularly those most relevant to the Organization’s mandate.
+By aligning itself more closely to the 2030 Agenda and the United Nations system,
+
+"Plant Production and Protection is at
+
+the core of FAO’s mission. Plants make
+up 80 percent of the food we eat and
+are responsible for 98 percent of the
+oxygen we breathe – without plants,
+life as we know it would not exist."
+
+iv
+
+-----------------------Page 6 End-----------------------
+
+2020
+ANNUAL REPORT
+
+AO
+©F
+
+FAO acknowledges that only through holistic, system-wide approaches will it be able to deliver on its mission of ensuring food
+security and nutrition for all, both today and in the future.
+The United Nations Food Systems Summit (UNFSS) 2021 will give us
+a tangible opportunity to put these approaches into action. Other major
+global fora, such as the Twenty-sixth session of the Conference of the Parties
+to the United Nations Framework Convention on Climate Change (UNFCC COP26)
+and the Fifteenth meeting of the Conference of the Parties to the Convention on
+Biological Diversity (CBD COP15), will also provide such occasion.
+Plant production and protection is at the core of FAO’s mission. Plants make up
+80 percent of the food we eat and are responsible for 98 percent of the oxygen
+we breathe – without plants, life as we know it would not exist. NSP and its wider
+global community will play a fundamental role in implementing the new FAO Strategic Framework, particularly in promoting “better production”, and in contributing to its mission of “enabling the transition to more efficient, inclusive, resilient and
+sustainable crop production and protection through optimization and minimization”.
+2021 is already proving to be another important year for NSP. Under its annual theme, “Ensuring food security and nutrition (SDG 2)”, NSP is leading key initiatives related to the International Year of Fruits and Vegetables, and the celebrations of World Pulses Day and World Bee Day. In addition, the Division will organize
+the Global Conference on the Green Development of the Seed Industry, as well
+as launch and contribute to the Global Action on Green Development of Special
+Agro-Products, the Global Programme on Sustainable Dryland Agriculture, and the
+Global Action on Highly Hazardous Pesticides with the World Health Organization
+(WHO) and the United Nations Environment Programme (UNEP).
+I am delighted by NSP’s achievements and excited by the direction it is taking. I truly
+look forward to working with the Division over the coming year and beyond to build
+back better and support sustainable development, together.
+
+Beth Bechdol,
+
+Deputy Director-General,
+Food and Agriculture Organization of
+the United Nations (FAO)
+
+v
+
+-----------------------Page 7 End-----------------------
+
+Foreword
+
+AO
+©F
+
+I
+
+t is my distinct honour to introduce the 2020 Annual Report of the Plant
+Production and Protection Division (NSP) — the first ever Annual Report for the
+division.
+The year 2020 was extraordinary, with unprecedented challenges brought on by
+the COVID-19 pandemic. It was also a milestone year for NSP as the Division’s acronym changed from AGP to NSP as a part of the transformation of FAO.
+Several noteworthy activities took place in 2020 to help mitigate the impact of
+COVID-19 on NSP’s work programme. Policy briefs on Sustainable crop production
+and COVID-19 and COVID-19 and the role of local food production in building more
+resilient local food systems were published to provide technical advice to stakeholders on actions to mitigate the disruptive effects of COVID-19. Meanwhile, over 700
+virtual activities and events were organized at global, regional and nation levels, to
+promote a wide range of professional, coordination, communication and management activities.
+The most significant milestone for the Division in 2020 was its transformation. The
+emphasis for internal management is to move towards a “One Dynamic NSP” by
+increasing internal solidarity and external visibility. The Division’s new strategic development aims are to build NSP as the centre of excellence for technology promotion and transformation to support MORE efficient, inclusive, resilient and sustainable plant production and protection through optimization and minimization.
+A new NSP communication strategy (2021–2025) was developed by establishing one
+annual theme for each year, linked to the Sustainable Development Goals (SDGs).
+Important progress in 2020 was made in transferring production technology:
+(i) 44 Member Nations received support to develop strategies, capacities and tools
+for plant conservation, breeding and seed systems; (ii) agroecology practices were
+disseminated in 16 countries and 4 regions through capacity building for sustainable
+agriculture and land management assessment; and (iii) 47 countries and 43 projects
+received technical assistance in implementing protected cultivation systems.
+
+vi
+
+-----------------------Page 8 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Important results in 2020 were also achieved in transferring protection technology:
+(i) support to FAO’s efforts to monitor and control desert locust in over 30 affected
+countries received USD 211 million in support, protected 4 million metric tonnes of
+cereal and secured food for 34 million people; (ii) a new strategy
+was launched to implement the FAO Global Action on Fall Armyworm Control by identifying 8 demonstration projects and 53 pilot
+countries in Africa, Asia and the Pacific, and the Near East regions;
+and (iii) capacity building was strengthened in 89 countries covering important aspects of the pesticide lifecycle, and work was carried out in 15 African, Caribbean and Pacific (ACP) countries on minimizing pesticide risks and mainstreaming biodiversity.
+Even under the constraints of the pandemic, NSP was at the forefront of communication and advocacy activities for major events,
+including the International Year of Plant Health 2020, World Pulses
+Day, World Bee Day and World Food Day. The Division also contributed to the successful launch of the International Year of Fruits and
+Vegetables (IYFV) in 2021 and started publication of two bimonthly
+newsletters: Plant Production and Protection and Fall Armyworm
+Control in Action. Several major videos were also produced on subjects including seeds, protected cultivation, sustainable mechanization, conservation agriculture and farmer field schools.
+Despite the impact of COVID-19, the Division’s partnerships and network were
+strengthened in 2020. The Division actively collaborated with over 180 partners at
+global, regional and national levels, covering areas of policy, regulation, research
+and academia, education, NGOs and the private sector. The Division also formally
+launched its networking mechanism for the NSP Community.
+The major achievements of 2020 can in large part be attributed to the strong support and positive contributions of NSP and the entire NSP Community across all regions, as well as to the close cooperation of all NSP partners. Taking this opportunity,
+I would like to express sincere gratitude to all of you.
+The year 2021 will be another remarkable one for NSP and the NSP Community,
+as it will be the first year of implementing NSP’s five-year communication strategy
+(2021–2025), with a specific focus in 2021 on “Ensuring food security and nutrition
+(SDG 2)”.
+I look forward to your continued support and dedication to the NSP vision of
+“developing sustainable crop production systems for a world free from hunger”.
+
+"The Division’s new strategic development
+aims are to build NSP as the centre of
+
+excellence for technology promotion and
+
+transformation to support MORE efficient,
+inclusive, resilient and sustainable plant
+production and protection through
+optimization and minimization."
+
+Jingyuan Xia,
+Director,
+Plant Production and Protection
+Division (NSP)
+
+vii
+
+-----------------------Page 9 End-----------------------
+
+Acknowledgements
+
+T
+
+he FAO Plant Production and Protection Division (NSP) would like to
+acknowledge all partners for their participation in, and positive contribution to, the NSP work programme, including technical, knowledge
+and technological partners, project partners, research and academia,
+global and regional organizations, governments, farmers and farmers’
+organizations, media, the NSP Community and FAO Decentralized Officers.
+
+Project implementation in 2020
+
+viii
+
+©FAO/Luis Tato
+
+The support from resource partners enabled to successfully implement the
+following projects in 2020. In addition, technical support related to Plant Production
+and Protection was provided to over 150 projects from various sources.
+
+-----------------------Page 10 End-----------------------
+
+2020
+PROJECT TITLE
+
+PERIOD
+
+DELIVERY
+2020 (USD)
+
+Canada
+
+Supporting the joint FAO/WHO scientific advice programme:
+JMPR, JEMRA, JEMNU
+
+27 Mar 2017 – 30 Jun 2021
+
+27 146
+
+CropLife
+International
+
+Voluntary contribution to Disposal of Obsolete Pesticide Stocks
+Projects
+
+1 Sep 2012 – 31 Aug 2021
+
+555 122
+
+Capacity Building Related to Multilateral Environmental Agreements
+in ACP Countries – Phase III
+
+15 Oct 2019 – 14 Apr 2024
+
+512 458
+
+IOMC Toolbox for decision making in chemicals management – Phase
+III: From design to action
+
+1 Jan 2018 – 31 Dec 2020
+
+56 452
+
+AVACLIM: Agroecology, ensuring food security and sustainable
+livelihoods while mitigating climate change and restoring land in
+dryland regions
+
+1 Oct 2019 – 31 Mar 2023
+
+478 182
+
+Disposal of POPs waste and Obsolete Pesticides in Mozambique (FSP)
+
+1 Jul 2011 – 31 Dec 2021
+
+2 096
+
+Implementing Sustainable Low and Non-Chemical Development in
+SIDS (ISLANDS)/FAO Component (PPG)
+
+23 Oct 2019 – 31 Dec 2020
+
+67 065
+
+Participatory assessment of land degradation and sustainable land
+management in grassland and pastoral systems (FSP)
+
+1 Feb 2017 – 19 Nov 2021
+
+229 858
+
+Building the basis for implementing the Save and Grow approach:
+Regional strategies on sustainable and climate-resilient intensification
+of cropping systems
+
+1 May 2016 – 30 Jun 2021
+
+319 784
+
+Building climate resilience in city region food systems through adapted
+production systems
+
+1 Dec 2018 – 30 Nov 2021
+
+586 324
+
+Climate-Smart Crop and Mechanization Systems Scaling-Up (CSCS)
+
+1 Jun 2019 – 31 Dec 2021
+
+540 643
+
+Global Pulse
+Confederation
+
+Celebration of World Pulses Day
+
+7 Feb 2020 – 7 Feb 2021
+
+27 805
+
+Japan
+
+Project for Improvement of Locust Management (Phase 2)
+
+28 Jul 2020 – 30 Jun 2025
+
+427 131
+
+McKnight
+Foundation
+
+Strengthening Multi-stakeholder Cooperation on Agroecological
+Approaches for Sustainable Agriculture
+
+1 Dec 2015 – 31 May 2023
+
+189 109
+
+FAO Commission for Controlling the Desert Locust in
+the Central Region (CRC)
+
+15 Jun 2018 – 31 Dec 2021
+
+1 831 129
+
+FAO Commission for Controlling the Desert Locust in
+South-West Asia (SWAC)
+
+15 Jun 2018 – 31 Dec 2021
+
+5 979
+
+FAO Commission for Controlling the Desert Locust in the Western
+Region (CLCPRO)
+
+15 Jun 2018 – 31 Dec 2021
+
+693 990
+
+FAO Desert Locust Control Committee (DLCC)
+
+15 Jun 2018 – 31 Dec 2021
+
+145 636
+
+HORTIVAR: Horticulture Cultivars Performance Information System
+
+1 May 2013 – 31 Dec 2020
+
+102 024
+
+Sustainable Management of the Fall Armyworm (FAW), FAO Programme
+for Action in Africa, North Africa and the Middle East
+
+8 Nov 2018 – 31 Oct 2022
+
+1 015 819
+
+Smart Farming for the Future Generation
+
+25 Jun 2020 – 24 Jun 2024
+
+765
+
+Support for Horticulture Programme Development
+
+14 Apr 2006 – 31 Jul 2021
+
+207 305
+
+FAO/UNEP Secretariat to the Rotterdam Convention 2020–2021
+
+1 Jan 2020 – 31 Dec 2021
+
+1 219 567
+
+Letter of Agreement on the continuation of the Joint FAO/UNEP
+Secretariat Arrangements for the Rotterdam Convention
+
+1 Jul 2005 – 31 Dec 2021
+
+6 853
+
+Locust disaster risk reduction in Caucasus and Central Asia (CCA)
+
+28 Sep 2018 – 30 Sep 2021
+
+113 146
+
+European Union
+
+GEF
+
+Germany
+
+Multidonor
+
+ANNUAL REPORT
+
+DONOR
+
+Republic of Korea
+
+UNEP
+United States
+of America
+
+Total
+
+9 361 388
+
+ix
+
+-----------------------Page 11 End-----------------------
+
+Key collaborators
+We are particularly grateful for the support received from a number of
+strategic and technical partners to carry out global work in promoting
+sustainable plant production and protection.
+
+French National Institute for
+Agriculture, Food and the
+Environment (INRAE). FAO and
+INRAE partner to support transitions to
+sustainable food systems. Together, the
+two organizations produced the book
+Enabling Sustainable Food Systems:
+Innovators’ Handbook; organized
+
+51 Degrees Limited. NSP partnered
+with Vulcan to adopt its EarthRanger
+tracking tool to improve the management
+of up to 28 aircraft involved in desert
+locust survey and control operations in
+East Africa in 2020–2021. Real-time field
+data collected by eLocust3 digital tools
+flow into EarthRanger to help prioritize
+treatments, and results are integrated into
+national geographic information systems
+used in affected countries to manage the
+control campaign.
+
+events during the One Planet Network
+Sustainable Food Systems Global
+Conference and with FAO RLC and partners
+from Latin America; advised farmer field
+school programmes; and are producing
+15 policy briefs on innovations for
+sustainable food systems.
+Global Crop Diversity Trust. NSP
+collaborates with the Global Crop Diversity
+Trust on the conservation of plant genetic
+resources for food and agriculture. Recent
+outputs include the co-organization of
+the First International Multi-Stakeholder
+
+CGIAR Research Centers, CABI, icipe,
+Pennsylvania State University,
+Oregon State University, Lancaster
+
+Symposium on Plant Genetic Resources for
+Food and Agriculture and the development
+of four crop conservation strategies.
+
+University. These partners participated
+in online discussions and contributed to
+
+Global Partnership on Sustainable
+
+the development of the IPM guidelines
+
+Urban Agriculture and Food
+
+on FAW and the Guidelines on Prevention
+
+Systems (RUAF). Building on close
+
+and Preparedness for FAW Migration. They
+
+collaboration over the last decade, RUAF
+
+continue to provide technical guidance
+
+supported NSP City Region Food Systems
+
+to the Global Action for Fall Armyworm
+
+to develop assessments for resilience to
+
+Control via the Technical Working Groups
+
+climate change and pandemics and, with
+
+and the Technical Committee.
+
+PSU and ESS, an indicator framework
+and training package for the Milan Urban
+Food Policy Pact. These tools link local
+
+French Development Agency (AFD).
+
+agricultural production to efficient value
+
+AFD funded a CLCPRO project in support
+
+chains through improved urban planning
+
+of the preventive control strategy and
+
+to achieve the SDGs.
+
+to develop operational research on the
+
+x
+
+desert locust in the Western Region, which
+
+Global Pulse Confederation (GPC).
+
+includes the adaptation of prevention tools
+
+Since 2015, GPC and FAO have worked
+
+for climate change, better preservation
+
+together towards generating knowledge
+
+of the environment by developing more
+
+and creating greater awareness of pulses
+
+respectful control methods and the
+
+to enhance food security, health and
+
+development of technological
+
+nutrition, while improving environmental
+
+innovations. The project also supports
+
+sustainability; the collaboration
+
+the Central Region Commission in
+
+contributes to NSP’s success and to FAO’s
+
+strengthening its institutional, financial
+
+core mandate to eliminate hunger, food
+
+and operational mechanisms.
+
+insecurity and malnutrition.
+
+-----------------------Page 12 End-----------------------
+
+2020
+
+Pennsylvania State University
+
+Agency (JICA). The five-year project
+
+(PSU) – PlantVillage. In 2017, NSP
+
+(Phase II) for the improvement of locust
+
+partnered with PSU to develop the Fall
+
+management in Central Asia funded
+
+Armyworm Monitoring and Early Warning
+
+by JICA, commenced operations in
+
+System (FAMEWS), which was followed
+
+November 2020. It is expected to provide
+
+by the SusaHamra mobile app for red
+
+substantial support for improving
+
+palm weevil. In early 2020 and because
+
+locust management through regional
+
+of these collaborations, PSU was able to
+
+cooperation and for strengthening
+
+rapidly develop eLocust3m, a mobile app
+
+technical capacities on a wide range of
+
+for crowd-sourcing data and improving
+
+topics, including in view of the operational
+
+desert locust monitoring and response
+
+use of the locust GIS entitled “Caucasus
+
+in countries affected by the 2020–2021
+
+and Central Asia Locust Management
+
+upsurge.
+
+ANNUAL REPORT
+
+Japan International Cooperation
+
+System” (CCALM).
+
+School of Agriculture Foundation,
+McKnight Foundation. Since 2015,
+
+University of Buenos Aires. The
+
+the McKnight Foundation has supported
+
+Foundation has been an excellent service
+
+FAO work in agroecology, including
+
+provider and partner, ensuring the timely
+
+support to the Second International
+
+delivery of products and showing robust
+
+Symposium on Agroecology (2018),
+
+technical competencies in providing high-
+
+during which the Scaling Up Agroecology
+
+quality reports, including risk assessments
+
+Initiative was launched. The Foundation
+
+of Carbaryl pesticide, guides for pesticide
+
+supports the Agroecology Knowledge
+
+risk evaluation, and human health and
+
+Hub, the development of the Tool for
+
+environmental impact studies.
+
+Agroecology Performance Evaluation
+(TAPE) and the Global Soil Organic Matter
+Database to support carbon recycling and
+soil health.
+Swedish Chemical Agency (KEMI).
+National Oceanic and Atmospheric
+Administration (NOAA). In 2020,
+the Desert Locust Information Service
+(DLIS) collaborated with NOAA to refine
+their HYSPLIT model and develop a web
+application to estimate desert locust
+swarm migrations up to 15 days forward
+or backwards in time. Trajectories
+
+KEMI is a key partner in implementing
+the International Code of Conduct on
+Pesticide Management. It provides
+financial resources and technical
+expertise for strengthening institution
+and stakeholder capacities to address
+key challenges in the management of
+pesticides.
+
+produced by the model are integrated into
+DLIS analysis and early warning measures.
+In addition to the partners mentioned here, a total of 31
+FAO partners generously contributed USD 211 million to
+Norad. Since 2018, NORAD has been
+
+support FAO’s Desert Locust Upsurge: Global Response
+
+providing financial support for FAO’s work
+
+Plan in 2020. The Response Plan has been technically
+
+on FAW management. Their contributions
+
+coordinated by NSP to curb the desert locust upsurge,
+
+enabled the set up and implementation
+
+safeguard livelihoods and promote early recovery, regional
+
+of the Global Action for Fall Armyworm
+
+and national coordination, and preparedness.
+
+Control.
+
+xi
+
+-----------------------Page 13 End-----------------------
+
+The plant production
+and protection
+community
+
+A brief history
+FAO’s Plant Production and Protection Division is almost as old as FAO itself!
+First established on 22 June 1947 as the Plant Industry Branch, by 1959
+it was a full division focusing on crop production, improvement and
+protection. During the 1960s–1980s, the Division was broadly structured
+on crop and grasslands production services, plant protection service, and
+crop ecology and genetic resources. In 1980s–2000s there was an increased
+emphasis on fruits and vegetables. And, in 2020, the Division acronym
+changed from AGP to NSP, with a renewed focused transformation to MORE
+efficient, inclusive, resilient and sustainable plant production and protection
+through optimization and minimization.
+
+xii
+
+-----------------------Page 14 End-----------------------
+
+2020
+
+Mission
+
+Developing sustainable plant
+production systems for a world
+free from hunger.
+
+Enabling the transition to MORE
+efficient, inclusive, resilient
+and sustainable plant production
+and protection through
+ptimization and minimization.
+
+Core activities
+
+Strategic objectives
+
+•	plant genetic resources utilization
+and seed management;
+
+•	ensuring food security and nutrition;
+
+•	plant production system
+development and management;
+•	plant pest monitoring
+and management;
+•	pesticide risk reduction
+and management; and
+
+ANNUAL REPORT
+
+Vision
+
+•	enhancing food quality and safety;
+•	protecting the environment
+and biodiversity; and
+•	facilitating safe trade
+and economic growth.
+
+•	technology innovation
+and transformation.
+
+Source file: UN Geospatial
+
+Regional offices
+
+Subregional offices
+
+xiii
+
+-----------------------Page 15 End-----------------------
+
+Jingyuan Xia
+Director
+
+Rémi Nono Womdim
+Deputy Director
+
+International
+Plant Protection
+Convention
+
+Mr Chikelu Mba
+Plant Genetic and
+Seed Resources
+(NSPGD)
+
+Office of the
+Director
+
+Mr Fenton Beed
+
+Mr Ronnie Brathwaite
+
+xiv
+
+Fall Armyworm
+Secretariat
+(FAW)
+
+Pest and Pesticides
+Management
+(NSPCD)
+
+Mr Shoki AlDobai
+
+Ms Christine Fuell
+
+Locust and Transboundary
+Plant Pests and Diseases
+(NSPMD)
+
+Rotterdam Convention
+(NSPRD)
+
+FAO Regional Commissions
+for controlling the Desert Locust
+
+Southwest
+Asia
+(SWAC)
+
+Mr Buyung Hadi
+
+Mr Baogen Gu
+
+Rural and Urban Crop and
+Mechanization Systems
+(NSPLD)
+
+Ecosystem Approach to Crop
+Production Intensification
+(NSPED)
+
+Committee on
+Agriculture
+
+Central
+Region
+(CRC)
+
+Western
+Region
+(CLCPRO)
+
+-----------------------Page 16 End-----------------------
+
+2020
+ANNUAL REPORT
+
+A global community
+As of 31 December 2020, 171 FAO staff were working on plant production and
+protection, 148 of whom at FAO headquarters, and 24 in decentralized offices. This
+includes six teams specialized in various areas of plant production (NSPGD, NSPED and
+NSPLD) and protection (NSPMD, NSPCD and NSPRD), as well as the secretariats of
+the International Plant Protection Convention (IPPC), the Committee on Agriculture
+(COAG), and Fall Armyworm.
+In addition, there are three desert locust commissions managed by the NSPMD team.
+Plant Production and Protection Officers are present across five regions and 11 subregions, demonstrating the importance of plant production and protection for the
+work of FAO.
+
+xv
+xv
+
+-----------------------Page 17 End-----------------------
+
+Acronyms and
+abbreviations
+A
+
+C
+
+E
+
+F
+
+G
+H
+
+I
+
+xvi
+
+ACP
+
+African, Caribbean and Pacific
+
+ACT
+
+African Conservation Tillage
+
+AFD
+
+Agence Française de Développement
+
+CAAS
+
+Chinese Academy of Agricultural Science
+
+CBD
+
+Convention on Biological Diversity
+
+CCA
+
+Caucasus and Central Asia / climate change adaptation
+
+CLCPRO
+
+Commission for controlling the Desert Locust in the Western Region
+
+CLI
+
+CropLife International
+
+COAG
+
+FAO Committee on Agriculture
+
+COP
+
+Conference of the Parties
+
+CRC
+
+Chemical Review Committee
+
+CRFS
+
+City Region Food Systems
+
+CYMMIT
+
+International Maize and Wheat Improvement Center
+
+EAC
+
+East Africa Community
+
+ETF
+
+Enhanced Transparency Framework
+
+EU
+
+European Union
+
+FAMEWS
+
+FAW Monitoring and Early Warning System
+
+FAW
+
+Fall armyworm
+
+FFS
+
+Farmer field school
+
+F-SAMA
+
+Framework for Sustainable Agricultural Mechanization in Africa
+
+GCI
+
+Green Cities Initiative
+
+GEF
+
+Global Environment Facility
+
+HHPs
+
+Highly hazardous pesticides
+
+HSRS
+
+Harmonized Seed Regulatory System
+
+ICBA
+
+International Center for Biosaline Agriculture
+
+icipe
+
+International Centre of Insect Physiology and Ecology
+
+IFA
+
+International Fertilizer Association
+
+IFAD
+
+International Fund for Agricultural Development
+
+INRAE
+
+French National Research Institute for Agriculture, Food and Environment
+
+IPPC
+
+International Plant Protection Convention
+
+ISF
+
+International Seed Federation
+
+IYFV
+
+International Year of Fruits and Vegetables
+
+IYPH
+
+International Year of Plant Health
+
+-----------------------Page 18 End-----------------------
+
+2020
+ANNUAL REPORT
+
+J
+M
+
+N
+
+O
+P
+R
+
+S
+
+T
+
+U
+
+W
+
+JMPM
+
+Joint Meeting on Pesticide Management
+
+JMPR
+
+Joint Meeting on Pesticide Residues
+
+JMPS
+
+Joint Meeting on Pesticide Specifications
+
+MRLs
+
+Maximum residue limits
+
+NGO
+
+Non-governmental organization
+
+NORAD
+
+Norwegian Agency for Development Cooperation
+
+NSPCD
+
+Pest and Pesticide Management
+
+NSPED
+
+Ecosystem approach to crop production intensification
+
+NSPGD
+
+Plant Genetic Resources and Seeds
+
+NSPLD
+
+Rural and Urban Crop and Mechanization Systems
+
+NSPMD
+
+Locusts and Transboundary Plant Pests and Diseases
+
+NSPRD
+
+Rotterdam Convention
+
+OACPS
+
+Organisation of African, Caribbean and Pacific States
+
+PGRFA
+
+Plant Genetic Resources for Food and Agriculture
+
+PPE
+
+Personal protective equipment
+
+PRAGA
+
+Participatory Rangelands and Grasslands Assessment
+
+RC
+
+Rotterdam Convention
+
+SAM
+
+Sustainable agricultural mechanization
+
+SADC
+
+Southern African Development Community
+
+SDGs
+
+Sustainable Development Goals
+
+SHARP
+
+Self-evaluation and Holistic Assessment of Climate Resilience of Farmers and Pastoralists
+
+SHPFs
+
+Severely hazardous pesticide formulations
+
+SOP
+
+Standard operating procedures
+
+SSC
+
+South–South cooperation
+
+TAPE
+
+Tool for Agroecology Performance Evaluation
+
+TFCA
+
+NSP Task Force for Communications and Advocacy
+
+TFPF
+
+NSP Task Force of Planning and Finance
+
+TFSD
+
+NSP Task Force on Strategic Development
+
+UNEP
+
+United Nations Environment Programme
+
+USAID
+
+United States Agency for International Development
+
+USDA
+
+United States Department of Agriculture
+
+WFP
+
+World Food Programme
+
+WHO
+
+World Health Organization
+
+WIEWS
+
+World Information and Early Warning System on PGRFA
+
+WTO
+
+World Trade Organization
+
+xvii
+
+-----------------------Page 19 End-----------------------
+
+Executive summary
+
+T
+
+he year 2020 was an eventful one for NSP. The
+COVID-19 pandemic meant the Division had to
+abruptly adapt to new ways of working. Despite
+the disruption, NSP had the pleasure of welcoming
+its new Director, Dr Jingyuan Xia, who brought new
+
+dynamism and direction to the Division. In addition, the Division
+was placed under a new reporting line to the Deputy Director General for Partnerships and Outreach, Ms Beth Bechdol, as part of an
+overall restructuring within FAO in the lead up to a proposed new
+Strategic Framework for the Organization (2022–2031). This framework will more closely align the work of FAO and NSP with the goals
+of the 2030 Agenda for Sustainable Development.
+NSP continued to be FAO’s reference point for all matters on plant
+production and protection, through activities related to seeds, ecosystems-based approaches to agriculture, sustainable crop production intensification, urban and peri-urban agriculture, sustainable mechanization, protection against transboundary pests such
+as desert locust and fall armyworm, and reduction of risks related
+to pesticides, fertilizers and other chemicals.
+While many major events had to be cancelled or held virtually,
+strong support from a broad range of stakeholders, and the hard
+work and commitment of NSP employees and the NSP Community around the globe, meant the Division still managed to deliver
+in the highest professional manner and serve its partners globally,
+regionally and nationally. It also made significant progress in many
+areas of work.
+
+xviii
+
+-----------------------Page 20 End-----------------------
+
+©FAO/Sergey Kozmin
+
+xix
+xix
+
+A ANNNNUUA AL LR RE EP POOR RT T
+
+2020
+2020
+
+-----------------------Page 21 End-----------------------
+
+Outstanding FAO
+achievements in 2020
+Mitigation of
+COVID-19
+FAO published major policy briefs
+on Sustainable Crop Production
+and COVID-19 and COVID-19 and
+the role of local food production
+in building more resilient local food
+systems, as well providing advice on
+ongoing activities related to many areas
+
+Normative work
+
+of work including seed systems, fall armyworm and desert
+
+Preparation work was finalized for
+
+locust. Over 700 virtual activities and events were organized
+
+59 countries for the Third Report on
+
+at global, regional and national levels.
+
+the State of the World’s Plant Genetic
+Resources for Food and Agriculture, using
+
+Production
+technology
+
+the World Information and Early Warning
+System (WIEWS) reporting tool. Capacity
+development of sound pesticide management was
+
+FAO was at the forefront of
+
+enhanced in 89 countries, with 456 new international standards
+
+promoting agroecology through
+
+and technical guidelines developed. Preparations took place
+
+capacity building for sustainable
+
+for the Tenth Conferences of the Parties (COP10) of the Basel,
+
+agriculture and land management
+
+Rotterdam and Stockholm conventions, scheduled for 2021.
+
+assessment in 16 countries and
+4 regions using TAPE and PRAGA
+training. FAO led the formulation divisions,
+NSP led the formulation of the new Global Programme on
+
+Protection technology
+
+Sustainable Dryland Agriculture, endorsed at the
+
+NSP was the lead technical division on
+
+Twenty-seventh Session of Committee on Agriculture (COAG),
+
+FAO’s efforts to control desert locust
+
+and brought forward its work with the African Union on the
+
+in affected countries (with 2.5 million
+
+Framework for Sustainable Agricultural Mechanization
+
+hectares treated) and migratory locust
+
+in Africa (F-SAMA).
+
+in 10 Caucasus and Central Asian (CCA)
+countries. A new strategy was adopted
+
+Seed technology
+FAO provided technical and policy
+support to 44 Member Nations for
+developing strategies, capacities
+and tools for plant conservation,
+breeding and seed systems.
+FAO also supported 48 countries to
+restart crop production after natural
+disasters and crises through the provision
+of quality seeds worth over USD 30 million.
+
+xx
+
+for the Global Action for Fall Armyworm (FAW)
+Control (GA) with over 60 countries in Africa, the Near East and
+North Africa involved, 8 of which as demonstration countries for the
+Global Action. In African, Caribbean and Pacific (ACP) countries,
+NSP supported initiatives for pesticide risk reduction and
+mainstreaming biodiversity, while two regional guidelines for
+harmonization of pesticide management were developed and
+endorsed for implementation.
+
+-----------------------Page 22 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Communications
+and advocacy
+FAO promoted various plant production
+and protection-related initiatives
+including the International Year of Plant
+Health (IYPH), World Pulses Day, World Bee
+
+Strategic planning
+FAO developed a new five-year plant
+production and protection strategy
+(2021–2025) based on a different
+annual theme each year linked to the
+Sustainable Development Goals (SDGs).
+
+Day and World Food Day. The Division contributed to the successful
+
+2021: Promote food security and
+
+launch of the International Year of Fruits and Vegetables (IYFV).
+
+nutrition (SDG 2) 
+
+Two new bimonthly newsletters were launched on plant production
+
+2022: Minimize crop loss and residual risk
+
+and protection and FAW. Six new FAW guidance notes covering
+
+(SDGs 3 and 12)
+
+8 demonstration and 53 pilot countries (with 8 translations) were
+
+2023: Enhance environmental protection (SDGs 13 and 15)
+
+published. Videos were produced on agroecology, seeds, protected
+
+2024: Facilitate safe trade (SDGs 8 and 17) 
+
+cultivation, sustainable mechanization, farmer field schools and
+
+2025: Support poverty reduction (SDG 1)
+
+conservation agriculture. The Task Force on Communications
+and Advocacy (TFCA) was formed.
+
+Partnerships
+and network
+
+Optimization
+of internal
+management
+Standardization was strengthened
+through the adoption of standard
+
+NSP strengthened its networks
+
+operating procedures for meeting
+
+on locust control, FAW control,
+
+arrangements (12 items), the streamlining
+
+pesticide management, agroecology
+and sustainable mechanization.
+It led cross-FAO activities related to the
+Technical Network on Sustainable Crop
+
+of official communications in 3 areas, quality
+control related to 10 items, and 18 new divisional and FAW
+communications templates. Teamwork and team building were
+strengthened through the establishment of the TFCA, the Task
+
+Production and Agroecology. It also enhanced existing and
+
+Force on Planning and Finance (TFPD), the Task Force on Strategic
+
+built new relationships with 180 partners. The global NSP
+
+Development (TFSD); assistant Team Leaders were nominated to
+
+Community was reinforced through stronger links between FAO
+
+strengthen the technical teams; two workshops on team building
+
+headquarters and plant production and protection officers in
+
+were organized; and outstanding employees were recognized by the
+
+the regions and subregions.
+
+NSP Director.
+
+Transformation of FAO Plant Production and Protection
+The FAO Plant Production and Protection Division went through a major transformation in the second half of
+2020 focused primarily on two areas: internal management and professional development. With regard
+to internal management, emphasis was placed on the need for a “One Dynamic NSP”, which will be more
+innovative and build approaches that are people-first, demand-driven, result-oriented and performance-based.
+© FAO/XXXXxxxxxxx
+
+In terms of professional development, a new focus was put on innovation and technology and the two
+mainstreams of optimization and minimization.
+
+1
+
+-----------------------Page 23 End-----------------------
+
+Mitigation of COVID-19
+
+Sustainable crop production and
+COVID-19
+INTRODUCTION
+The COVID-19 pandemic comes at a time when around 820 million people in the world suffer
+from chronic hunger and more than 2 billion are malnourished. Even before the pandemic struck,
+the ambitious path that was laid out by the Sustainable Development Goals (SDGs) was going to
+require a concerted effort to stay on track; COVID-19 has fundamentally changed the context in
+which Agenda 2030 was being pursued and we now risk a reversal of gains made in the last few
+years.
+According to projections, world food production will have to increase by 50 percent (over 2012
+levels) by 2050. This increase will need to be achieved with the same or fewer inputs under
+conditions of widespread land degradation, increasing competition for both land and water and
+the uncertainties of climate change. This is the premise for FAO’s work aimed at enabling farmers’
+transition to sustainable crop production intensification and diversification. FAO strengthens the
+institutional and human capacities of Member Countries – through a combination of standard
+setting, policies and regulations on the one hand and field level operational activities on the other.
+It does so using the following pillars of sustainable crop production intensification: farming
+systems; soil health; crops and varieties; water management; plant protection and the enabling
+policies and institutions.
+The disruptions to these activities caused by the COVID-19 pandemic, coupled with the ongoing
+stresses from transboundary pests and diseases (in particular the current desert locust upsurge)
+and the increasing frequency and intensification of erratic weather events due to climate change,
+have considerable short-, medium- and long-term consequences. The prevalence of resourcepoor smallholder farmers, significant yield gaps, and suboptimal institutions and enabling policy
+regimes characterize the crop production systems of developing Member Countries. These are
+the very systems that are the most vulnerable to the effects of this pandemic.
+This policy brief is intended for decision-makers in developing Member Countries where food
+security and nutrition are underpinned by the outputs of hundreds of millions of smallholder
+farmers. It provides guidance on actionable measures for mitigating the effects of the COVID-19
+pandemic on crop production to support sustainable food systems, and ultimately enhancing the
+resilience of institutions and infrastructure to ensure delivery of safe and nutritious food.
+
+SHORT-TERM IMPACT ON SUSTAINABLE CROP PRODUCTION
+The poorest and most vulnerable groups will experience the most negative effects of the current
+pandemic. This demographic includes subsistence farmers as well as smallholder farmers’
+enterprises.
+
+2
+
+COVID-19 policy brief
+COVID-19 has fundamentally changed the context in which Agenda 2030 is being
+pursued, with the risk that gains made in recent years may be reversed. The poorest and most vulnerable groups – including subsistence farmers and smallholder
+farmers’ enterprises – will experience the most negative effects of the pandemic. In
+April 2020, a policy brief for decision makers in developing Member Nations where
+food security and nutrition issues have affected smallholder farmers. The policy brief
+highlighted a policy brief was developed for decision makers FAO's commitment to
+work with Member Nations, organizations and partners to stabilize food production
+and distribution during the COVID-19 crisis. https://doi.org/10.4060/ca8807en
+
+© FAO
+
+27 April 2020
+
+-----------------------Page 24 End-----------------------
+
+ANNUAL REPORT
+
+2020
+© FAO
+
+City region food systems
+and COVID-19
+
+Farmer field schools:
+sharing information &
+new practices
+
+COVID-19 disrupted city region food systems (CRFS) worldwide,
+posing challenges for cities and local governments obliged to
+deal with rapid changes in food availability, affordability and
+the food security and nutrition situation of urban populations.
+Consequently, a pandemic component was added to the CRFS
+programme, with 17 articles and case studies published on the
+impact of COVID-19. Based on the information collected, the
+CRFS assessment methodology is being modified to include
+pandemic-related indicators. CRFS indicators are also contributing to the Green Cities Initiative (GCI) indicator framework.
+Policy Brief: Urban food systems and COVID-19: The role of
+cities and local governments in responding to the emergency.
+
+The global farmer field school platform responded to the
+COVID-19 pandemic by providing ongoing technical support
+to countries and projects. A global communication and training campaign was launched to incorporate awareness-raising on COVID-19 into farmer field school programmes, and
+to adapt training and extension in the light of the pandemic. A handbook on Running Farmer Field Schools in times of
+COVID-19 and multiple posters and national communication
+campaigns were released in 10 languages in partnership with
+FAO field offices and external partners.
+More information:
+http://www.fao.org/farmer-field-schools/ffs-overview/covid-19/en/
+Addressing the impact of COVID-19 on the global action for
+FAW control (http://www.fao.org/3/ca8652en/ca8652en.pdf)
+
+COVID-19: FAW Secretariat
+continued support
+
+© FAO
+
+A Guidance Note was issued on addressing the impact of
+COVID-19 on Global Action for Fall Armyworm Control; particularly, how FAW control work would continue despite the pandemic. http://www.fao.org/documents/card/en/c/ca8652en/
+The Global Action for Fall Armyworm Control continued
+to support countries in managing FAW throughout the
+COVID-19 pandemic by conducting webinars and virtual training sessions on FAW monitoring and management, and by implementing activities where possible. This included a capacity-building workshop conducted in Gabon in December 2020.
+
+3
+
+-----------------------Page 25 End-----------------------
+
+Seed technology
+
+Crop varietal development
+
+4
+
+© FAO/Arshiya Noorani
+
+FAO strengthened capacities to develop crop varieties suited to local agroecologies and farming systems. In 2020, the Republic of Moldova was supported in
+strengthening its value chain for berries, which included breeding improved varieties and enhancing smallholder capacities and access to markets. Similarly,
+in Mongolia, farmers were provided assistance to access quality planting materials for 36 improved new fruit varieties. In Africa, the adoption of improved crop
+varieties was facilitated in 15 countries: Angola, Benin, Cameroon, Côte d’Ivoire,
+Eswatini, Guinea, Kenya, Mali, Namibia, Nigeria, Senegal, Uganda, United
+Republic of Tanzania, Zambia and Zimbabwe.
+
+-----------------------Page 26 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Seed sector development
+
+©FAO-IAEA
+
+FAO continues to support countries in developing national
+seed policies, legislations and/or regulatory frameworks. In
+2020, 11 countries were supported in this regard. Seed value chains were strengthened in 30 countries. In five southern African countries, the production of Crop Specific Field
+Inspection Manuals was supported along with the promotion of sustainable seed production practices. In Latin
+America and the Caribbean, production capacity for quality
+legume seeds was strengthened in one country, while three
+others were supported with the dissemination of three new
+cassava varieties per country.
+
+© FAO/Arshiya Noorani
+
+Conservation of genebanks
+In 2020, FAO supported national genebanks to collect,
+conserve, regenerate, multiply, characterize and evaluate
+crop germplasm. These interventions resulted in sustained
+targeted germplasm collection and the expanded conservation of more crops and their wild relatives in four
+SADC countries. NSP worked with its partners to support
+informed decision-making processes in large germplasm
+collections and to develop national genebanks in Organization of Islamic Cooperation Member States. With the support from GEF, technical assistance was provided in Bolivia
+(Plurinational State of), Chile, China, Cuba, India, Indonesia,
+Mauritania, Mexico, Philippines and Tajikistan on in situ
+conservation of PGRFA and managing on-farm diversity.
+
+Seed security
+Natural disasters, transboundary pests, conflict and
+COVID-19 have increased the vulnerability of millions of
+small-scale farmers. Providing access to quality seeds and
+productive, nutritious and resilient farmer-preferred crop
+varieties is a core part of FAO’s assistance to farmers in
+post-crisis situations. In 2020, FAO supported emergency
+seed relief activities totalling USD 30 million in 48 countries
+through 144 projects.
+
+EA
+-IA
+O
+A
+©F
+
+5
+
+-----------------------Page 27 End-----------------------
+
+Production technology
+
+Productive reconversion programme:
+Santa Fe, Argentina
+
+6
+
+© FAO
+
+FAO provided support to Santa Fe Province, Argentina, to implement a productive reconversion programme aimed at strengthening local added value through
+agroecology in combination with short circuit markets and sustainable land use
+planning. In 2020, the programme supported 93 farmers on 1 300 ha, trained
+80 technicians in 50 training sessions, published the Basic Guide for Agroecological Planning and Management of Crops, and established a number of schemes to
+support agroecology and productive reconversion in the province.
+
+-----------------------Page 28 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Extension officers, farmers
+trained on protected
+cultivation
+FAO has been promoting protected cultivation systems
+as a way to increase food security and grow crops more
+productively. Technical support was provided to Member
+Nations through the development of an online training
+course. It was delivered to 4 countries with a total of 120
+participants, targeting private-sector stakeholders, extensionists and farmers. A total of 47 countries and 43 projects
+received technical support to develop projects and obtain
+approvals for protected cultivation items.
+
+Capacity development
+supporting conservation
+tillage in Africa
+The Framework for Sustainable Mechanization in Africa
+(F-SAMA) was launched, in collaboration with the African
+Union Commission, providing guidance, providing
+guidance on how to aid the development of sustainable
+mechanization in agri-food systems. Together with
+NSP partners, capacity building included: developing a
+training guide for mechanization hire service providers;
+conducting training in seven countries; conducting
+high-levels sessions for investors in agricultural mechanization;
+and conducting a webinar series on F-SAMA, with
+641 participants from 71 countries.
+
+Improving farming, food
+and feeding in Mozambique
+Through a six-year, EU-funded initiative, the Government
+of Mozambique, FAO, WFP and IFAD worked together to
+enhance agricultural production, improve access to food and
+improve dietary intake and feeding practices in Mozambique.
+Project demonstration plots evaluated the adaptability and
+performance of maize, rice and bean varieties in terms of
+yield, pest and disease resistance, and climate adaptation.
+In addition, 72 groups of seed producers were trained in seed
+production and seed enterprise development.
+
+Mainstreaming biodiversity
+in Africa, Caribbean and
+Pacific
+FAO is working to mainstream biodiversity into agriculture
+with funding from the EU and in collaboration with OACPS
+and UNEP. The joint programme will build capacities to overcome the socio-economic and political barriers preventing
+countries and farmers from adopting ecosystem-based
+agricultural practices and approaches to biodiversity and
+chemical management. In 2020, despite restrictions associated with the COVID-19 pandemic, the programme managed to validate 6 focus and 19 scale-out countries.
+
+Agroforestry: improving
+livelihoods and climate
+change resilience
+In Ghana, FAO supported the training of 40 extension staff and
+3 000 farmers on a cocoa-based agroforestry system, in collaboration with the Ghana Cocoa Board, local NGOs and the
+Tokyo University of Agriculture and Technology. The system
+– developed by Japanese-Brazilian farmers – was adapted to
+the Ghanaian context through a South–South and triangular
+cooperation mechanism between Japan, Brazil and Ghana.
+
+7
+
+-----------------------Page 29 End-----------------------
+
+Protection technology
+
+Fall armyworm threat
+A new strategy was adopted for the Global Action for Fall Armyworm (FAW) Control,
+(GA) with over 60 countries in three regions involved, 8 of which were designated as
+demonstration countries and 54 designated as pilot countries for the GA. Regional
+integrated pest management strategies (IPM) are being developed by these countries, with lessons learned in the demonstration countries shared with the pilot
+countries. The GA continues to support countries in managing FAW by conducting
+webinars and virtual training sessions on FAW monitoring and management, and
+by implementing activities where possible. The guidelines distilled several hundred
+primary resources to assess the efficacy, safety, sustainability and scalability of IPM
+interventions.
+
+Egypt
+
+China
+
+Philippines
+Burkina Faso
+
+India
+
+Cameroon
+
+Kenya
+
+Malawi
+Source
+Source: FAO,
+file: FAO,
+2020. 2020.
+Conforms
+Conforms
+to Map No.
+to 4170
+Map Rev.
+No. 19
+4170
+UNITED
+Rev.NATIONS
+19 UNITED
+(October
+NATIONS
+2020) *(October 2020) *
+
+Demonstration and pilot countries
+North-East Asia: China, Democratic People’s Republic of Korea, Japan, Republic of Korea
+
+Eastern Africa: Burundi, Ethiopia, Kenya, Rwanda, South Sudan, Uganda
+
+South-East Asia: Cambodia, Indonesia, Lao People’s Democratic Republic, Malaysia,
+Myanmar, Philippines, Thailand, Timor-Leste, Viet Nam
+
+Southern Africa: Angola, Botswana, Eswatini, Lesotho, Madagascar, Malawi, Mozambique,
+Namibia, South Africa, United Republic of Tanzania, Zambia, Zimbabwe
+
+South Asia: Bangladesh, India, Nepal, Pakistan, Sri Lanka
+
+Central Africa: Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo,
+Gabon, Sao Tome and Principe
+
+Western Africa: Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, Gambia, Ghana,
+Guinea, Guinea-Bissau, Mali, Niger, Nigeria, Senegal, Sierra Leone, Togo
+
+8
+
+Near East and Northern Africa: Egypt, Mauritania, Sudan, Yemen
+
+-----------------------Page 30 End-----------------------
+
+2020
+ANNUAL REPORT
+
+FAW coordination
+The Steering Committee (SC) for the Global Action for FAW Control was established in 2020, chaired by FAO DG with over 20
+members from resource, research and development partners
+across the globe. The SC is supported by a Technical Committee
+(TC) chaired by the chief scientist of USAID with over 30 members from international and national research institutes. During
+2020, three SC meetings and three TC meetings were organized.
+
+Innovations and tools to
+fight fall armyworm
+FAMEWS, a mobile app and global platform to collect and
+summarize data on FAW field scouting and pheromone trapping was updated, while FAMEWS data (showing infestation
+and prevalence) were integrated into the Tanzania Agrometeorology (TMA) Database. Further, a digital monitoring and
+an early warning system was developed for crop diseases and
+insect pests in China, as well as a quick-identification tool.
+
+FAO promotes sound
+pesticide management
+FAO continued to facilitate pesticide risk reduction throughout
+all steps of pesticide lifecycle management, including support
+to national policies and laws on pesticide management in five
+countries, environmental management plans in six countries
+and environmental risk assessment reports for six countries,
+pilot schemes for empty pesticides containers management in
+four countries, plus four international tenders for environmentally sound disposal of more than 900 tonnes of obsolete pesticides. FAO also provided over 100 pesticide clearance requests
+from various FAO Country Offices.
+
+Promoting alternatives to
+hazardous pesticides
+In 2020, teams in four sub-Saharan countries were trained
+on promoting safer alternatives to severely hazardous pesticide formulations (SHPFs) using the FFS methodology. In
+Rwanda, FFS/IPM training plots demonstrated the effectiveness of botanical pesticides in controlling plant pests and
+built strong community awareness on the negative effects of
+SHPFs. In Burkina Faso, Mali and Senegal, alternatives to synthetic chemical pesticides were tested, with a market study
+carried out to assess the accessibility and profitability of alternative plant protection methods. The most promising alternatives were proposed to farmers through established FFSs.
+
+to
+an
+is T
+u
+L
+O/
+©FA
+
+FAO responds to desert
+locust upsurge
+In 2020, the worst desert locust upsurge in 25 years
+affected 13 countries in East Africa, the Near East and
+Southwest Asia. In total, 2 825 000 ha were treated in
+22 countries, of which 1 958 000 with direct FAO support
+across the ten most affected countries. With USD 194 million
+mobilized, FAO supported the affected countries with material, equipment and innovative technologies for aerial and
+ground survey and control operations. FAO-supported operations averted the loss of an estimated 3 130 000 tonnes of
+cereal in East Africa and Yemen alone – enough grain to feed
+21 million people for an entire year.
+
+Innovations in monitoring,
+control of desert locust
+The 2020 desert locust upsurge necessitated the development and implementation of innovative monitoring and early warning tools, and control systems. The eLocust3 system
+was expanded to include mobile phone (eLocust3m) and
+GPS (eLocust3g) versions. EarthRanger, a geospatial tracking
+system, was modified to manage aerial survey and control
+operations in three countries, with all field data made publicly available on the FAO/ESRI Locust Hub. New remote sensing
+products were developed to detect soil moisture and guide
+survey teams to potential breeding areas. And drones were
+deployed so survey teams could monitor larger areas for
+breeding conditions and locust infestations.
+
+9
+
+-----------------------Page 31 End-----------------------
+
+Technology promotion
+
+Mechanization
+
+10
+
+© FAO/Kienzle
+
+Through an FAO partnership, African Conversation Tillage (ACT) carried out scoping studies in 2020 to address knowledge gaps and training needs of stakeholders
+with regard to sustainable agricultural mechanization (SAM). Studies took place
+in Kenya, Uganda, United Republic of Tanzania and Zambia, with outputs including
+knowledge and information products, online workshops and training.
+
+-----------------------Page 32 End-----------------------
+
+2020
+ANNUAL REPORT
+© FAO
+
+© FAO
+
+Scaling-up farmer field
+schools
+
+Evaluating agroecological
+performance  
+
+Scaling-up of farmer field schools (FFS) was supported with
+the engagement of rural communities, governments and
+partners in 40 countries. Membership in the Global FFS Platform reached 131 countries. Ten new guides and reference
+documents were published to support FFS field work, including a report on Integrating ICTs in FFS, a book on Farmer
+field schools, gender equality, social inclusion and community empowerment, and FFS modules on agroecology, soil
+and watershed functions.
+
+TAPE was developed in a collaboration between FAO and
+more than 70 experts to produce evidence on the performance of agroecological systems. TAPE uses and is closely linked to the 10 Elements of Agroecology framework,
+and both of these in turn support the Scaling Up Agroecology
+Initiative along agroecological transitions to sustainable agrifood systems.
+
+The self-evaluation and holistic assessment of climate resilience of farmers and pastoralists (SHARP) tool was customized to serve as a reporting tool under the Paris Agreement’s
+Enhanced Transparency Framework (ETF) in collaboration with FAO’s Office of Climate Change, Biodiversity and
+Environment (OCB). New material was developed and training on SHARP undertaken in multiple countries in Africa and
+Asia. Use of the tools is being mainstreamed in the Global
+Environment Facility (GEF) portfolio.
+
+© FAO
+
+Holistic assessment
+of climate resilience of
+farmers and pastoralists
+
+11
+
+-----------------------Page 33 End-----------------------
+
+Normative work
+
+Preparing the Third Report on
+the State of the World’s PGRFA
+Over 250 National Focal Points for PGRFA from approximately 60 countries
+attended training sessions for country reporting and the use of the online WIEWS
+Reporting Tool. The country reports form the basis for The Third Report on the
+State of the World’s Plant Genetic Resources for Food and Agriculture, which is
+expected to be submitted for endorsement to FAO’s Commission on Genetic
+Resources for Food and Agriculture in 2023.
+
+PREPARATION OF COUNTRY REPORTS FOR
+THE THIRD REPORT ON THE STATE OF THE WORLD’S
+PLANT GENETIC RESOURCES FOR FOOD AND AGRICULTURE
+
+PREPARATION OF COUNTRY REPORTS FOR
+THE THIRD REPORT ON THE STATE OF THE WORLD’S
+PLANT GENETIC RESOURCES FOR FOOD AND AGRICULTURE
+
+12
+
+-----------------------Page 34 End-----------------------
+
+2020
+
+The 10 elements of agroecology analytical framework was
+approved by FAO Member States to guide FAO’s vision on
+agroecology and facilitate improved decision-making by
+policymakers, practitioners and other stakeholders. A review paper was published describing the rationale and development process of the analytical framework; it brought
+together different streams of scientific evidence to support social-ecological transitions structured around the
+10 Elements of Agroecology framework. Link here: https://
+
+ANNUAL REPORT
+
+10 elements of agroecology
+
+CIRCUL AR AND
+SOLIDARIT Y ECONOM
+Y
+
+EMENTS
+THE 10 ELECOLOGY
+OF AGRO
+TION
+
+SI
+THE TRAN
+GUIDING NABLE FOOD AND
+TO SUSTAI RAL SYSTEMS
+AGRICULTU
+
+Circular and solidar
+ity economies that
+reconnect produc
+consumers provide
+ers and
+innovative solutions
+for living within our
+boundaries while ensurin
+planetary
+g the social founda
+tion for inclusive and
+sustainable develop
+ment.
+Agroecology seeks to
+reconnect producers
+and
+consumers through a
+circular and solidarity
+economy
+that prioritizes local
+markets and supports
+local
+economic development
+by creating virtuous
+cycles.
+Agroecological approach
+es promote fair solutions
+on local needs, resources
+based
+and capacities, creating
+equitable and sustainab
+more
+le markets. Strengthe
+ning short
+food circuits can increase
+the incomes of food
+producers
+while maintaining a
+fair price for consumer
+s. These
+include new innovativ
+e markets,29,30 alongside
+more
+traditional territorial
+markets, where most
+smallholders
+market their products.
+Social and institutional
+innovations play a key
+role in encouraging agroecolo
+gical production and
+consumption. Examples
+of innovations that help
+link producers and consumer
+s include participatory
+guarantee schemes, local
+producer’s markets,
+
+CIRCULAR AND
+SOLIDARITY ECONOMY
+
+denomination of origin
+labelling, community
+supported
+agriculture and e-comme
+rce schemes. These innovativ
+markets respond to a
+e
+growing demand from
+consumers
+for healthier diets.
+Re-designing food systems
+based on the principles
+of circular economy can
+help
+waste challenge by making address the global food
+food value chains shorter
+and more resource-efficient.
+Currently, one third of
+food produced is lost
+all
+or wasted, failing to
+contribute to
+food security and nutrition
+, while exacerbating
+pressure
+on natural resources.31
+The energy used to produce
+food that is lost or wasted
+is approximately 10 percent
+of the world’s total energy
+consumption,32 while
+the food waste footprint
+is
+equivalent to 3.5 Gt
+CO2 of greenhouse gas
+emissions
+per year.33
+
+DIVERSITY
+DIVERSITY
+
+RESPONSIBLE
+RESPONSIBLE
+GOVERNANCE
+GOVERNANCE
+
+RECYCLING
+RECYCLING
+
+EFFICIENCY
+EFFICIENCY
+SYNERGIES
+SYNERGIES
+
+RESILIENCE
+RESILIENCE
+
+CIRCULAR AND
+CIRCULAR
+AND
+SOLIDARITY ECONOMY
+SOLIDARITY
+ECONOMY
+
+HUMAN AND
+HUMAN
+AND
+SOCIAL VALUES
+SOCIAL
+VALUES
+
+CO-CREATIO
+AND
+N AND
+SHARING OF KNOWLEDGE
+SHARING
+OF KNOWLEDGE
+CO-CREATION
+
+www.tandfonline.com/doi/full/10.1080/26395916.2020.1808705
+
+CULTURE AND
+CULTURE
+AND
+FOOD TRADITIONS
+FOOD
+TRADITIONS
+
+12
+THE 10 ELEMENTS
+
+OF AGROECOLOGY
+
+Heading to Rotterdam
+Convention COP10
+
+O/A
+©FA
+
+es
+ur
+rQ
+i
+am
+
+hi
+
+A vigorous push was given to preparations for the Tenth
+Conference of the Parties of the Rotterdam Convention
+(COP10), with all relevant documents for the first round
+of distribution submitted ahead of time. The Bureau and
+President meetings, which were held online, reached important decisions to ensure the success of this important
+event on pesticide and chemical management. COP10 was
+agreed to be held in two segments: online in July 2021 and
+in-person over two weeks in 2022.
+
+Joint meetings on
+pesticides
+The 13th FAO/WHO Joint Meeting on Pesticide Management
+(JMPM) meeting took place on 20–21 October 2020. The
+meeting approved one new guidance on pesticide licensing and one revised guidance on pesticide labelling. The
+19th FAO/WHO Joint Meeting on Pesticide Specifications
+(JMPS) was conducted virtually in two sessions in June and
+October 2020, with 56 new specifications and equivalences
+evaluated. The 2020 plenary session of the FAO/WHO Joint
+Meeting on Pesticide Residues (JMPR) was rescheduled to
+2021 due to COVID-19. Group meetings were conducted
+virtually, with 35 compounds evaluated and more than 300
+maximum residue limits (MRLs) estimated.
+
+13
+
+-----------------------Page 35 End-----------------------
+
+Communication and advocacy
+
+World Pulses Day
+FAO highlights pulses to fight hunger
+The theme of World Pulses Day 2020 was “Plant proteins for a
+sustainable future”, aiming to highlight pulses as an important
+plant protein source and to point to their valuable contribution to the 2030 Agenda. During a special ceremony held on
+7 February 2020 at FAO headquarters, the Organization reiterated its commitment to continue working with all partners
+to improve the production and consumption of pulses as a
+means of contributing to healthy nutrition and sustainable
+agricultural and food systems.
+
+n
+
+y
+
+/Zi
+AO
+©F
+
+a
+ny
+
+o
+nt
+Au
+e
+ng
+
+© FAO
+
+World Bee Day
+
+14
+
+World Bee Day 2020: safeguard declining food heroes
+Protecting bees and beekeepers is crucial to supporting
+livelihoods in the light of COVID-19. This was the key takeaway from virtual celebrations of World Bee Day 2020, organized on 20 May by FAO in partnership with the Government
+of Slovenia, the Chinese Academy of Agricultural Sciences
+(CAAS) and Apimondia. The “Bee Engaged” theme focused
+on apiculture and good practices adopted by beekeepers to
+support their livelihoods, deliver quality products and ecosystem services.
+
+-----------------------Page 36 End-----------------------
+
+2020
+
+The International Year of Plant Health (IYPH) 2020 promoted and recorded 700 events
+on plant health globally, which raised awareness of the importance of plant health
+among the public and policy makers. The IYPH was launched at a successful face-toface event on 2 December 2019 in the presence of FAO Director-General Qu Dongyu.
+The IYPH portal and communication toolkit were also introduced, and are available
+at: http://www.fao.org/iyph.
+The IYPH increased stakeholder engagement all over the world. Examples include
+IYPH airport and tram campaigns in Milan, Italy, IYPH flags flying on public buildings in the Republic of Korea, and the green lighting of landmarks, monuments and
+buildings in Canada, Mexico and the United States of America. EPPO launched the
+“Beastie the Bug” campaign and rebranded its “Don't Risk It” campaign to highlight
+the importance of preventing plant pest introduction when travelling.
+Belgium minted 600 000 two-euro coins as regular-issue currency, while Italy and
+Mexico minted commemorative coins. 29 countries from all regions issued IYPH commemorative stamps. FAO Governing Bodies endorsed the establishment of an International Day of Plant Health, proposed by Zambia. Lastly, the IYPH saw the launch of
+the Scientific Review of the Impact of Climate Change on Plant Pests and the Youth
+Declaration on Plant Health, sparking further public interest on the topic.
+
+ANNUAL REPORT
+
+International Year of Plant Health
+
+Newsletters
+Two new bimontly newsletters are published: Plant Production and Protection,
+on raising awareness of sustainable crop production and protection, and Fall
+Armyworm Control in Action, on measures being taken to address the threat of
+FAW. The FAO Agroecology Newsletter is published every month in English, French
+and Spanish on agroecology initiatives around the world, as well as its bulletins
+for desert locust.
+
+Fall Armyworm Control in Action
+Newsletter
+
+October, 2020 - Issue #1
+
+November 2020 - Issue #1
+
+© FAO
+
+Plant Production and Protection Newsletter
+
+Launch of the FAO Global Action for Fall Armyworm Control, December 2019
+
+Welcome to the first edition of “Fall Armyworm Control in
+Action”, the monthly newsletter of the FAO Global Action for Fall
+Armyworm Control. Through this newsletter, we will inform all FAW
+key stakeholders about the latest news of the FAO Global Action.
+FAW Executive Secretary and NSP Director, Xia Jingyuan
+
+Background
+Fall armyworm (FAW, Spodoptera frugiperda) is a pest
+originating in the Americas: it can fly over 100 km per day; it
+feeds on over 80 hosts; and a female moth can deposit 1 000
+eggs during its life.
+FAW was first detected in Africa in 2016; since then, the pest
+has rapidly spread to the southern hemisphere and has been
+reported in more than 70 countries in Africa, Asia-Pacific and
+the Near East (Fig. 1).
+Due to its voracious nature and broad host range, FAW has
+been designated as one of the ten worst pests and diseases
+threatening global food security (CABI, 2018) and livelihoods.
+FAW has the potential to destroy up to 80 million tonnes of
+
+pre-2016
+
+maize worth USD 18 billion per year, affecting about 600 million
+people in Africa, Asia-Pacific and the Near East.
+Challenges in mitigating FAW damage include, among others,
+lack of the following: coordination at global, regional and
+Foreword
+national levels; effective monitoring and control techniques; and
+effective phytosanitary measures and capacity
+at Readers,
+national level.
+Dear
+
+©FAO
+
+is with great pleasure that I present to you FAO’s Plant
+The FAO Global Action for Fall ItArmyworm
+Production and Protection newsletter. The objective of this
+Control
+newsletter is to raise awareness of the importance of sustainable
+The Global Action for Fall Armyworm Control
+(GA, 2020- and protection in contributing to the
+crop production
+2022) was launched by FAO Director-General
+QU Dongyuofon
+4 UN Sustainable Development Goals (SDGs)
+achievement
+the
+December 2019 with a mandate for a strong and coordinated
+at global, regional and national levels.
+approach to strengthen prevention and sustainable pest
+
+control capacities. The GA focuses on Africa, Asia-Pacific and
+We are now (IPM)
+in the Decade of Action to achieve the SDGs,
+the Near East, where an integrated pest management
+which
+for accelerating sustainable crop production and
+strategy will be implemented in countries
+withcalls
+significant
+pest presence, and a prevention strategy will
+be conducted
+in A systems approach must be adopted
+protection
+solutions.
+areas with limited or no distribution of thebased
+pest. around two key strategies: Optimization and Minimization.
+The GA has three major objectives and
+expected
+Thethree
+structure,
+functionality and service of cropping systems
+outcomes (see next page).
+should be optimized through better management of genetic
+resources, soil, land, water, and nutrients. At the same time,
+80
+crop losses resulting from damage by plant pests and diseases,
+crop residue from inappropriate use of chemical pesticides, and
+70
+environmental contamination from over application of chemical
+2019
+
+Number of countries
+
+Foreword
+
+60
+
+2018
+
+Highlights
+World Food Day 2020: On 16 October, FAO marked the double
+celebration of its own 75th anniversary and World Food Day,
+with a beautiful human interest story and video on the
+
+30
+20
+
+2017
+
+10
+
+© FAO
+
+© FAO
+
+2020
+
+FAW damage
+
+Achieving this requires innovation, transformation and strategic
+partnerships. Most importantly, it necessitates action addressing
+ongoing and emerging challenges. It is evident that now, more
+than ever, we must redouble our efforts to support plant life on
+Earth to achieve the SDGs.
+I invite you to explore our newsletter for more insights. Your
+feedback and comments are always welcome, and I do hope
+that you will engage with us, share stories of your work and help
+us in making the newsletter richer and more interactive.
+With that in mind, I wish you good health and happy reading.
+Dr Jingyuan Xia
+Director, Plant Production and Protection Division (NSP)
+
+50
+40
+
+2016
+
+fertilizers should be minimized through the adoption and scaling
+up of green production and protection technologies.
+
+0
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Years
+
+Source: FAO, 2020. Conforms to Map No. 4170 Rev. 19 UNITED NATIONS (October 2020) *
+
+COAG 27: Achievements relating to plant health and
+sustainability included endorsement of proposals for a
+“Global Programme on Sustainable Dryland Agriculture”,
+2027 to be approved as the International Year of Date Palm,
+and the creation of an International Day of Plant Health.
+IYPH 2020: 530 events were organized in all regions and
+virtually to promote the International Year of Plant Health
+(IYPH). 22 commemorative stamps were produced and 3
+coins minted by national post authorities in collaboration
+with national plant protection organizations.
+
+Fig. 1: Distribution of FAW in Africa, Asia-Pacific and the Near East as of October 2020
+
+©FAO
+
+Opening Ceremony 75th World Food Day 2020.
+
+agroecological grassroots movement that is being promoted
+through farmer field schools and revolutionizing Indian farms.
+
+Desert Locust: There has been a resurgence of desert locust
+activity in the Horn of Africa. Important and widespread
+breeding continues in eastern Ethiopia and central Somalia,
+and swarms are expected to move south to Kenya and
+southern Somalia by mid-December.
+
+15
+
+-----------------------Page 37 End-----------------------
+
+Partnerships and network
+NSP cooperates with over 130 different external partners, including over 30 key
+organizations to create synergies and achieve common goals. We are grateful to all
+our partners for the invaluable support they provide.
+The following is a list of our leading partners by category.
+
+11 United Nations
+Organizations
+
+ Codex Alimentarius
+ Convention on Biological
+
+Diversity (CBD)
+
+ International Fund for
+
+Agricultural Development (IFAD)
+
+ International Treaty on Plant
+
+Genetic Resources for Food and
+Agriculture
+
+ United Nations Centre for
+
+Sustainable Agricultural
+Mechanization (UN-CSAM)
+
+ United Nations Development
+
+Programme (UNDP)
+
+ United Nations Environment
+
+Programme (UNEP)
+
+ United Nations Office for the
+
+Coordination of Humanitarian
+Affairs (OCHA)
+
+ United Nations Resident
+
+Coordinator Office (UNRCO)
+
+ World Health Organization
+
+(WHO)
+
+ World Meteorological
+
+(ICC)
+
+ International Seed Testing
+
+Association (ISTA)
+
+ International Union for
+
+Conservation of Nature (IUCN)
+
+ Islamic Organization for Food
+
+Security
+
+ North American Pollinator
+
+Protection Campaign (NAPPC)
+
+ Organisation for Economic
+
+Co-operation and Development
+(OECD)
+
+ Organization of African, Caribbean
+
+and Pacific States (OACPS)
+
+ Plant Genetic Resources Centre,
+
+Southern African Development
+Community
+
+ Secretariat for the Pacific
+
+Community, Fiji (SPC)
+
+ Secretariat of the Pacific Regional
+
+Environment Programme (SPREP)
+
+ Southern African Development
+
+Community (SADC)
+
+ Centre for Agriculture and
+
+BioScience International (CABI)
+
+ Tropical Agricultural Research and
+
+Higher Education Center (CATIE)
+
+ China Agricultural University,
+
+Beijing, China
+
+ Climate Prediction and Applications
+
+Centre (ICAPC/IGAD)
+
+ Columbia University International
+
+Research Institute for Climate and
+Society, United States of America
+
+ Conservation Tillage Research
+
+Center (CTRC)
+
+ Cornell University, United States
+
+of America
+
+ EC Joint Research Centre (JRC)
+ ETH Zurich
+ European Centre for Medium-Range
+
+Weather Forecasts (ECMWF)
+
+ European Confederation of Soil
+
+Science Societies
+
+72 Academic and
+
+ Federal University of Rio Grande
+
+17 International/
+
+ Aerospace Information Research
+
+ French Agricultural Research Centre
+
+ African Union (AU)
+
+ Africa Rice Center
+
+ French National Research
+
+ Caribbean Community
+
+ African Forum for Agricultural
+
+ East African Community (EAC)
+
+ Arizona State University,
+
+Organization (WMO)
+
+Regional Organizations
+(CARICOM) Secretariat
+
+ European Commission
+
+Directorate-General for
+International Partnerships
+(INTPA)
+
+ Global Crop Diversity Trust
+ Intergovernmental Science-Policy
+
+Platform on Biodiversity and
+Ecosystem Services (IPBES)
+
+16
+
+ International Coconut Community
+
+Research Organizations
+Institute, Chinese Academy of
+Sciences, China (CAAS)
+
+Advisory Services
+
+United States of America
+
+ Bioversity International
+
+do Sul (UFRGS), Brazil
+
+for International Development
+(CIRAD)
+
+Institute for Agriculture, Food and
+Environment (INRAE)
+
+ Global Soil Biodiversity Initiative
+ Institute for Agriculture and Food
+
+Industry, Rhone-Alpes (ISARA)
+
+ Brazilian Agricultural Research
+
+ Institute of Biometeorology of the
+
+ Caribbean Agriculture Research and
+
+ Institute of Plant Protection,
+
+Corporation (EMBRAPA)
+
+Development Institute (CARDI)
+
+National Research Council (IBIMET)
+Chinese Academy of Agricultural
+Sciences (CAAS)
+
+-----------------------Page 38 End-----------------------
+
+2020
+
+Technology (ISTT), Kazakhstan
+
+ Instituto de Investigaciones en
+
+Ecosistemas y Sustentabilidad,
+Universidad Nacional Autónoma
+de México (UNAM)
+
+ International Center for
+
+Agricultural research in the Dry
+Areas (ICARDA)
+
+ International Center for Biosaline
+
+Agriculture (ICBA)
+
+ International Centre for Research
+
+in Agroforestry (ICRAF)
+
+ International Center for Tropical
+
+Agriculture (CIAT)
+
+ International Centre of Insect
+
+Physiology and Ecology (icipe)
+
+ International Crop Research
+ Institute for the Semi-Arid Tropics
+
+(ICRISAT)
+
+ International Institute of Tropical
+
+Agriculture (IITA)
+
+ International Livestock Research
+
+Institute (ILRI)
+
+ International Maize and Wheat
+
+Improvement Center (CIMMYT)
+
+ International Potato Cener (CIP)
+ International Rice Research
+
+Institute (IRRI)
+
+ International Water Management
+
+Institute (IWMI)
+
+ Joint Research Centre – European
+
+Commission (JRC-EC)
+
+ Latin American Scientific Society
+
+of Agroecology (SOCLA)
+
+ Leeds University, United Kingdom
+
+of Great Britain and Northern
+Ireland
+
+ Lund University, Sweden
+ Michigan State University, United
+
+States of America
+
+ National Agricultural Technology
+
+Institute (INTA), Argentina
+
+ SERVIR, NASA
+ Sorbonne University, France
+ Sudan University of Science and
+
+Technology, Sudan
+
+ TMG Research GmbH
+ Tokyo University of Agriculture and
+
+Technology, Japan
+
+ Transformative Partnership
+
+Platform (TPP)
+
+ Trinity College Dublin, Ireland
+ Tropical Agricultural Research and
+
+Higher Education Center (CATIE)
+
+ Universidad de Guadalajara, Mexico
+ Universidad de la República –
+
+Facultad de Agronomía, Uruguay
+
+ Université Catholique de Louvain,
+
+Belgium
+
+ University of Cambridge, United
+
+Kingdom of Great Britain and
+
+ Northern Ireland
+ University of Cape Town, South
+
+Africa
+
+ University of Hamburg, Germany
+ University of Konstanz, Germany
+ University of Technology, Jamaica
+ University of Zambia
+ Vietnam Academy of Agricultural
+
+Sciences (VAAS)
+
+ Wageningen University, Netherlands
+ Warwick University, United
+
+Kingdom of Great Britain and
+Northern Ireland
+
+ Wilfred Laurier University, Canada
+ World Agroforestry Centre (ICRAF)/
+
+Center for International Forestry
+Research (CIFOR)
+
+ World Vegetable Center
+ Zambia AgricultureUnited States
+
+39 Industry and
+NGO Partners
+
+ Associação para a Cooperação e
+
+o Desenvolvimento (ACTUAR)
+
+ Basel Convention Regional Centre
+
+for Training and Technology
+Transfer for the Caribbean
+(BCRC–Caribbean)
+
+ Bioprotection global Biovision
+ CARE International
+ Coalition of the Willing on
+
+Pollinators (Promote Pollinators)
+
+ Cooperativas Agrarias Federadas
+ CropLife International
+ CSA Alliance (China)
+ Dan Church Aid (DCA)
+ Digital Green
+ Eastern Africa Field Schools Hub
+ Eclosio
+ Esri
+ European Agricultural Machinery
+
+(CEMA)
+
+ European Conservation Agriculture
+
+Federation (ECAF)
+
+ Foundation PLAGBOL
+
+(Plaguicidas Bolivia)
+
+ Garmin
+ Global Food Security Cluster
+ Global Pulse Confederation (GPC)
+ Google
+ GRUPO GEA (Peru)
+ HEMAV Foundation
+ Indian Meteorological Department
+ Institute for Research and
+
+Promotion of Alternatives in
+Development (IRPAD)
+
+ International Biocontrol
+
+Manufacturers Association (IBMA)
+
+ International Federation of Organic
+
+Agriculture Movements (IFOAM)
+
+ International Fertilizer Association
+
+(IFA)
+
+ International Seed Federation (ISF)
+ Lobelia/isardSAT
+
+ 51 Degrees
+
+ Louvain Cooperation
+
+ Nordic Genetic Resource Center
+
+ Access Agriculture
+
+ Mercy Corps
+
+ Pennsylvania State University,
+
+ African Conservation Tillage
+
+ School of Agriculture Foundation,
+
+ AGRHYMET Regional Center
+
+United States of America
+
+University of Buenos Aires,
+Argentina
+
+ School of Life Sciences,
+
+Chongqing University, China
+
+ANNUAL REPORT
+
+ Institute of Space Technique and
+
+Network (ACT)
+
+ Agriterra
+ AgroCare
+ Agronomes et Veterinaires Sans
+
+Frontières
+
+17
+17
+
+-----------------------Page 39 End-----------------------
+
+Transformation of FAO
+Plant Production and Protection
+Internal management and
+professional development
+With the appointment of Jingyuan Xia as the new Director for NSP, the Division embarked on a process of
+internal restructuring based on clearly defined standardization principles. Director Xia stressed the need
+to foster a “One Dynamic NSP”, built on strategies to increase internal solidarity and external visibility, and
+to promote mindset, management and cultural innovations. It was agreed that approaches should be
+people-first, demand-driven, result-oriented and performance-based, all designed to bring positive transformation to NSP. By December 2020, two new sets of standard operating procedures had been adopted to facilitate workflow and clearance procedures (3 SOPs) and to improve quality control (10 SOPs).
+A new emphasis was placed on professional development in NSP. Specifically, plans were put in place
+to encourage technology promotion and transfer, while focusing on strengthening the two mainstreams
+of optimization (of yields, input efficiency, etc.) and minimization (of crop losses, pesticide residual risks,
+environmental contamination, etc.). To achieve the two mainstreams, four key technologies were identified: seed technology, cropping technology, protection technology and high technology.
+
+s
+Internal management
+ONE
+goal
+
+TWO
+strategies
+
+THREE
+innovations
+
+FOUR
+approaches
+
+FIVE
+outcomes
+
+18
+
+One Dynamic NSP
+
+Solidarity; Visibility
+
+Mindset; Management; Culture
+
+People-centralized;
+Demand-driven; Result-oriented;
+Performance-based
+
+New mission; New structure;
+New mechanism; New performance;
+New glories
+
+Professional development
+ONE
+goal
+
+TWO
+main
+streams
+
+THREE
+innovations
+
+FOUR
+technologies
+
+FIVE
+highs
+
+Technology Promotion and
+Transfer Center
+
+Optimization; Minimization
+
+Integration; Demonstration;
+Extension
+
+Seed; Cropping;
+Protection; Modern
+
+Productivity; Quality; Diversity;
+Profitability; Sustainability
+
+-----------------------Page 40 End-----------------------
+
+2020
+ANNUAL REPORT
+
+Desert Locust control team
+– a success story
+
+AO
+©F
+
+The Desert Locust control team has worked tirelessly to rapidly roll out a multi-country desert locust response to tackle the worst upsurge of a generation. The team’s response
+has produced significant successes, protecting millions of
+people’s livelihoods and food security across the affected regions thanks to cross-cutting strategies and collaborations.
+The achievements did not go unnoticed by FAO Director-General Qu Dongyu, who assigned one of the ten team awards to
+the Desert Locust control team for the excellent work done
+during 2020. The team was proud to receive such recognition and has continued to work hard to improve upon the
+achieved successes.
+
+Teamwork
+
+Culture building
+
+NSP underwent important restructuring geared towards
+bolstering teamwork and improving working mechanisms
+across the Division. The process involved the creation of
+three brand-new task forces – Task Force for Communications and Advocacy (TFCA), Task Force on Professional Development (TFPD) and Task Force of Planning and Finance
+(TFPF) – and a dedicated Women’s Group and Youth Group.
+The initiatives were welcomed as a positive step towards further connecting NSP employees from across different teams
+and encouraging a sense of working together for one common goal under difficult circumstances relating to COVID-19.
+
+NSP efforts to support team building in 2020 also extended
+to hosting an exciting end-of-year party, organized by the
+NSP Youth Group. Games were played, songs were sung –
+sometimes badly! – stories were told, and Director Xia took
+time to explain to NSP employees the great significance of
+the Chinese Year of the Ox, being celebrated in 2021.
+
+19
+
+-----------------------Page 41 End-----------------------
+
+Way forward
+Dear Reader,
+As you can see, we have achieved a lot in 2020, despite the challenging circumstances
+brought about by COVID-19. And in 2021 there will be no let-up!
+With a new global focus on “building back better”, FAO’s Plant Production and Protection Division (NSP) plans to use this unique opportunity to reaffirm the importance
+that plant life on Earth plays in providing food security and nutrition, ecosystems services, livelihoods and a host of other benefits.
+NSP will focus its activities for 2021 around the annual theme of “Enabling Food Security and Nutrition”, in line with Sustainable Development Goal (SDG) 2. NSP will also
+align its work plans with FAO’s proposed new Strategic Framework 2022–2031, which
+aims to achieve “MORE efficient, inclusive, resilient and sustainable agri-food systems
+for better production, better nutrition, a better environment, and a better life, leaving
+no one behind”.
+
+AO
+©F
+
+NSP will play a key role in FAO’s contribution to the United Nations Food Systems
+Summit – with a pre-Summit in Rome in late July – which aims to increase understanding of the choices that affect the future of agri-food systems and to accelerate
+progress toward the SDGs. NSP will lead on FAO’s new Global Action on Green Development of Special Agro-Products: One Country–One Commodity (OCOC), a five-year
+initiative that will integrate the economic, social and environmental dimensions of
+sustainable development targeted in the United Nations 2030 Agenda. The Division
+will also launch the Global Programme on Sustainable Dryland Agriculture, with the
+support of other FAO divisions and Decentralized Offices.
+NSP will co-lead with other FAO divisions the International Year of Fruits and Vegetables 2021 (IYFV) and, with the IPPC, coordinate activities for the extended International Year of Plant Health 2020 (IYPH), including the IYPH closing ceremony on 1 July. NSP
+will lead celebrations for World Pulses Day 2021, the theme of which is “Love pulses
+– for a healthy diet and a healthy planet”, and World Bee Day 2021, the theme of which
+is “Bee engaged – Build back better for bees”, as well as being a key partner for World
+Food Day 2021. NSP will also organize a two-day “Global Conference on Green Development of Seed Industries” at FAO headquarters on 4–5 November 2021.
+
+20
+
+-----------------------Page 42 End-----------------------
+
+2020
+ANNUAL REPORT
+
+After USD 194 million were mobilized by FAO in 2020 to combat desert locust, NSP
+will continue to provide technical support and lead on capacity development in affected countries and develop innovative solutions to the desert locust crisis, including drones for surveillance. Meanwhile, work will continue on implementing regional
+integrated pest management (IPM) packages in all eight FAW Global Action demonstration countries (Burkina Faso, Cameroon, China, Egypt,
+India, Kenya, Malawi and the Philippines) and developing
+capacities for prevention and preparedness in countries
+where FAW has not been detected.
+
+"NSP will focus its activities for 2021
+
+around the annual theme of’ Enabling
+Food Security and Nutrition’,
+in line with SDG 2"
+
+FAO, along with the United Nations Environment Programme (UNEP) and the World Health Organization (WHO),
+will launch the Action Plan on Highly Hazardous Pesticides
+(HHPs). The Action Plan will seek to eliminate harm associated with HHPs, and increase knowledge so that countries can make informed decisions on phasing out problematic pesticides, disseminate knowledge and good
+practices, and encourage adoption of non-toxic alternatives to HHPs.
+And the Rotterdam Convention Secretariat will continue to reach out with all possible electronic tools to its 164 Parties and ensure the continuous successful delivery
+of technical assistance for the sound management of certain hazardous chemicals
+and pesticides.
+As ever, we will rely on the support of all partners to achieve the best results over the
+coming year.
+
+Rémi Nono Womdim,
+
+Deputy Director,
+Plant Production and
+Protection Division (NSP)
+
+21
+
+-----------------------Page 43 End-----------------------
+
+Further reading
+Ecosystem approach to crop
+production intensification
+
+Locusts and transboundary plant
+pests and diseases
+
+ FAO. 2020. Agroecology in Europe and
+Central Asia – An overview. Budapest.
+https://doi.org/10.4060/ca8299en
+
+ FAO. 2020. Red Palm Weevil: Guidelines on
+management practices. Rome.
+https://doi.org/10.4060/ca7703en
+
+ Barrios, E., Gemmill-Herren,
+B., Bicksler, A., Siliprandi, E.,
+Brathwaite, R., Moller, S., Batello, C.
+& Tittonell, P. 2020. The 10 Elements
+of Agroecology: enabling transitions
+towards sustainable agriculture and
+food systems through visual narratives,
+Ecosystems and People, 16:1, 230-247.
+https://doi.org/10.1080/26395916.2020
+.1808705
+
+ FAO. 2020. Preventing the spread and
+introduction of banana fusarium wilt
+disease Tropical Race 4 (TR4): Guide for
+travelers. 2020. Rome. http://www.fao.org/
+publications/card/en/c/CA7590EN/
+
+ Leippert, F., Darmaun, M., Bernoux,
+M. & Mpheshea, M. 2020. The potential
+of agroecology to build climate-resilient
+livelihoods and food systems. Rome.
+FAO and Biovision. https://doi.
+org/10.4060/cb0438en
+ FAO. 2020. Pulses: Plant protein for a
+sustainable future. Rome. http://www.
+fao.org/3/ca7676en/CA7676EN.pdf
+ FAO, ITPS, GSBI, SCBD, and EC. 2020.
+State of knowledge of soil biodiversity
+– Status, challenges and potentialities,
+Summary for policymakers. Rome, FAO.
+https://doi.org/10.4060/cb1929en
+ Mottet, A., Bicksler, A., Lucantoni,
+D., De Rosa, F., Scherf, B., Scopel, E.,
+López-Ridaura, S., Gemmil-Herren,
+B., Bezner Kerr, R., Sourisseau, J.-M.,
+Petersen, P., Chotte, J.-L., Loconto,
+A. & Tittonell, P. 2020. Assessing
+Transitions to Sustainable Agricultural
+and Food Systems: A Tool for Agroecology
+Performance Evaluation (TAPE). Front.
+Sustain. Food Syst. 4:579154. https://
+doi.org/10.3389/fsufs.2020.579154
+
+Global Action for Fall
+Armyworm Control
+
+Pest and pesticide management
+ FAO. 2020. Running farmer field school in
+times of COVID-19: A resource handbook.
+Rome. https://doi.org/10.4060/ca9064en
+ FAO and WHO. 2019. Detoxifying agriculture
+and health from highly hazardous pesticides A call for action. Rome. http://www.fao.org/
+publications/card/en/c/CA6847EN/
+ FAO and WHO. 2020. International Code
+of Conduct on Pesticide Management
+– Guidance for inspection of pesticide
+producers, importers, distributors and
+retailers. Rome. https://doi.org/10.4060/
+cb1194en
+
+Plant genetic resources and seeds
+ Chalak, L., Mba, C., Diulgheroff, S. &
+Muhammad, D. (2020). Development of
+national strategies for the conservation
+and sustainable utilization of plant genetic
+resources for food and agriculture in some
+countries of the Near East and North Africa.
+Acta Hortic. 1297, 9-16. https://doi.
+org/10.17660/ActaHortic.2020.1297.2
+
+ FAO. 2020. Technical guidelines
+for sustainable management of fall
+armyworm along its seasonal migration
+pathways. Rome. http://www.fao.
+org/3/ca9486en/ca9486en.pdf
+
+ Mba, C., Abang, M., Diulgheroff, S.,
+Hrushka, A., Hugo, W., Ingelbrecht,
+I., Jankuloski, L., Leskien, D., Lopez,
+V., Muminjanov, H., Mulila Mitti, J.,
+Nersisyan, A., Noorani, A., Piao, Y. &
+Sagnia, S. (2020). FAO supports countries
+in the implementation of the Second Global
+Plan of Action for Plant Genetic Resources
+for Food and Agriculture. Acta Hortic.
+1267, 197-208. https://doi.org/10.17660/
+ActaHortic.2020.1267.30
+
+ FAO. 2020. Technical guidelines
+for sustainable management of fall
+armyworm in its year-round breeding
+areas. Rome. http://www.fao.org/3/
+ca8967en/ca8967en.pdf
+
+ Ulian, T., Diazgranados, M., Pironon,
+S., Padulosi, S., Liu, U., Davies, L.,
+Howes, M.J.R., Borrell, J.S., Ondo, I.,
+Pérez-Escobar, O.A., Sharrock, S., Ryan,
+P., Hunter, D., Lee, M.A., Barstow, C.,
+
+ FAO. 2020. Guidance note: Addressing
+the impact of COVID-19 on the Global
+Action for Fall Armyworm Control.
+Rome. https://doi.org/10.4060/
+ca8652en
+
+22
+
+ FAO. 2020. Practical guidelines on three
+locust species in the Caucasus and Central
+Asia (in Russian). Руководство по трëм
+видам стадных саранчовых на Кавказе
+и в Центральной Азии. Биология,
+экология и поведение. Рим.https://doi.
+org/10.4060/cb0879ru
+
+Łuczaj, L., Pieroni, A., Cámara-Leret, R.,
+Noorani, A., Mba, C., Nono-Womdim,
+R., Muminjanov, H., Antonelli, A.,
+Pritchard, H. & Mattana, E. 2020.
+Unlocking plant resources to support
+food security and promote sustainable
+agriculture. Plants People Planet 2:421445. https://doi.org/10.1002/ppp3.10145
+
+Rotterdam Convention
+ Rotterdam Convention. 2020.
+PIC Circular LI (51) – June 2020. Rome, FAO
+and UN Environment. https://
+doi.org/10.4060/ca9338en
+ FAO and UNEP. 2021. PIC Circular LII (52) –
+December 2020. Rome. https://
+doi.org/10.4060/cb2602en
+
+Rural and Urban Crop and
+Mechanization Systems
+ Anidi, O., Mayienga, S.M. and
+Mpagalile, J. 2020. Use of information and
+communications technology tools for tractor
+hire services in Africa - Opportunities and
+challenges. Integrated Crop Management
+No. 25. Rome, FAO. https://www.fao.
+org/3/cb2151en/cb2151en.pdf
+ Santos Valle, S. & Kienzle, J. 2020.
+Agriculture 4.0 – Agricultural robotics and
+automated equipment for sustainable crop
+production. Integrated Crop Management
+Vol. 24. Rome, FAO. http://www.fao.org/
+documents/card/en/c/cb2186en/
+ Taguchi, M., Beed, F., Hassan,
+S. & Telemans, B. FAO. 2020.
+Chapter 3. Fruit and vegetables – your
+dietary essentials. The International Year
+of Fruits and Vegetables, 2021, background
+paper. Rome. http://www.fao.org/
+documents/card/en/c/cb2395en/
+ FAO.2020. Antimicrobial Resistance (AMR) in
+relation to pesticide use in plant production.
+https://www.fao.org/3/cb0660en/
+CB0660EN.pdf
+ FAO. 2020. COVID-19 and the role of local
+food production in building more resilient
+local food systems. Rome. https://doi.
+org/10.4060/cb1020en
+ FAO. 2020. Strategies for the promotion
+of Conservation Agriculture in Central
+Asia Proceedings of the International
+Conference, 5–7 September 2018, Tashkent,
+Uzbekistan. Tashkent. https://doi.
+org/10.4060/ca8659en
+
+-----------------------Page 44 End-----------------------
+
+23
+
+ANNUAL REPORT
+
+2020
+
+-----------------------Page 45 End-----------------------
+
+ISBN 978-92-5-134801-7
+
+9
+
+789251
+
+348017
+
+CB6114EN/1/10.21
+
+-----------------------Page 46 End-----------------------
+

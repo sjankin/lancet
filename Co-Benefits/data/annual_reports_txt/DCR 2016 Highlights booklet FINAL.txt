@@ -1,0 +1,1189 @@
+Development Co-operation Report 2016:
+The Sustainable Development Goals as
+Business Opportunities
+
+HIGHLIGHTS
+
+-----------------------Page 1 End-----------------------
+
+©OECD 2016
+This work is published under the responsibility of the Secretary-General of the OECD. The opinions expressed and arguments employed herein do not
+necessarily reflect the official views of OECD member countries.
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers
+and boundaries and to the name of any territory, city or area.
+Some of the graphic elements in the main cover illustration and infographic were adapted from Freepik.com
+
+HIGHLIGHTS
+
+2
+
+-----------------------Page 2 End-----------------------
+
+FOREWORD
+
+I
+
+n September 2015, the United Nations General Assembly adopted the universal 2030 Agenda for
+Sustainable Development and its 17 Sustainable Development Goals (SDGs). These goals spell out the
+challenges we need to meet to ensure the sustainability of our planet, and to ensure prosperity and
+equity for all. To achieve these goals, the participation of the private sector is essential.
+In 2015, official development assistance (ODA), at USD 132 billion, reached record levels, despite
+budgetary constraints in many OECD countries. Yet in recent years, only 30% of total ODA has been for the
+least developed countries, the lowest share since 2006. We need financial resources far beyond today’s
+ODA to move from billions to the trillions required to finance the global goals.
+It is fundamental to ensure that public funds are spent in a smart and strategic manner to cover the
+increasingly complex demands of sustainable global development, and this includes using them to
+mobilise private finance.
+More must be done on all these fronts. Success in reaching the global goals will depend not only on the
+quantity of funding that is made available. More than ever, better investments are needed. The private
+sector can be a powerful actor in promoting sustainable development in ways that go far beyond funding.
+Companies provide jobs, infrastructure, innovation and social services, among others. Development
+co-operation can help unlock the potential of such investment. Sound public policies and good governance
+across the board play a crucial role in shaping the quality of investment. This includes efforts to promote
+responsible business conduct, high-quality jobs and environmental sustainability, for example.
+The Development Co-operation Report 2016: The Sustainable Development Goals as Business
+Opportunities draws on OECD expertise, experience and policy work to explore numerous ways of helping
+to make the SDGs reality. It examines the potential and challenges of social impact investment, blended
+finance and foreign direct investment. It also provides guidance on responsible business conduct and the
+mobilisation and measurement of private finance to achieve the SDGs. Finally, the report shares practical
+examples of how business is promoting sustainable development and inclusive growth in developing
+countries.
+To go from billions to trillions in sustainable development finance, and to do so in a way that is respectful
+of the environment and of human needs and rights, will require inputs from across the board – from public
+and private sources, and from all countries and communities. The OECD will continue to play its role in this
+endeavour. This Development Co-operation Report 2016 illustrates our commitment to doing so.
+
+Angel Gurría
+OECD Secretary-General
+
+3
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 3 End-----------------------
+
+PREFACE
+
+I
+
+am happy to encourage a wide readership for this volume, but I must note at the outset that its very title
+conveys ambiguity. Describing the new Sustainable Development Goals as “business opportunities” for
+those pursuing profit could be interpreted by some readers as encouraging the exploitation of the world’s
+most severe problems for personal gain. No one involved in this project intends to encourage exploitation;
+but this ambiguity is inherent, not only in the title of this volume, but more widely in the growing enthusiasm
+for private sector solutions to grave public problems. This ambiguity is worth addressing head on.
+Personally, I have made it a principle to pursue my self-interest in business and to be guided by the public
+interest as a philanthropist and public citizen. It is my belief that if my self-interest is in conflict with the
+public interest, the latter ought to prevail. And so I do not hesitate to advocate policies that are in conflict
+with my business interests.
+The Sustainable Development Goals (SDGs) represent an unprecedented articulation of the “public
+interest” at a global scale for all the peoples of the world. As such they force us to ask ourselves difficult
+questions about how we do business. Yes, there are countless business opportunities that could advance
+the self-interest of thousands of entrepreneurs and investors while also advancing the SDGs. By the
+same token, however, the SDGs also help us identify where we have an opportunity to better regulate and
+restrain the pursuit of personal profit through public policy, international agreements and stricter business
+norms. The articulation of the public interest in the SDGs can, in short, reveal both where self-interest
+aligns with the greater good, and where they conflict. The need here is to encourage private business
+activity where they align, and better regulate it where they conflict.
+These are the true “business opportunities” that the SDGs offer. They invite us to address the question: how
+can those of us in business contribute to the achievement of these goals as investors, entrepreneurs and
+executives? All of us share the need for healthy and stable economies, fair and well-governed societies,
+well-regulated value chains in trade, mitigation of climate change, world peace, and respect for human
+rights. This volume explores how the private sector can be a powerful actor in promoting the achievement
+of such common aims, and where it must exercise restraint. In this respect, the public good should be
+both the limiting factor in encouraging those who act in their own self-interest, and the goal for those who
+seek to act in the collective interest of society. We must avoid not only the obvious scourge of corruption in
+this effort, but the danger of exploitation. We must seek to not only do more good, but also ask ourselves
+where we can do less harm.
+Given the scale of the problems the world is facing, and the unprecedented levels of global inequality, these
+questions are not only important, but urgent. Business must play its part. Governments and multilateral
+institutions who steward resources on behalf of us all, must play their part. Regulators at local, national and
+international levels must play their part. Collectively we can mobilise financial resources at historic scales
+to implement a wide range of development efforts. But sustainable global progress cannot be achieved
+through monetary means and investment alone. It is vital that capacity is strengthened in individuals and
+in the institutions of civil society to play a vigorous part in carrying out such a transformation, including
+the thoughtful regulation of business activity.
+I encourage anyone interested in development or business to read this report and to take to heart the
+challenges, and the opportunities, that it explores.
+
+George Soros
+
+HIGHLIGHTS
+
+4
+
+-----------------------Page 4 End-----------------------
+
+EDITORIAL
+by Erik Solheim, Chair of the OECD Development Assistance Committee
+
+I
+
+n 2015, when world leaders adopted the Sustainable Development Goals, we committed to the most
+inclusive, diverse and comprehensive and ambitious development agenda ever. By doing so, we
+acknowledged that development challenges are global challenges. The new global goals represent a
+universal agenda, applying equally to all countries in the world.
+The year 2015 was the best in history for many people. We are taller, and better nourished and educated
+than ever. We live longer. There is less violence than at any other point in history. Over the past decades
+many countries, spearheaded by the Asian “miracles” – such as in Korea, the People’s Republic of China
+and Singapore – have had enormous development success. By believing in the market and the private
+sector, these nations have experienced strong economic growth and several hundred million people
+have been brought out of poverty. The debate within the development community on the importance of
+markets and the private sector is a thing of the past. The debate is won.
+But based on astonishing success, we need to bring everyone on board. The 2030 aim is to eradicate
+extreme poverty, but to do it in an environmentally sustainable way. Luckily – for the first time in history
+– humanity has the capacity, knowledge and resources needed to achieve this. Never before was this the
+case. The leaders of the past have never set such goals, nor did they have at their disposal the policies
+and the resources to reach them. The Sustainable Development Goals cover the economic, social and
+environmental dimensions of life. And they emphasise that increased co-operation between the public
+and the private sector is vital to reach them.
+Implementing the new Sustainable Development Goals will require all hands on deck, working in concert
+to build on each other’s strengths. In this report we look at the opportunities for businesses both to
+make money and do good for people and the environment. We must go beyond traditional thinking that
+business revenues depend on destroying the environment. Smart investment in sustainable development
+is not charity – it is good business and it opens up opportunities.
+In developing countries, small and medium enterprises are considered the engine of growth. In Asia,
+they make up to 98% of all enterprises and employ 66% of the workforce. Especially for green growth,
+small and medium businesses can play an important role by acting as suppliers of and investors in
+affordable and local green technologies. For instance, in Africa several businesses offer “pay-as-you-go”
+solar energy to low-income households that do not have access to central resources.
+Over the next 15 years, billions of dollars will be invested annually by the public and private sectors. We
+need to make sure that this money creates jobs, boosts productive capacity and enables local firms to
+access new international markets in a sustainable way. What’s more, these flows are often coupled with
+transfer of technology that has positive and long-term effects.
+This report cites the results of interviews with executives from 40 companies that had performed
+above the industry average in terms of both financial and sustainability-performance metrics in various
+sectors – including oil and mining, gym shoes, soup, cosmetics and telecommunications. The research
+demonstrates that sustainable action can contribute to increased efficiency and profits, gains above and
+beyond their social and environmental benefits. The returns on capital include reduced risk, market and
+portfolio diversification, increased revenue, reduced costs, and improved products.
+
+5
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 5 End-----------------------
+
+We need to take these experiences further. The 17 Sustainable Development Goals represent a pipeline
+of sustainable investment opportunities for responsible business. But fulfilling that potential will mean
+ensuring that business does good – for people and the planet – while doing well economically.
+Although some countries are making progress, no country has achieved environmental sustainability.
+The worse things get, the more difficult it will be to find solutions. We need to take action now. There
+is more bang for every buck when profits are combined with bringing people out of poverty, improving
+environmental sustainability and ensuring gender equality. For example:
+•	 Ethiopia’s growth has benefited the poor and the country aims to become a middle-income country
+without increasing its carbon emissions.
+•	 Brazil has reduced poverty and equality while cutting deforestation by 80%.
+•	 Costa Rica has revolutionised conservation by providing cash payments for people who maintain
+natural resources. Forests now cover more than 50% of the country’s land, compared to 21% in
+the 1980s.
+•	 The Indonesian rainforests, the largest in Asia, are doing much better than recently. Deforestation
+decreased for the first time in 2013 and the positive trend is continuing. The main palm oil
+companies have made a no new deforestation pledge.
+Poverty reduction can be green and fair. But we need to remember that neither developing nor developed
+countries will sacrifice development for the environment. But development comes to a stop if natural
+resources are exhausted, water continues to be polluted and soils are degraded beyond manageable
+levels.
+For those who do not benefit from all the success stories, it is necessary to identify and replicate good
+policies that actually improve lives. Official development assistance is important for the least developed
+nations and countries in conflict. Aid remains at a record high at USD 132 billion in 2015, but private
+investments are more than 100 times greater than aid and more important for poverty reduction and
+economic growth.
+In order to make the most of private investments for sustainable development, it is fundamental to know
+more about how much is being mobilised from the private sector as a result of public sector interventions.
+In this report the OECD describes how it monitors and measures the amounts being invested. The European
+Union found in 2014 that by blending public and private investments, EU countries used EUR 2 billion in
+public finance grants to mobilise around EUR 40 billion for things like constructing electricity networks,
+financing major road projects, and building water and sanitation infrastructure in recipient countries. We
+should be inspired by this example to do more. Business prospers when society prospers.
+Each and every decision we take today related to private investment will have historic implications. We
+must learn that more and better investment is possible. Balancing economic growth with environmental
+sustainability is not only feasible – it is fundamental.
+In this report we look at the opportunities the new Sustainable Development Goals offer for doing good
+business, for profits, people and the planet. It offers guidelines and practical examples of how all sectors of
+society can work together to deliver the 2030 Agenda. Investing in sustainable development is not charity,
+it is smart. We just need to go ahead and do it.
+
+HIGHLIGHTS
+
+6
+
+-----------------------Page 6 End-----------------------
+
+INVESTING IN PEOPLE, THE PLANET AND PROSPERITY: FIVE PATHWAYS
+Investment in sustainable development is smart investment. Companies that introduce sustainability into their business
+models are profitable and successful, with positive returns on capital in terms of reduced risks, diversification of markets and
+portfolios, increased revenue, reduced costs, and higher value products. These five pathways can help to ensure the quantity
+and quality of investment for implementing the Sustainable Development Goals.
+
+Foreign direct
+investment creates
+new jobs, boosts
+productivity and
+technology
+transfers, while
+enabling local firms
+to access new
+markets in
+developing and
+emerging
+economies.
+
+People
+
+7
+
+Blended finance
+offers huge, largely
+untapped
+potential
+for public,
+philanthropic and
+private actors
+to improve
+the scale of
+investment
+in developing
+countries.
+
+Monitoring and
+measuring
+private funds
+mobilised
+enhances
+transparency,
+improves
+financing
+strategies
+and
+good
+practices.
+
+Planet
+
+Social impact
+investment
+empowers the
+poorest to lead
+more productive
+lives, while
+bringing
+effectiveness,
+innovation and
+scale to
+sustainable
+business.
+
+Responsible
+business conduct
+enhances business
+and development
+results, matching
+investment
+quantity with
+business quality to
+produce social,
+economic and
+environmental
+benefits.
+
+Prosperity
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 7 End-----------------------
+
+EXECUTIVE SUMMARY
+The year 2015 was a decisive year for sustainable development. With the adoption of the 2030 Agenda for
+Sustainable Development and its 17 Sustainable Development Goals (SDGs), the world now has the most
+ambitious, diverse and universal development roadmap in history. The Addis Ababa Action Agenda stressed
+the importance of using public investment instruments and vehicles to leverage the unprecedented levels
+of private finance required to fund this agenda. And the United Nations Climate Change Conference
+(COP21) in Paris confirmed the challenges of managing climate change – and an unprecedented global
+commitment to do so.
+These milestones have changed the face of development forever. To meet the challenges they represent,
+the global community needs to move well beyond the approximately USD 132 billion provided as official
+development assistance (ODA) in 2015. Investment needs for the SDGs in developing countries are
+estimated to be in the order of USD 3.3 to 4.5 trillion per year. Limiting the global temperature increase to
+1.5°C above pre-industrial levels will require concerted action by all. Developed countries have committed
+to mobilising USD 100 billion per year by 2020 to support developing country efforts.
+At the same time, the new goals make it clear that the challenges of sustainable development are no
+longer merely a question of what is happening in poor countries – they are challenges for us all. To tackle
+these global and interlinked concerns, a diverse array of stakeholders will need to join forces – with the
+private sector taking a pivotal position. In fact, achieving each and every one of the 17 SDGs hinges on
+private sector involvement.
+
+INVESTMENT IN SUSTAINABLE DEVELOPMENT IS SMART INVESTMENT
+The business case for the SDGs is strong. This Development Co-operation Report 2016 makes it clear that
+investing in sustainable development is smart investment. Companies that introduce sustainability into
+their business models are profitable and successful, with positive returns on capital in terms of reduced
+risk, diversification of markets and portfolios, increased revenue, reduced costs and improved value of
+products. Increasingly, investments in developing countries – and even in the least developed countries –
+are seen as business opportunities, despite the risks involved. On the other hand, companies provide jobs,
+infrastructure, innovation and social services, among others.
+This report explores five pathways for realising the enormous potential of the private sector as a partner
+for delivering on the SDGs, providing the quantity and quality of investment needed to support sustainable
+development.
+Five pathways to the Sustainable Development Goals:
+1.	
+
+Foreign direct investment is by far the greatest source of international capital flows to developing
+countries and is considered one of the most development-friendly sources of private investment. It
+can create jobs, boost productive capacity, enable local firms to access new international markets
+and bring with it transfers of technology that can have positive long-term effects. Many are
+expecting these flows to play a major role in filling the SDG financing gap. According to the United
+Nations Conference on Trade and Development (UNCTAD), a concerted effort by the international
+community could help to quadruple foreign direct investment by 2030, especially in structurally
+weak countries. There is, however, some cause for concern: global capital flows have started to
+decelerate, while economic vulnerabilities are growing. Chapter 2 warns that a slowdown, or even
+reversal, in foreign direct investment could have serious negative ramifications for both developing
+and international investment markets. Framing development strategies around the complementary
+and mutually reinforcing qualities of private investment and development co-operation can help to
+offset the cyclic, changing nature of foreign direct investment trends. Tools such as the OECD Policy
+Framework for Investment can help countries to improve business climates, creating conditions
+that increase investment while maximising its economic and social returns.
+
+HIGHLIGHTS
+
+8
+
+-----------------------Page 8 End-----------------------
+
+9
+
+2.	
+
+New investment models can help mobilise financial resources to meet the challenges of
+implementing the SDGs. Blended finance – using public funds strategically to provide, for
+instance, de-risking instruments for private investors – can dramatically improve the scale of
+investment in development. Blended finance offers huge, largely untapped potential for public,
+philanthropic and private actors to work together to dramatically improve the scale of investment
+in developing countries. Its potential lies in its ability to remove bottlenecks that prevent private
+investors from targeting sectors and countries that urgently need additional investment. To
+accelerate social and economic progress towards the SDGs, blended finance needs to be scaled
+up, but in a systematic way that avoids certain risks. Chapter 3 takes a close look at the use of
+development and philanthropic finance to unlock resources through blending mechanisms that
+have the potential to transform economies, societies and lives. It notes that while the concept of
+blending public and private finance in the context of development co-operation is nothing new, it
+has played a marginal role so far.
+
+3.	
+
+Today’s development financing packages can be complex, with multiple actors involved. Chapter 4
+of this report describes work underway to monitor and measure the mobilisation effect of
+public sector interventions on private investment. This is expected to be an important element
+of the new “total official support for sustainable development” (TOSSD) framework, which will
+provide important information about financing strategies and best practices, helping to attract
+development finance to support the SDGs. A recent OECD survey has confirmed the feasibility of
+collecting and measuring data on the direct mobilisation effect of guarantees, syndicated loans
+and shares in collective investment vehicles; work is underway to develop similar methodologies
+for other financial instruments. Much work still remains to be done, however, in particular to find
+ways of measuring the indirect – or “catalytic” – effect of public interventions on the achievement
+of the global goals and in tackling climate change. The OECD is co-ordinating its efforts with work
+underway in other fora to ensure coherence.
+
+4.	
+
+If development is to be truly sustainable and inclusive it must benefit all citizens – in particular
+the poorest, most marginalised and vulnerable. This means looking at business through a new
+lens, focusing on leaving no one behind and on empowering people to lead fuller, more productive
+lives. Social impact investment has evolved over the past decade as an innovative approach to
+increasing the benefits of business for the world’s poorest and most marginalised populations, as
+described in Chapter 5. Enterprises that generate measurable social as well as financial returns
+can bring effectiveness, innovation, accountability and scale to development efforts. Public funds
+can be used to strengthen and promote this type of investment by sharing risks, and also by
+supporting a sound business environment, particularly in the least developed countries and in
+countries emerging from conflict. These new business models can complement existing ones,
+especially in areas not traditionally popular with business – but essential to the poor – such as
+education, health and social services.
+
+5.	
+
+For business to do good while doing no harm, the private sector must be held to the same international
+transparency and accountability standards as all other actors. Chapter 6 looks at the principles
+and standards of responsible business conduct and how following them can give responsible
+businesses an advantage that benefits their bottom lines, while at the same time producing
+positive results for people and the planet. Business and government have complementary roles to
+play in implementing, promoting and enabling responsible business conduct. The OECD Guidelines
+for Multinational Enterprises help to optimise their contributions, supporting the development of
+responsible and accountable business practice to ensure that investment quantity is matched by
+business quality to produce social, economic and environmental benefits. These guidelines, can
+enable business to make an important contribution to the SDGs in countries worldwide, helping to
+raise the standard of living through the creation of fair and equal jobs, the development of skills
+and technology, and more equitable distribution of wealth.
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 9 End-----------------------
+
+By following these pathways and working together, investors, governments, philanthropy, institutions and
+civil society can make the most of converging interests and potential to unlock the resources needed. This
+approach can provide accountability and transparency, at the same time meeting business needs and
+expectations. And it can do so while ensuring that no one is left behind and that the planet’s resources are
+conserved and even renewed. This report provides examples of how the OECD is stimulating dialogue and
+creating opportunities for co-operation among the many stakeholders involved in sustainable development.
+It also presents practical cases that illustrate how businesses are already working to promote sustainable
+development and inclusive growth in developing countries.
+Many development agencies and bilateral and multilateral development finance institutions are already
+engaging in new ways of sharing risks and reducing costs so as to leverage private finance for sustainable
+development. Providers of development co-operation generally agree that mobilising private resources for
+sustainable development needs to be “at the core of a modernised, reinvented role for ODA”. In much the
+same way, in this era hallmarked by globalisation, rapid technological advancement and competition for
+precious resources, it is important to remember that business thrives when the world thrives. Doing good
+by doing well needs to be the new mantra of business for sustainable development.
+
+Estimated investment gap in key SDG sectors, 2015-30
+Trillions of USD, annual average
+
+3.9
+
+1.4
+
+2.5
+
+Total annual
+investment needs
+
+Current annual
+investment
+
+Total
+investment gap
+
+Source: UNCTAD (2014), World Investment Report 2014: Investing in the SDGs: An Action Plan, United Nations
+Conference on Trade and Investment, Geneva, http://unctad.org/en/PublicationsLibrary/wir2014_en.pdf.
+
+HIGHLIGHTS
+
+10
+
+-----------------------Page 10 End-----------------------
+
+CHAPTER 1. OVERVIEW: PUTTING SUSTAINABLE DEVELOPMENT AT
+THE CORE OF BUSINESS MODELS
+by Christine Graves and Hildegard Lingnau, Development Co-operation Directorate, OECD
+
+Achieving the Sustainable Development Goals will require funding and co-operation on an unprecedented
+scale, with the private sector holding a pivotal position. This chapter asks how international co-operation
+can help to put sustainable development at the core of business models. It looks at why these efforts must
+focus on the quality as well as the quantity of private sector contributions, responding to the challenges
+laid out at the beginning of the chapter: making sustainability “business as usual”; creating conditions
+for good investment; building global change from the bottom up; ensuring credibility, accountability and
+transparency; and creating new multi-stakeholder partnerships.
+TEN KEY RECOMMENDATIONS FOR PUTTING SUSTAINABLE DEVELOPMENT AT THE CORE OF
+BUSINESS MODELS
+1.	
+
+Clarify the roles of each of the key actors.
+
+2.	
+
+Agree on common principles, standards, definitions, scope and methodology.
+
+3.	
+
+Align financial and development goals.
+
+4.	
+
+Share risks and innovate to ensure public goods for the poorest and most vulnerable.
+
+5.	
+
+Create global and local enabling environments, ensuring coherence of policies across
+sectors and countries.
+
+6.	
+
+Cultivate new business models and promote research on what does and doesn’t work.
+
+7.	
+
+Encourage responsible citizenship to provide checks and balances.
+
+8.	
+
+Increase transparency and accountability by monitoring and reporting against
+international standards and indicators.
+
+9.	
+
+Establish platforms to enhance sharing of knowledge and technical know-how.
+
+10.	 Build evidence on impacts, outcomes, successes and failures.
+
+This chapter also includes the following opinion pieces:
+How can international co-operation help to put sustainable development at the core of business models?
+by Amina Mohammed, Minister of Environment, Federal Republic of Nigeria and former Special Advisor to
+the UN Secretary-General on Post-2015 Development Planning
+Business can fuel the clean technologies that are needed to achieve global goals
+by Jim Balsillie, Founder and Chair of the Board of Directors, Centre for International Governance Innovation
+The right to food is about much more than boosting supply
+by Olivier De Schutter, Co-Chair, International Panel of Experts on Sustainable Food Systems (IPES-Food)
+Sustainable development challenges are business challenges
+by Louise Kantrow, International Chamber of Commerce Permanent Representative to the United Nations
+
+11
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 11 End-----------------------
+
+Part I: The SDGs as sustainable business opportunities
+and five approaches to make it happen
+CHAPTER 2. TRENDS IN FOREIGN DIRECT INVESTMENT AND THEIR
+IMPLICATIONS FOR DEVELOPMENT
+by Michael Gestrin, Directorate for Financial and Enterprise Affairs, OECD
+
+Foreign direct investment can play an important role in financing development, with multinational
+enterprises also providing employment, technology transfer and access to international markets. Between
+2005 and 2014, foreign direct investment flows to non-OECD countries more than doubled in absolute
+terms since 2012, these countries receive more than 50% of the global total, compared to 35% in 2005.
+Recently, however, some types of international investment in emerging and developing economies have
+started to decline. There are important warning signs that these investment flows could experience a
+sharp slowdown over the coming years (or could even reverse in some cases). This chapter examines
+these trends, the main factors shaping them and their implications.
+
+Foreign direct investment inflows by broad country groupings
+OECD
+
+Non-OECD
+
+USD billion
+1 400
+1 200
+1 000
+800
+600
+400
+200
+0
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Source: OECD (2016), OECD International Direct Investment Statistics (database), http://dx.doi.org/10.1787/bmd4-data-en.
+1 2 http://dx.doi.org/10.1787/888933357568
+
+Total project finance volumes in developing and emerging markets
+Total project finance volumes
+
+Loan amount
+
+Equity amount
+
+USD billion
+300
+250
+200
+150
+100
+50
+0
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Source: Dealogic (2015), Dealogic ProjectWare (database), www.dealogic.com.
+1 2 http://dx.doi.org/10.1787/888933357611
+
+HIGHLIGHTS
+
+12
+
+-----------------------Page 12 End-----------------------
+
+KEY MESSAGES ON FOREIGN DIRECT INVESTMENT
+•	 While foreign direct investment in developing and emerging markets is expected to follow an
+overall increasing trend over the long term, in the immediate future it could experience a sharp
+slowdown, with important ramifications for both the emerging markets and for international
+investment markets in general.
+•	 Developing and emerging markets may begin to take a more cautious, protectionist approach
+towards foreign capital.
+•	 The decline in public-private partnerships in developing countries, as well as in project financing
+in the least developed countries, are important warning signals given the particular needs of these
+countries for development assistance, especially for infrastructure.
+•	 A slowdown could undermine political support for the still uncompleted structural reform agenda
+that has underpinned increasing flows of investment to emerging markets.
+•	 G
+	 iven the complex dynamics underpinning the relationships between international investment and
+global value chains, the effects of a slowdown on these value chains – and on development in
+general – are difficult to determine.
+•	 A shift in overall trends in foreign direct investment – from relative stability to increasing fluctuation
+– would have important policy implications for the developing and emerging markets, which are
+increasingly reliant on foreign direct investment to support their development objectives.
+•	 D
+	 eveloping countries and providers of development assistance can address the cyclic, changing
+nature of foreign direct investment trends by framing development strategies around the
+complementary and mutually reinforcing roles of private investment and official development
+assistance.
+
+This chapter also includes the following opinion pieces:
+How can foreign direct investment fulfil its development potential?
+by Karl P. Sauvant, Resident Senior Fellow, Columbia Center on Sustainable Investment, Columbia University
+African countries need institutions that will direct investment to where it is needed most
+by Andrew Chipwende, CEO of the Industrial Development Corporation, Zambia
+Pro-investment policies really matter!
+by Shaun Donnelly, Vice President, Investment and Financial Services, United States Council for International
+Business
+A new generation of policies can create a “big push” for private investment in sustainable development
+by James Zhan, Director of Investment and Enterprise at the United Nations Conference on Trade and
+Development, and Editor-in-Chief of the United Nations, World Investment Report
+
+13
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 13 End-----------------------
+
+CHAPTER 3. BLENDING PUBLIC AND PRIVATE FUNDS FOR
+SUSTAINABLE DEVELOPMENT
+by Richard Samans, Head of the Centre for the Global Agenda and Member of the Managing Board,
+World Economic Forum
+
+Blended finance offers huge, largely untapped potential for public, philanthropic and private actors to
+work together to dramatically improve the scale of investment in developing countries. Its potential lies
+in its ability to remove many bottlenecks that prevent private investors from targeting the sectors and
+countries that urgently need additional investment. To accelerate social and economic progress towards
+the Sustainable Development Goals, blended finance needs to be scaled up, but in a systematic way
+that avoids certain risks. This chapter outlines how to underpin international development efforts using
+blended finance solutions that have the potential to transform economies, societies and lives, concluding
+with a set of key recommendations.
+
+Blended finance instruments
+INSTRUMENT
+Grants
+Guarantees
+Debt
+
+DESCRIPTION
+A financial award with no expected repayment or compensation over a fixed period of
+time.
+Protection from various forms of risk intended against capital losses for investors.
+Money lent for repayment at a later date, usually with interest:
+•	 Market rate debt, when rates and terms are determined based on capital market
+prices and tenors, but can be subordinate to senior debt (i.e. mezzanine).
+•	 Flexible (concessional) debt, with favourable terms or rates for the borrower
+relative to market pricing.
+
+Equity
+
+Ownership in a company – value determined at time of investment:
+•	 Junior equity, accepts higher risk for lower financial returns in exchange for
+social, environmental and economic impact, typically in a position to take the
+first losses.
+
+Source: OECD/WEF (2015), “Blended finance Vol. 1: A primer for development finance and philanthropic funders”, September, OECD, Paris and World
+Economic Forum, Geneva, www3.weforum.org/docs/WEF_Blended_Finance_A_Primer_Development_Finance_Philanthropic_Funders.pdf.
+
+HIGHLIGHTS
+
+14
+
+-----------------------Page 14 End-----------------------
+
+KEY RECOMMENDATIONS FOR SCALING UP BLENDED FINANCE
+•	 Recognise private sector incentives and needs and balance financial incentives with development
+objectives.
+•	 Use a common blended finance lexicon to facilitate relationship building with the private sector.
+•	 Develop relationships among funders and investors with complementary development and
+investment goals.
+•	 Develop unified platforms to bring together development funders and private investors.
+•	 Ensure clarity on the roles of development funders and private actors.
+•	 Identify standardised, scalable investment structures and products.
+•	 Make sure appropriate resources are in place.
+•	 Take care not to crowd out private financing and promote market distortion.
+•	 Set reasonable impact targets; standardise metrics and measures of impact across sectors.
+•	 A	 nalyse the effectiveness of different blended finance models and aggregate best practices;
+communicate these insights to a wide audience.
+•	 T	 ake a structured approach to public investment using innovative approaches to systematise and
+scale up successful initiatives.
+•	 M
+	 anage demonstration effects so as not to discourage private investors from further involvement
+in a given sector or country.
+
+This chapter also includes the following opinion pieces:
+Can blended finance increase the scale and sustainability of finance for development?
+by Gavin E.R. Wilson, CEO of the IFC Asset Management Company
+“Doing good while doing well” is the mantra for SDG success
+by Jay Collins, Vice Chairman, Corporate and Investment Banking, Citigroup
+Well-structured public finance can align profit and sustainability aspirations
+by LI Yong, Director General, United Nations Industrial Development Organization
+
+15
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 15 End-----------------------
+
+CHAPTER 4. MEASURING PRIVATE FINANCE MOBILISED FOR
+SUSTAINABLE DEVELOPMENT
+by Julia Benn, Cécile Sangaré and Suzanne Steensen, Development Co-operation Directorate, OECD
+
+The OECD is working on ways to monitor and measure private resources mobilised through public sector
+interventions. This is of great importance in the context of the Sustainable Development Goals: improving
+the tracking of these resources will increase transparency while also encouraging their use to mobilise
+further resources. This chapter provides an overview of the work underway and outlines some of the
+methodological challenges involved. It also presents the findings of a recent survey that focused on
+private sector finance mobilised through guarantees, syndicated loans and shares in collective investment
+vehicles between 2012 and 2014. It concludes with a set of key recommendations.
+
+KEY RECOMMENDATIONS FOR MEASURING MOBILISED PRIVATE FINANCE
+•	 Clarify and clearly define the scope of what is being measured when developing standards for
+measuring mobilisation.
+•	 Harmonise, as much as possible, diverse approaches for measuring mobilisation (including those
+being developed by the climate community), keeping in mind the need to avoid double counting at
+the international level.
+•	 	Continue methodological work to cover a broader range of instruments.
+•	 E	 ngage widely with other actors and stakeholders to ensure that the methodologies proposed are
+realistic and fair.
+•	 W
+	 henever possible, take steps to make the data readily available in internal systems for regular
+reporting.
+•	 A	 gree on the definitions, scope and methodology for measuring direct mobilisation and work
+towards approaches to capture the “indirect” – or “catalytic” – effect of public interventions.
+
+This chapter also includes the following opinion pieces:
+How do we measure the mobilisation of private finance?
+by Jeff Chelsky, Program Manager, Strategy, Risk and Results, Operations Policy and Country Services,
+World Bank
+Engaging the private sector in sustainable development finance involves commitment, careful analysis
+and alignment of objectives
+by Pierre Jacquet, President, Global Development Network
+Innovative mechanisms can help to mobilise domestic finance
+by Philippe Orliange, Director for Strategy, Partnerships and Communication, Agence Française de
+Développement
+
+HIGHLIGHTS
+
+16
+
+-----------------------Page 16 End-----------------------
+
+Private finance mobilised per instrument and year, 2012-14
+Through guarantees, syndicated loans and shares in collective investment vehicles,
+billions USD, current prices
+
+Note: CIVs = collective investment vehicles.
+Source: Benn, J. et al. (2016), “Amounts mobilised from the private sector by official development finance interventions: Guarantees, syndicated
+loans and shares in collective investment vehicles”, OECD Development Co-operation Working Papers, No. 26, OECD Publishing, Paris,
+http://dx.doi.org/10.1787/5jm3xh459n37-en.
+1 2 http://dx.doi.org/10.1787/888933357695
+
+Climate-related private finance mobilised, 2012-14
+
+Notes: “Not climate-related” includes amounts reported as not climate-related and amounts for which climate relevance was not reported.
+CIVs = collective investment vehicles.
+Source: Benn, J. et al. (2016), “Amounts mobilised from the private sector by official development finance interventions: Guarantees,
+syndicated loans and shares in collective investment vehicles”, OECD Development Co-operation Working Papers, No. 26, OECD
+Publishing, Paris, http://dx.doi.org/10.1787/5jm3xh459n37-en.
+1 2 http://dx.doi.org/10.1787/888933357778
+
+17
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 17 End-----------------------
+
+CHAPTER 5. INVESTING FOR SOCIAL IMPACT IN DEVELOPING
+COUNTRIES
+by Karen E. Wilson, Development Co-operation Directorate, OECD
+
+Social impact investors seek social and environmental impact from their investments, in addition to
+financial returns. This chapter discusses the potential of social impact investment for developing countries,
+highlighting several examples to demonstrate how it works in practice. It examines the challenges, including
+assessing whether interventions have achieved their intended impact and expanding the evidence base.
+The public sector can promote social impact investment, for example by providing risk capital to enable
+the private sector to offer affordable, accessible, quality products and services to the poorest populations.
+The chapter makes recommendations for increasing the reach and the scale of social impact investment.
+
+A social impact investment market framework
+
+Source: OECD (2015), Social Impact Investment: Building the Evidence Base, OECD Publishing, Paris,
+http://dx.doi.org/10.1787/9789264233430-en.
+
+HIGHLIGHTS
+
+18
+
+-----------------------Page 18 End-----------------------
+
+KEY RECOMMENDATIONS FOR GETTING SOCIAL IMPACT INVESTMENT RIGHT
+•	 Advance knowledge of social impact investment instruments and their applicability in the context
+of the 2030 Agenda, in a variety of sectors and across different country settings.
+•	 Promote international research, data collection, case studies and the development of indicators on
+social impact investment.
+•	 Increase transparency and provide the additional resources needed to build the broader enabling
+environment or ecosystem for impact investment; ensure that social reporting requirements are
+not overly burdensome for social enterprises.
+•	 Cultivate and develop new and innovative companies and business models, including ones adapted
+to the needs of the bottom-of-the-pyramid populations.
+•	 Develop local entrepreneurial talent and a pipeline of investment-ready project proposals and
+facilitate the roll-out of pilots worldwide.
+•	 Build an evidence base on the impacts, outcomes, successes and failures of social impact
+investment in ways that are comparable across countries.
+•	 Align incentives for social and financial goals, and help service providers develop their capacity to
+measure social outcomes.
+•	 Use new approaches to measurement, such as the TOSSD framework, to capture and evaluate the
+full spectrum of financial instruments and sources.
+•	 	Use public funds to:
+»» strengthen the overall governance framework to ensure a sound business environment
+in developing countries, in particular in the least developed countries and in countries
+emerging from conflict
+»» leverage private funds by providing incentives and/or helping to reduce risks via guarantees
+or early-stage grants or investment
+»» help to develop the social impact investment ecosystem to ensure a well-functioning market
+»» e	 stablish platforms to exchange knowledge and share experiences among development
+actors and the social impact investment sector.
+
+This chapter also includes the following opinion pieces:
+Can social impact investment serve the “bottom of the pyramid”?
+by Julie Sunderland, Director of Program-Related Investments, Bill and Melinda Gates Foundation
+The public sector can do much to promote social impact investment in developing countries
+by Manuel Sager, Director-General of the Swiss Agency for Development and Cooperation
+The capacity of social impact investors to transform lives will depend on their ability to innovate
+by Sonal Shah, Professor of Practice and founding Executive Director of the Beeck Center for Social Impact &
+Innovation, Georgetown University
+
+19
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 19 End-----------------------
+
+CHAPTER 6. PROMOTING SUSTAINABLE DEVELOPMENT THROUGH
+RESPONSIBLE BUSINESS CONDUCT
+by Tihana Bule and Cristina Tebar Less, Directorate for Financial and Enterprise Affairs, OECD
+
+Investment can help raise standards of living through job creation, skills and technology development,
+and distribution of wealth. Achieving these impacts, however, depends on the quality of the investment
+as much as the quantity. Irresponsible business practices not only erode the investment and business
+environment; they can result in economic loss, environmental degradation, poor labour conditions, and
+in the most serious of cases, injury and loss of human life. Responsible business conduct principles
+and standards emphasise the integration of environmental and social concerns within core business
+operations. This chapter discusses how responsible business conduct can directly contribute to achieving
+the Sustainable Development Goals, while also being good for business. It examines the main global
+guidelines, principles and standards, as well as the role of governments.
+
+Who adheres to the OECD Guidelines for Multinational Enterprises
+Adhering countries
+
+Argentina
+Australia
+Austria
+Belgium
+Brazil
+Canada
+Chile
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Egypt
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Iceland
+Ireland
+Israel
+Italy
+Japan
+Jordan
+
+Korea
+Latvia
+Lithuania
+Luxembourg
+Mexico
+Morocco
+Netherlands
+New Zealand
+Norway
+Peru
+Poland
+Portugal
+Romania
+Slovak Republic
+Slovenia
+Spain
+Sweden
+Switzerland
+Tunisia
+Turkey
+United Kingdom
+United States
+European Union (Observer)
+
+Adhering countries’ share of global
+foreign direct investment flows
+2007-13
+
+62%
+
+Inflows
+
+82%
+
+Outflows
+
+Adhering countries’ share of global
+foreign direct investment stock
+2007-12
+
+73%
+
+Inward
+
+87%
+
+Outward
+
+Sources: OECD (2014), “OECD Guidelines for Multinational Enterprises: Responsible business conduct matters”, OECD, Paris,
+http://mneguidelines.oecd.org/MNEguidelines_RBCmatters.pdf; IMF (2015), IMF Balance of Payments and International Investment Position
+Statistics (database), www.imf.org/external/np/sta/bop/bop.htm.
+
+HIGHLIGHTS
+
+20
+
+-----------------------Page 20 End-----------------------
+
+KEY MESSAGES FOR RESPONSIBLE BUSINESS CONDUCT
+•	 Engage in dialogue on responsible business conduct.
+Governments:
+•	 Identify and remove barriers to the uptake of responsible business conduct, and set clear
+expectations for businesses to act responsibly at home as well as abroad.
+•	 Establish and enforce an adequate legal framework that protects the public interest and underpins
+responsible business conduct, and monitor business performance and compliance.
+•	 Clearly communicate expectations regarding responsible business conduct, provide guidance on
+specific practices, and enable enterprises to meet these expectations, paying particular attention
+to the needs of businesses that may have special challenges in this respect, such as small and
+medium enterprises.
+•	 Work with stakeholders in the business community, labour organisations, civil society, the general
+public, within the government and with other governments to create synergies and establish
+coherence on responsible business conduct.
+•	 Act responsibly in the context of the government’s role as an economic actor, for example, as
+employers, procurers and through state-owned enterprises.
+•	 Provide recognition and demonstrate support for best practice in responsible business conduct.
+•	 Strengthen access to remedy, including by strengthening the National Contact Point mechanism.
+•	 Support strengthening of policy frameworks for responsible business conduct in developing
+economies.
+•	 Use official development assistance in innovative ways to encourage the uptake and implementation
+of responsible business conduct by domestic and foreign businesses.
+Businesses:
+•	 O
+	 bserve the OECD Guidelines for Multinational Enterprises and the UN “Guiding Principles for
+Business and Human Rights”.
+•	 Integrate responsible business conduct principles and standards throughout the supply chain.
+•	 Carry out risk-based due diligence to identify, prevent and mitigate actual and potential adverse
+impacts and account for how these impacts are addressed.
+•	 Champion responsible business conduct and help others see it as an opportunity.
+
+This chapter also includes the following opinion pieces:
+Can smart investment make sustainable development a reality?
+by Marco Lambertini, Director General, WWF International
+A new corporate performance measurement framework can encourage sustainable success, for business
+and for society
+by Peter Bakker, President, World Business Council for Sustainable Development (WBCSD)
+The private sector must be held to the same transparency and accountability standards expected of others
+by Sharan Burrow, General Secretary, International Trade Union Confederation
+
+21
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 21 End-----------------------
+
+Part II: Profiles of development co-operation providers
+Engaging the private sector in development co-operation: Learning from peers
+prepared by Shannon Kindornay, Adjunct Research Professor, Carleton University and Rahul Malhotra,
+Development Co-operation Directorate, OECD.
+Official development assistance is increasingly being delivered with and through the private sector.
+Valuable lessons are emerging from these experiences. The OECD’s Development Assistance Committee
+(DAC) has recently launched a survey and peer learning exercise with its member countries to tap into
+these experiences and identify good practice. Many insights are emerging already from the survey and
+the first three reviews – of Germany, the Netherlands and Sweden. These include the value of private
+sector partnerships beyond their financial contribution, and the critical importance of investing in inhouse capacities and expertise to successfully develop and manage partnerships with the private sector.
+The final synthesis report will identify best practices and lessons to help all DAC members refine their
+engagements with the private sector, including appropriate tools and partnerships to leverage private
+sector resources and enhance development impact; and measuring and evaluating results, impact,
+additionality and the catalytic effect of private sector engagements.
+Development Assistance Committee members’ ODA performance in 2014 and 2015
+prepared by Yasmin Ahmad, Development Co-operation Directorate, OECD
+According to preliminary data, in 2015 net official development assistance (ODA) flows from member
+countries of the Development Assistance Committee (DAC) rose by 6.9% in real terms from 2014 to reach
+USD 131.6 billion, representing 0.30% of gross national income (GNI). In real terms, this represents the
+highest level of net ODA ever achieved. Most of the increase was due to the reporting of in-donor refugee
+costs, but if these costs are excluded, net ODA still rose by 1.7% in real terms. It is encouraging that ODA
+continues to remain high and stable.
+
+Net official development assistance, 1960-2015
+Total ODA (left axis)
+Constant 2014 USD billion
+160
+
+ODA/GNI (right axis)
+ODA as a percent of GNI
+0.60
+
+140
+
+0.50
+
+120
+0.40
+
+100
+
+0.30
+
+80
+60
+
+0.20
+
+40
+0.10
+
+20
+
+0
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990(a)
+1991(a)
+1992(a)
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015 (p)
+
+0
+
+p: Preliminary data.
+1. Total ODA excludes debt forgiveness of non-ODA claims in 1990, 1991 and 1992.
+Source: OECD (2016), “Detailed aid statistics: Official and private flows”, OECD International Development Statistics (database),
+http://dx.doi.org/10.1787/data-00072-en (accessed 22 April 2016).
+1 2 http://dx.doi.org/10.1787/888933357817
+
+HIGHLIGHTS
+
+22
+
+-----------------------Page 22 End-----------------------
+
+Profiles of Development Assistance Committee members
+prepared by Ida Mc Donnell and Valentina Sanna, Development Co-operation Directorate, OECD
+The profiles of DAC members give key data on resources they mobilise for sustainable development,
+including official development assistance as well as other official flows, private flows at terms and private
+grants mobilised by NGOs and foundations. The profiles reflect efforts by DAC members to promote
+the effective use of resources for sustainable development, notably in relation to developing country
+ownership, focus on results, aid predictability and aid untying. Using the latest data from OECD statistics,
+the profiles also show the channels DAC members use to allocate their ODA, as well as how ODA is
+allocated by geography and sectors.
+Providers of development co-operation beyond the DAC: Trends and profiles
+prepared by Willem Luijkx, Development Co-operation Directorate, OECD
+This section presents information on the volume and key features of the development co-operation
+provided by countries that are not members of the Development Assistance Committee (DAC). It includes
+19 providers who report to the OECD on their development co-operation programmes, as well as 10
+other providers that are priority partners for the DAC. For these providers, the OECD has estimated their
+programme volume based on official government reports, complemented by web-based research (mainly
+on contributions to multilateral organisations). The Bill & Melinda Gates Foundation, the only private
+funding entity reporting to the OECD, is also included in this section.
+
+The Development Co-operation Report 2016 will be released on 18 July 2016 and will be available at the following link:
+http://oe.cd/dcr2016
+@OECDdev | #2016DCR
+
+23
+
+Development Co-operation Report 2016: The Sustainable Development Goals a s Business Opportunities
+
+-----------------------Page 23 End-----------------------
+
+-----------------------Page 24 End-----------------------
+

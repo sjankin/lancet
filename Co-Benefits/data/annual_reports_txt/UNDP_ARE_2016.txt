@@ -1,0 +1,4488 @@
+evaluation
+2016 Annual Report
+
+Independent Evaluation Office
+United Nations Development Programme
+
+-----------------------Page 1 End-----------------------
+
+-----------------------Page 2 End-----------------------
+
+evaluation
+2016 Annual Report
+
+-----------------------Page 3 End-----------------------
+
+IEO REPORT TEAM & CONTRIBUTORS
+Director
+Indran A. Naidoo
+Deputy Director
+Arild Hauge
+Project Manager
+Richard Jones
+Contributors
+Heather Bryant, Alan Fox, Sasha Jahic,
+Deqa Musa, Oanh Nguyen, Fumika Ouchi,
+Anish Pradhan, Ximena Rios, Roberto
+La Rovere, Ana Rosa Monteiro Soares,
+Vijayalakshmi Vadivelu, Yogesh Bhatt,
+Claudia Villanueva and Jin Zhang
+Associated Funds and Programmes Contributors
+Andrew Fyfe (UNCDF) and
+Gelfiya Schienko (UNV)
+Production and Outreach
+Sasha Jahic
+
+ANNUAL REPORT ON EVALUATION 2016
+© UNDP June 2017
+Manufactured in the United States of America.
+Printed on recycled paper.
+ISBN 978-92-1-126421-0
+eISBN 978-92-1-060060-6
+Permission to reproduce any part of this
+publication is required. Please contact:
+ieo@undp.org.
+Suggested citation:
+Annual Report on Evaluation 2016, Independent
+Evaluation Office of UNDP, New York, June 2017.
+Independent Evaluation Office
+United Nations Development Programme
+220 E42nd Street, 20th Floor
+New York, NY 10017, USA
+Tel. +1(646) 781-4200
+Fax. +1(646) 781-4213
+Connect with us:
+www
+
+www.undp.org/evaluation
+/UNDP_Evaluation
+/ieoundp
+/evaluationoffice
+
+-----------------------Page 4 End-----------------------
+
+Photo Credits
+
+Acronyms
+
+Page 6: UNDP Cameroon
+
+ADR 		
+
+Assessment of development results
+
+Page 10: UNDP Morocco/Hassan Chabbi
+
+CIS		
+
+Commonwealth of Independent States
+
+Page 18: UNDP Viet Nam/Shutterstock
+
+GEF 		
+
+Global Environment Facility
+
+Page 22: UNDP Somalia
+
+IEO 		
+
+Independent Evaluation Office of UNDP
+
+Page 29: UNDP Zimbabwe
+Page 31: UNV/Juan Diego Pérez Arias
+
+ICPE		
+	
+
+Independent country programme evaluations
+(previously known as ADRs)
+
+Page 32: UNCDF/Creative7Arts
+
+M&E 		
+
+Monitoring and evaluation
+
+Page 33: UNDP Kyrgyz Republic
+
+SDGs 		
+
+Sustainable Development Goals
+
+UNCDF 		
+
+United Nations Capital Development Fund
+
+UNDAF 		
+
+United Nations Development Assistance Framework
+
+UNDP 		
+
+United Nations Development Programme
+
+UNEG 		
+
+United Nations Evaluation Group
+
+UNICEF 		
+
+United Nations Children’s Fund
+
+UNV 		
+
+United Nations Volunteers
+
+Annual Report on Evaluation 2016
+
+1
+
+-----------------------Page 5 End-----------------------
+
+Foreword
+As President of the Executive Board of the
+United Nations Development Programme
+(UNDP), I am pleased to introduce the 2016
+Annual Report on Evaluation, directly
+submitted to the Executive Board under
+the Evaluation Policy provisions on independence. The report summarizes the
+work of UNDP’s Independent Evaluation
+Office (IEO) in 2016.
+The IEO plays an essential role in advancing evaluation within the
+United Nations System. During the past year, it has engaged with
+key stakeholders, governments, donors, partners and the evaluation
+community across the globe to share expertise, findings and recommendations. All activities are geared towards ensuring the highest
+standards of oversight, transparency, learning and accountability.
+I am pleased to note the weight accorded to independent evaluations
+at UNDP, the high-quality management responses, and the productive
+discussions taking place both at the Executive Board and at the country
+level. This attests to the strong importance given to learning from experience, and using findings from evaluations to adjust programmes and
+improve prospects for organizational success. The explicit endorsement of independent evaluation by United Nations Member States, as
+embodied in the adoption of the new Evaluation Policy in September
+2016, indicates how seriously we take this function.
+
+2
+
+Annual Report on Evaluation 2016
+
+This report reflects some milestones in evaluation policy and practice.
+The newly established Audit and Evaluation Advisory Committee
+will bring together, under one umbrella, the UNDP oversight offices
+of Ethics, Audit and Investigations, and Independent Evaluation, fostering greater synergies. This mechanism will further complement the
+IEO’s Evaluation Advisory Panel, which has helped the IEO become
+one of the lead international evaluation offices. I envision the IEO will
+continue supporting the growth of evaluation capacity across UNDP,
+and look forward to it engaging in a more comprehensive quality
+assessment of decentralized evaluations.
+In 2017, UNDP will adopt a new Strategic Plan, creating a platform for
+the organization to assist Member States in implementing the 2030
+Agenda. I am confident that evaluation will be instrumental in shaping
+UNDP’s many contributions to realizing the high aspirations of the
+Sustainable Development Goals (SDGs).
+
+Ib Petersen
+Permanent Representative
+Permanent Mission of Denmark to the United Nations
+President of the UNDP Executive Board
+
+-----------------------Page 6 End-----------------------
+
+Preface
+It gives me great pleasure to present the
+2016 Annual Report on Evaluation to the
+President of the UNDP Executive Board,
+His Excellency Ambassador Ib Peterson.
+This report reflects on some fundamental
+changes made since 2012, summarizes
+2016 outputs and activities, and tables a
+programme of work for 2017.
+Developing an independent and credible
+evaluation function in UNDP has been a long journey. A major milestone in 2016 was the adoption of a new Evaluation Policy. For the first
+time, it sets a financial resource target for the evaluation function,
+which is critical to upholding the IEO’s independence. Independence
+is the foundation of the IEO’s credibility and impartiality in conducting
+assessments to inform UNDP policy and operations.
+Another major achievement, which offered stewardship for the global
+evaluation community and the IEO, was the adoption of the revised
+United Nations Evaluation Group (UNEG) Norms and Standards for
+Evaluation. This will help to ensure that the diverse approaches and
+capacities of evaluation offices within the United Nations move towards
+a standard like that of UNDP, as the basis for a robust, transparent and
+accountable oversight system. It is time for the principles of independence, credibility and utility to be applied evenly across the UNEG.
+The new UNDP Evaluation Policy goes further in operationalizing the
+principle of the IEO’s independence with the establishment of the Audit
+and Evaluation Advisory Committee. It oversees the work of the IEO
+and its Director, and advises the Executive Board and UNDP Administrator. Also, embedded in the new Evaluation Policy is the Evaluation
+Advisory Panel, now in its fourth year of operation, which brings in
+practical expertise and guidance for all IEO work.
+
+An innovative exercise in 2016 was the joint audit and evaluation of
+UNDP’s institutional effectiveness, a first on many levels. It provides
+a timely and comprehensive assessment of how effective and efficient
+UNDP was in achieving results. The positive reaction to this exercise
+bodes well for further collaboration between UNDP’s audit and evaluation offices to produce synergistic assessments of work at the global
+and country levels. The IEO also presented two important thematic
+evaluations: the assessment of UNDP’s work on disability-inclusive
+development and on anti-corruption, both of which spurred internal
+and global stakeholder debate.
+After a period of reflection, the IEO restarted its quality assessment work for decentralized evaluations with more comprehensive
+instruments and collaboration with UNDP to help build learning and
+accountability. Either completed or in progress are 12 independent
+country programme evaluation. Looking ahead, we intend a further,
+comprehensive revision of the country level evaluation system to
+ensure full coverage.
+I wish to thank the IEO team for its dedication, recognizing that the
+professional evaluation model, while rewarding and enriching, is an
+exacting one. I also wish to thank UNDP management and staff for
+facilitating evaluations, members of the Executive Board for their guidance and support, and stakeholders for maintaining the demand for
+independent evaluation to inform their constituencies. I wish to thank
+members of both the AEAC and the EAP for their constructive engagements with the IEO.
+
+Indran A. Naidoo
+Director
+Independent Evaluation Office, UNDP
+Annual Report on Evaluation 2016
+
+3
+
+-----------------------Page 7 End-----------------------
+
+table of contents
+chapter two:
+Highlights in 2016
+Acronyms1
+Foreword2
+Preface3
+
+chapter one:
+
+A Strengthened Foundation
+for Evaluation
+
+6
+A new Evaluation Policy at UNDP
+The Audit and Evaluation Advisory Committee
+The International Evaluation Advisory Panel
+The IEO Charter
+Evaluation architecture
+
+10
+UNDP contribution to anti-corruption
+and addressing the drivers of corruption
+Disability-inclusive development at UNDP
+A joint assessment of UNDP’s
+institutional effectiveness
+Ongoing evaluation of the UNDP Strategic Plan
+2014-2017, global and regional programmes
+Independent country programme evaluations
+in 2016 and beyond
+
+chapter three:
+
+Advancing Evaluation Practices
+and Awareness
+
+18
+The United Nations Evaluation Group
+Global platforms to share evaluation expertise
+Communications and outreach
+
+4
+
+Annual Report on Evaluation 2016
+
+-----------------------Page 8 End-----------------------
+
+chapter four:
+
+Decentralized Evaluations
+
+22
+Building decentralized
+evaluation capacities
+Decentralized evaluation planning
+and budgeting
+Assessing the quality of
+decentralized evaluations
+Decentralized Evaluation Implementation
+The Evaluation Resource Centre
+
+chapter five:
+
+Finances and Staffing
+
+29
+
+chapter six:
+
+Engagement with the UNCDF and UNV
+
+31
+
+annexes
+
+37
+Annex 1. Snapshot of implementation,
+budgets and quality, 2013 to 2016
+
+chapter seven:
+
+Looking Forward: Plans for 2017
+
+33
+Thematic evaluations
+Status of implementation of
+IEO recommendations
+
+Annex 2. Global monitoring and
+evaluation capacity, 2013 to 2016
+Annex 3. Regional monitoring and
+evaluation capacity, 2013 to 2016
+Annex 4. 2 016 average budgets for evaluations
+(country offices)
+Annex 5. Members and key activities of
+the Evaluation Advisory Panel in 2016
+
+Endnotes47
+
+Future independent country
+programme evaluations
+Decentralized evaluation assessment
+and support
+National evaluation capacity
+Costed programme of work in 2017
+
+Annual Report on Evaluation 2016
+
+5
+
+-----------------------Page 9 End-----------------------
+
+chapter
+
+6
+
+1
+
+-----------------------Page 10 End-----------------------
+
+A Strengthened Foundation for Evaluation
+This Annual Report on Evaluation highlights key initiatives of the
+Independent Evaluation Office of UNDP in 2016. It summarizes progress
+in deepening evaluation expertise and the application of core evaluation
+principles such as independence, credibility and utility.
+Providing a forward-looking view, the report
+notes that reform of the United Nations,
+UNDP and the IEO is ongoing. Newly
+appointed United Nations Secretary-General
+Antonio Guterres in 2016 stressed a renewed
+focus on evaluation as a tool of accountability requiring “effective and independent
+evaluation mechanisms” throughout the
+UN system.1
+As the custodian of the UNDP Evaluation
+Policy, and in line with its obligations to the
+UNDP Executive Board, the IEO reports annually on its work. It also assesses decentralized
+evaluations carried out by UNDP programme
+and policy units.
+
+A new Evaluation Policy
+at UNDP
+In September 2016, after two years of review,
+UNDP’s Executive Board adopted a new Evaluation Policy to advance evaluation at UNDP.
+
+The policy establishes core principles, clarifies roles and responsibilities, and makes
+clear links to the United Nations Evaluation
+Group (UNEG) Norms and Standards for
+Evaluation. Its foundational commitment is to
+the preeminence of independent evaluation
+as an input to corporate decision-making,
+including through the operational independence of the IEO within UNDP.
+The policy sets explicit benchmarks for financial resources for evaluation, earmarking
+1 percent of combined UNDP core and noncore funds, with a minimum of 0.2  percent
+set aside for the work of the IEO. In 2016,
+IEO expenditure was US $8.49 million,
+falling short of the 0.2 percent minimum
+by $600,000.
+
+The purpose and scope of the policy
+The 2016 Evaluation Policy applies to independent evaluation at all levels, helping to ensure it is
+accountable and learning oriented. Independent evaluations by the IEO, decentralized evaluations and
+evaluations by the United Nations Volunteers (UNV) and the United Nations Capital Development Fund
+(UNCDF) are all guided by the policy, which also covers UNDP and IEO support to increased national
+evaluation capacity.
+The evaluation policy is aligned with the overall mandates of UNDP and its associated programmes
+and funds, and with the Charter of the United Nations and its objectives. Its core principles stem from
+United Nations General Assembly resolutions, UNDP Executive Board decisions, and the UNEG Norms
+and Standards for Evaluation.
+
+Annual Report on Evaluation 2016
+
+7
+
+-----------------------Page 11 End-----------------------
+
+The Audit and Evaluation
+Advisory Committee
+
+The International
+Evaluation Advisory Panel
+
+Under the new Evaluation Policy, the UNDP
+Audit Advisory Committee has expanded to
+include evaluation oversight functions and
+is now constituted as the Audit and Evaluation Advisory Committee. This reformulation
+has helped to harmonize the evaluation,
+audit and investigations, and ethics functions, promoting synergies among all UNDP
+oversight offices.
+
+The new Evaluation Policy further cements the
+role and structure of the International Evaluation Advisory Panel. It now has 12 members
+who come from all regions, ensuring global
+coverage, knowledge and perspectives.
+
+The committee oversees adherence to the
+Evaluation Policy, and advises the UNDP
+Administrator and Director of the IEO on their
+responsibilities under it. Members are also
+charged with the appointment of the Director,
+and the approval and implementation of the
+IEO’s multiyear work plan and budgets.
+Committee meetings in 2016 were highly
+productive, giving strong direction to the
+IEO. At a first meeting in November 2016,
+the committee appointed two expert members who are globally recognized for their
+evaluation expertise. They provide guidance
+on specific aspects of evaluation policy and
+practice, bring an evaluation perspective to
+their review of the IEO and contribute to other
+oversight issues.
+
+8
+
+Annual Report on Evaluation 2016
+
+Panel members provide methodological
+guidance and expert reviews of individual
+evaluation reports and other products. In
+2016, the panel supported and gave advice to
+newly established IEO committees oriented
+around independent country programme
+evaluations, headquarters and corporate
+evaluations, and evaluation capacity development, including quality assurance. The
+panel also contributed to IEO strategizing
+through 35 advisory sessions with IEO staff.
+It supported the development of national
+evaluation capacities in the new era of the
+SDGs, the reestablishment of the quality
+assessment process, and reviews of thematic and independent country programme
+evaluations.
+
+The IEO Charter
+Further to the adoption of the new Evaluation
+Policy in 2016, and planned changes to the
+IEO’s evaluation approach and reporting to
+
+the UNDP Executive Board, the office is formulating a charter defining clear principles
+and practices for engaging with UNDP
+business units subject to independent evaluations. This initiative builds from experience
+in 2016 where the IEO shared an aide memoire with country offices when launching the
+evaluation process. The charter is intended
+to be comprehensive in setting the framework for collaborative, efficient and useful
+independent evaluations, in full accordance
+with the revised Evaluation Policy.
+
+Evaluation architecture
+The continued evolution of the IEO and of
+evaluation as a core function at UNDP has
+required strategic changes at multiple levels.
+These include the establishment of the International Evaluation Advisory Panel in 2014,
+the creation of the Audit and Evaluation Advisory Committee in 2016, the incorporation of
+the revised UNEG Norms and Standards for
+Evaluation in 2016 and a dedicated budget for
+evaluation. The IEO has expanded engagement with all partners and stakeholders
+throughout the evaluation process, which
+now aligns closely with the new emphasis in
+the Evaluation Policy on learning, transparency and accountability.
+
+-----------------------Page 12 End-----------------------
+
+Contributing to accountability and learning
+UNDP
+Executive
+Board
+
+The UNDP Executive Board is the custodian of the Evaluation Policy. It approves the policy and considers annual reports on implementation;
+ensures the independence of the evaluation function; uses and draws on evaluation findings for oversight of corporate policies, strategies
+and programmes; requires management responses to all evaluations, and reviews and approves those for independent evaluations; and
+periodically requests the IEO to commission independent reviews of the Evaluation Policy.
+
+IEO
+
+The IEO is an independent unit that each year reports directly to the Executive Board on evaluation functions, compliance, coverage, quality,
+findings and follow-up. It conducts evaluations on themes and programmes at the country, regional and global levels.
+
+UNDP
+Administrator
+
+The UNDP Administrator is accountable for corporate results, and safeguards the integrity and independence of the evaluation function.
+His/her role also includes ensuring that senior management responds to and applies evaluation findings, and that relevant units follow up
+on recommendations.
+
+UNDP
+Programme and
+Policy Units
+
+UNDP programme and policy units conduct monitoring, evaluate programme performance and manage findings. The results feed into independent evaluations.
+
+Evaluation
+Units
+of UNCDF
+and UNV
+
+The evaluation units of UNCDF and UNV conduct evaluations in their organizations, and contribute to the IEO’s development of common
+evaluation quality standards and guidelines.
+
+Annual Report on Evaluation 2016
+
+9
+
+-----------------------Page 13 End-----------------------
+
+chapter
+
+10
+
+Annual Report on Evaluation 2016
+
+2
+
+-----------------------Page 14 End-----------------------
+
+Highlights in 2016
+Since 2012, the IEO has implemented 14 thematic evaluations derived
+from the UNDP Strategic Framework, bringing a crucial perspective to
+understanding organizational performance at a policy and strategy level.
+Debates that accompany these evaluations at the UNDP Executive Board
+and other forums indicate interest in their focus and confidence in the
+organization to deliver on its plans. The IEO has significantly refined its
+methodologies for thematic evaluations to include more engagement with
+UNDP business units and stakeholders, increased sample sizes and
+dedicated attention to making reports more accessible. Illustrated
+
+Thematic evaluations continued the use
+of robust methodologies and consultative
+processes, while retaining an independent
+approach. Conducting them entailed engagements with 131 country offices, regional
+bureau consultations, desk reviews, a
+meta-synthesis of over 180 evaluations
+(including IEO independent country programme evaluations), an analysis of 10 UNDP
+corporate surveys and implementation of
+five IEO surveys, and over 900 interviews.
+Findings, conclusions and recommendations
+were welcomed by UNDP with detailed management responses and planned key actions
+to improve support in each thematic area.
+
+summaries and videos that accompany the main reports have proven
+successful in communicating major findings and recommendations to a
+range of audiences, strengthening adoption and overall impact.
+
+In 2016, the IEO carried out three thematic
+evaluations and has one underway, all of
+which were presented to the Executive
+Board in 2016 and 2017 for discussion and
+decisions. The three concluded thematic evaluations comprise an evaluation of UNDP’s
+contribution to anti-corruption efforts and
+addressing the drivers of corruption, an
+
+evaluation of disability-inclusive development at UNDP and a joint evaluation with the
+UNDP Audit Office of UNDP’s institutional
+effectiveness. Papers outlining findings, conclusions and recommendations have been
+submitted to the Executive Board, and each
+evaluation has received a detailed management response.
+
+Thematic evaluations
+in 2016 were built on
+engagements with 131
+country offices, regional
+bureau consultations, desk
+reviews, a meta-synthesis
+of over 180 evaluations and
+over 900 interviews.
+
+Annual Report on Evaluation 2016
+
+11
+
+-----------------------Page 15 End-----------------------
+
+meta-synthesis of 110 evaluations and 65
+country programmes. A robust methodological approach also included 350 interviews
+with development actors.
+
+Summary of interviews/desk reviews for thematic evaluations
+
+Country/regional
+consultations and
+desk reviews
+
+Interviews and
+focus groups
+
+Meta-synthesis
+of evaluations
+
+Analysis of surveys
+
+Anti-corruption
+
+65
+
+350
+
+110
+
+0
+
+Disability-inclusive
+development
+
+11
+
+335
+
+0
+
+1
+
+Institutional
+effectiveness
+
+55
+
+231
+
+73
+
+9
+
+Total
+
+131
+
+916
+
+183
+
+10
+
+EVALUATION
+OF UNDP CONTRIBUTION TO
+
+ANTI-CORRUPTION AND
+ADDRESSING DRIVERS OF CORRUPTION
+
+Independent Evaluation Office
+United Nations Development Programme
+
+UNDP
+contribution to
+anti-corruption
+and addressing
+the drivers
+of corruption
+
+Addressing links among governance, corruption and development is critical for
+development progress. Given the negative impacts of corruption in many nations,
+and the important need for UNDP to
+
+12
+
+Annual Report on Evaluation 2016
+
+incorporate anti-corruption, accountability
+and transparency in its governance and
+overall development work, the IEO undertook an evaluation of UNDP anti-corruption
+assistance and efforts to address drivers of
+corruption. The evaluation assessed UNDP
+contributions from 2008 to 2015, covering the
+last Strategic Plan 2008-2013 and the current
+Strategic Plan 2014- 2017.
+The evaluation gathered data from 65
+country offices, regional bureau consultations and case studies as well as from a
+
+The evaluation found that UNDP corporate
+programme frameworks recognize anti-corruption as key to accelerating sustainable
+development. While it supports specific
+anti-corruption initiatives, UNDP has focused
+more on addressing the drivers of corruption,
+particularly demand-side accountability. It
+has developed a unique niche in assisting
+efforts to address corruption drivers and to
+strengthen national anti-corruption capacities. Simultaneously pursuing anti-corruption
+and accountability initiatives has allowed
+UNDP to work at multiple levels.
+Standalone anti-corruption work targeted
+solely at anti-corruption agencies was found
+to have a limited impact. While UNDP contributions have been important for enhancing
+anti-corruption policies and capacities, actual
+outcomes have been dependent on broader
+governance capacities. Evolving governance
+systems and processes and inadequate judicial capacities have reduced impacts in some
+cases. Without core accountability processes
+and capacities in public administration, even
+strong anti-corruption enforcement institutions may make little headway.
+
+-----------------------Page 16 End-----------------------
+
+The evaluation reaffirmed governance, corruption and development links. Countries
+and international development agencies
+have made efforts to improve governance
+through various reforms, and to reduce the
+abuse of public positions and resources
+meant for development. Such efforts had
+varying levels of success in reducing corruption and enhancing accountability and
+transparency, however. At UNDP, a lack of
+synergies between governance programmes
+and other development and anti-corruption
+initiatives reduced overall outcomes.
+The evaluation recommended that to enhance
+its abilities to help address the links between
+development and corruption, UNDP should
+develop an anti-corruption strategy that
+explicitly connects these efforts to its governance and development programmes, and its
+support to countries in attaining the SDGs.
+Greater efforts should be made to use development programme areas as entry points to
+further promote sectoral anti-corruption and
+accountability measures, including in current
+programmes. The evaluation emphasized
+that all anti-corruption support efforts at the
+global, regional and country levels should
+address gender-related aspects, as this continues to be a weak area of UNDP support.
+
+Given the significant contributions UNDP
+makes to advancing national and local
+demand-side accountability, the evaluation suggested that the organization should
+increase support for local initiatives, particularly concerning access to information and
+social accountability. It recommended as well
+that UNDP prioritize support to anti-corruption and governance risk assessments and
+measurements.
+
+EVALUATION
+OF DISABILITY
+
+INCLUSIVE DEVELOPMENT AT UNDP
+
+UNDP
+support for
+disabilityinclusive
+development
+
+The passage in 2006
+of the Convention
+on the Rights of Persons with Disabilities
+enshrined a global commitment to promote
+the rights and advancement of persons with
+disabilities. This commitment places an onus
+on organizations like UNDP to coherently,
+adequately and systematically include persons with disabilities in their work. An IEO
+evaluation reviewed UNDP support for disability-inclusive development between 2008
+and 2016, including under the current Strategic Plan and since the Convention has been
+in force. As part of the evaluation, a survey of
+all 132 UNDP country programmes helped in
+Independent Evaluation Office
+United Nations Development Programme
+
+preparing a global portfolio of disability-inclusive programmes and projects. Eleven
+country office visits and 335 interviews supported the assessment.
+The evaluation found a clear strategic fit
+for UNDP in supporting government efforts
+to promote the rights of persons with disabilities. UNDP has effectively supported
+disability work where there was national
+ownership and leadership on the issue, but
+is not widely regarded as a major advocate
+of or provider of technical assistance for
+disability-inclusive development. It has not
+fully leveraged its role as a trusted convener,
+knowledge broker, technical adviser and
+facilitator of dialogue among government,
+civil society and national human rights institutions in support of the Convention, thus
+limiting its potential impact.
+In considering UNDP’s internal culture and
+procedures, the evaluation found that UNDP
+should be a more welcoming organization
+for persons with disabilities. While it has
+taken some positive steps, such as formulating a diversity and inclusiveness strategy,
+attention to implementing this strategy has
+been sporadic and ineffectual. Conditions of
+recruitment, hiring and employment present
+barriers for persons with disabilities. UNDP
+has not taken the necessary steps to ensure
+that its facilities are accessible.
+
+Annual Report on Evaluation 2016
+
+13
+
+-----------------------Page 17 End-----------------------
+
+UNDP still needs to
+find the right balance
+between compliance for
+reporting and learning
+for improved results.
+
+JOINT ASSESSMENT
+OF THE INSTITUTIONAL
+EFFECTIVENESS OF UNDP
+
+A joint
+assessment
+of UNDP’s
+institutional
+effectiveness
+
+In 2016, the IEO took
+an important step
+in strengthening its joint evaluation work
+through its first evaluation partnership with
+the UNDP Office of Audit and Investigations.
+The joint evaluation assessed the extent to
+which UNDP policy and organizational measures, including the recent restructuring
+process, have enhanced or have the potential
+to enhance the organization’s ability to deliver
+higher quality programmes and improve
+institutional effectiveness. The assessment
+covered relevant activities undertaken by
+UNDP from 2010 to 2015, emphasizing initiatives supporting the Strategic Plan 2014-2017.
+Independent Evaluation Office
+and Office of Audit and Investigations
+
+The evaluation recommended giving greater
+prominence to disability-inclusive development in the upcoming UNDP Strategic Plan
+in line with the SDGs. A well-conceived and
+executed UN partnership on the rights of
+persons with disabilities should be strengthened and additional resources mobilized.
+Revision of the UNDP diversity and inclusiveness strategy should make clear that the
+organization will adequately support staff
+with disabilities in all phases of employment
+and through sufficient financial resources for
+workplace accommodation. An accessibility
+audit of UNDP premises and work could
+identify existing barriers to inclusion and
+practical steps that can be taken to eliminate
+them, with timelines and a date by which all
+premises are to be accessible.
+
+14
+
+Annual Report on Evaluation 2016
+
+Built on consultations with over 50 country
+offices and regional hubs, 73 meta-syntheses of evaluations, and 231 focus group
+and individual interviews, the assessment
+considered the early stage of some reforms.
+It recognized that it may be too soon to fully
+identify all potential results, and therefore
+aimed to enhance organizational learning by
+identifying opportunities for improvement.
+
+Key findings indicated that UNDP programmes show improved alignment with
+the priorities of the Strategic Plan and an
+uptake of the SDGs, but for the most part fail
+to reflect the strategic comparative advantage of UNDP. Restructuring changes aimed
+at strengthening the regional presence and
+consolidating policy functions contributed
+to a clearer division of roles, responsibilities
+and accountabilities, but to varying degrees
+across the different regions. The sustainability of these changes is uncertain, given
+the lack of resources to staff regional hubs
+and for country offices to pay for regional
+services.
+Results-based management continues to
+be associated more with compliance-driven
+practices to satisfy reporting requirements,
+with a limited focus on learning from evidence to enhance decision-making and
+performance. UNDP still needs to find
+the right balance between compliance for
+reporting and learning for improved results.
+The assessment concluded that there are
+signs of improvement in the quality of programmes and that organizational measures
+such as the structural review have clarified
+some roles and responsibilities between
+the regional level and headquarters. It is not
+possible to conclude that new measures have
+significant and sustainable effects on the
+quality of programmes, however, or carry the
+
+-----------------------Page 18 End-----------------------
+
+potential for success. UNDP is in the midst of
+change, and the sustainability of measures to
+increase institutional effectiveness through
+new organizational and programmatic
+measures might be at risk due to a lack of
+resources and sustainable funding models.
+Without additional efforts and targeted
+investments to strengthen capacities, programmatic and organizational measures will
+likely not be fully implemented, weakening
+their support for significantly enhancing the
+quality of programmes and improving institutional effectiveness in a sustainable manner.
+The assessment recommended that UNDP
+country offices should adequately identify the comparative advantage and value
+added of the organization in programmes.
+The concept of a theory of change needs to
+be fully understood and practised. UNDP
+should assess the costs of implementing the
+new programme and project quality assurance system to determine whether resource
+requirements of the reformed system can be
+sustainably met, and if so, how. Based on
+the available budget, UNDP should prioritize quality elements that all country offices
+need to fully uphold, and should reassess
+the financial sustainability of the regional
+service centres/hubs model. Greater resultsbased management expertise should be
+developed, with improved focus on learning,
+shifting the focus from proving results to
+
+improving results. Further, UNDP leadership
+should prioritize investment in knowledge
+management.
+
+Ongoing evaluation of the
+UNDP Strategic Plan 20142017, global and regional
+programmes
+An evaluation of the UNDP Strategic Plan
+2014-2017 with a focus on global and regional
+programmes started in 2016 and is expected
+to conclude in 2017. It is part of the IEO
+medium-term plan (DP/2014/5) approved by
+the Executive Board in January 2014. The
+evaluation is designed to assess the contributions of regional and global programming
+to the intended development results of the
+Strategic Plan, and to consider institutional
+mechanisms used by UNDP to facilitate programming. It looks at cross-cutting aspects,
+including UNDP’s contributions to SouthSouth and triangular cooperation, and the
+promotion of gender equality and women’s
+empowerment.
+The IEO evaluated the previous UNDP Strategic Plan (2008-2013) in 2010, reviewing all
+regions, levels of South-South cooperation
+and overall implementation. The current evaluation has taken a more focused approach
+and will produce just one evaluation report.
+
+The methodology remains robust and fully
+cooperative, with over 70 country offices,
+regional bureaux and global centres visited,
+a meta-synthesis of 100 reports and evaluations, and over 900 interviews. The evaluation
+will provide actionable recommendations to
+UNDP and the Executive Board for consideration and inclusion in the next Strategic Plan.
+
+Independent country
+programme evaluations
+in 2016 and beyond
+Independent country programme evaluations
+(ICPEs), previously known as assessments of
+development results (ADRs), continue to be
+the backbone of the IEO’s work. ICPEs capture and demonstrate evaluative evidence of
+UNDP’s contributions to development results
+at the country level, as well as the effectiveness of UNDP’s strategies in facilitating
+and leveraging national efforts to advance
+development. The process supports the
+development of UNDP country programme
+documents, strengthens UNDP’s accountability to national stakeholders and bolsters
+UNDP’s accountability to its Executive Board.
+ICPEs also are vital to research and analysis
+for thematic evaluations.
+
+Annual Report on Evaluation 2016
+
+15
+
+-----------------------Page 19 End-----------------------
+
+ICPE coverage
+2012-2016
+Since 2012, the IEO has carried
+out 42 ICPEs, evaluating $8.2 billion in programme expenditure.
+In 2016, six country level assessments took place: in Cameroon,
+Equatorial Guinea, Jordan, Kyrgyzstan, Mexico and Pakistan,
+covering $650 million of UNDP
+programme expenditures. The
+six evaluations provided over
+40 recommendations to country
+offices to strengthen their development support. All have been
+addressed with detailed and
+comprehensive management
+responses, illustrating high
+regard for the ICPEs.
+
+ICPEs completed since 2012
+
+Note: These maps are stylized and not to scale. They do not reflect a position by UNDP on the legal status of any country
+or territory or the delimitation of any frontiers. Source: Geospatial Information Section of the United Nations
+
+The ICPE process continues
+to evolve through changes and reforms to
+ensure relevance to UNDP, and to support
+learning and evaluative functions. Previous
+years have seen the updating of ICPE guidance, making the process more aligned to
+the global development agenda and UNDP’s
+role at the country level, and more useful
+for UNDP country teams when developing
+strategic plans and country programme
+documents.
+
+16
+
+Annual Report on Evaluation 2016
+
+ICPE process
+In 2016, the ICPEs were further transformed
+through a strategy to move from partial to 100
+percent coverage of country offices due to
+submit new country programme documents
+to the Executive Board. This initiative seeks to
+respond to an Executive Board call for wider
+coverage of UNDP country programmes. The
+previous country level evaluation process is
+undergoing a thorough review through 2017;
+
+the development of a sharper and briefer yet
+still detailed approach will be required to
+meet increased demand.
+The new ICPE process is scheduled for full
+implementation in 2017. It better reflects the
+nature of country level evaluations in recent
+years, and the diversity of models to adapt
+evaluations to very different programme
+contexts.
+
+-----------------------Page 20 End-----------------------
+
+Conducting
+
+an
+
+ICPE
+
+1 PREPARATION
+
+2 DATA-COLLECTION
+
+Consultation & communication
+within UNDP
+
+Desk
+review
+
+Preparation
+mission in country
+
+REPORT WRITING
+
+4
+
+Draft Report
+compiled, circulated
+for internal UNDP
+Review
+Regional
+Bureau
+
+Stakeholder Engagement
+presents revised draft
+to national stake holders to discuss
+results and way forward for
+UNDP country programme
+
+Interviews
+
+Terms of
+Reference
+
+ANALYSIS
+
+Country IEO
+Office
+
+Field-based data collection mission,
+including site visits
+
+Team composition
+orientation
+
+Portfolio analysis and
+selection of eligible ICPE countries
+
+3
+
+Government Development Partners Beneficiaries
+
+In-depth assessment
+and synthesis of data
+ICPE presented to
+the UNDP Executive
+Board with new
+Country Programme
+Document
+
+Identification of evidence-based
+findings, conclusions
+and recommendations
+
+5 PRODUCTION/DISSEMINATION
+Final Report
+copy-edited,
+designed and
+translated
+for publication
+
+Website
+Distribution
+
+Evaluation Resource Centre
+Social Media
+Hard Copies
+
+Country Offices
+Regional Bureaux/Hubs
+UNDP Executive Group
+
+UN Missions
+National Stakeholders
+Evaluation Team
+
+Management
+Response finalized by UNDP with
+follow-up actions
+tracked on the Evaluation Resource Centre
+
+6 FOLLOW-UP
+Annual Report on Evaluation 2016
+
+17
+
+-----------------------Page 21 End-----------------------
+
+chapter
+
+18
+
+3
+
+-----------------------Page 22 End-----------------------
+
+Advancing Evaluation Practices
+and Awareness
+On taking his oath of appointment as the United Nations SecretaryGeneral, Antonio Guterres underlined independent evaluation as a pillar of
+accountability in all United Nations agencies in working towards the SDGs.
+
+IEO Thematic Evaluations
+2012−2016
+IEO provided UNDP with
+90 recommendations.
+
+Members of the UNDP Executive Board have reiterated this importance
+and have participated actively in evaluation discussions, with 34 members
+asking detailed questions during three board sessions in 2016. The
+importance of evaluation is also reflected in UNDP’s increasing
+responsiveness to thematic and country level evaluations, ensuring that
+
+80 comprehensive management
+responses received.
+
+IEO ICPE Evaluations
+2012−2016
+
+programmes and strategies are adjusted in response to findings. Robust
+discussions with the IEO further strengthen the transparency and learning
+culture of the organization.
+
+From 2012 to 2016, the IEO provided UNDP
+with 90 thematic recommendations, which
+received 80 comprehensive management
+responses. The same high level of responsiveness was seen in ICPE recommendations.
+Since 2012, all 244 recommendations in 42
+ICPEs have received management responses
+
+from country offices and regional bureaux,
+with 482 key actions to be taken in response.
+The IEO in 2016 played an active part in
+generating and sharing knowledge on evaluation, including organization of more than
+20 webinars and brownbag lunches.
+
+IEO provided UNDP with 244
+recommendations in 42 ICPEs.
+
+All have received management responses
+from country offices and regional bureaux.
+
+482 key actions to be
+taken in response.
+
+Annual Report on Evaluation 2016
+
+19
+
+-----------------------Page 23 End-----------------------
+
+United Nations
+Secretary-General,
+Antonio Gutierres
+underlined independent
+evaluation as a pillar of
+accountability in all United
+Nations agencies in working
+towards the SDGs.
+
+The United Nations
+Evaluation Group
+The IEO continues to support and host
+the UNEG, a voluntary network of 47 units
+responsible for evaluation in the United
+Nations System, including funds, programmes, specialized agencies and affiliated
+organizations. In addition to the Director of
+the IEO serving as a vice-chair of the UNEG
+in 2016, the IEO hosts the UNEG secretariat.
+In 2016, the IEO’s financial contribution came
+to $299,965 for UNEG staffing, including
+20 percent of costs for an executive coordinator; 100 percent of costs for a programme
+specialist; contributions from an operations
+specialist, an IT specialist and other staff as
+well as operating costs.
+Between 2014 and 2016, as a UNEG vicechair, the Director of the IEO supported the
+strengthening of evaluation functions. Two
+20
+
+Annual Report on Evaluation 2016
+
+significant outputs included the updating of
+the UNEG Norms and Standards for Evaluation, which was previously developed in
+2005, and the UNEG Evaluation Competency
+Framework, which was originally published
+in 2008. The updated norms and standards
+reflect the broader membership of the UNEG,
+and respond to changing development and
+evaluation priorities. These include the 2030
+Agenda for Sustainable Development and
+the SDGs, and issues raised during the International Year of Evaluation in 2015 as well
+as the National Evaluation Capacity Conference. Institutional frameworks for evaluation
+are outlined, and standards defined for the
+management of the evaluation function,
+evaluation competencies, the conduct of
+evaluations and evaluation quality.
+In 2016, the Director of the IEO was again
+elected UNEG vice-chair, responsible for system-wide initiatives and emerging demands.
+Work areas include the role of evaluation in
+the 2030 Agenda, gender equality and human
+rights, humanitarian evaluation, culture
+and evaluation, and the Independent System-wide Evaluation, under which a strategy
+will be developed for UNEG engagement in
+the implementation of the 2030 Agenda.
+
+Global platforms to share
+evaluation expertise
+In 2016, the IEO expanded its efforts to promote knowledge sharing and partnership
+
+building with a significant focus on the evaluation of the SDGs and the need to address
+related challenges. Participating in several
+international discussions, the IEO contributed to exploring solutions to strengthen
+national evaluation capacities in general
+and the evaluation of the SDGs in particular.
+This included participation in the African
+Development Bank Evaluation Week, the
+Asian Evaluation Week, the European Evaluation Association Conference, international
+forums and national evaluation efforts, all
+of which forged connections across ideas,
+policy approaches and the delivery of practical results.
+The 2016 Asian Evaluation Week held in
+Xi’an, China, was the first such event held in
+Asia, allowing the exchange and synthesis of
+ideas on the latest and applied thinking on
+evaluation. The week was co-sponsored by
+the People’s Republic of China, Ministry of
+Finance; the Asia-Pacific Finance and Development Institute and the Asian Development
+Bank Independent Evaluation Department.
+It brought together 180 participants from 35
+countries, with significant participation of
+Asian government representatives.
+IEO engagement was part of a growing partnership with the Asian Development Bank
+Independent Evaluation Department, and
+also marks one of many steps bolstering
+UNDP’s commitment to national evaluation
+capacity development. The IEO led and participated in several sessions of the event,
+
+-----------------------Page 24 End-----------------------
+
+building on insights from the previous year’s
+Bangkok National Evaluation Conference as
+well as IEO evaluations in the Asia and the
+Pacific region (17 country programme evaluations and 3 recent thematic evaluations).
+The sessions delved into issues around evaluation for better programming and national
+SDG assessment. The IEO also delivered a
+presentation on big data and smart analytics.
+The African Development Bank Evaluation Week supported the strengthening of
+evidence-based knowledge-sharing, and
+brought together over 150 participants from
+government and intergovernmental agencies
+from across the continent. The IEO contributed to discussion on evaluation partnerships
+for the SDGs and the learning curve for
+independent evaluations. It shared insights
+on addressing challenges in evaluating the
+SDGs and the 2030 Agenda in development
+and post-conflict situations. In the Russian
+Federation, the IEO contributed to a technical
+workshop on inputs to a national monitoring
+and evaluation framework. The session was
+organized in Moscow by the World Bank and
+the Ministry of Finance.
+The IEO collaborated with several partners to
+host a high-level interactive event at Wilton
+Park in the United Kingdom on tracking development progress and evaluating development
+partnerships in the post-2015 era. The event
+
+brought together 68 development and evaluation experts, academics and decision makers
+from 21 countries. It provided a neutral space
+for debating issues, sharing knowledge,
+exploring methods and forging partnerships.
+IEO contributions to the discussions centred
+on achieving the SDGs for development.
+Continuing its engagement with the International Program for Development Evaluation
+Training, the IEO addressed issues on evaluation independence and credibility. Over 100
+participants, from government ministries,
+national commissions, non-governmental
+organizations, think tanks and international
+development agencies participated in this
+annual training programme.
+In cooperation with the UNEG, the United
+Nations Children’s Fund (UNICEF) and
+EVALSDGs, the IEO organized a side event
+at the UN High-level Political Forum in New
+York, focusing on evaluation and national
+SDG reporting. The session showcased the
+contribution of evaluation to inclusive and
+equitable development progress in line with
+the Agenda 2030 commitment to ensure that
+“no one is left behind.” It drew participants
+from a range of United Nations partners,
+civil society, governments and academia.
+The IEO also took part in a regional training
+workshop organized by UNDP and the United
+Nations Institute for Training and Research
+
+in Bangkok in October as well as the Forum
+International Francophone de l’Evaluation in
+Morocco in December.
+All IEO activities during the year were coordinated to boost momentum and discussion
+around evaluation, Agenda 2030 and the
+SDGs, in light of preparations for the next
+National Evaluation Capacity Conference,
+planned for the fourth quarter of 2017 in the
+region of Europe and the Commonwealth of
+Independent States (CIS).
+
+Communications
+and outreach
+In 2016, the IEO effectively reached target
+audiences, enhanced awareness of its work,
+and disseminated evaluations and other
+products through various communications
+channels. These included the Internet, social
+media, newsletters, the Evaluation Resource
+Centre and webinars. To reach new audiences, and encourage broader sharing and
+uptake of evaluations, the IEO developed
+a series of innovative communications
+products. Evaluation summaries, data visualizations and micro-videos drew attention by
+concisely and creatively repackaging findings
+and highlights. Analytics for social medial
+accounts and the IEO website indicated audience rates increased from 2015.
+
+Annual Report on Evaluation 2016
+
+21
+
+-----------------------Page 25 End-----------------------
+
+chapter
+
+22
+
+Annual Report on Evaluation 2016
+
+4
+
+-----------------------Page 26 End-----------------------
+
+Decentralized Evaluations
+Building decentralized
+evaluation capacities
+Further to provisions under the new Evaluation Policy, and as directed by the UNDP
+Executive Board, the IEO provides wideranging support to decentralized evaluations
+carried out by UNDP programme and policy
+units. This includes revising guidelines and
+trainings, holding regional training workshops, providing oversight by monitoring
+evaluation implementation against evaluations plans, and offering quality assessments
+of the plans.
+In response to Executive Board requests following a 2014 report outlining weakness and
+challenges in decentralized evaluations, the
+IEO has revitalized and expanded its activities
+as agreed in previous reports to the Board. In
+carrying out this work, and in keeping with
+agreed roles and responsibilities set out in
+the new Evaluation Policy, the IEO coordinates closely with UNDP.
+
+Regional capacity support for decentralized evaluation
+
+Evaluation
+policy
+Evaluation
+quality
+assessment
+
+Evaluation
+guidance
+
+STRENGTHENING
+DECENTRALIZED
+EVALUATION
+Evaluation
+Resource
+Centre
+
+Evaluation
+planning
+Evaluation
+implementation
+
+Annual Report on Evaluation 2016
+
+23
+
+-----------------------Page 27 End-----------------------
+
+The IEO is collaborating with UNDP regional
+bureaux on a series of regional workshops to
+encourage regional evaluation support staff
+and country office monitoring and evaluation
+(M&E) focal points to identify decentralized
+evaluation challenges, guidance requirements and training needs. The process also
+aims to clarify evaluation planning and implementation requirements.
+The first workshop, for the Arab States
+region, took place in late 2016 in Amman,
+Jordan, in conjunction with a regional bureau
+workshop supporting country programme
+document development and result-oriented
+annual reporting. The IEO assisted with the
+participation of 25 M&E focal points and staff
+from 18 country offices and seven regional
+staff. Aligning support to other activities in
+
+the region reduced costs and gave the IEO
+the opportunity to give input into the country
+programme document planning process,
+which should help ensure improved evaluation planning. Similar workshops, aligned
+with other forms of planning support, are
+slated for 2017 in Asia and the Pacific, and
+Europe and the CIS.
+The initial workshop in Amman found high
+capacity among country office evaluation
+focal points, yet they still requested support
+for decentralized evaluations. They noted
+that they continue to need guidance from the
+regional bureaux, with their work often being
+hindered by constrained budgets restricting
+the numbers of evaluations and a limited
+pool of independent evaluators.
+
+Decentralized evaluation
+planning and budgeting
+The total expenditure for the IEO and decentralized evaluations at the regional and
+country levels in 2016 was $19,854,524, which
+was 0.44 percent of UNDP’s core and non-core
+budget (approximate UNDP total expenditure
+was $4.48 billion). This comprised three kinds
+of evaluation expenditures. The IEO expenditure was $8,490,000, covering staffing and
+evaluation costs for ICPEs, thematic evaluations and capacity development activities,
+including decentralized evaluation support. Country offices disbursed $9,724,524
+on evaluation staffing and decentralized
+evaluations, 2 while regional bureaux spent
+$1,640,000 on staff and evaluations.3
+
+Total expenditure for evaluation in UNDP
+$1,640,000
+
+$9,724,524
+
+Regional bureaux
+& headquarters
+
+Country offices
+
+$8,490,000
+IEO
+
+24
+
+Annual Report on Evaluation 2016
+
+TOTAL
+$19,854,524
+
+-----------------------Page 28 End-----------------------
+
+Average decentralized budget costs vary
+considerably across regions. In Europe and
+the CIS, the average costs are $20,000, while
+in Asia and the Pacific, the average rises to
+$35,000. This is dictated by the number and
+types of evaluations. In general, the United
+Nations Development Assistance Framework (UNDAF) and outcome evaluations cost
+more than project evaluations, though again
+this varies across regions and is illustrative
+of different evaluation plans, numbers and
+strategies for evaluation implementation
+and use.
+
+Decentralized evaluation
+implementation
+In 2016, 256 evaluations were carried out
+in 101 UNDP country offices, along with 12
+regional evaluations. There were 204 project
+evaluations (110 of UNDP projects, 94 of
+UNDP/GEF projects), 31 UNDAF and other
+evaluations (such as of country programme
+documents), and 21 outcome evaluations.
+GEF terminal evaluations are mandatory and
+made up a considerable share of evaluations
+in 2016. A trend apparent in country office
+evaluation planning is an increasing focus
+on mandatory evaluations, which results in
+GEF terminal evaluations being overly represented in evaluation plans compared to other
+programme/project evaluations as well as
+outcome areas.
+
+Total budgets for decentralized evaluations by region, 2016 (in US$)
+
+Africa
+
+Arab States
+
+Asia and
+the Pacific
+
+Europe and
+the CIS
+
+Latin
+America
+and the
+Caribbean
+
+3,464,725
+
+415,565
+
+1,894,511
+
+827,662
+
+1,098,519
+
+7,700,982
+
+UNDP project evaluations
+
+1,259,100
+
+144,475
+
+574,856
+
+221,330
+
+453,234
+
+2,652,995
+
+UNDP/GEF evaluations
+
+1,025,816
+
+26,090
+
+713,155
+
+494,100
+
+436,285
+
+2,695,446
+
+Outcome evaluations
+
+382,250
+
+175,000
+
+115,000
+
+62,232
+
+125,000
+
+859,482
+
+UNDAF and
+other evaluations
+
+797,559
+
+70,000
+
+491,500
+
+50,000
+
+84,000
+
+1,493,059
+
+Total decentralized
+evaluation budget
+
+Total budget
+
+Source: Data from the Evaluation Resource Centre 2016
+
+Number and budgets of decentralized evaluations, 2013-2016
+2013
+Type of
+evaluation
+
+2014
+
+2015
+
+2016
+
+Number of
+evaluations
+
+Budget
+(US$)
+
+Number of
+evaluations
+
+Budget
+(US$)
+
+Number of
+evaluations
+
+Budget
+(US$)
+
+Number of
+evaluations
+
+Budget
+(US$)
+
+UNDP project
+evaluations
+
+194
+
+4,567,504
+
+124
+
+2,510,384
+
+101
+
+2,596,717
+
+110
+
+2,652,995
+
+UNDP/GEF
+evaluations
+
+128
+
+2,808,772
+
+106
+
+2,293,097
+
+104
+
+2,323,736
+
+94
+
+2,695,446
+
+Outcome
+evaluations
+
+45
+
+1,347,686
+
+27
+
+861,881
+
+38
+
+1,645,555
+
+21
+
+859,482
+
+UNDAF
+and other
+evaluations
+
+20
+
+816,523
+
+35
+
+1,118,538
+
+23
+
+957,000
+
+31
+
+1,493,059
+
+387
+
+9,540,485
+
+292
+
+6,785,400
+
+266
+
+8,073,462
+
+256
+
+7,700,982
+
+Totals
+
+Source: Data from the Evaluation Resource Centre as of 31 January 2017
+
+Annual Report on Evaluation 2016
+
+25
+
+-----------------------Page 29 End-----------------------
+
+Total number of country office evaluations by region, 2016
+The number of decentralized evaluations at
+the country office level is declining, with the
+total number falling by 34 percent between
+2013 and 2016 4 (387 evaluations to 256). The
+largest decline has been in project evaluations
+(a 48 percent decline) and outcome evaluations (a 54 percent decline). The number of
+UNDAF and other evaluations has increased
+by 55 percent. These patterns accompany a
+decline in decentralized evaluation budgets
+from $9.5 million in 2013 to $7.7 million in
+2016,5 a reduction of 19 percent.
+UNDP regional and policy bureaux conducted
+12 evaluations in 2016, nine of which received
+management responses. The Bureau for
+Policy and Programme Support completed
+four project evaluations, two of which were
+global UNDP-GEF evaluations. The remaining
+eight evaluations were carried out by the
+Regional Bureau for Europe and the CIS
+(four), the Regional Bureau for Latin America
+and the Caribbean (two), the Regional Bureau
+for Africa (one) and the Regional Bureau for
+Asia and the Pacific (one).
+
+26
+
+Annual Report on Evaluation 2016
+
+AFRICA
+
+ARAB STATES
+
+ASIA AND
+THE PACIFIC
+
+EUROPE
+AND THE CIS
+
+LATIN
+AMERICA
+AND THE
+CARIBBEAN
+
+Number of country offices
+
+48
+
+18
+
+24
+
+22
+
+26
+
+UNDP project evaluations
+
+41
+
+11
+
+19
+
+16
+
+23
+
+UNDP/GEF evaluations
+
+34
+
+2
+
+23
+
+20
+
+15
+
+Outcome evaluations
+
+9
+
+2
+
+3
+
+3
+
+4
+
+UNDAF and other evaluations
+
+17
+
+1
+
+9
+
+1
+
+3
+
+Number of country offices
+undertaking evaluations
+
+38
+
+9
+
+19
+
+17
+
+18
+
+All regions: 138 country offices
+
+TOTALS
+
+UNDP project evaluations
+
+110
+
+UNDP/GEF evaluations
+
+94
+
+Outcome evaluations
+
+21
+
+UNDAF and other evaluations
+
+31
+
+Number of country offices
+undertaking evaluations
+
+101
+
+-----------------------Page 30 End-----------------------
+
+Assessing the quality of
+decentralized evaluations
+
+All evaluations included in country office
+evaluation plans are mandatory, and require
+a management response and key actions
+in response to recommendations. Of the
+256 evaluations completed in 2016, 98 percent (251 evaluations) had a management
+response. Actual follow-up on key actions
+remains low, however, and often delayed,
+with only 46 percent of key actions between
+2013 and 2016 being completed.
+
+After a two-year pause, the IEO restarted
+a revised quality assessment process of
+decentralized evaluations covering all 2016
+outcome and project/programme evaluations
+(170) and a sample of 2015 evaluations (85).
+Through the Evaluation Resource Centre, the
+process gives immediate feedback on quality
+to regional bureaux and country offices.
+
+Summary of the quality assessment of decentralized evaluations, 2016 (%)
+Highly
+satisfactory
+
+Satisfactory
+
+Moderately
+satisfactory
+
+Moderately
+unsatisfactory
+
+Unsatisfactory
+
+Highly
+unsatisfactory
+
+UNDP
+project
+evaluations
+
+0
+
+27
+
+45
+
+23
+
+4
+
+1
+
+UNDP/GEF
+terminal
+evaluations
+
+0
+
+30
+
+55
+
+15
+
+0
+
+0
+
+The number of
+decentralized
+evaluations at the
+country office level is
+declining, with the total
+number falling by 34%
+between 2013 and 2016.
+
+The process rates evaluations based on four
+areas: the quality of the terms of reference;
+the methodology, use of data and structure;
+consideration of cross-cutting issues, such
+as gender, human rights and minority concerns; and the quality and utility of findings,
+conclusions and recommendations.
+Of the 255 evaluations assessed in 2016,
+75 percent were found satisfactory or
+moderately satisfactory, in that they followed minimum criteria in the Handbook
+on Planning, Monitoring and Evaluating for
+Development Results. The rest, 25 percent,
+were found to be less than satisfactory (moderately unsatisfactory or unsatisfactory or
+
+Annual Report on Evaluation 2016
+
+27
+
+-----------------------Page 31 End-----------------------
+
+below). In general, GEF terminal evaluations
+were better in quality, which reflects detailed
+mandatory requirements for these evaluations that are often quite rigid and offer
+little interpretation. UNDP guidelines give
+country offices more freedom in evaluation
+implementation, reflecting the variety of different programmes, outcomes and types of
+evaluation.
+The IEO provides oversight of country evaluation plans aligned with country programme
+documents, to ensure compliance. In 2016,
+
+29 country programme documents ended;
+of these, 19 plans, or 66 percent, were fully
+compliant with their evaluation plans (90
+percent to 100 percent of all planned evaluations were completed). Eight plans, or 28
+percent, were partially compliant (40 percent
+to 89 percent of planned evaluations were
+completed). Two plans, or 6 percent, were
+non-compliant, with less than 39 percent of
+evaluations completed.
+
+The Evaluation
+Resource Centre
+In 2016, the IEO conducted a major overhaul
+of the Evaluation Resource Centre,6 making it
+more useful for country offices. The Centre
+now provides access to over 3,500 evaluations and terms of reference for a wide
+variety of types of evaluations. A detailed
+roster of evaluation experts covering a range
+of sectors is updated on an ongoing basis.
+
+Summary of compliance with country office evaluation plans
+for country programme documents ending in 2016
+3
+3
+5
+3
+5
+
+4
+0
+1
+0
+3
+
+1
+1
+0
+0
+0
+
+TOTAL
+
+TOTAL
+
+TOTAL
+
+(66%)
+
+(28%)
+
+(6%)
+
+Number of compliant country programmes
+(completed 90-100% of planned evaluations)
+
+Number of partially compliant country programmes
+(completed 40-89% of planned evaluations)
+
+Number of non-compliant country programmes
+(completed 0-39% of planned evaluations)
+
+19
+
+Africa
+
+Arab States
+
+8
+
+Asia and the Pacific
+
+Europe and the CIS
+
+2
+
+Latin America and the Caribbean
+Source: Evaluation Resource Centre
+
+28
+
+Annual Report on Evaluation 2016
+
+-----------------------Page 32 End-----------------------
+
+chapter
+
+5
+
+29
+
+-----------------------Page 33 End-----------------------
+
+Finances and Staffing
+Financing
+In 2016, the IEO disbursed $8.49 million for
+evaluations and other institutional activities;
+$8.06 million came from core resources.
+This represented an overspend of nearly
+$600,000, which was possible due to a budget
+override on IEO staff costs. The Australian
+and Norwegian governments and the Swiss
+Development Cooperation Agency provided
+$430,000 to support the strengthening of
+decentralized evaluation, among other aims.
+The 2016 budget for the IEO represents only
+0.172 percent of overall UNDP core and noncore funds.
+
+Staffing
+As of January 2017, the IEO had 23 staff posts,
+17 international professionals and 6 general
+service staff. Women made up 56 percent of
+professional staff.
+The IEO’s current professional staff is
+extremely strong, representing 11 countries
+and speaking over 15 languages. Staff members have an expansive range of evaluation
+experiences, education and membership in
+professional evaluation organizations across
+the globe. They have worked with a wide
+range of multilateral agencies, both within
+and outside of the United Nations, including
+30
+
+Annual Report on Evaluation 2016
+
+the Asian Development Bank, African Development Bank, UNICEF, the United Nations
+Office on Drugs and Crime, the International
+Atomic Energy Agency, the United Nations
+Fund for Population Activities, the World
+Bank, the International Fund for Agricultural
+Development, the Organisation for Economic
+Co-operation and Development and a wide
+range of bilateral agencies.
+A request has been made for a moderate
+expansion in staff, which includes seven
+additional P3, P2 and General service level
+positions to further strengthen the office
+and its strategic goals. The proposed new
+posts will enable formation of three main
+substantive IEO teams or clusters (plus the
+Directorate and operations team), corresponding to internal committee structures
+developed over the last year. Clusters would
+be oriented around independent country
+programme evaluation, headquarters/corporate evaluations, and evaluation capacity
+development, including quality assurance for
+decentralized evaluation. As the office moves
+towards conducting a greater number of
+ICPEs, enhancing decentralized support and
+providing a revised set of corporate reports
+in response to demands from the UNDP
+Executive Board, increased resources will
+be essential to maintain quality, statistical
+analysis functions, and communication and
+information management structures.
+
+DIRECTORATE
+(Director, Deputy Director, assistants)
+
+Directorate
+Support Functions
+Operations (finance and
+human resources), ICT,
+communications, internal
+quality assurance
+
+Independent
+Country Programme
+Evaluation Team
+Headquarters/
+Corporate Evaluation
+Team
+Evaluation Capacity
+Development Team
+
+-----------------------Page 34 End-----------------------
+
+chapter
+
+6
+
+31
+
+-----------------------Page 35 End-----------------------
+
+Engagement with the
+United Nations Capital Development Fund
+and the United Nations Volunteers
+The IEO increased its level of support to both the United Nations
+Capital Development Fund (UNCDF) and the United Nations Volunteers
+(UNV) during 2016 and will further expand its work in 2017.
+
+32
+
+Both UNCDF and UNV evaluations are now subject to the same quality assessment process as
+UNDP evaluations, and the IEO will report findings from 2017 to the UNDP Executive Board.
+During 2017, the IEO will back the development
+of new strategic plans and frameworks in both
+organizations, ensuring an independent perspective to support future directions.
+
+the global CleanStart programme promoting
+increased financing and market development
+for clean and affordable energy solutions for
+low-income households and microentrepreneurs in Cambodia, Ethiopia, Myanmar, Nepal
+and Uganda. Total expenditure on evaluation
+in 2016 was approximately $355,346, drawn
+from core and non-core resources.
+
+UNCDF completed two external mid-term and
+final project evaluations in 2016: the first on a
+project targeting local economic development
+and improved food security in Niger, and the
+second on a project supporting the development of inclusive finance in Lao People’s
+Democratic Republic. Two mid-term, multicountry programme evaluations began. The
+first is assessing the global Local Finance Initiative, which introduces new approaches to ‘last
+mile’ infrastructure finance by the public and
+private sectors in Benin, Uganda and the United
+Republic of Tanzania. The second involves
+
+With preparations for the UNCDF 2018-2021
+Strategic Framework well underway, an
+important additional focus of the UNCDF
+Evaluation Unit’s work in 2017 will be to provide evaluative inputs into the design of the
+framework and its accompanying integrated
+
+Annual Report on Evaluation 2016
+
+results and resources matrix. Two external
+reviews will support this exercise. The first
+will gauge the quality and appropriateness of
+UNCDF’s results measurement systems since
+2014, and the second will synthesize the main
+results from eight independent evaluations
+commissioned by UNCDF since 2014.
+The UNV budget for evaluation in 2016 was
+approximately $259,000, drawn from core
+and non-core resources, including Special
+Voluntary Funds. This included the cost of
+one project evaluation, the first deliverables of a corporate level strategic framework
+evaluation and the staffing costs of one
+evaluation specialist. UNV has continued to
+provide technical support and quality assurance to decentralized project evaluations,
+completing the final evaluation of the UN
+Volunteers Asia Youth Volunteer Exchange
+Programme in the United Republic of Tanzania and Zambia.
+In 2016, UNV began developing increased
+evaluation capacity. Following the recruitment of the evaluation specialist, a two-phase
+transitional evaluation plan was developed.
+The first phase will address immediate information needs, namely through evaluations
+of the UNV Strategic Framework 2014-2017,
+and UNV work to support gender equality
+and women’s empowerment. The second
+phase will strengthen the evaluation function
+through a systematic evaluation work-planning process, and update guidance and
+support for decentralized evaluations.
+
+-----------------------Page 36 End-----------------------
+
+chapter
+
+7
+
+33
+
+-----------------------Page 37 End-----------------------
+
+Looking Forward: Plans for 2017
+Thematic evaluations
+In 2017, the IEO will complete its evaluation
+of the UNDP Strategic Plan 2014-2017, which
+will be finalized in time for consideration by
+the drafters of the Strategic Plan 2018-2021.
+The IEO will also deliver new overviews of
+core dimensions of evaluation to the UNDP
+Executive Board, including on:
+
+2017
+Executive Board session
+
+Jan
+
+Annual Report on Evaluation
+
+Jun
+
+2018
+Sep
+
+Jan
+
+X
+
+Medium-term Evaluation Plan
+
+Sep
+
+Jan
+
+X
+
+Thematic evaluations
+
+TBD*
+
+• Anti-corruption
+
+X
+
+• Disability-inclusive development
+
+X
+
+b.	 Evaluation capacity development
+
+• Institutional effectiveness
+
+Jun
+
+Sep
+
+X
+
+TBD
+
+TBD
+
+TBD
+
+X
+
+• Strategic Plan
+
+X
+
+Synthesis of independent
+country evaluations
+
+X
+
+d.	 The status of implementation of
+IEO recommendations
+
+Evaluation capacity development
+
+X
+
+Status of implementation
+of IEO recommendations
+
+X
+
+Reporting will be in line with a biennial staggering of IEO programme reporting to the
+Executive Board. Plans for the 2017 Board
+session and preliminary plans for 2018
+and 2019, subject to more detailed review,
+include proposals for thematic evaluation
+topics in the multiyear evaluation plan. For
+more details on future plans, pending a final
+decision by the Executive Board, the IEO has
+proposed a Medium-term Evaluation Plan for
+the 2018-2021 cycle.
+
+Quality assessment of
+decentralized evaluation
+
+Annual Report on Evaluation 2016
+
+Jun
+
+2019
+
+X
+
+a.	 Independent country level evaluations
+
+c.	 Quality assessment of
+decentralized evaluations
+
+34
+
+Cycle of reporting to the Executive Board
+
+X
+
+X
+
+X
+
+X
+
+*To be determined (TBD)
+
+Status of implementation
+of IEO recommendations
+In 2017, the IEO proposes to establish a mechanism to systematically track, assess and
+report on the implementation status of all
+
+IEO evaluation recommendations, including
+country programme evaluations, regional
+and global evaluations, and thematic evaluations. The purpose is to further strengthen
+and contribute to UNDP accountability by
+ensuring full follow-up.
+
+-----------------------Page 38 End-----------------------
+
+The tracking system will have the following
+objectives:
+•	 To systematically collect and record the
+content of all management responses,
+including the description of recommendations, proposed actions, due dates and
+the status of follow-up activities until the
+completion of the actions; and
+•	 To serve as the database for regular
+reporting to UNDP and its Executive Board
+on the status of implementation of all recommendations issued by the IEO.
+UNDP’s practice of requiring management responses began in 2006. The IEO
+tracking system will capture all management
+responses since that point.
+
+Future independent
+country programme
+evaluations
+Eight new ICPEs will take place in 2017—in
+Chile, Cuba, Kuwait, Namibia, the Philippines,
+Republic of Congo, Rwanda and Togo. Two
+ADRs that started in 2016 will be finalized.
+In 2018, the IEO plans to undertake up to 14
+ICPEs, supporting 88 percent of countries
+submitting country programme documents
+
+ADR/ICPE COVERAGE FROM 2012 TO 2020
+ICPE coverage of country programmes submitted to the UNDP Executive Board, 2012-2020
+
+Year
+
+Country programme
+documents covered by
+ICPEs*
+
+Country programme
+documents going to the
+Executive Board
+
+ICPE coverage, %
+
+2012
+
+11
+
+26
+
+42
+
+2013
+
+2
+
+13
+
+15
+
+2014
+
+7
+
+12
+
+58
+
+2015
+
+3
+
+29
+
+10
+
+2016
+
+8
+
+36
+
+22
+
+2017
+
+10
+
+43
+
+23
+
+2018
+
+14
+
+16
+
+88
+
+2019
+
+12
+
+12
+
+100
+
+2020
+
+28
+
+28
+
+100
+
+*Number of ICPEs for 2018-2020 are projected numbers for full coverage by 2019.
+
+to the UNDP Executive Board. Future years
+may see considerably higher numbers of
+country programme documents going to the
+Board, requiring supporting ICPEs. While by
+2019-2020 the IEO should be able to start evaluating 100 percent of the submissions, this
+will require a range of approaches, including
+some regional clustering. A major factor in
+achieving expanded coverage is ensuring the
+IEO has the resources to evaluate over twice
+the number of country programmes per year.
+
+Decentralized evaluation
+assessment and support
+Following the IEO’s renewed commitment to
+decentralized evaluation and directions from
+the UNDP Executive Board, the IEO will continue closely engaging with UNDP regional
+bureaux in strengthening the process. This
+includes:
+•	 Regional workshops in Asia and the Pacific
+(May 2017), Africa (June 2017), Europe
+and the CIS, and Latin America and the
+
+Annual Report on Evaluation 2016
+
+35
+
+-----------------------Page 39 End-----------------------
+
+Caribbean (July to October 2017) that
+support evaluation planning for country
+programme document cycles, implementation of evaluations, and the management
+and use of evaluations.
+•	 Operation of the Evaluation Resource
+Centre and regular reporting to the Executive Board and UNDP on the quality of
+evaluations, management responses and
+key follow-up actions.
+•	 Monitoring and evaluation guideline
+revision with improved online and face-toface training opportunities for M&E focal
+points at all levels as well as programme
+staff.
+•	 Oversight of regional and country office
+evaluation plans as well as the development of guidelines for evaluation planning.
+•	 Continued quality assessment of decentralized evaluations; improved reporting,
+feedback to and oversight of regional and
+country offices; and targeted support to
+offices facing challenges.
+•	 Strengthened support to UNCDF and UNV,
+including a review role for the evaluation
+of their forthcoming strategic frameworks
+as well as the inclusion of their decentralized evaluations in the quality assessment
+process.
+36
+
+Annual Report on Evaluation 2016
+
+National evaluation
+capacity
+During the fourth quarter of 2017, the IEO will
+hold the fifth National Evaluation Capacity
+Conference in Europe and the CIS, following
+similar conferences in Bangkok (2015), São
+Paulo (2013), Johannesburg (2011) and Casablanca (2009). An expected 300 or more
+participants from more than 100 countries,
+United Nations agencies and international
+organizations will come together to outline
+how evaluation can be better enhanced at
+the national level and integrated into development policies.
+While the conference will be a flagship
+capacity development initiative for the IEO
+during 2017, the office will also provide more
+limited support through select initiatives,
+including the global Evalpartners forum and
+regional evaluation conferences (African
+Evaluation Association and Asia Evaluation
+Week). The office will develop and pilot a
+diagnostic guide on assessment of national
+evaluation capacity needs for the SDG era.
+
+Costed programme
+of work in 2017
+As part of the IEO’s integrated work plan,
+it has requested an allocation of $10.2 million for 2017, with $9.2 million to address
+
+mandated core independent evaluation
+work, and $1 million in additional funding for
+planned direct support of decentralized evaluations as well as increased coverage of UNV
+and UNCDF evaluations.
+During the current multiyear evaluation plan,
+the IEO significantly changed the ‘model’ of
+its work from one in which evaluations were
+led by external consultants to one in which
+IEO staff play key lead evaluator roles. This
+change has heightened the overall quality of
+IEO evaluations, yet added considerably to
+the workload for IEO staff.
+To deliver on the IEO’s approved costed programme of work for 2017, the implementation
+of its proposed schedule of reporting, its role
+in support of decentralized evaluation and
+national evaluation capacity development
+together with its proposed expansion of ICPE
+coverage, the office is currently seeking a
+moderate expansion of staff posts. An additional seven posts would comprise two at the
+General Service level and five at the P3 and
+P2 levels. These will strengthen the current
+committee structure—independent country
+programme evaluation, headquarters/corporate evaluations, and evaluation capacity
+development, including quality assurance for
+decentralized evaluation.
+
+-----------------------Page 40 End-----------------------
+
+annexes
+ANNEX 1. 	SNAPSHOT OF IMPLEMENTATION, BUDGETS AND QUALITY,
+2013 TO 2016
+		
+
+Global snapshot of decentralized evaluation
+
+Quality assessment
+of decentralized evaluations, 2016
+
+Number of evaluations, 2016
+2013
+
+2014
+
+2015
+
+2016
+
+Total number of evaluations
+
+387
+
+292
+
+266
+
+256
+
+UNDP project evaluations
+
+194
+
+124
+
+101
+
+110
+
+UNDP/GEF evaluations
+
+128
+
+106
+
+104
+
+94
+
+Outcome evaluations
+
+45
+
+27
+
+38
+
+21
+
+UNDAF and other evaluations
+
+20
+
+35
+
+23
+
+31
+
+Average budget
+2016, $
+
+Evaluation budgets, 2013 to 2016
+2013, $
+
+2014, $
+
+2015, $
+
+2016, $
+
+Total evaluation budget
+
+9,540,485
+
+6,785,400
+
+8,073,462
+
+7,700,982
+
+28,093
+
+UNDP project evaluations
+
+4,567,504
+
+2,510,384
+
+2,596,717
+
+2,652,995
+
+21,528
+
+UNDP/GEF evaluations
+
+2,808,772
+
+2,293,097
+
+2,323,736
+
+2,695,446
+
+25,603
+
+Outcome evaluations
+
+1,347,686
+
+861,881
+
+1,645,555
+
+859,482
+
+44,060
+
+816,523
+
+1,118,538
+
+957,000
+
+1,493,059
+
+49,905
+
+UNDAF and
+other evaluations
+
+2016 UNDP project and UNDP/GEF evaluations—
+total for regional bureaux and headquarters
+HS: 0
+S: 46
+MS: 80
+MU: 37
+U: 6
+HU: 1
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+170
+
+Annual Report on Evaluation 2016
+
+37
+
+-----------------------Page 41 End-----------------------
+
+annexes
+Africa snapshot of decentralized evaluation in 2016
+Number of evaluations, 2016
+Regional share
+of global total in
+2016, %
+
+2013
+
+2014
+
+2015
+
+2016
+
+Global number of
+evaluations, 2016
+
+123
+
+96
+
+76
+
+101
+
+256
+
+39.45
+
+UNDP project evaluations
+
+71
+
+38
+
+24
+
+41
+
+110
+
+37.27
+
+UNDP/GEF evaluations
+
+27
+
+28
+
+24
+
+34
+
+94
+
+36.17
+
+Outcome evaluations
+
+18
+
+11
+
+19
+
+9
+
+21
+
+42.86
+
+7
+
+19
+
+9
+
+17
+
+31
+
+54.84
+
+Total number of evaluations
+
+UNDAF and
+other evaluations
+
+Evaluation budgets, 2013 to 2016
+
+38
+
+Regional
+share of
+global budget
+in 2016, %
+
+Average
+budget in
+the region
+in 2016, $
+
+2013, $
+
+2014, $
+
+2015, $
+
+2016, $
+
+Global
+budget in
+2016, $
+
+Total evaluation budget
+
+3,859,279
+
+2,667,982
+
+2,970,091
+
+3,464,725
+
+7,700,982
+
+44.99
+
+34,304
+
+UNDP project evaluations
+
+2,058,495
+
+956,256
+
+903,948
+
+1,259,100
+
+2,652,995
+
+47.46
+
+30,710
+
+UNDP/GEF evaluations
+
+664,398
+
+729,989
+
+696,073
+
+1,025,816
+
+2,695,446
+
+38.06
+
+30,171
+
+Outcome evaluations
+
+553,386
+
+339,782
+
+805,070
+
+382,250
+
+859,482
+
+44.47
+
+42,472
+
+UNDAF and
+other evaluations
+
+583,000
+
+640,455
+
+565,000
+
+797,559
+
+1,493,059
+
+53.42
+
+46,915
+
+Annual Report on Evaluation 2016
+
+Quality assessment
+of decentralized evaluations, 2016
+2016 UNDP project and UNDP/GEF evaluations
+HS: 0
+S: 14
+MS: 35
+MU: 5
+U: 5
+HU: 1
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+60
+
+Number of evaluations over years: 170
+Regional share of global total: 35.29%
+
+-----------------------Page 42 End-----------------------
+
+annexes
+Arab States snapshot of decentralized evaluations in 2016
+Number of evaluations, 2016
+Regional share
+of global total in
+2016, %
+
+2013
+
+2014
+
+2015
+
+2016
+
+Global number of
+evaluations, 2016
+
+Total number of evaluations
+
+36
+
+33
+
+32
+
+16
+
+256
+
+6.25
+
+UNDP project evaluations
+
+19
+
+19
+
+14
+
+11
+
+110
+
+10.00
+
+UNDP/GEF evaluations
+
+11
+
+11
+
+12
+
+2
+
+94
+
+2.13
+
+Outcome evaluations
+
+4
+
+1
+
+4
+
+2
+
+21
+
+9.52
+
+UNDAF and
+other evaluations
+
+2
+
+2
+
+2
+
+1
+
+31
+
+3.23
+
+Evaluation budgets, 2013 to 2016
+
+2016, $
+
+Regional
+share of
+global budget
+in 2016, %
+
+Average
+budget in
+the region
+in 2016, $
+
+2013, $
+
+2014, $
+
+1,044,185
+
+822,928
+
+766,166
+
+415,565
+
+7,700,982
+
+5.40
+
+25,973
+
+UNDP project evaluations
+
+617,185
+
+561,019
+
+215,712
+
+144,475
+
+2,652,995
+
+5.45
+
+13,134
+
+UNDP/GEF evaluations
+
+227,000
+
+216,709
+
+295,454
+
+26,090
+
+2,695,446
+
+0.97
+
+13,045
+
+Outcome evaluations
+
+185,000
+
+18,000
+
+75,000
+
+175,000
+
+859,482
+
+20.36
+
+87,500
+
+15,000
+
+27,200
+
+180,000
+
+70,000
+
+1,493,059
+
+4.69
+
+70,000
+
+Total evaluation budget
+
+UNDAF and
+other evaluations
+
+2015, $
+
+Global
+budget in
+2016, $
+
+Quality assessment
+of decentralized evaluations, 2016
+2016 UNDP project and UNDP/GEF evaluations
+HS: 0
+S: 3
+MS: 3
+MU: 8
+U: 0
+HU: 0
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+14
+
+Number of evaluations over years: 170
+Regional share of global total: 8.24%
+
+Annual Report on Evaluation 2016
+
+39
+
+-----------------------Page 43 End-----------------------
+
+annexes
+Asia and the Pacific snapshot of decentralized evaluations in 2016
+Number of evaluations, 2016
+Regional share
+of global total in
+2016, %
+
+2013
+
+2014
+
+2015
+
+2016
+
+Global number of
+evaluations, 2016
+
+Total number of evaluations
+
+79
+
+60
+
+63
+
+54
+
+256
+
+21.09
+
+UNDP project evaluations
+
+37
+
+29
+
+27
+
+19
+
+110
+
+17.27
+
+UNDP/GEF evaluations
+
+35
+
+25
+
+28
+
+23
+
+94
+
+24.47
+
+Outcome evaluations
+
+6
+
+2
+
+5
+
+3
+
+21
+
+14.29
+
+UNDAF and
+other evaluations
+
+1
+
+4
+
+3
+
+9
+
+31
+
+29.03
+
+Evaluation budgets, 2013 to 2016
+Average
+budget in
+the region
+in 2016, $
+
+2013, $
+
+2014, $
+
+2015, $
+
+2016, $
+
+2,246,305
+
+2,038,193
+
+2,127,818
+
+1,894,511
+
+7,700,982
+
+24.60
+
+35,084
+
+UNDP project evaluations
+
+920,906
+
+982,773
+
+741,354
+
+574,856
+
+2,652,995
+
+21.67
+
+30,256
+
+UNDP/GEF evaluations
+
+948,399
+
+752,420
+
+765,879
+
+713,155
+
+2,695,446
+
+26.46
+
+31,007
+
+Outcome evaluations
+
+327,000
+
+135,000
+
+468,585
+
+115,000
+
+859,482
+
+13.38
+
+38,333
+
+50,000
+
+168,000
+
+152,000
+
+491,500
+
+1,493,059
+
+32.92
+
+54,611
+
+Total evaluation budget
+
+UNDAF and
+other evaluations
+
+40
+
+Regional
+share of
+global budget
+in 2016, %
+
+Global
+budget in
+2016, $
+
+Annual Report on Evaluation 2016
+
+Quality assessment
+of decentralized evaluations, 2016
+2016 UNDP project and UNDP/GEF evaluations
+HS: 0
+S: 10
+MS: 17
+MU: 4
+U: 0
+HU: 0
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+31
+
+Number of evaluations over years: 170
+Regional share of global total: 18.24%
+
+-----------------------Page 44 End-----------------------
+
+annexes
+Europe and the CIS snapshot of decentralized evaluations in 2016
+Number of evaluations, 2016
+Regional share
+of global total in
+2016, %
+
+2013
+
+2014
+
+2015
+
+2016
+
+Global number of
+evaluations, 2016
+
+Total number of evaluations
+
+67
+
+45
+
+45
+
+40
+
+256
+
+15.63
+
+UNDP project evaluations
+
+29
+
+19
+
+17
+
+16
+
+110
+
+14.55
+
+UNDP/GEF evaluations
+
+27
+
+16
+
+16
+
+20
+
+94
+
+21.28
+
+Outcome evaluations
+
+8
+
+6
+
+9
+
+3
+
+21
+
+14.29
+
+UNDAF and
+other evaluations
+
+3
+
+4
+
+3
+
+1
+
+31
+
+3.23
+
+Evaluation budgets, 2013 to 2016
+
+2013, $
+Total evaluation budget
+
+2014, $
+
+2015, $
+
+2016, $
+
+Global
+budget in
+2016, $
+
+Regional
+share of
+global budget
+in 2016, %
+
+Average
+budget in
+the region
+in 2016, $
+
+1,342,950
+
+746,510
+
+957,120
+
+827,662
+
+7,700,982
+
+10.75
+
+20,692
+
+UNDP project evaluations
+
+571,411
+
+268,400
+
+284,977
+
+221,330
+
+2,652,995
+
+8.34
+
+13,833
+
+UNDP/GEF evaluations
+
+533,003
+
+275,607
+
+350,243
+
+494,100
+
+2,695,446
+
+18.33
+
+24,705
+
+Outcome evaluations
+
+205,300
+
+128,801
+
+221,900
+
+62,232
+
+859,482
+
+7.24
+
+20,744
+
+33,236
+
+73,702
+
+100,000
+
+50,000
+
+1,493,059
+
+3.35%
+
+50,000
+
+UNDAF and
+other evaluations
+
+Quality assessment
+of decentralized evaluations, 2016
+2016 UNDP project and UNDP/GEF evaluations
+HS: 0
+S: 12
+MS: 8
+MU: 10
+U: 0
+HU: 0
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+30
+
+Number of evaluations over years: 170
+Regional share of global total: 17.65%
+
+Annual Report on Evaluation 2016
+
+41
+
+-----------------------Page 45 End-----------------------
+
+annexes
+Latin America and the Caribbean snapshot of decentralized evaluations in 2016
+Number of evaluations, 2016
+Regional share
+of global total in
+2016, %
+
+2013
+
+2014
+
+2015
+
+2016
+
+Global number of
+evaluations, 2016
+
+Total number of evaluations
+
+82
+
+58
+
+50
+
+45
+
+256
+
+17.58
+
+UNDP project evaluations
+
+38
+
+19
+
+19
+
+23
+
+110
+
+20.91
+
+UNDP/GEF
+
+28
+
+26
+
+24
+
+15
+
+94
+
+15.96
+
+Outcome evaluations
+
+9
+
+7
+
+1
+
+4
+
+21
+
+19.05
+
+UNDAF and
+other evaluations
+
+7
+
+6
+
+6
+
+3
+
+31
+
+9.68
+
+Evaluation budgets, 2013 to 2016
+
+42
+
+Regional
+share of
+global budget
+in 2016, %
+
+Average
+budget in
+the region
+in 2016, $
+
+2013, $
+
+2014, $
+
+2015, $
+
+2016, $
+
+Global
+budget in
+2016, $
+
+Total evaluation budget
+
+2,091,951
+
+1,332,715
+
+1,252,267
+
+1,098,519
+
+7,700,982
+
+14.26
+
+24,412
+
+UNDP project evaluations
+
+1,016,692
+
+302,955
+
+450,726
+
+453,234
+
+2,652,995
+
+17.08
+
+19,706
+
+UNDP/GEF evaluations
+
+662,972
+
+535,081
+
+511,541
+
+436,285
+
+2,695,446
+
+16.19
+
+29,086
+
+Outcome evaluations
+
+262,000
+
+258,298
+
+150,000
+
+125,000
+
+859,482
+
+14.54
+
+31,250
+
+UNDAF and
+other evaluations
+
+150,287
+
+236,381
+
+140,000
+
+84,000
+
+1,493,059
+
+5.63
+
+28,000
+
+Annual Report on Evaluation 2016
+
+Quality assessment
+of decentralized evaluations, 2016
+2016 UNDP project and UNDP/GEF evaluations
+HS: 0
+S: 7
+MS: 15
+MU: 10
+U: 1
+HU: 0
+
+Total number
+of evaluations
+(UNDP project
+and UNDP/GEF)
+
+33
+
+Number of evaluations over years: 170
+Regional share of global total: 19.41%
+
+-----------------------Page 46 End-----------------------
+
+annexes
+
+ANNEX 2. 	GLOBAL MONITORING AND EVALUATION CAPACITY,
+2013 TO 2016
+UNDP global
+2016
+
+2015
+
+2014
+
+2013
+
+136
+
+136
+
+136
+
+137
+
+Share of countries with M&E capacity, %
+
+56
+
+52
+
+60
+
+45
+
+Number of M&E specialists
+
+76
+
+83
+
+105
+
+71
+
+Number of regional M&E specialists
+
+12
+
+13
+
+14
+
+11
+
+Number of country offices
+
+Annual Report on Evaluation 2016
+
+43
+
+-----------------------Page 47 End-----------------------
+
+annexes
+
+ANNEX 3. 	REGIONAL MONITORING AND EVALUATION CAPACITY,
+2013 TO 2016
+
+Africa
+
+Asia and the Pacific
+
+Latin America
+and the Caribbean
+
+Europe and the CIS
+
+2016
+
+2015
+
+2014
+
+2013
+
+2016
+
+2015
+
+2014
+
+2013
+
+2016
+
+2015
+
+2014
+
+2013
+
+2016
+
+2015
+
+2014
+
+2013
+
+2016
+
+2015
+
+2014
+
+2013
+
+Number of
+country offices
+
+46
+
+46
+
+46
+
+46
+
+18
+
+18
+
+18
+
+18
+
+24
+
+24
+
+24
+
+24
+
+22
+
+22
+
+22
+
+23
+
+26
+
+26
+
+26
+
+26
+
+Share of
+countries with
+M&E capacity, %
+
+50
+
+52
+
+50
+
+57
+
+67
+
+50
+
+100
+
+50
+
+58
+
+63
+
+71
+
+38
+
+59
+
+32
+
+27
+
+17
+
+54
+
+62
+
+69
+
+54
+
+Number of
+M&E specialists
+
+25
+
+24
+
+23
+
+26
+
+12
+
+14
+
+28
+
+9
+
+18
+
+20
+
+23
+
+14
+
+23
+
+9
+
+6
+
+4
+
+17
+
+16
+
+25
+
+18
+
+2
+
+3
+
+3
+
+2
+
+2
+
+3
+
+3
+
+1
+
+1
+
+1
+
+2
+
+3
+
+5
+
+3
+
+2
+
+4
+
+2
+
+2
+
+4
+
+1
+
+Number of
+regional M&E
+specialists
+
+44
+
+Arab States
+
+Annual Report on Evaluation 2016
+
+-----------------------Page 48 End-----------------------
+
+annexes
+
+ANNEX 4. 	2016 AVERAGE BUDGETS FOR EVALUATIONS
+(COUNTRY OFFICES)
+Number of evaluations, 2016
+
+Africa
+
+Arab
+States
+
+Asia and
+the Pacific
+
+Europe and
+the CIS
+
+Latin America
+and the
+Caribbean
+
+Regional
+bureaux
+
+Average cost, all evaluations, $
+
+34,304
+
+25,973
+
+35,084
+
+20,692
+
+24,412
+
+28,093
+
+Average cost, UNDP project evaluations, $
+
+30,710
+
+13,134
+
+30,256
+
+13,833
+
+19,706
+
+21,528
+
+Average cost, UNDP/GEF evaluations, $
+
+30,171
+
+13,045
+
+31,007
+
+24,705
+
+29,086
+
+25,603
+
+Average cost, outcome evaluations, $
+
+42,472
+
+87,500
+
+38,333
+
+20,744
+
+31,250
+
+44,060
+
+Average cost, UNDAF and other evaluations, $
+
+46,915
+
+70,000
+
+54,611
+
+50,000
+
+28,000
+
+49,905
+
+Source: Data from the Evaluation Resource Centre as of 31 January 2017
+
+Annual Report on Evaluation 2016
+
+45
+
+-----------------------Page 49 End-----------------------
+
+annexes
+
+ANNEX 5. 	MEMBERS AND KEY ACTIVITIES
+OF THE EVALUATION ADVISORY PANEL IN 2016
+
+46
+
+Member
+
+Country
+
+Evaluations and activities supported
+
+Michael Bamberger
+
+United Kingdom
+
+ADR Albania, methodological guidance for the Strategic Plan evaluation
+
+Rachid Benmokhtar Benabdellah
+
+Morocco
+
+Panel member, evaluation side events, UN High-level Political Forum
+
+Chen Zhaoying
+
+China
+
+ADR Viet Nam, ADR Kyrgyzstan, ADR Pakistan
+
+Zenda Ofir
+
+South Africa
+
+ADR Ethiopia, participant at the High-level Political Forum ‘networking and experience-sharing’ session
+
+Ray Rist
+
+United States of America
+
+Institutional effectiveness, Strategic Plan evaluation
+
+Thomas Schwandt
+
+United States of America
+
+Anti-corruption evaluation, Strategic Plan evaluation, Occasional Paper review, participant at the High-level
+Political Forum ‘networking and experience-sharing’ session
+
+Elliot Stern
+
+United Kingdom
+
+Guidance for quality assurance on decentralized evaluation and methodological inputs for thematic evaluations
+
+Daniel Weiner
+
+United States of America
+
+ADR Somalia
+
+Osvaldo Feinstein
+
+Argentina
+
+Newly appointed in 2017
+
+Paulo Jannuzzi
+
+Brazil
+
+Newly appointed in 2017
+
+Gelase Rwabyo Mutahaba
+
+United Republic of Tanzania
+
+Newly appointed in 2017
+
+Olga Schetinina
+
+Ukraine
+
+Newly appointed in 2017
+
+Annual Report on Evaluation 2016
+
+-----------------------Page 50 End-----------------------
+
+ENDNOTES
+1
+
+2
+
+	The speech of the Secretary-General to
+the United Nations General Assembly,
+December 2016. See: www.un.org/sg/
+en/content/sg/speeches/2016-12-12/
+secretary-general-designate-ant%C3%B3nio-guterres-oath-office-speech.
+	Country office staff and evaluation
+budget data from the UNDP Bureau
+for Programme and Policy Support,
+drawn from the 2016 Results-Oriented
+Annual Report.
+
+3
+
+	IEO calculation based on Evaluation
+Resource Centre evaluation budgets
+and staffing numbers reported by
+regional bureaux.
+
+4
+
+	Based on Evaluation Resource Centre
+data as of 31 January 2017.
+
+5
+
+	As reported in the Evaluation Resource
+Centre by country offices for 2016.
+
+6
+
+	 See: www.erc.undp.org.
+
+Annual Report on Evaluation 2016
+
+47
+
+-----------------------Page 51 End-----------------------
+
+48
+
+Annual Report on Evaluation 2016
+
+-----------------------Page 52 End-----------------------
+
+-----------------------Page 53 End-----------------------
+
+Independent Evaluation Office
+United Nations Development Programme
+220 East 42nd Street,
+New York, NY 10017
+USA
+Tel. +1 (646) 781 4200
+Fax. +1 (646) 781 4213
+www.undp.org/evaluation
+
+Annual Report on Evaluation - 2016
+ISBN: 978-92-1-126421-0
+eISBN: 978-92-1-060060-6
+
+-----------------------Page 54 End-----------------------
+

@@ -1,0 +1,3559 @@
+1
+
+i
+
+-----------------------Page 1 End-----------------------
+
+First Inner Page
+Report of the Executive Secretary
+
+Southern African Development Community (SADC) Secretariat
+Plot 54385 CBD Square
+Private/Bag 0095
+Gaborone, Botswana
+Tel: +267 395 1863
+Email: registry@sadc.int
+Website: www.sadc.int
+
+©SADC, 2019
+
+Information in this publication may be reproduced, used and shared with full acknowledgement of
+the publisher, SADC.
+
+Citation: Report of the Executive Secretary),
+Gaborone, Botswana, 2019
+About SADC
+The Southern African Development Community (SADC) is an organisation founded and
+maintained by countries in southern Africa that aim to further the socio-economic, political and
+security cooperation among its Member States and foster regional integration in order to achieve
+peace, stability and wealth. The Member States of SADC are Angola, Botswana, Democratic
+Republic
+of
+Congo,
+Union
+of
+Comoros, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South
+Africa, Swaziland, United Republic of Tanzania, Zambia and Zimbabwe.
+
+i
+
+-----------------------Page 2 End-----------------------
+
+TABLE OF CONTENTS
+TABLE OF CONTENTS ........................................................................................................................................ II
+LIST OF TABLES ............................................................................................................................................... III
+LIST OF FIGURES .............................................................................................................................................. III
+1
+
+LIST OF ACRONYMS ................................................................................................................................. IV
+
+1
+
+EXECUTIVE SUMMARY .............................................................................................................................V
+
+2
+
+INTRODUCTION ....................................................................................................................................... 1
+
+3
+
+REGIONAL ECONOMIC DEVELOPMENTS AND OUTLOOK............................................................................. 1
+3.1
+3.2
+
+2018-19 ECONOMIC DEVELOPMENT .................................................................................................................... 1
+REGIONAL ECONOMIC OUTLOOK FOR 2019-20 ...................................................................................................... 9
+
+4
+
+OVERVIEW OF OUTPUT AND FINANCIAL PERFORMANCE ......................................................................... 10
+
+5
+
+PROGRESS ON IMPLEMENTATION OF RISDP ............................................................................................ 12
+5.1
+5.2
+5.3
+5.4
+
+INDUSTRIAL DEVELOPMENT AND MARKET INTEGRATION .......................................................................................... 12
+
+INFRASTRUCTURE DEVELOPMENT IN SUPPORT OF REGIONAL INTEGRATION................................................................ 19
+PEACE AND SECURITY COOPERATION .................................................................................................................. 22
+SPECIAL PROGRAMMES OF REGIONAL DIMENSION ................................................................................................. 24
+
+6
+
+INSTITUTIONAL FRAMEWORK FOR PROGRAMME COORDINATION .......................................................... 33
+
+7
+
+GOOD GOVERNANCE AND FINANCIAL MANAGEMENT ............................................................................. 34
+
+8
+
+CONTINENTAL COOPERATION AND INTEGRATION ................................................................................... 43
+
+9
+
+DEVELOPMENT COOPERATION AND RESOURCE MOBILISATION ............................................................... 43
+9.1
+9.2
+9.3
+9.4
+9.5
+9.6
+
+10
+
+ii
+
+SADC – AFRICAN DEVELOPMENT BANK COOPERATION ............................................................................. 44
+SADC – EU COOPERATION........................................................................................................................... 44
+SADC-GERMANY COOPERATION ................................................................................................................ 45
+SADC – CHINA COOPERATION..................................................................................................................... 46
+SADC – RUSSIA COOPERATION ................................................................................................................... 46
+SADC – ICP DIALOGUE PLATFORM .............................................................................................................. 47
+
+CONCLUSIONS ....................................................................................................................................... 47
+
+-----------------------Page 3 End-----------------------
+
+LIST OF TABLES
+TABLE 1 MAJOR MACROECONOMIC INDICATORS OF SELECTED ECONOMIES ........................................ 2
+
+LIST OF FIGURES
+FIGURE 1: WORLD B ANK COMMODITY PRICE INDICES (2010 = 100) ...................................................3
+FIGURE 2: SADC – REAL GDP AND INFLATION (%) ..........................................................................4
+FIGURE 3: NATIONAL SAVINGS AND TOTAL INVESTMENT (% OF GDP) ..................................................5
+FIGURE 4: SADC – FISCAL D EFICIT AND PUBLIC D EBT AS A % OF GDP .................................................6
+FIGURE 5: SADC – CURRENT ACCOUNT BALANCE AND EXTERNAL RESERVES ..........................................7
+FIGURE 6: SADC – RANK EASE OF D OING BUSINESS .........................................................................8
+FIGURE 7: RANKING – GLOBAL C OMPETITIVE INDEX..........................................................................8
+FIGURE 8: OVERALL OUTPUT IMPLEMENTATION STATUS, 2016/17 – 2018/19 .................................. 11
+FIGURE 9: OVERALL ANNUAL FINANCIAL PERFORMANCE ( EXCLUDING EMOLUMENTS ) ............................. 11
+FIGURE 10: TREND ANALYSIS OF UTILISATION RATE BY SOURCE OF FUNDING ....................................... 12
+FIGURE 11: PERCENTAGE OF COMMUNITY MEMBERS, LONG D ISTANCE TRUCK D RIVERS AND SEX WORKERS
+LIVING WITH HIV .............................................................................................................. 29
+
+iii
+
+-----------------------Page 4 End-----------------------
+
+2 LIST OF ACRONYMS
+AXIS
+
+African Internet Exchange System
+
+CAADP
+
+Commitment to Comprehensive African Agriculture Development Programme
+
+CSC
+
+Climate Services Centre
+
+e-CoO
+
+Electronic Certificate of Origin
+
+ICAO
+
+International Civil Organisation
+
+IPF
+
+Investment Policy Framework
+
+ISO
+
+International Organisation of Standards
+
+MNOs
+
+Mobile Network Operators
+
+MoU
+
+Memorandum of Understanding
+
+NIXPs
+
+National Internet Exchange Points
+
+NSO
+
+National Statistics Office
+
+OIML
+
+International Organization of Legal Metrology’s
+
+QMS
+
+Quality Management System
+
+RAPI
+
+Regional Action Programme for Investment
+
+RISDP
+
+Revised Regional Indicative Strategic Development Plan
+
+RIXPs
+
+Regional Internet Exchange Points
+
+RTGS
+
+Real Time Gross Settlement System
+
+PPDF
+
+SADC Project Preparation Development Facility
+
+SADC
+
+Southern African Development Community
+
+SARCOF
+
+Southern African Regional Climate Outlook Forum
+
+SIPO
+
+Strategic Indicative Plan for the Organ
+
+STR
+
+Simplified Trade Regime
+
+TRF
+
+Trade Related Facility
+
+TTTFP
+
+Tripartite Transport and Transit Facilitation Programme
+
+iv
+
+-----------------------Page 5 End-----------------------
+
+1 EXECUTIVE SUMMARY
+This Report presents progress made by the SADC Secretariat in collaboration with Member
+States and other stakeholders in implementing the SADC regional cooperation and integration
+programmes during the 2018/19 fiscal year, guided by the Revised Regional Indicative Strategic
+Development Plan (RISDP) and Strategic Indicative Plan for the Organ (SIPO).
+The economic performance of the SADC region in 2018 improved slightly when compared to
+2017, despite the weak global economic conditions, and adverse weather conditions that affected
+some parts of the region. The Region’s economic growth in 2018 is estimated at 3.1% compared
+to 2.9% recorded in 2017, while the Global economic performance declined from 3.8% in 2017 to
+3.6% in 2018. Equally, per capita GDP for the region improved from US$ 4,004 in 2017 to
+US$4,171 in 2018, as inflation rate also declined from 9.8% in 2017 to 8.1% in 2018.
+In the implementation of 2018/19 Corporate plan, overall implementation stood at 80%. This
+improved performance is as a result of measures put in place to improve internal processes,
+internal skills development, shift from activity based planning approach to results based planning
+and reporting; and coordination and management of projects and programmes, amongst others.
+Regarding implementation of the Industrialization Strategy and Roadmap, progress was made in
+the development of the draft protocol on industry, which is envisaged to become a stand-alone
+legal instrument aiming at promoting the development of diversified, innovative and globally
+competitive regional and national industrial bases for sustainable and inclusive industrial
+development. The profiling of agro-processing was completed, whereby 14 product-specific value
+chains were identified as having the highest impact potential for upgrading and increasing intraregional trade, and integration into global value chains; and as a source of inputs for
+manufacturing. Furthermore, the draft regional mining vision and the Action plan was finalised,
+which aims at optimizing the sustainable development of mineral resources extraction across the
+region.
+To facilitate trade, the region adopted the Simplified Trade Regime (STR) Framework and the
+Regional Framework for the Electronic Certificate of Origin (E-CoO). Application of the Regional
+Framework for the Electronic Certificate of Origin has enabled the traders to apply for the
+certificate of origin electronically hence enhancing trade in the region. Efficiency in payment
+systems increased through the introduction of Real Time Gross Settlement System (RTGS) in the
+region. In addition to that, improved Financial Inclusion has been a key enabler in contributing to
+the reduction of poverty and boosting prosperity, attracting more individuals to participate in
+financial products and services from an estimated adult population of 60% in 2016 to 68% in 2018.
+Furthermore, strengthening regional infrastructure connectivity was prioritised by providing grants
+for project preparation and development for cross-border regional infrastructure projects. A total
+of US $ 19.6 million was approved by 2018, for the preparation of ten regional projects cove ring
+energy, transport and water, which is expected to generate US$ 5.8 billion in infrastructure
+investment. Progress has also been made in operationalizing the SADC Regional Development
+Fund, and to date nine Member States have signed the Agreement.
+Progress was also made towards realization of the SADC Infrastructure Vision 2027, which
+contributes towards industrial development and economic growth. This progress includes, among
+v
+
+-----------------------Page 6 End-----------------------
+
+others, the installation and commissioning of 4,175 MW of power generation to supplement the
+regional energy needs, the ongoing construction of the Kazungula Bridge in the North-South
+Corridor to facilitate trade and transport in the region, the construction of the Port of Walvis Bay’s
+New Container Terminal in Namibia; and the implementation of the Dar es Salaam-Chalinze Toll
+road, which will connect Tanzania with Malawi and DRC. Further progress includes
+implementation of the SADC Roaming Project aimed at lowering international mobile roaming
+rates and projects to increase access to potable water supply, and enhancing the capability of
+Member States to respond to climate-induced disasters in the region.
+The Region remained peaceful and stable in 2018/19, and witnessed the holding of democratic
+elections and smooth transfer of power in the Democratic Republic of Congo (DRC), Zimbabwe;
+the Kingdom of Eswatini; the Republic of Madagascar; South Africa; and Malawi. The historical
+and peaceful transfer of power in the DRC opened a new chapter in the political sphere for
+economic prosperity, peace and political stability.
+Considerable progress was also made to stimulate crop production, productivity and
+competiveness, as well as to improve market access for crops and their products in the region. A
+draft Crop Development Programme and the SADC Guidelines on Seed Certification and Quality
+Assurance were developed and validated to increase access to quality seed and overall crop
+production. Efforts were also made to minimize the challenges of local and transboundary pests
+and diseases affecting food security and livestock production through capacity building and
+awareness campaigns including use of surveillance and monitoring equipment. Initiatives were
+undertaken to increase forecasting and early warning for food security in the region. To date
+fourteen (14) Members States have established National Vulnerability Assessment Committees
+to facilitate assessments and analysis. Furthermore, early warning weather and climate
+information was generated by the SADC Climate Services Centre, and disseminated continuously
+to facilitate preparedness by SADC Member States.
+In order to realize social and human development in the region, Member states responded
+positively to align their National Qualifications Frameworks to Regional standards, which amongst
+others will promote mobility of professionals across the region. In addition, operationalization of
+the SADC pooled procurement services has guaranteed the region with reduced prices on
+procurement of quality and essential medicines and health commodities. Furthermore, various
+initiatives were implemented to reduce HIV/AIDS transmission and eliminate Malaria in the region.
+Efforts to engage youth as key drivers of the SADC Industrialization and integration agenda were
+enhanced through operationalization of the 38th SADC Summit Theme “Promoting Infrastructure
+Development and Youth Empowerment for Sustainable Development”. Key issues pertaining to
+youth’s involvement, employment, empowerment and development were considered.
+A comprehensive Mid-term review of the Revised RISDP 2015-2020 commenced to inform
+implementation of the remaining period, as well as the development of the Post 2020 Agenda.
+Furthermore, rolling out of the SADC Online M&E system to seven (7) Member States was
+undertaken to facilitate timely reporting on the implementation of SADC programmes. To enhance
+continental cooperation and integration and to track implementation progress on the reformed
+process, SADC secretariat engaged with the African Union Commission, other RECs and
+International Institutions. In all these engagements, SADC concerns regarding the reform process
+were addressed and SADC’s position safeguarded.
+vi
+
+-----------------------Page 7 End-----------------------
+
+As an initiative to ensure sustainable financing mechanisms for implementation of regional
+programmes, the draft SADC Regional Resource Mobilization Framework was finalized. SADC
+continues to appreciate the critical role played by Development Partners towards development of
+the region. In view of this, several agreements and other legal instruments were concluded with
+a number of International Cooperating Partners (ICPs), who continued to extend their support
+both technically and/or financially. Support was received from the African Development Bank,
+African Union, World Bank, European Union, German Development Bank (KfW) and German
+Corporation for International Cooperation (Deutsche Gesellschaft für Internationale
+Zusammenarbeit, GIZ), United States Agency for International Development (USAID), Norway,
+Global Fund, Swedish International Development Cooperation Agency (SIDA), Swiss Agency for
+Development and Cooperation (SDC), and China.
+In 2019/2020, the Secretariat will continue to engage with Development Partners and prioritize
+implementation of key programmes of regional cooperation and integration towards improving the
+quality of life for the peoples of Southern Africa.
+
+vii
+
+-----------------------Page 8 End-----------------------
+
+2 INTRODUCTION
+Deepening regional integration in the SADC region remained the central focus in 2018/19
+Financial Year. Concerted efforts were made not only to drive the agenda towards implementation
+of the medium-term economic and social policies being implemented across the different areas
+but to take stock of progress being made towards regional integration. Such efforts were guided
+by the Regional Indicative Strategic Development Plan (RISDP), which is a comprehensive
+development and implementation framework guiding the integration agenda of SADC over a
+period of fifteen years (2005-2020); and the Strategic Indicative Plan for the Organ (SIPO) on
+Politics, Defence and Security Cooperation, whose core objective is to create a peaceful and
+stable political and security environment through which the Region will realise its objectives of
+development and economic growth, peace and security, poverty alleviation and enhance the
+standard and quality of life for the peoples of Southern Africa remain the remain the core
+comprehensive development frameworks that guide the implementation of SADC’s integration
+agenda and realization of the regional body’s Objectives, Vision and Mission as enshrined in the
+SADC Treaty and Common Agenda.
+This Report presents progress made towards implementation of the SADC regional cooperation
+and integration programmes during the 2018/19 fiscal year by the SADC Secretariat in
+collaboration with the Member States and other stakeholders. The report outlines the following
+areas of Regional Economic and outlook;
+•
+•
+•
+•
+•
+•
+•
+
+Regional and economic developments and outlook;
+Overview of Output and Financial Performance;
+Progress on Implementation of RISDP and SIPO
+Institutional Framework for Programme Coordination;
+Good Governance and Financial Management;
+Continental Coordination and Integration;
+Development Cooperation and Resources Mobilization;
+
+3 REGIONAL ECONOMIC DEVELOPMENTS AND OUTLOOK
+3.1
+3.1.1
+
+2018-19 ECONOMIC DEVELOPMENT
+Global Economic Background
+
+Economic activities
+According to the IMF World Economic Outlook report of April 2019, global growth in 2018 receded
+to 3.6% from 3.8% in 2017. This may be ascribed to the effects of the decline in commodity prices,
+trade policy uncertainty and escalation of trade tensions. Two-thirds of countries, accounting for
+about three-quarters of global output, experienced subdued growth in 2018 compared to the
+previous year. Advanced countries in Europe and emerging economies in Asia lost momentum
+more than expected as consumer demand took a downswing and business confidence weakened
+due to the introduction of new emission standards.
+
+1
+
+-----------------------Page 9 End-----------------------
+
+T ABLE 1 MAJOR M ACROECONOMIC I NDICATORS OF S ELECTED E CONOMIES
+
+World
+Advanced
+economies
+USA
+Euro Area
+EM & DE
+China
+India
+Brazil
+SSA
+
+2009
+-0.1
+-3.3
+
+2010
+5.4
+3.1
+
+2011
+4.3
+1.7
+
+2012
+3.5
+1.2
+
+2013
+3.5
+1.4
+
+-2.5
+-4.5
+2.8
+9.2
+8.5
+-0.1
+3.8
+
+2.6
+2.1
+7.4
+10.6
+10.3
+7.5
+7.1
+
+1.6
+1.6
+6.4
+9.5
+6.6
+4.0
+5.3
+
+2.2
+-0.9
+5.4
+7.9
+5.5
+1.9
+4.7
+
+1.8
+-0.2
+5.1
+7.8
+6.4
+3.0
+5.2
+
+Growth Rate
+2014 2015
+3.6
+3.4
+2.1
+2.3
+2.5
+1.4
+4.7
+7.3
+7.4
+0.5
+5.1
+
+2.9
+2.1
+4.3
+6.9
+8.0
+-3.5
+3.2
+
+2016
+3.4
+1.7
+
+2017
+3.8
+2.4
+
+2018
+3.6
+2.2
+
+2019*
+3.3
+1.8
+
+1.6
+2.0
+4.6
+6.7
+8.2
+-3.3
+1.4
+
+2.2
+2.4
+4.8
+6.8
+7.2
+1.1
+2.9
+
+2.9
+1.8
+4.5
+6.6
+7.1
+1.1
+3.0
+
+2.3
+1.3
+4.4
+6.3
+7.3
+2.1
+3.5
+
+Note: EM & DE is Emerging Market and Developing Economies. SSA is Sub-Saharan Africa.
+Source: IMF World Economic Outlook, April 2018.
+
+Growth in emerging and developing economies in Asia, which accounts for over half of the world
+growth retreated to 6.4 in 2018 from 6.5% in 2017. This reflects weak global activity, especially in
+the second half of 2018 and the impact of lingering trade tensions with the United States.
+Economic growth in China moderated to 6.6% in 2018 from 6.8% in 2017, recording the lowest
+rate since 1990. China’s growth declined following a combination of the needed regulatory
+tightening to rein in shadow banking and an increase in trade tensions with the United States.
+India's growth accelerated to an estimated 7.1% in 2018 from 7.2% recorded in 2017. This was
+largely driven by strong domestic demand, increased investment and a rebound of credit growth.
+In sub-Saharan Africa, growth picked up from 2.9% in 2017 to 3% in 2018. However, economic
+outcomes are far from uniform in Sub-Saharan Africa. Oil exporters are still dealing with the legacy
+of the largest real oil price decline since 1970; debt levels are rising in some countries; and other
+countries are suffering from internal conflicts.
+Developments in Commodity Prices
+Commodity prices lost momentum in 2018, with the majority of energy, metal, mineral, and
+agricultural commodity prices declining in the last quarter of 2018, only to rebound in the first
+quarter of 2019. The Commodity Price Index show a mixed picture for 2018. Overall the index fell
+by 10% in 2018. The trends of commodity prices were largely informed by elevated geopolitical
+tensions related to Iran, Saudi Arabia and Yemen, a weaker dollar and adverse inflation
+expectations that resulted in poor performance in oil and some precious metals in 2018.
+Commodity prices were further weighed down by the recently enacted and prospective policy
+actions such as U.S. import tariffs on aluminium and steel and U.S. sanctions on Russian
+commodity producers also contributed to an increase in metals prices. The Food Price Index,
+from January to September decreased by 8.7%, but increased by 4.2% in last quarter of 2018
+due to unfavourable weather conditions in some parts of the world.
+
+2
+
+-----------------------Page 10 End-----------------------
+
+FIGURE 1: W ORLD BANK COMMODITY P RICE INDICES (2010 = 100)
+
+300
+250
+200
+150
+100
+50
+0
+
+All
+
+Food
+
+Industrial
+
+Agriculture Raw Materials
+
+Metals
+
+Petroleum
+
+Source: World Bank Commodity Price Data (Pink Sheet), April 2018.
+
+The World Bank Commodity Prices Index, show that commodity prices were largely driven by
+changes in energy and metal categories. Energy prices declined by 13% in 2018 from 23.6% in
+2017. The World Bank’s Metals and Minerals Price Index fell by 10.8% in the first three quarters
+of 2018 before rising in the last quarter by 2.6%, partly offsetting its bullish ride over the past
+couple of years. The lackluster performance of energy, as well as metal and mineral prices in the
+late 2018 reflects persistent subdued global growth and prolonged trade tensions.
+3.1.2
+
+Regional Economic Performance
+
+Latest statistics provided by Member States in April 2019 and the IMF World Economic Outlook
+database indicate that economic recovery in SADC continued in 2018, but there is duality in
+growth performance and prospects within the region.
+Annual inflation rate eased in general, with only three Member States – Angola, Malawi and
+Mozambique recording double digit levels. This largely reflects low demand pressure and stability
+in exchange rates coupled with significant decline in global energy prices. The pass-through of
+lower energy prices is expected to offset the lingering effects from past exchange rate
+depreciation
+In the fiscal sector debt vulnerabilities remain elevated in some countries. Weaknesses in public
+balance sheets are also weighing on countries’ external positions, with reserve buffers below
+levels typically considered adequate in more than half of the countries in the region.
+The size of the current account deficit widened in 2018 reflecting imbalances in public accounts,
+with public savings-investment deficits about three times as large as for the private sector in nonresource intensive countries. The region is highly vulnerable to terms-of-trade shocks, and these
+have a large impact on current account positions, mainly through the trade balance.
+3
+
+-----------------------Page 11 End-----------------------
+
+Real GDP
+In 2018, the trends of growth have been incongruent in the SADC region. Economic growth is
+estimated at 3.1% in 2018, a slight improvement from 2.9% recorded in 2017. The economic
+performance was largely weighed down by weak global economic conditions and adverse
+weather in some parts of the region. Some countries like Botswana, DRC, Lesotho, Madagascar,
+Tanzania and Zambia observed strengthened growth levels. Contrary, in Zimbabwe,
+Mozambique, Seychelles and South Africa growth rates decelerated in 2018. Only Tanzania
+recorded real GDP growth rates above the regional target of 7%.
+Consequently, per capita GDP for the region is estimated to have improved slightly from
+US$ 4,004 in 2017 to US$4,171 in 2018. All Member States except for Angola recorded positive
+growth in per capita GDP in 2018, an improvement from only five Member States (Botswana,
+DRC, Mauritius, Seychelles and Tanzania) recording positive growth in 2016.
+Inflation
+Provisional figures indicate that annual inflation rate eased to 8.1% in 2018 from 9.8% in 2017
+(see Fig 2). The decline in inflation is associated with low demand pressure and stability in
+exchange rates. A total of 8 Member States (Botswana, DRC, Eswatini, Lesotho, Mozambique,
+Namibia, South Africa and Tanzania) met the inflation target range of 3-7%. Five Member States
+(Angola, DRC, Madagascar, Malawi, Zambia and Zimbabwe) performed above the target range
+of 3-7% for inflation, with Malawi being way out at 21.2%.
+FIGURE 2: SADC – R EAL GDP AND I NFLATION (%)
+14.0
+12.0
+
+%age (%)
+
+10.0
+8.0
+6.0
+4.0
+2.0
+0.0
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Real GDP
+
+2015
+
+2016
+
+Inflation
+
+Source: Member States, April 2018 and IMF WEO Outlook April 2018.
+
+4
+
+2017
+
+2018
+
+2019
+
+2020
+
+-----------------------Page 12 End-----------------------
+
+National Savings and Investments
+A downward trajectory in both average total investments and gross national savings registered
+since 2014 continued in 2018. The region is projected to have recorded total investments of 22.8%
+of GDP in 2018 compared to 24.4% of GDP in 2017. Only five Member States (Botswana,
+Lesotho, Seychelles, Tanzania and Zambia) performed above the regional target of 30% of GDP
+for investment (see Figure 3).
+FIGURE 3: N ATIONAL S AVINGS AND T OTAL INVESTMENT (% OF GDP)
+
+30.0
+
+%age of GDP
+
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+National Savings
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+Total Investment
+
+Source: Source: Member States, April 2018 and IMF WEO Outlook April 2018.
+
+On the savings side, the region remained subdued at 19.9% of GDP in 2018, lower than the gross
+national savings of 20.6% of GDP realized in 2017. Botswana, Mozambique and Zambia were
+the only Member States that attained the regional savings target of 30% in 2018.
+Fiscal Sector
+Lackluster regional economic performance continued to affect government revenue collections,
+in turn disturbing fiscal balance positions in the face of increased expenditure needs (see Figure
+4). The fiscal deficit is projected to have recorded 3.8% in 2018 compared to 4% of GDP in 2017.
+The decline was observed in Botswana, Madagascar, Malawi, Mauritius, Mozambique, South
+Africa and Zimbabwe. In Malawi, the deficit has almost doubled because of the relative
+underperformance of domestic revenues, increased humanitarian support to drought-stricken
+areas and non-disbursement of aid by some development partners. In Mozambique, the widening
+deficit was explained by the absence of new inflows of state windfall revenue in 2018. On the
+positive note, Angola recorded a surplus of 0.5% in 2018 in contrast to a deficit of 6.1% recorded
+in the previous year.
+
+5
+
+-----------------------Page 13 End-----------------------
+
+FIGURE 4: SADC – FISCAL DEFICIT
+
+P UBLIC D EBT AS A % OF GDP
+
+Fiscal Deficit
+Public Debt as a % of GDP
+
+60.0
+
+-1.0
+-2.0
+-3.0
+-4.0
+-5.0
+
+Public Debt
+
+50.0
+40.0
+30.0
+20.0
+10.0
+0.0
+
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+
+Fiscal Deficit as a % of GDP
+
+0.0
+
+AND
+
+Source: Member States, April 2018 and IMF WEO April 2019
+
+Public debt maintained an upward trend across all Member State in 2018. The region’s public
+debt increased to 49.3% of GDP in 2018 from 48.6% recorded in 2017. The number of countries
+that met the regional target of public debt of 60 % of GDP receded from 12 in 2017 to 11 countries
+in 2018. All Member States except for Angola, Malawi, Mozambique and Zimbabwe met the
+regional fiscal target in 2018. The upsurge in public debt presents several fiscal and monetary
+policy implications to Member States (see Box 1).
+Box 1: External Debt Dynamics and Implications for Monetary Policy in the SADC Region
+On average, external debt is still within manageable levels in SADC countries, with exception
+of Mozambique, Zimbabwe and Zambia at high risk of external debt distress. External debt in
+the region is, however, vulnerable to macro-fiscal, exchange rate and export shocks. Automatic
+debt dynamics, explained by changes in growth rates, exchange rates and interest rates have
+been key in influencing debt dynamics over and above the current account and fiscal deficits.
+Over the past years, external debt in the region was positively related to inflation, policy rates
+and exchange rate depreciation.
+There are several fiscal and monetary policy implications of increasing external debt, these
+include:
+(i) the need to ensure that sovereign external debt does not grow out of hand in the first
+place. Though the central bank cannot control this directly, it can play a significant role
+by actively and openly supporting enactment of laws to support strong fiscal positions.
+(ii) central banks can also play a significant role in the development of domestic financial
+markets to ensure shift away from external debt to domestic debt financing, with positive
+benefits of enhanced market-based operations for central banks.
+(iii) there is need to encourage governments to build fiscal buffers to prepare for servicing
+of the maturing external debts.
+[CCBG Research Papers, 2018/19]
+6
+
+-----------------------Page 14 End-----------------------
+
+External Sector
+In line with the decline in commodity prices, terms of trade for the region slightly deteriorated in
+2018 (see Fig 5). The deterioration of the current account in some countries was due to an
+expansion of imports, combined with the decline in exports of goods like in Mauritius, for instance.
+Export volumes improved by 2% in 2018 compared to 1% in 2017. After recording 3.2% increase
+in 2017, exports increased by 2.7% in 2018. This was largely due to the subdued global
+performance, especially in key trading partners such as China and the Euro area.
+The current account deficit for the region averaged 5.9% of GDP in 2018, a deterioration from an
+average deficit of 4.8 % in 2017. The high level of the current account deficit across the region
+had different origins. Notable down turns were recorded in Malawi, Mozambique, South Africa,
+Seychelles and Zimbabwe. In Malawi, the current account deficit deterioration was largely
+explained by a less diversified export conjugated to non-aggressive import substitution strategy.
+In Mozambique, the deficit emanated from an increase of imports of capital goods, fuel and
+payment of service related to the gas exploration in the Northern Province of Cabo Delgado. For
+South Africa, the shortfall on services, income and current transfers led to a significant deficit of
+the current account, despite a surplus in the trade balance. In Seychelles, the higher deficit was
+due high imports of goods and services. In Zimbabwe, the exports increase but this was offset by
+a large increase of imports (see Figure 5).
+FIGURE 5: SADC – CURRENT A CCOUNT BALANCE AND E XTERNAL RESERVES
+6.0
+4.0
+
+%age of GDP
+
+2.0
+0.0
+-2.0
+
+-4.0
+-6.0
+-8.0
+-10.0
+2009
+
+2010
+
+2011
+
+2012
+
+Current Account Balance
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+External Reserves (Months of Imports)
+
+Source: Member States and IMF WEO, April 2019.
+
+In terms of foreign exchange reserves, SADC average import cover remained below the regional
+target of 6 months of imports at 4.4 months of imports in 2018, slightly lower than the 4.5 months
+of imports recorded in 2017. Only three Member States (Angola, Botswana and Mauritius)
+recorded external reserves above the regional target of 6 months import cover. The rest of the
+Member States did not meet the criterion of 6 months of import cover, with some of them falling
+short of the IMF benchmark of 3 months of import cover.
+Business Environment
+
+7
+
+-----------------------Page 15 End-----------------------
+
+Data from the World Bank Ease of Doing Business 2018-19 indicate that the SADC region
+deteriorated in terms of creating a conducive business environment and its competitiveness in
+general. Only six Member States showed improvements in the ease of doing business ranking,
+namely: Angola, Madagascar, Mauritius, Mozambique and Zimbabwe. Two Member States
+(Mauritius and Zimbabwe) demonstrated exceptional improvements by moving up more than 3
+positions from 25 in 2017 to 20 in 2018 and 159 in 2017 to 155 in 2018, respectively.
+Performance with regard to ease of doing business indicate that DRC, Eswatini, Lesotho, Malawi,
+Namibia, South Africa, Tanzania and Zambia slightly plummeted in their ranking positions in 2018
+compared to 2017 performance. Similar to 2017, five SADC Member States (Botswana, Mauritius,
+Seychelles, South Africa and Zambia) were ranked within the first 100 bracket (see Figure 6).
+FIGURE 6: SADC – RANK E ASE OF DOING BUSINESS
+Angola
+Zimbabwe
+Zambia
+
+200
+
+Botswana
+
+150
+
+DRC
+
+100
+Tanzania
+
+Lesotho
+
+50
+0
+
+Eswatini
+
+Madagascar
+
+South Africa
+
+Malawi
+2016-17
+
+Seychelles
+
+Mauritius
+Mozambiqu
+e
+
+Namibia
+
+2017-18
+2018-19
+
+Source: World Bank Ease of Doing Business, 2017-18.
+
+The development with regard to improving the business environment shows a similar behaviour
+if one considers the World Economic Forum Global Competitiveness Index (GCI). The GCI
+measures the competitiveness of an economy by considering all factors from basic factors that
+enable it to be competitive to factors that make it efficient and innovative (see Figure 7).
+
+FIGURE 7: R ANKING – GLOBAL COMPETITIVE INDEX
+
+8
+
+-----------------------Page 16 End-----------------------
+
+Botswana
+Zimbabwe
+Zambia
+
+Tanzania
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+DRC
+Eswatini
+
+Lesotho
+
+South Africa
+
+Malawi
+
+Seychelles
+
+Mauritius
+Namibia
+
+Mozambique
+
+2017-18
+
+2018
+
+Source: WEF Global Competitiveness Index, 2018-19.
+
+Five Member States improved in the GCI ranking, namely: Eswatini, Lesotho, Malawi,
+Mozambique and Seychelles. One Member State (Seychelles) demonstrated exceptional
+improvements by moving up thirty-three positions from 107 in 2017 to 74 in 2018. The other ten
+Member States (DRC, Madagascar, Mauritius, Namibia, South Africa, Tanzania, Zambia and
+Zimbabwe) deteriorated in the ranking of 2018.
+In 2018, Seychelles joined the most competitive and top ranked Member States (Mauritius, South
+Africa and Botswana) in the region. Botswana, significantly dropped by 27 positions after it
+consistently improved performances over the past four consecutive years.
+
+3.2
+
+REGIONAL ECONOMIC OUTLOOK FOR 2019-20
+
+The global economic growth forecast for 2019 has been revised to 3.3% from 3.5% projected
+early this year. Uncertainty arising from trade tensions between the United States and its main
+trading partners continues to pose risk to the global growth outlook, with repercussions for SADC
+Member States. These tensions, together with the strengthening of the US dollar, have increased
+the volatility of some commodity prices and pressured the currencies of emerging countries. If
+global demand could continue to slowdown, commodity prices are likely to further decline,
+reducing GDP growth and adversely affecting trade and fiscal balances for SADC’s commodity
+exporters. The costs of external financing are likely to further increase if interest rates in advanced
+countries rise faster than anticipated. With improvements anticipated in the second half of 2019,
+global economic growth in 2020 is projected to return to 3.6%. This return is predicated on a
+rebound in Argentina and Turkey and some improvement in a set of other stressed emerging
+market and developing economies, and therefore subject to considerable uncertainty. Beyond
+2020 growth will stabilize at around 3.5%, bolstered mainly by growth in China and India and
+recession strains gradually ease in economies such as Argentina and Turkey.
+At regional level, economic growth is expected to increase by an average of 2.3% in 2019, a
+decline from 3.1% in 2018. As such none of the Member States is projected to achieve the
+regional target of 7% growth in real GDP in 2019. The slower-than-expected overall growth is
+likely to be driven by the ongoing global uncertainty of the commodity market. At the heart of this
+9
+
+-----------------------Page 17 End-----------------------
+
+slow growth are the major headwinds of high inflation, increasing government debt, and slow
+growth in South Africa, which contributes about two-thirds of the region’s GDP. The second
+largest regional economy, Angola, is expected to grow by 0.4% in 2019 and 2.9% in 2020, while
+Mozambique is projected to grow at 4% in 2019 and 2020. Per capita GDP for the region is
+expected to moderate from US$4,171 in 2018 to US$3 343,80 in 2019.
+Savings are estimated at an average of 20.4% of GDP in 2019, an improvement from 19.9 % of
+GDP recorded in 2018. Only Botswana, Mozambique and Zambia are expected to record gross
+national savings above the regional target of 30% of GDP. In terms of total investment, the region
+is projected to record a slight improvement of 24.1% of GDP in 2019 from 22.8% of GDP in 2018,
+with six Member States (Botswana, Lesotho, Mozambique, Seychelles, Tanzania and Zambia)
+expected to perform above the SADC 30% of GDP target for investments in 2019.
+Inflation in the region is estimated to increase to 11.1% in 2019 from 8.1% in 2018. All Member
+States except for Angola, DRC, Malawi, Mauritius, Zambia and Zimbabwe are expected to
+achieve the regional inflation target range of 3-7% in 2019. The expected increase in inflation
+pressures is likely to be driven by the rebound in commodity prices and low harvest in some parts
+of the region.
+SADC regional fiscal deficit is expected to improve marginally from 3.8% of GDP in 2018 to 3.3%
+of GDP in 2019. A total of five Member States (Angola. Botswana, DRC, Lesotho and Seychelles)
+are expected to meet the regional target of fiscal deficit of less than 3% of GDP. Average public
+debt for the region is estimated to worsen further to 52.7% of GDP in 2019 from 49.3% of GDP in
+2018. All Member States are expected to record public debts below 60% of GDP except for
+Angola, Mozambique, Namibia, Zambia and Zimbabwe.
+In the external sector, the region’s terms of trade are projected to improve by 2.1% in 2018.
+Imports volumes of goods and services for the region are expected to increase by 5.9% in 2019,
+compared to 2.4% in 2018. In terms of exports volumes, the region is expected to record an
+increase of 5.2% in 2019 compared to an increase of 2.7% in 2018. The current account deficit is
+expected to widen by 7.3% of GDP in 2019, from 5.9% of GDP in 2018. All Member States except
+Lesotho, Madagascar, Mozambique, Namibia and Seychelles are predicted to record a current
+account deficit below 9% of GDP. The region is projected to record a slight decline in external
+reserves of 4.9 months of imports in 2019 from the 5.3 months of imports recorded in 2018. Only
+three Member States (Angola, Botswana and Mauritius) are projected to record external reserves
+above the regional target of 6 months import cover.
+
+4 OVERVIEW OF OUTPUT AND FINANCIAL PERFORMANCE
+The year 2018/19 marked the fourth year of implementation of the Revised Regional Indicative
+Strategic Development Plan (RISDP) 2015-2020, which was approved by the Extraordinary
+Summit in April 2015 in Harare, Zimbabwe.
+In order to improve the overall performance towards achieving the planned outputs, a total of 231
+outputs were planned in 2018/19 out of which 185 (80%) were successfully completed while 46
+(20%) were initiated and ongoing but not completed. The overall performance in the past three
+reference periods (2016/17; 2017/18 and 2018/19) outlined in Figure 8 below indicates a decline
+in completion rate from 80% in 2016/17 to 79% in 2017/18 to a slight increase to 80% in 2018/19,
+translating to a one percentage point increase between 2017/18 and 2018/19 performance. The
+10
+
+-----------------------Page 18 End-----------------------
+
+actual number of planned outputs in relative terms has declined over the years from 304 in
+2016/17 to 232 in 2017/18 to a further decline to 231 in 2018/19 towards a more focused and
+results based planning. However, completion rate has remained relatively steady at around 80%.
+FIGURE 8: O VERALL OUTPUT IMPLEMENTATION S TATUS , 2016/17 – 2018/19
+350
+
+80%
+
+300
+
+304
+
+250
+
+80%
+
+80%
+
+80%
+
+243
+
+200
+
+80%
+
+232
+
+80%
+
+231
+185
+
+184
+
+150
+
+79%
+
+100
+
+79%
+79%
+
+50
+
+79%
+
+0
+
+79%
+2016/17
+
+2017/18
+Planned Outputs
+
+2018/19
+
+Completed Outputs
+
+Completion Rate
+(%)
+
+The total budget allocation and expenditure for implementation of regional programmes in line
+with the RISDP and SIPO for the period 2018/19 was US$54,083,007 (excluding emoluments)
+out of which US$43,282,862 (80%) was utilized (see Figure 9). Disaggregation by source of
+funding indicates that Member States funding for the same period amounted to US$30,289,293
+(excluding emoluments) out of which US$25,910,793 (86%) was utilized. Furthermore, the ICP
+contribution was US$23,793,714 out of which US$17,372,070 (73%) was utilized.
+FIGURE 9: O VERALL ANNUAL FINANCIAL P ERFORMANCE ( EXCLUDING
+
+EMOLUMENTS )
+
+54,083,007
+43,282,862
+30,289,293
+25,910,793
+
+23,793,714
+
+17,372,070
+
+Budget
+
+Expenditure
+
+TOTAL BUDGET
+
+Busget
+
+Expenditure
+
+MEMBER STATES FUNDING
+
+11
+
+Busget
+
+Expenditure
+
+ICPs FUNDING
+
+-----------------------Page 19 End-----------------------
+
+Financial utilization rate of the total budget registered an overall increase in the total budget over
+the two reference periods (2017/18 and 2018/19) outlined in Figure 10 below. The total budget
+increased significantly by nine percentage points from 71% in 2017/18 to 80% in 2018/19. In
+terms of financial performance by source of funding, utilisation of Member States budget
+increased slightly by one percentage point from 85% in 2017/18 to 86% in 2018/19 compared to
+a more significant increase of 16 percentage point increase for ICP funding from 57% in 2017/18
+to 73% in 2018/19.
+FIGURE 10: T REND ANALYSIS OF UTILISATION RATE BY S OURCE OF F UNDING
+80%
+
+86%
+
+85%
+
+73%
+
+71%
+57%
+
+Total Budget
+
+MS Budget
+
+2017/18
+
+ICP Funding
+
+2018/19
+
+The output and financial performance during the year under review remains satisfactory. The
+Secretariat remains committed on putting more effort towards improving internal processes and
+building internal skills. In 2018/19, strategic efforts were adopted to further improve the overall
+output implementation and financial performance such as a shift from activity based planning
+approach to results based planning and reporting; mainstreaming of project management and
+standardisation of project planning and reporting tools; and systematic reporting on achievements
+and results rather than processes. This will in turn improve the overall physical and financial
+performance and in turn the realisation of RISDP Priorities.
+
+5 PROGRESS ON IMPLEMENTATION OF RISDP
+5.1
+
+INDUSTRIAL DEVELOPMENT AND MARKET INTEGRATION
+
+5.1.1 Industrial Development
+The development of regional value chains and their integration into global value chains remains
+the main fulcrum for regional integration, sustained growth and industrialisation of the SADC
+region. The Costed Action Plan of the SADC Industrialisation Strategy and Roadmap as
+approved by Summit in March 2017, identifies six priority value chain clusters namely; Agroprocessing, Mineral Beneficiation, Pharmaceuticals, Capital goods, Consumer goods and
+Services. The main achievements in period under review are:
+12
+
+-----------------------Page 20 End-----------------------
+
+i.
+
+In facilitating the development of regional value chains, two regional value chain
+profiling studies were completed, namely; the agro-processing and services value
+chains, and the former was validated in April 2019. This brings the total to four (4)
+value chains having been profiled to date in the six priority clusters. The other two are
+the minerals and pharmaceuticals value chain clusters.
+
+ii.
+
+Among the key findings of the Agro-processing profiling study 14 product-specific
+value chains were selected as having the highest potential for upgrading and
+development in the region, both for increased intra-regional trade and integration into
+global value chains. Based on data analysed as part of the assessment for selection,
+it was found that the SADC region has a trade deficit in most of the selected value
+chains, with rice being the largest in this regard. Essentially, this means that the SADC
+region continue to rely on the rest of the world for its upkeep. The lack of sufficient
+production also means that there was limited feedstock into manufacturing plants and
+thus negating opportunities for increased industrial growth.
+
+iii.
+
+In pursuit to diversify industrial production and exports through sinking substantial
+investments, the Secretariat secured two value chain project development experts to
+assist with the development and marketing of a pipeline of regional value chain
+projects in the agro-processing and mineral sectors. Accordingly, a project template
+was developed and a Call for Projects was issued in March 2019 with a closing date
+of 30 April 2019.
+
+In order to facilitate and coordinate the development, implementation and monitoring of the SADC
+Industrialisation Strategy and Roadmap 2015-2063, with specific focus on processes, strategies
+and programmes aimed at developing a competitive and productive industrial base in SADC, the
+following activities can be highlighted for the year under review:
+i.
+
+A Draft Protocol on Industry was developed and following a review and input from
+different structures and other bodies in the region, the Draft was considered by the
+Ministerial Task Force on Regional Economic Integration (MTF) in June 2019. Once
+approved, the Protocol will become a stand-alone legal instrument whose main
+objective will be to promote the development of a diversified, innovative and globally
+competitive regional and national industrial bases to enable the Region to achieve
+sustainable and inclusive industrial development.
+
+ii.
+
+A first Capacity Building Workshop was held on 25-29 March 2019 in Johannesburg,
+South Africa to assist Member States in aligning their industrialisation policies and
+strategies to SADC’s Industrialisation Strategy and Roadmap (2015-2063) using the
+‘Enhancing the Quality of Industrial Policies’ (EQuIP) methodology.
+
+iii.
+
+Member States involved included, Botswana, Lesotho, Eswatini, Malawi,
+Mozambique, Namibia, Tanzania and Zambia (all currently supported by the SADC,
+EU and Germany partnership Programme, “Strengthening National Regional
+Linkages’’ (SNRL) and implemented by GIZ. To allow for continuity and capacity
+building of the Secretariat, four (4) staff members were selected to take part in the
+training.
+
+13
+
+-----------------------Page 21 End-----------------------
+
+iv.
+
+To ensure that there is increased production and use of SADC raw materials as
+feedstock for downstream processing, a SADC Draft Regional Mining Vision (RMV)
+and Action Plan was finalised during the year. The RMV is anchored on the tenets of
+the African Mining Vision (AMV) and aims at optimising the sustainable developmental
+impact of mineral resources extraction across the region whilst being cognisant of the
+differing maturity of the minerals sector in the Member States. The Draft RMV and
+Action Plan underwent revisions following presentations to the representatives of the
+private mining sector in September 2018 and to the public sector and was scheduled
+to be submitted for consideration by the Ministerial Task Force on Regional Economic
+Integration (MTF) in June 2019.
+
+v.
+
+The study on the Regional Gaps analysis to develop regional programme to improve
+Industrial Competitiveness of Member states was undertaken from February to June
+2019. The study aims at mapping the situation of the SADC economies; Identify the
+constraints against enhancing competitiveness in member states and competitive
+integration in production and trade value chains; Identify capacity gaps in
+implementing the industrialisation policy and develop regional programme to improve
+competitiveness of Member States. The Secretariat has planned validation workshop
+to be held on 24-25 June 2019, Johannesburg, South Africa.
+
+5.1.2 Market Integration
+The enhancement of intra and extra SADC trade remains a key regional agenda. Key focus areas
+in this area include, among others, the simplification of rules of origin and application of improved
+methods for certification of origin; establishment and implementation of the Tripartite FTA;
+establishment and implementation of the AfCFTA, implementation of the EPA and finalization of
+the negotiations and implementation of the schedules of commitments to the SADC Protocol on
+Trade in Services and conclusion of preparatory work leading to the establishment of the SADC
+Customs Union. The following were notable developments in the year under review:
+i.
+
+The first round of negotiations was completed in 4 of the 6 priority sectors identified in
+the Protocol on Trade in Services, namely; communication, finance, tourism and
+transport services. Negotiations on the remaining two priority sectors (construction and
+energy-related services) were scheduled to be finalised during the 39th TNF Services
+meeting to be held in the 2019/2020 period before presentation to the 31st CMT for
+adoption.
+
+ii.
+
+At the Tripartite Free Trade Area level, work on Rules of Origin is almost finalized with
+agreement on 91.55% of the tariff lines as of February 2019. These negotiations and
+agreement on the necessary rules of origin manuals are scheduled for completion by
+June 2019; and
+
+iii.
+
+At the regional level, the SADC Free Trade Area now covers twelve of SADC’s sixteen
+Member States. Except for two Member States currently facing challenges in
+implementing their tariff commitments, all the other participating Member States are
+fully meeting their obligations under the Free Trade Area. Since 2013, intra-regional
+trade in SADC has been consistently above 20% and growing, which can be
+considered to be a relatively good achievement compared to the pre-FTA era high of
+around 16%.
+14
+
+-----------------------Page 22 End-----------------------
+
+iv.
+
+The 12 Member States benefiting from the TRF two (2) windows continued with their
+implementation of different activities to achieve the planned results as per their
+respective commitments from both the STP and the EPA Windows of the TRF Fund.
+As at the end of March 2019, the TRF fund utilization was at 54.5% -i.e a total of
+EUR12.422 million was disbursed under Tranche 1 (initial payment of 30% of total
+allocation) and partially under Tranche 2 (up to 50% of total allocation). A further
+EUR5.218m was due to be disbursed under Tranche 2 to Member States by 30 June
+2019 and this would translate into 77% commitment. The remaining EUR5.16 million
+will be disbursed under Tranche 3 (balance of 20% of total allocation) from September
+2019 onwards. Due to the challenges faced at the start of the Programme, the SADC
+Secretariat and the EU have agreed to extend the programme by 24 months from the
+initial end date of 30 September 2019 to 30 September 2021. However, Member
+States are expected to complete implementation by March 2021 at the latest, leaving
+6 months for closure at Member State level and at the SADC level.
+
+To facilitate the harmonization of Standards, Technical Regulations as well as Sanitary and
+Phytosanitary measures, with the main view to enhance the regional Trade as pursued by SADC
+Protocol on trade, the following were the key achievements in the year:
+
+5.1.3
+
+i.
+
+Sanitary and Phytosanitary (SPS) measures for at least six commodities were
+harmonized and notified. The Gap Analysis Report on the Codex System was
+developed through convening of the SADC Codex Alimentarius Contact Points in
+respective Member States. The findings will be used to mobilise technical assistance
+from the Codex Trust Fund.
+
+ii.
+
+In light of the advent of the African Continental Free Trade Area, the SADCSTAN
+standards harmonisation procedure was reviewed to align with the African
+Harmonisation Model used by the African Regional Organisation for Standardisation
+(ARSO). In addition to the Eleven SADC standards that were harmonised in
+FY2017/18 and ten more were harmonised in the FY2018/19, bringing the total
+number of SADC harmonised texts to 107.
+
+iii.
+
+The COMESA-EAC-SADC tripartite intensified their collaboration around the tripartite
+NTBs resolution mechanism, focusing mainly on TBT and SPS as two of the
+specialised areas from which NTBs may arise. A benchmarking and knowledge
+sharing exercise was undertaken between the EAC and SADC with a view to aligning
+their standards development and possible bilateral NTB resolution processes in the
+interest of trade.
+
+iv.
+
+At the regional level, Botswana achieved international recognition of its Calibration and
+Measurement Capabilities and thus international recognition of the BOBS calibration
+laboratories capability. This implies that Botswana can now be identified as another
+node at which internationally recognised calibration and measurements can be
+obtained.
+Trade Facilitation and Customs Instruments
+
+The SADC Trade Facilitation Programme (TFP) was approved in July to support the
+implementation of the industrialization strategy and roadmap. The achievements on customs and
+trade facilitation in 2018/19 include:
+15
+
+-----------------------Page 23 End-----------------------
+
+vi.
+
+Simplified Trade Regime (STR) Framework aimed at reducing barriers to trade by
+simplifying the customs procedures and processes, thereby lowering transaction costs
+associated with formal trade in support of small traders.
+
+vii.
+
+Regional Framework for the Electronic Certificate of Origin (E-CoO) to enable traders
+to apply for the certificate of origin electronically; reduce time for issuance and
+transmission to the importing country; determine the origin of benefits thereof from
+duty free access to SADC market; and enhance integrity of customs and trade
+operations because of less human interference. In the last year, Botswana, Lesotho
+Malawi and Zambia developed national modules of the E-CoO while Mauritius is
+already implementing.
+
+viii.
+
+Project proposal on trade facilitation needs for Kasumbalesa border post by the
+German Government. Two Member States (DRC and Zambia) signed a Memorandum
+of Understanding (MoU) on interconnectivity of customs Information and Technology
+(IT) systems and data exchange.
+
+ix.
+
+Assessment of the implementation of customs and trade facilitation instruments at
+Zobwe/Mwanza (Mozambique/Malawi) towards improvement of border management
+efficiency. The assessment identified lack of adequate infrastructure, uncoordinated
+operations among border agencies and lack of capacity as main challenges.
+
+5.1.4
+
+Financial Market Integration
+
+SADC continues to support the modernization and harmonization of payments and clearing
+systems to improve safety of payments and efficient settlement and payment processes in the
+region. Moreover, it is a means of financing priority sectors and driving economic development in
+the region. Notable milestones achieved in the area of payment systems are as follows:
+i.
+
+At national level, all Member States except for Madagascar, are implementing Real
+Time Gross Settlement System (RTGS). The RTGS facilitates quicker transactions
+and brings about efficiency in payments;
+
+ii.
+
+At regional level, all Member States except for Madagascar and Comoros are
+participating in the SADC-RTGS and 81 banks (central banks and commercial banks)
+are participating in the system. The SADC-RTGS has performed impressively since
+July 2013 when the system went live, with 1,356,025 transactions settled as at end of
+February 2019, representing ZAR5.52 Trillion. However, Central Bank Governors
+(CCBG) are still engaging the SADC Bankers Association to ensure that savings
+arising from removal of overseas correspondent banks are passed on to consumers;
+and
+
+iii.
+
+The SADC RTGS multi-currency platform that initially started with the on boarding of
+the US dollar went live in October 2018. Discussions are ongoing with the Federal
+Reserve Bank of New York regarding the opening of a US Dollar account to facilitate
+US dollar settlement in the SADC-RTGS. On boarding of all the currencies of the
+region onto the system is expected to be completed by December 2019.
+16
+
+-----------------------Page 24 End-----------------------
+
+5.1.5
+
+Financial Inclusion and Remittances
+
+In total, 68% of adults in the region are financially included (including both formal and informal
+financial products/services) which is around 97 million individuals. This is an improvement from
+60% of financially included adult population in 2016. Overall levels of financial inclusion vary
+considerably across the region from 97% in Seychelles to 40% in Mozambique. The highest levels
+of overall financial inclusion were recorded in Seychelles, Mauritius, South Africa, Botswana,
+Lesotho, Namibia, Eswatini and Tanzania.
+The SADC Financial Inclusion Strategy and SME Access Implementation Plans were approved
+in July 2018. This paved a way for the implementation of activities and assisted Member States
+to develop their own Strategies and programmes aimed at empowering the SMEs, youth and
+women to participate and contribute to economic activity. Ten Member States including Angola,
+Botswana, DRC, Eswatini, Lesotho, Madagascar, Malawi, Tanzania, Zambia and Zimbabwe have
+developed either their own Financial Inclusion Strategies or a national roadmap on financial
+inclusion.
+More than 70% of adults in the SADC region have access to cell-phones, but only 27% of the
+adults are using mobile money. Tanzania followed by Zimbabwe rank high at 57% and 47%,
+respectively, in terms of uptake of mobile money. To deepen financial inclusion through use of
+mobile money, CCBG developed mobile money guidelines that are being piloted in Lesotho,
+Eswatini, Malawi and South Africa, with the expectation to roll this out to other Member States.
+Cross border remittances are critical for financial inclusion and poverty alleviation in the region.
+The cost of cross border remittances has been reduced by 7 percentage points from an average
+of 20% per transaction to about 13% in the corridor between South Africa and DRC, Eswatini,
+Lesotho, Malawi and Mozambique. The challenge is to further reduce these costs to meet the
+G20 target of 5% per transaction. As part of this work, a pilot product has been introduced
+between South Africa and Lesotho using Shoprite. The Shoprite cross-border money remittance
+product reached the R1 billion mark in January 2019, after just three years of its implementation.
+The cost of a transfer of R900 is 2%, which is one of the cheapest cross-border products in the
+world. It is estimated that the Shoprite Lesotho remittance product has saved approximately R80
+million in transfer fees over the three-year period. Approximately 70% of the recipients of these
+remittances are women. Given the success of the remittance product to Lesotho, work is
+underway to replicate it in the Zimbabwe, Malawi, Mozambique and Eswatini corridors.
+5.1.6
+
+Development Finance
+
+SADC Project Preparation Development Facility (SADC - PPDF) continues to support Member
+States to strengthen regional infrastructure connectivity by providing grants for project preparation
+and development for cross-border regional infrastructure projects. By the end of 2018, PPDF had
+approved a total of US$19.6 million for the preparation of nine (9) regional projects covering
+energy, transport and water, which is expected to generate US$5.8 billion in infrastructure
+investment.
+The nine (9) regional projects are Mozambique-Zimbabwe-South Africa Interconnector Project;
+Second Alaska-Sherwood 400 kV line (Zimbabwe and the Southern African Power Pool (SAPP));
+Kasomeno-Mwenda Toll Road (DRC and Zambia); rehabilitation and upgrade of the North-South
+Rail Corridor (Botswana, DRC, South Africa, Zambia and Zimbabwe); Luapula Hydro Power
+Development (DRC and Zambia); Angola-Namibia Transmission Interconnector; Mulembo Lelya
+17
+
+-----------------------Page 25 End-----------------------
+
+Hydro Electric Power (Zambia, DRC and the SAPP); Africa Green Co (All SADC Member StatesIndependent Power Producers); and development of Guidelines and Standards for Renewable
+Energy Projects and a Funding and Incentive Strategy Project in Mauritius.
+A PPDF Mid-Term Review consultancy was commissioned by the EU in 2018 to provide an overall
+independent assessment of the PPDF’s past performance, paying particular attention to its
+intermediate results measured against its objectives. KFW has also commissioned a consultant
+for the assessment of the PPDF Phases I and II and the analysis of strategic options for Phase
+III.
+The Agreement on the Operationalisation of the SADC Regional Development Fund was finalised
+and nine Member States have signed the Agreement, namely: Angola, DRC, Lesotho, Malawi,
+Mozambique, Swaziland, Tanzania, Zambia and Zimbabwe. None has yet submitted instruments
+of ratification of the Agreement with the Secretariat. The Secretariat is consulting and sensitizing
+Member States on the need to fast-track signature and ratification of the Agreement to ensure
+that the Fund is operationalised. In January 2019 and March 2019, Malawi and Madagascar were
+consulted and sensitised.
+5.1.7
+
+Investment and Tax Related Matters
+
+SADC is implementing a Regional Action Programme for Investment (RAPI) aimed at improving
+the investment and business environment and removing barriers to investment. In that regard,
+SADC has developed an Investment Policy Framework (IPF) to guide Member States in
+developing their National Investment Action Plans. The IPF is yet to be reviewed by the Joint
+Meeting of the Investment Subcommittee and the Trade Negotiation Forum–Services to ensure
+that investment issues discussed in the World Trade Organisation (WTO) framework are taken
+into account.
+Three (3) Member States (Botswana, Malawi and Zambia) have developed National Action Plans
+for Investment (NAPI) to facilitate implementation of the SADC Investment Policy Framework. To
+support investors in accessing information, SADC has developed an investment portal which is
+linked to Member States investment portals. During the period under review the portal was
+reviewed to enable remote updating by Member States. The Bilateral Investment Treaty Template
+that assists Member States in the negotiation of investment treaties has been reviewed to take
+into account regional and international developments. Furthermore, SADC has developed a
+Foreign Direct Investment (FDI) Strategy to support mobilization of FDI into the region.
+On the taxation side, SADC developed the SADC Model Double Taxation Avoidance Agreement
+to assist Member States in the negotiation of tax avoidance agreements, which are critical for
+investment and businesses. The network of Double Taxation Avoidance Agreements in the region
+has increased from 52 in August 2015 to 59 by December 2018.
+5.1.8
+
+Macroeconomic Convergence Programme
+
+Economic growth marginally improved in 2018 but largely remains subdued. Generally, inflation
+eased and slight improvements in fiscal deficit were recorded. However, public debt continues to
+rise compounded by a burden arising from low performance by State Owned Enterprises.
+Economic growth is estimated at 3.1% in 2018, a slight improvement from 2.9% recorded in 2017.
+Annual inflation rate eased to an average of 8.1% in 2018 from 9.8 % in 2017. The fiscal deficit is
+estimated to have recorded 3.8% of GDP in 2018 compared to 4 % of GDP in 2017. Public debt
+18
+
+-----------------------Page 26 End-----------------------
+
+maintained an upward trend across all Member States in 2018. The region’s public debt increased
+to 49.3% of GDP in 2018, slightly above the 48.6 percent recorded in 2017.
+The majority of Member States underperformed in achieving the agreed macroeconomic
+convergence indicators. Four Member States (Botswana, Lesotho, Seychelles and Tanzania) met
+the set targets of the primary Macroeconomic Economic Convergence indicators (Inflation, Fiscal
+Deficit and Public Debt) in 2018. Only three Member States (Botswana, Lesotho and Tanzania)
+met the set targets of the primary indicators in 2017.
+
+5.2
+
+INFRASTRUCTURE DEVELOPMENT IN SUPPORT OF REGIONAL INTEGRATION
+
+The SADC Regional Infrastructure Development Master Plan (RIDMP) is the region’s blueprint
+for development of infrastructure projects for the period 2012 to 2027, which was adopted by the
+Summit, as the guiding document in the region’s infrastructure development and rehabilitation
+programme. It implements Priority B – Infrastructure Support for regional integration of the
+Revised RISDP. The RIDMP focuses on the realization of SADC Infrastructure Vision 2027 and
+contributes towards the Industrialization Strategy and Roadmap as well as other regional strategic
+frameworks.
+5.2.1
+
+Information, Communication and Technology (ICT)
+
+Through the implementation of the Regional Infrastructure Development Master Plan, SADC has
+continued to facilitate implementation of the SADC Roaming Project aimed at lowering
+international mobile roaming rates. Mobile Network Operators from 11 participating Member
+States, with the exception of Angola, Comoros, DRC, Madagascar and Seychelles, have
+completed Phases 1 and 2 of the project. Establishment of National Internet Exchange Points and
+Regional Internet Exchange Points has resulted in low latency, cost and bandwidth-saving
+Internet access to the SADC Internet Users whereby all SADC Member States established at
+least one National Internet Exchange Points.
+Implementation of the SADC ICT Observatory flagship project aims to secure the region with
+reliable, accurate and up-to-date collection and dissemination of ICT information. Member States
+were supported to develop Multi-Purpose forms including the SADC Model Household Survey for
+ICT Indicators, ICT in Government, ICT in Business, ICT in Research and Innovation, ICT in
+Education and Skills and ICT in ICT Sector and Trade in ICT Goods.
+The region will benefit from the establishment of the African Centre for the Fourth Industrial
+Revolution (4thIR) which South Africa is setting up in collaboration with the International
+Telecommunication Union. This is in response to the operationalization of the SADC Declaration
+on the Fourth Industrial Revolution (4thIR) through the use of ICTs. The centre will facilitate
+creation of an integrated and comprehensive response for Africa to the digital technological
+revolution.
+The Digital Terrestrial Television (DTT) provides consumers with more efficient use of radio
+frequency spectrum as well as better quality pictures and sound. To date, five Member States
+namely Eswatini, Malawi, Mauritius, Namibia and United Republic of Tanzania have completed
+the SADC DTT Migration while the remaining are on dual illumination and will complete the
+process by 2020. A total of 12 Member States, with the exception of Comoros, Madagascar, South
+Africa and United Republic of Tanzania, are contributing content for the SADC TV Channel and
+the Grid Planning that runs from 6am to 10pm. Presently, the language used is English but at a
+19
+
+-----------------------Page 27 End-----------------------
+
+later stage, there will be subtitles in the other two (2) SADC Official languages, to be accessed
+using the DTT technology through the Set Top Boxes (STBs).
+5.2.2
+
+Energy
+
+Significant progress has been realized towards installation and commissioning of the power
+generation capacity in the region. The Region commissioned 4,175 MW power generation and
+both Public Utilities and Independent Power Producers commissioned the power plant projects.
+The target is to commission 4,883 MW in 2019/20. The recent investments in the renewable
+energy technologies and commissioned gas-fired power plants increased the share of other
+primary energy sources in the generation mix.
+The SADC Centre for Renewable Energy and Energy Efficiency (SACREEE) is a regional centre
+of excellence launched in October 2018 aiming at promoting and adopting renewable energy and
+energy efficiency technologies and programmes contributing to increased access to energy and
+energy security of supply. To date Six (6) Member States namely Botswana, Eswatini, Lesotho,
+Malawi, Mauritius and Namibia have signed the Inter-Governmental Memorandum of Agreement
+(IGMoA) for establishing SACREEE.
+The Regional Electricity Regulators Association (RERA) was established to facilitate
+harmonisation of the region’s regulatory policies on energy among Member States and support
+the development of energy regulators in the region. To date, 14 out of 16 SADC Member States
+with exception of DRC and Comoros have Energy Sector Regulators whereby and 11 are
+participating in RERA activities.
+The region approved to migrate towards cost-reflective tariffs. Currently tariffs for most utilities do
+not reflect costs of supply. Member States have agreed on a plan to introduce cost-reflective
+tariffs in the region. To date, Angola, Eswatini, Mozambique, South Africa, Tanzania, Zambia and
+Zimbabwe have lifeline tariff structures that allow for a minimum level of service, while Lesotho
+and Malawi have completed the cost of service studies and similar studies are in progress in
+Eswatini.
+5.2.3
+
+Transport
+
+Through the implementation of the Tripartite Transport and Transit Facilitation Programme
+(TTTFP), the draft Vehicle Load Management Agreement and Multilateral Cross Border Road
+Transport Agreement was legally “scrubbed” by REC Legal Counsels. Training and capacity
+building were conducted with regard to the national transport information systems and the
+production of an ISO compliant driving licence in order to raise awareness of the planned systems.
+In addition, national TTTFP Focal Persons from the Corridor Management Institutions and SubRegional Organisations received training.
+Construction of the Kazungula Bridge in the North-South Corridor progressed well. The bridge
+will link Botswana and Zambia and replace the current facility of crossing the river by Ferry. In
+addition, One Stop Border Facilities are being constructed on both sides of the river together with
+access roads and associated facilities such as staff housing. Frameworks for establishment and
+operation of Common Management Area were completed. Completion of the project will facilitate
+trade and transport in the region especially for the Member States served by the North South
+Corridor.
+20
+
+-----------------------Page 28 End-----------------------
+
+Other ongoing projects include, the construction of the Port of Walvis Bay’s New Container
+Terminal on reclaimed land which commenced in mid-2014 and is expected to be commissioned
+in August 2019. The project will not only provide increased container handling capacity in the Port
+of Walvis Bay (Namibia), but will also increase the port’s bulk and break-bulk handling capacity
+by freeing up the existing container terminal to become a multi-purpose terminal. Similarly,
+implementation of the Dar es Salaam-Chalinze Toll road has (United Republic of Tanzania)
+continued, and work entails widening the road between Dar es Salaam and Chalinze from four to
+six lanes and converting it into a toll road.
+5.2.4
+
+Water
+
+SADC Secretariat provided technical and facilitation support to the Governments of Angola and
+Namibia on the Kunene Transboundary Water Supply project. The Lot 1 activities of the Project
+were completed. These included the delivery of a new water treatment plant, pipeline and canal
+repair works, construction of abstraction points for livestock watering and irrigation abstraction,
+and water distribution network for Calueque village. The water transfer canal and pipeline repair
+works have ensured reduced system water losses for the water being transferred across the
+border into Namibia as well.
+Implementation of the Lot 2 activities also progressed well in the Angola Santa Clara town. This
+component will also ensure improved assurance of potable water supply to the Santa Clara
+community.
+SADC Secretariat continued to engage in programmes to increase the knowledge of the
+groundwater resource through research and training of the region’s water experts and youth to
+increase the knowledge base. The SADC-Groundwater Management Institute offered internship
+programme for 27 young professionals involving Member States’ young professionals. Three
+Member States (Botswana, Malawi and Zambia) are at an advanced stage in implementing the
+pilot projects under the SADC-Groundwater Management Institute Project funded through the
+World Bank. Other six countries including Eswatini, Lesotho, Mozambique, Namibia, Tanzania
+and Zimbabwe are lining up for the support to finalize sub-grantee agreements.
+The Climate Resilient Infrastructure Development Facility (CRIDF) programme continued to
+implement a number of projects in the region. In the current second phase, the Makonde/Matema
+Water Supply scheme was completed in Tanzania, which involved rehabilitation of the Matema
+Water Treatment Plant. The project has ensured clean and reliable water supply to the
+community. In addition, construction of several small dams in the East Limpopo in Zimbabwe for
+water potable supply, small-scale irrigation, livestock watering and other livelihood projects were
+completed.
+5.2.5
+
+Meteorology
+
+The Quality Management System (QMS) ensures and enhances the quality of products and
+services provided by the National Meteorological and Hydrological Services (NMHSs. A key
+imperative has been the requirements for International Civil Organisation (ICAO) for aviation
+weather services, which amongst others recommend conformity with International Organisation
+of Standards (ISO) 9001 series of quality assurance standards. To date, four (4) SADC Member
+States (Angola, Mauritius, South Africa and Tanzania) are ISO 9001:2015 certified. Nine member
+states are in progress for QMS certification while two member states are at the stage of
+21
+
+-----------------------Page 29 End-----------------------
+
+identification of agencies to support them with the QMS certification process for the 2015
+standard.
+The SADC Climate Services Centre is currently implementing the Southern African Regional
+Climate Information Services for Disaster Resilience Development (SARCIS-DR) Project. The
+overall objective of the project is to increase the capability of SADC countries to respond to
+climate-induced disasters and to reduce loss of lives and damages to infrastructure, natural
+resources and property. So far, the overall implementation of planned activities is at 62%.
+To strengthen the capacity of climate experts to generate and disseminate early warning products
+and services, a pre-SARCOF training was conducted in August 2018 to capacitate Climate
+experts from Member States. The training built capacity of climate experts on new tools to
+generate the 2018/19 seasonal climate forecast for their respective countries; and to produce a
+consensus forecast for the SADC region that will be presented in the Southern African Regional
+Climate Outlook Forum (SARCOF).
+In addition, the seasonal climate forecasts for SADC region; and the regional consensus climate
+update forecast for the October-November-December (OND) 2018 to January-February-March
+(JFM) 2019 rainfall season were reviewed. Based on this information, the SADC Climate Services
+Centre issued a range of products including the climate outlook statement and advisories, monthly
+updates, weekly drought and flood risk watch and extreme weather alerts.
+
+5.3
+
+PEACE AND SECURITY COOPERATION
+
+Peace and Security Corporation remains a significant precondition for the attainment of regional
+integration in the SADC Region. In this regard, the Directorate of the Organ on Politics, Defence
+and Security Affairs guided by Article 5 of the SADC Treaty and the SADC Protocols on Politics
+and Security Corporation coordinates Member States policies, strategies and activities within the
+areas of politics, defence and security. The Organ Directorate discharges its regional mandate
+through key areas of Politics and Diplomacy; Defence Affairs and Planning; Public Security; State
+Security and Police.
+5.3.1
+
+Political Development in SADC Region
+
+The Region has remained peaceful and stable in 2018/19. This notwithstanding, some political
+challenges were experienced in the Kingdom of Lesotho, the Union of Comoros and the Republic
+of Madagascar. The eastern part of the Democratic Republic of Congo (DRC) also continued to
+experience insecurity caused by negative forces and the Ebola outbreak. All cases have been
+accorded adequate attention by relevant SADC organs to ensure the attainment of lasting peace
+and political stability.
+The Region continued to play a leading role in supporting the strengthening of democracy and
+good governance through the implementation of the SADC Principles and Guidelines Governing
+Democratic Elections as revised in 2015. In this regard, the SADC Electoral Observer Missions
+(SEOM’s) were deployed in the Republic of Zimbabwe; the Kingdom of Eswatini; the Republic of
+Madagascar; the Democratic Republic of Congo (DRC) in 2018; and in the Republics of South
+Africa; Malawi and Madagascar (legislative elections) in the 2019.
+
+22
+
+-----------------------Page 30 End-----------------------
+
+An Elections Reference Manual was rolled out during the July 2018 elections in Zimbabwe;
+September 2018 elections in Eswatini; October/November 2018 elections in Madagascar; and
+December 2018 elections in the Democratic Republic of Congo. The Manual marks a significant
+stride towards regional commitment to democracy; good governance and quality elections. The
+peaceful transfer of power in Madagascar and the DRC after the elections is expected to open a
+new chapter in the political sphere in the two countries to enable greater levels of social cohesion;
+reconciliation; poverty eradication and economic development.
+5.3.2
+
+Conflict Prevention Management and Resolution
+
+Combined efforts of the SADC Facilitator, the Oversight Committee and the deployment of the
+SADC Preventive Mission to Lesotho (SAPMIL) were instrumental in stabilizing the political and
+security situation in Lesotho. The SAPMIL officially ended its one-year mission in November 2018
+after restoring peace, security and stability in the country. Furthermore, the Mediation Support
+Unit (MSU) facilitated deployment of the SADC Oversight Committee (OC) in the Kingdom of
+Lesotho during May to December 2018. The OC advisory services to the leadership of SADC has
+assisted in the de-escalation of tensions in the Kingdom of Lesotho.
+The 2018 presidential elections paved way for a peaceful and democratic transfer of power in the
+DRC. SADC has maintained its presence in the country through the Liaison Office in the DRC in
+support of the political, electoral and security support initiatives.
+The overall political and security situation in the Union of Comoros is generally stable but remains
+tense due to political differences largely triggered by the constitutional amendments effected in
+July 2018 which changed the rotational system for presidency and called for provision of a twoterm five-year presidency, deviating from the five-year term rotational presidency under the old
+constitution.
+5.3.3
+
+Regional Collective Defence and Security strengthening
+
+A number of key instruments were developed in the public security arena during the year including
+the:
+•
+•
+
+•
+
+Regional Corruption Assessment report, which led to the enactment of legislation to fight
+corruption and other related crimes;
+tourism UNIVISA legal instrument that seeks to regulate the implementation of the
+UNIVISA and ensure that all security vulnerabilities and threats to the region are taken
+care of as the Region prepares to pilot the Tourism UNIVISA; and
+Law Enforcement and Anti-Poaching strategy (LEAP) consolidated report that highlights
+the Member States efforts in fighting these heinous crimes, through amongst others, the
+establishment of multi-sectoral National Anti-poaching Task Forces.
+
+The SADC Standby Force (SADC SF) prepared the assumption of its responsibility to provide the
+African Union (AU) with capabilities to respond to conflicts through the deployment of multidimensional peacekeeping forces, and to undertake interventions pursuant to Article 4 (h) and (j)
+of the AU Constitutive Act in line with the African Standby Force (ASF) objective of promoting
+peace, security and stability in Africa.
+23
+
+-----------------------Page 31 End-----------------------
+
+The Southern African Regional Police Chiefs Co-operation Organisation (SARPCCO) in
+collaboration with INTERPOL, conducted several joint cross border operations to enhance cross
+border safety and security. This operation resulted in, amongst others, recovery of stolen
+properties; arrest of illegal migrants; and arrests and convictions related to human trafficking.
+5.3.4
+
+Consolidation of Democracy in the Region
+
+The consolidation of democratic principles and standards in the Region continued in 2018. The
+SADC Electoral Observer Mission (SEOM) supported by the SADC Electoral Advisory Council
+(SEAC) conducted observation missions to the Harmonized Elections in the Republic of
+Zimbabwe in July 2018; the General Elections in the Kingdom of Eswatini in August 2018; the
+Presidential Elections in the Republic of Madagascar in November 2018; the General Elections
+in the DRC in December 2018; the General Elections in the Republic of South Africa; the Tripartite
+Elections in the Republic of Malawi and the National Assembly Elections in the Republic of
+Madagascar, in May 2019. The presence of the SEOMs resulted in the conduct of peaceful,
+credible and transparent elections in the above countries.
+SADC Electoral Observation Missions will also be deployed to the four Member States holding
+elections in 2019, namely the Republics of Mozambique, Botswana, Namibia, and Mauritius. The
+SEOMs will provide further support and oversight during elections in 2020 in two Member States
+namely the United Republic of Tanzania and the Seychelles.
+SEAC efforts to monitor and observe electoral processes in Member States were guided by the
+Revised SADC Principles and Guidelines Governing Democratic Elections, the SEAC Strategy
+for the Prevention of Electoral-related Conflicts and the SADC Reference Manual on Election
+Observation. This has continued to enhance the strategic context for the consolidation of
+democracy in the region.
+Continued commitment to democracy and good governance principles in the region was further
+enhanced under the Regional Peace Training College (RPTC) programme whereby Long Term
+Observers from Member States were trained on all aspects of the electoral cycles.
+
+5.4
+5.4.1
+
+SPECIAL PROGRAMMES OF REGIONAL DIMENSION
+Food Security and Environment
+
+Regional Agricultural Policy
+The region is implementing the Regional Agricultural Policy (RAP) through the Regional
+Agriculture Investment Plan (RAIP) 2017-2022. The project to support the operationalization of
+the Regional Agricultural Policy funded by the European Union’s EDF 11 Programme to the tune
+of €9.0 million, was launched in March 2019.
+The Secretariat for the first time commemorated the World Food Day at a Regional level in
+Namibia in October 2018 under the theme – “Our actions are our future. A Zero hunger world
+by 2030 is possible”. The event was an opportunity to remind stakeholders that Zero Hunger is
+still possible by 2030 if all stakeholders come together and take account of lessons learned, best
+practices and all evidence available.
+
+24
+
+-----------------------Page 32 End-----------------------
+
+The SADC Secretariat commissioned a study on “Contribution of fisheries to food and nutrition
+security in the SADC region- the role of small-scale fishers, women and youth in the fish value
+chains”. The objective of the study was to quantify contribution of the fisheries sector to food and
+nutrition security in the region, and make a case for recognition of this sector in the food and
+nutrition, and economic planning and development policy dialogues. The study also focused on
+how the SADC region can improve livelihood security and gender relations in rural and coastal
+fishing communities, through post-harvest fish value chain innovations and social change
+interventions.
+5.4.2
+
+The Regional Food Security Situation
+
+Rainfall situation during the 2018/19 crop season
+Rainfall totals for the October 2018 to January 2019 period were below average in most areas.
+Analysis indicates that rainfall for that period may have been the lowest since 1981 for parts of
+southern Angola, western Botswana, northern Namibia, western and central South Africa,
+Lesotho, western Zambia and western Zimbabwe. Rainfall was also poorly distributed and below
+average in western Madagascar, southern Mozambique, and eastern Tanzania.
+The low rainfall was associated with a delayed and erratic onset that resulted in reduced planted
+area, delaying planting, poor germination and crop establishment, as well as an extended dry
+spell in January 2019 that led to moisture stress and permanent wilting. Rainfall resumed in early
+February 2019 in most of the affected areas. While these late rains may have been beneficial for
+water, fodder and pasture in some parts of the region, it was too late for crop production.
+Two unprecedented cyclones (Idai and Kenneth) hit northern, central and southern Mozambique;
+southern Malawi; eastern Zimbabwe and Comoros in March and April 2019, causing severe
+flooding and destroying more than 800,000 hectares of crop land.
+Food Security Outlook for 2019/20 Marketing Year
+Preliminary analyses of the crop production and vulnerability assessments suggest that cereal
+production is likely to be reduced compared to previous year due to impacts of the low rainfalls
+and dry spell in eastern parts of the region. In addition, excessive rainfall and floods in the northeastern parts of the region, including the recent negative impact of the Cyclones Idai and Kenneth
+affected the cereal production.
+The impact of the reduced cereal production on household food security will be more severe in
+those areas already experiencing high numbers of food insecure populations due to poor
+production in the previous season and those affected by Cyclones Idai and Kenneth. During the
+2018/2019 period, about 30.4 million people were estimated to be food insecure.
+The low rainfall and floods also negatively impacted pasture and livestock, as well as water supply
+for human, agricultural and other uses, which have all deteriorated in western parts of the region
+(particularly southern Angola and northern Namibia).
+Food and Nutrition Security Strategy
+Eleven SADC Member States (Angola, Botswana, Eswatini, Lesotho, Malawi, Mozambique,
+Namibia, South Africa, United Republic of Tanzania, Zambia and Zimbabwe) revised and
+25
+
+-----------------------Page 33 End-----------------------
+
+produced the comprehensive and detailed food balance sheets for the SADC Region for the crop
+production season 2017/18. The overall regional balance sheet was analysed and published in
+July 2018, and the report made available to all SADC Member States and to the public through
+SADC Website.
+Member States were capacitated on the use of remote sensing and mobile monitoring to better
+monitor crop production in the field, and were prepared for the compilation of the next food
+balance sheet for the season 2018/19.
+Agricultural Input Supply
+In an effort to stimulate and increase crop production, productivity and competitiveness as well
+as improving market access for crops and their products, SADC Secretariat in collaboration with
+Member States developed the draft Crop Development Programme which is being finalised.
+Surveillance and Control of Transboundary Plant and Animal Diseases and Pests
+The region minimised the impacts of Fall armyworm, which was introduced in the region in 2017
+and spread to all SADC Member States except Lesotho and Mauritius through capacity building
+and awareness campaigns carried out by governments, development partners including use of
+surveillance and monitoring equipment.
+Other pests are being closely monitored like Tuta absoluta (Tomato leaf Miner) currently in all
+mainland Member States; the Banana Bunchy Top Virus disease found in several countries; the
+Fusarium Oxysporum Tropical Race 4, still confined to Mozambique, and the Maize Lethal
+Necrosis, only found DRC and United Republic of Tanzania.
+The transboundary animal diseases, particularly Foot and Mouth Diseases (FMD), Peste de Petit
+Ruminant (PPR), Contagious Bovine Pleuro Pneumonia (CBPP) and Highly Pathogenic Avian
+Influenza (HPAI) continued to pose a threat to livestock growth, production and trade in livestock
+and livestock products.
+Six (6) Member States (Botswana, Madagascar, Mauritius, Namibia, South Africa and Eswatini)
+have been declared free of PPR (a disease that kills sheep and goats) by the OIE with Lesotho
+expected to apply for declaration of freedom shortly.
+From 2014 – 2019 Foot and Mouth Diseases outbreaks have been reported in ten (10) Member
+States (Angola, Botswana, Malawi, Mauritius, Mozambique, Namibia, South Africa, United
+Republic of Tanzania, Zambia and Zimbabwe). Some of which occurring in previously designated
+FMD free zones, affecting trade of livestock. The Guidelines on Commodity-based Trade
+Approaches for Managing Foot and Mouth Disease Risk in Beef in Southern Africa were validated
+and recommended for approval by Member States.
+The Livestock Technical Committee in December 2018 adopted the Regional Highly Pathogenic
+Avian Influenza Emergency Preparedness Plan and recommended it for further review by the
+Social Health and Development Technical Committee before recommending for approval by
+Ministers.
+The funds mobilized under the recently launched, Support for Operationalization of RAP project,
+under the European Development Fund 11, will support implementation of strategies towards the
+26
+
+-----------------------Page 34 End-----------------------
+
+control of transboundary animal diseases including developing a FMD Progressive Control
+Pathway, finalization of HPAI Emergency Preparedness plan and implementation of PPR
+eradication Road Map.
+Disaster Preparedness for Food Security
+The Regional Vulnerability Assessment and Analysis (RVAA) has increased capacities for
+Regional and Member States forecasting and Early Warning for food security. Fourteen Member
+States have established National Vulnerability Assessment Committees that have also integrated
+HIV and AIDS in the annual assessments. In addition, the development of the gender and nutrition
+guidelines in 2017/2019 enhanced the ability of the assessments to address women and
+adolescent girls’ specific needs, which has been cemented through trainings.
+The existence of partnerships such as the non-governmental organisations, ICPs and UN
+agencies provides technical inputs in the regional consultations, in the development of the tools
+in an inclusive manner. The capacities enabled over the years through the NVACs also support
+cross-fertilisation and sharing of information which is supported through the regional information
+dissemination platforms.
+The 2019/20 assessment will be conducted in consideration of the prevailing food insecurity
+situation which has been worsened by the damaging flooding in Comoros, Tanzania,
+Mozambique, Malawi and Zimbabwe due to Cyclones Idai and Kenneth, and the severe drought
+in Lesotho and Namibia. The RVAA is seeking a sustainability plan for the programme beyond
+2022 by enabling institutionalisation outcomes of the NVAC, and this process has commenced in
+five Members States.
+Joint Management of Transboundary Natural Resources (Wildlife, Fisheries, Forestry, and
+Transfrontier Conservation Areas)
+The Council of Ministers approved the establishment of SADC Transfrontier Conservation Area
+(TFCA) Financing Facility in March 2018. A road map for operationalisation of the Regional
+Financing Facility for SADC TFCAs was developed in consultation with International Cooperating
+Partner (KfW) and the proposed Executing Agency for the Facility. EUR 12 million has been
+allocated by the donor to establish the Facility.
+SADC Secretariat further secured financial resources to facilitate implementations of the Joint
+Management of Transboundary Natural Resources as follows:
+•
+
+EUR 6 Million from the Government of the Federal Republic of Germany (through KfW) to
+support capacity building programme for wildlife managers and rangers. This programme
+will be implemented as integral part of the SADC Law Enforcement and Anti-Poaching
+(LEAP) Strategy. Implementation Agreements are being finalized; and
+
+•
+
+EURO 2 million from WWF for the operationalisation of Regional Fisheries Monitoring
+Control and Surveillance Coordination Centre (MCSCC). The project will be implemented
+for a period of 5 years starting in 2019.
+
+27
+
+-----------------------Page 35 End-----------------------
+
+Following the successful implementation of at-sea patrols named Operation Jodari, by a coalition
+of Tanzanian law enforcement agencies, SADC fisheries Monitoring Control and Surveillance
+Coordination Centre through the FISH-i Africa project and Sea Shepherd crew, a regional at-sea
+patrol programme was developed, named Operation Vanguard. Sea Shepherd provided the patrol
+vessel M/Y Ocean Warrior for these operations, and the patrol vessel remains available to the
+region towards implementation of joint ocean and fisheries patrols under Operation Vanguard.
+To further support sustainable development of aquaculture in the region, SADC Secretariat
+developed Regional Guidelines for Aquaculture Management in the SADC region. The guideline
+provides best practices for aquaculture management and incorporate the guiding principles of the
+FAO ecosystem approach to aquaculture (EAA).
+In addition, Secretariat, working with partners (East Africa Community, FAO and WorldFish)
+developed and implemented the SADC Regional Tilapia Improvement Programme, which focuses
+on strengthening three national nucleus breeding programmes for tilapi species (Oreochromis
+andersonii, O. shiranus and O. mossambicus) to provide readily available germplasm of these
+tilapia species for the region.
+Conservation of Plant Genetic Resources
+SADC Plant Genetic Resources Centre continued to actively support the collection of genetic
+material in the Member States. Germplasm collection missions were carried out in nine member
+states targeting cow pea, pigeon pea and bambara and trainings on characterization. A Total of
+884 samples composed of mixed crops were collected. A total of 2600 crop accession duplicates
+were deposited at the Svalbard Global Seed Vault for long term back up storage. A total of 6 100
+accessions were tested for viability and 600 accessions were regenerated after losing viability at
+the regional genebank at SPGRC.
+Other programmes undertaken included on-farm and Community Seed Banks (CSB)
+development and training of farmers on managing community seed banks, training on crop
+restoration approaches after disasters, climate smart agriculture practices and income generation
+activities through local seed multiplication in collaboration with seed companies. All SADC
+Member States were trained on the new features of the Web Based SPGRC Documentation and
+Information System (SDIS) and the regional data base on plant genetic resources was updated.
+5.4.3
+
+Social and Human Development
+
+The Social and Human Development under Priority D of Special Programmes of Regional
+Dimension strives to ensure the availability of an educated, skilled, healthy, productive human
+resources which remains a fundamental for investment promotion, the efficiency, effectiveness
+and competitiveness of the region in the global economy, as well as improving the quality of lives
+of the region’s population.
+Education and skills Development
+The SADC Qualifications Framework (SADCQF) seeks to promote a regionally integrated and
+harmonised educational qualifications. It is also aligned to regional commitments such as the
+Addis Ababa Convention on the recognition of studies, certificates, diplomas, degrees and other
+academic qualifications in higher education in African States, to which the SADC Region
+subscribes.
+28
+
+-----------------------Page 36 End-----------------------
+
+The approval and adoption of the SADC QF in 2017 continued to contribute to the development
+and alignment of National Qualifications Frameworks, (NQF), to regional standards. To date, six
+(6) Member States, namely Botswana, Namibia, Seychelles, South Africa, Zambia and
+Zimbabwe, have the comprehensive 10 levels of the NQF. Three (3) Member States, namely
+Eswatini, Lesotho and Mozambique, are in the next tier of countries whose NQF is being finalised.
+The rest of the countries’ NQF typically covers Technical and Vocational Education and Training
+(TVET), which remains critically important and relevant in generating technical skills to facilitate
+the industrialisation agenda.
+The positive impact of the Regional Qualifications Framework (RQF) has been to promote mobility
+of professionals across the region, and as such, plays a key role in being the regional reference
+point for comparing qualifications obtained in the SADC region. In addition, the Framework
+provides a quality assurance mechanism whereby the countries can verify information about
+qualifications obtained in the SADC region. The SADC Qualifications Verifications Network
+(SADCQVN) was established as an oversight mechanism to ensure credibility and authenticity of
+qualifications.
+Health and Pharmaceutical and HIV/AIDS
+The region has been implementing the SADC pooled procurement services whose objective is to
+coordinate the development and harmonisation of policies, guidelines and legislation for
+Procurement and Supply Chain Management of essential medicines and health commodities. It
+further enhances joint negotiation and joint procurement.
+Phase 1 (2007-2016) of implementation which involved setting of the necessary systems and
+guiding documents, gave the basis for the full roll out of SADC Pooled Procurement Services
+(SPPS). In 2018, the United Republic of Tanzania was selected to host SPPS and signed a MoU
+with the SADC Secretariat. The full roll out of SPPS will reduce prices of procurement in the region
+and with a sound regulatory environment in the SADC region, there will be improvements in the
+procurement of quality medicines in the region.
+SADC HIV and AIDS Cross Border Initiative
+The SADC HIV and AIDS Cross Border Initiative (CBI)” Programme was implemented in two
+Phases, covering the period July 2011 to December 2017. The purpose of the CBI was to provide
+basic HIV and AIDS and health services to sex workers (SWs), long distance truck drivers
+(LDTDs) and community members in the catchment areas of selected high volume border posts.
+The services were provided at 32 Wellness sites that were specifically established for that
+purpose in twelve inland SADC Member States.
+Statistics indicate that the percentage of SWs, LDTDs and community members living with HIV
+significantly declined during the implementation period as shown in Figure 11 below.
+FIGURE 11: P ERCENTAGE OF COMMUNITY MEMBERS, LONG DISTANCE T RUCK D RIVERS AND S EX W ORKERS
+LIVING WITH HIV
+
+29
+
+-----------------------Page 37 End-----------------------
+
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+2011
+
+2012
+
+2013
+CMs
+
+2014
+LDTDs
+
+2015
+SWs
+
+2016
+
+2017
+
+(Source: CBI Service Statistics, 2011 to 2017).
+
+Specific achievements include decline in the percentage of SWs living with HIV from 50% in 2011
+to 13.2% in 2017 in the project intervention sites, and declines in the percentage living with HIV
+among LDTDs and community members were 75% and 60%, respectively. Although there could
+be multiple factors responsible for this decline, there is no doubt that structured CBI community
+mobilization activities played a major role. It is important to highlight that these statistics apply to
+the CBI sites and target groups and not to the general population.
+The impacts of the programme include increase in health seeking behaviour among mobile
+populations across the region, which potentially increase the quality of life and reduced mortality
+and morbidity as a result of HIV and AIDS. More importantly, the programmes have resulted in
+availability and increase of health service delivery points in the member states, as well as
+improved access to health care services at Member States level in recognition of the fact that
+Member States are taking over the facilities and integrating them into existing health programmes
+in each Member State.
+Malaria Elimination
+The signing of the Windhoek Declaration on Malaria Elimination by Heads of States and
+Government in 2018 places malaria at the top of the region’s agenda. SADC Member States have
+elevated the malaria elimination agenda to the highest political level, endorsing the African Union
+“Catalytic Framework to end TB, AIDS and Malaria by 2030”.
+SADC member states have implemented legislative policies to support malaria elimination and
+universal health care; identified the need to develop local manufacturing capacity to produce
+insecticides locally in the region in order to accelerate progress in the elimination of Malaria; and
+committed to joint monitoring of the region’s progress towards elimination.
+Formal cross-border agreements have been launched within the region to support policy
+harmonization and synchronization of malaria activities across connected borders; The TransKunene Malaria Initiative between Angola and Namibia, the ZAM-ZIM Initiative between Zambia
+and Zimbabwe, the MOSASWA agreement between Mozambique, Eswatini and South Africa, as
+well as the Trans-Ruvuma Cross-border Initiative between Malawi, Mozambique, Tanzania
+Mainland and Zambia.
+30
+
+-----------------------Page 38 End-----------------------
+
+Advocacy activities with Ministries of Health in the E8 countries have been conducted with support
+from the E8, ALMA and the RBM Secretariats to ensure continuous commitment to the Elimination
+agenda. The recent Cyclone Idai has had a negative impact on the gains made as it has increased
+malaria cases in the three affected countries, which are Mozambique, Malawi and Zimbabwe,
+including the neighbouring countries, thus reversing some of the gains that had been made in
+malaria elimination. SADC has continued to collaborate and leverage partnerships with regional
+and global bodies who share similar goals. To this end, SADC has signed an MoU with the African
+Leaders Malaria Alliance (ALMA) and the Roll Back Malaria Initiative (RBM) in the furtherance of
+the region’s malaria elimination targets.
+5.4.4
+
+Operationalisation of the 38th Theme
+
+In August 2018, at the 38th SADC Summit, the Heads of States and Governments endorsed the
+2018/2019 theme of “Promoting Infrastructure Development and Youth Empowerment for
+Sustainable Development”. Some of the key initiatives implemented to operationalize the theme
+include:
+i.
+
+Development of Multimedia Messages with a specific theme or content concerning the
+youth, for example the setting up of a hashtag “#SADCYouthtalks #EngageSADCYouths”
+where young people across the region engaged and shared information and ideas on the
+theme.
+
+ii.
+
+Amplifying Youth voices through facilitating their participation in various platforms
+including the Southern Africa Internet Governance Forum; the SADC Youth Forum; the
+SADC Industrialisation week; the infrastructure Development Forum, dialogue on
+Empowering the Youth through CleanTech and Innovation; and the SADC Youth Dialogue
+on engaging Youth in ICT and Transport.
+
+iii.
+
+Convening of Ministerial roundtable discussion themed, “Upscaling Sustainable Energy
+for the Industrialisation Agenda and Youth Empowerment for the SADC Region” and a
+Cooperating Partners roundtable themed, “Promoting Sustainable Energy for
+Infrastructure Development through Regional Cooperation” in October 2018. Both
+roundtables explored the ways of getting commitments on accelerating Infrastructure
+Development and Youth Empowerment for Sustainable Development, and provided
+various recommendations to empower youth in the energy and infrastructure sectors.
+
+Through the fora and platforms, youth got opportunities to discuss key issues pertaining to their
+development. They further deliberated on how the governments could facilitate youth involvement
+in infrastructure development to enhance youth participation in the productive sectors and ensure
+employment creation for young people; and the need to develop regional initiatives to empower
+and enhance youth and women access to technology and innovation, capital and credit to start
+ups; Through some of such forums the youth stressed the need for the SADC Secretariat to
+organize the SADC Youth Engagement on ICT and Transport Dialogue every year to facilitate
+dialogue on important matters, and to prepare Youth Statements that would be presented to the
+SADC Ministers responsible for ICT and Transport.
+
+31
+
+-----------------------Page 39 End-----------------------
+
+5.4.5
+
+Orphans, Vulnerable Children and Youth
+
+With support from the Swiss Development Cooperation, the Secretariat developed an M&E
+framework with indicators for reporting on Orphans, Vulnerable Children and Youth (OVCY)
+programmes. The Framework has been finalised and the agreed indicators will be uploaded on
+SADC MER framework to facilitate use and reporting by Member States. This project will
+strengthen reporting on OCVY at Member states level and build on the national Information
+Management Systems (IMS).
+5.4.6
+
+Employment and Labour
+
+In order to harmonise regional standards for access to accrued social security as well as to close
+the existing information gaps on portability, the Secretariat is finalising in depth studies that are
+investigating social security arrangements vis-à-vis the agricultural, mining and financial services
+sectors in eight Member States (Botswana, Eswatini, Lesotho, Malawi, Mozambique, Namibia,
+South Africa and Zimbabwe).
+The preliminary findings from the studies have shown that there is still widespread lack of access
+to social security benefits by migrants, revealing a need for the following measures:
+i.
+
+Comprehensive review of polices and legislation in a number of countries to enable
+migrants’ participation in social security schemes;
+
+ii.
+
+Promotion of regular migration so that migrants are documented and eligible to
+contribute to social security schemes during their employment; and
+
+iii.
+
+Strengthening of harmonisation benefit schemes and enhancement of coordination of
+national social security systems in the region to make portability easier.
+
+The overall findings from the studies will inform the development of a comprehensive portability
+agreement for Member States.
+5.4.7
+
+Nutrition
+
+The Secretariat conducted the regional mapping of the status of micronutrient fortification
+legislation in the region, with the aim to develop the minimum standards for food fortification to
+address micronutrient deficiencies in the region. The preliminary results of the legislative mapping
+were validated during the regional nutrition workshop in March 2019, and the draft micronutrient
+levels for the regional standards were proposed to inform Phase II of the assignment.
+In addition, the Secretariat completed the roadmap for developing guidance on monitoring
+framework for food fortification, which was approved for implementation by SADC Ministers of
+Health in November 2018; and Member States support needs were identified for technical
+assistance by the partners.
+With UNICEF support, Secretariat secured a legal expertise to support the assessment of legal
+implications of implementation of the Code, Maternity protection and WHA Resolution 69.9 in the
+SADC Member States, and the development of regional standards for marketing of breastmilk
+32
+
+-----------------------Page 40 End-----------------------
+
+substitutes. Through this support, draft regional standards for marketing of breastmilk substitutes
+were also produced.
+In collaboration with the World Bank, UNICEF supported the convening of a Nutrition High Level
+forum of SADC decision Makers resulting in a call to action for nutrition spearheaded by the King
+of Lesotho, an AU Champion for nutrition in October 2018 in Maseru, Lesotho. Additionally, the
+SADC Council of Health Ministers meeting took the resolution to adopt the call as a “The regional
+call to action for nutrition” with the aim to increase advocacy for investment in nutrition.
+Data for nutrition, HIV and WASH indicators have been strengthened and included in the SADC
+vulnerability assessment synthesis report. In addition, an Analysis Guidance document for
+integrated analysis of nutrition, HIV/AIDS and gender indicators was developed in 2018, based
+on information gathered from vulnerability assessment committee chairs and members in
+Lesotho, Malawi and Zimbabwe. The guidance document is planned to be disseminated in 2019.
+
+6 INSTITUTIONAL FRAMEWORK FOR PROGRAMME COORDINATION
+SADC Regional-National Linkages
+Implementation of the Strengthening National Regional Linkages Programme (SNRL)
+commenced in September 2018. The Programme which is co-financed by the European Union
+and the Government of the Federal Republic of German seeks to enhance the capacity of SADC
+Member State structures to facilitate and coordinate implementation of the regional agenda at
+country level.
+The country coverage of SNRL is expanding from 5 countries that were supported in the earlier
+SNRL programme (Malawi, Mozambique Namibia Tanzania and Zambia), to 8 countries bringing
+on board Eswatini, Botswana and Lesotho. Furthermore, the support that to be provided will be
+more targeted at results, focusing on activities with impact, hence the focus on sectoral
+coordinating structures in the three priority sectors of Agriculture, Infrastructure development and
+Industrialisation.
+Aligned to the Revised SADC Regional Indicative Strategic Development Plan (RISDP), the
+programme is envisaged to strengthen country-level structures to manage and monitor the
+implementation of the Revised RISDP and prioritised protocols.
+Strategy Development
+SADC is undertaking a comprehensive Mid-term review of the Revised RISDP 2015-2020 in
+preparation for the development of the RISDP Post 2020 and Vision 2063 which has commenced.
+The overall objective of the Review is to assess and take stock of achieved results at output and
+outcome level, challenges encountered in the implementation of the revised RISDP and SIPO,
+document the lessons learned and draw strategic recommendations to inform implementation of
+the remaining period of the Plans as well as the Post 2020 Agenda. Ultimately, findings of the
+Review will inform the process of formulating SADC’s Vision 2063 and RISDP 2020-2030.
+
+33
+
+-----------------------Page 41 End-----------------------
+
+Statistics
+SADC developed a draft Protocol on Statistics as a policy instrument to guide and enhance
+cooperation in statistical matters. SADC also produced an annual bulletin of SADC region on
+economic performance, trade liberalization and demographic characteristics. Furthermore, with
+technical and financial support from IMF, a roadmap for implementation of trade in services
+statistics for SADC region by partner country was validated and real sector statistics have been
+enhanced.
+Planning and Programming
+SADC continues to undertake Planning and Programming functions in line with the 2012 SADC
+Policy for Strategy Development, Planning, Monitoring and Evaluation (SPME Policy). The SPME
+Policy’s purpose is “to strengthen SADC’s decision-making process regarding priority setting,
+resource allocation and programme management to improve performance towards SADC’s
+objectives”. The Annual Corporate Plan (Operational Plan and Budget) for 2018/19 was prepared
+and adopted by Council in March 2018. Operationalization of the Annual Corporate Plan is
+interconnected to other key management processes such as strategy development, budgeting,
+resource mobilisation, monitoring and evaluation, procurement and management information.
+Monitoring, Evaluation and Reporting
+Systems strengthening has been core for the Secretariat to deliver expected RISDP and SIPO
+results. The SADC Online M&E System facilitate reporting by Member States and the SADC
+Secretariat, where it monitors RISDP outputs, decisions of the SADC Policy Structures (Summit,
+Council, Cluster and Sectoral Ministers, and the Board of Auditors), Strategies, Protocols,
+Sectoral Development Plans and Operational Plans of the Secretariat.
+In rolling out the system to Member States and capacitating the Secretariat staff to use the system,
+a total of 219 participants in five Member States were successfully trained on the use of online
+Monitoring and Evaluation (M&E) System and review of implementation of the Revised RISDP as
+follows: 36 in Lesotho; 40 in Mauritius; 40 in Eswatini; 65 in Zambia; and 38 in Zimbabwe. In
+addition, thirty (30) SADC Secretariat staff were also trained on use of the Online System to
+enable efficient monitoring and reporting on implementation of the Revised RISDP, and Summit
+and Council Decisions. Monitoring and Evaluation frameworks for Trade Related Facility Project;
+Trans frontier Conservation Areas; and Orphans, Vulnerable Children and Youths were
+developed. In addition, indicators for Education and Skills Development programmes; and
+Science, Technology and Innovation were developed.
+
+7
+
+GOOD GOVERNANCE AND FINANCIAL MANAGEMENT
+
+The Secretariat continued to implement its mandates in line with the principles of good
+governance; and application of internal control measures to ensure efficient and effective
+implementation of the Cooperate plans. As a result, the following milestones were achieved:
+Finance
+The Secretariat were able to prepare the Annual Financial Statements for 2018/19. The external
+audit of the SADC Secretariat for the financial year 2018/19 was successfully completed and a
+clean audit opinion was issued. Secretariat also facilitated the transition change of the Board of
+34
+
+-----------------------Page 42 End-----------------------
+
+Auditors’ Chairpersonship from Eswatini to Tanzania and the SADC Board of Auditors’ planning
+meeting for 2018/19 external audit of the SADC Secretariat.
+The Medium Term Revenue and Expenditure Framework was facilitated, which was approved by
+Council in August 2018. In addition, the SADC Secretariat 2019/20 Budget was facilitated and
+approved by Council in March 2019. The accounting package (Sun Systems) was aligned with
+Result Chains to enhance linkages between planning and budgeting done in the SADC Integrated
+Management Systems (SIMS). Budgetary control and interpretation of Financial Regulations to
+enhance compliance were also facilitated.
+Communications and Public Relations
+The Secretariat produced and disseminated the 38th SADC Summit brochure, monthly SADC
+Newsletters, and an informational video on SADC’s milestones. Furthermore, the Secretariat
+hosted high profile guests from SADC Member States and the International Community including
+His Excellency Dr. Frank-Walter Steinmeier, President of the Federal Republic of Germany and
+His Excellency, Dr Hage G. Geingob, President of the Republic of Namibia and Chairperson of
+SADC, as well as several Members of the Diplomatic corps. The Secretariat continued to make
+progress in the registration and securing of the SADC trademarks namely; SADC logo; SADC
+acronym; and the name, Southern African Development Community. Mach 30, 2019, completed
+Registration of the Marks in 11 SADC Member States.
+Procurement
+The Secretariat published the Procurement and Grants Policy, Regulations and all standard
+templates on the Website allowing their accessibility to the public. Additionally, a sensitization
+workshop was undertaken with suppliers on SADC Procurement System as part of dissemination
+and user awareness creation. Ex Ante function has been fully operationalised and all procurement
+processes are being subjected to Ex Ante Procurement for quality assurance and to ensure full
+compliance with procedures;
+Training of the External Tender Committee, which comprise Namibia, South Africa and Tanzania
+was undertaken; and Procurement opportunities continued to be advertised to foster competition
+and ensure the promotion of transparency. The Inventory Management Module of the system was
+activated and is in use. The Framework contract for Travel and Events Management was
+launched and finalised in April 2019. In addition, all the 2016/17 Board of Auditors
+recommendations and the 2018 Council of Ministers decisions were implemented.
+Human Resource and Administration
+The Secretariat was able to complete the Job descriptions and grading in line with the Council
+decisions directing all jobs to be aligned to the Job Family Grouping System. Key approved
+strategic documents include a three-year Human Resources Administration Strategic Plan;
+Performance Management Policy and Guidelines; and the Performance Management System
+and recruitment process through E-Recruitment System were completed and are operational.
+Hundred and Twenty (120) staff members were trained in various technical and competency
+skills/areas of job specific interventions while newly recruited employees were duly inducted. In
+addition, 125 users were trained on the SADC Electronic Records Management System. A total
+of 76 Regional positions were successfully filled within the planned time-frame.
+35
+
+-----------------------Page 43 End-----------------------
+
+The Secretariat has been in the process of filing in the SADC Secretariat structure which was
+approved in March 2017. In addition to filing in new positions a number of contracts also ended.
+In this regards the Secretariat has filled 82 positions from 2017 to date as summarized below.
+
+Recruitment period
+
+No. of positions
+
+No.
+Filled
+
+Date advertised to date filled.
+
+May 2017 – January 2018
+
+Comment
+Filled positions comprised of 6 Directors,
+Secretary to SADCAT and 13 Senior
+Officers.
+
+20
+
+20
+
+May 2017 – June 2018
+
+2 Officer positions could not be filled due to
+quota points challenges
+24
+
+22
+
+May 2018 – February 2019
+
+50
+
+40
+
+Total
+
+82
+94
+
+The 40 positions filled comprised of 1
+Director, 20 Senior Officers and 18 Officers.
+10 positions could not be filled due to quota
+point challenges.
+Total 12 positions not filled. 10 have been readvertised. Headhunting is underway for 1
+position (Director Internal Audit and Risk
+Management) and the remaining one (1)
+position (Officer Resource Mobilization) is
+yet to be advertised.
+
+From the 94 positions advertised, 12 positions have not been filled. Of these 12 positions, 10 have
+been re-advertised, headhunting is underway for one (1) position, while the other position is yet
+to be re-advertised. In June 2019, the Secretariat published adverts for 32 Regional positions,
+comprising of the 10 re-advertised positions and 22 vacant positions. The recruitment for the 32
+positions is expected to be completed by December 2019.
+The position of Director Industrial Development and Trade was advertised in May 2019, following
+the resignation of the Director. The advert for the position closed and shortlisting is scheduled to
+take place in August 2019.
+The detailed update of the recruitment of the 50 and 32 positions is presented below.
+Position Advertised
+1. Senior Programme Officer –Investment and
+Finance
+2. Senior Programme Officer – Health and
+Nutrition
+3. Senior Translator French
+4. Senior Programme Officer-Water
+5. Programme Officer HIV and AIDS
+6. Mediation and Peacebuilding Officer
+7. Translator French
+Translator - Portuguese
+8. Senior Programme Officer-Disaster Risk
+Reduction
+9. Senior Officer-Remuneration, Recruitment
+and Relations
+
+Status
+Filled
+Filled
+
+Country/Comment
+Angola
+DR Congo
+
+Filled
+Filled
+Filled
+Filled
+Filled
+
+DR Congo
+DR Congo
+DR Congo
+DR Congo
+DR Congo
+
+Filled
+Filled
+
+Angola
+
+Filled
+
+36
+
+Eswatini
+Eswatini
+
+-----------------------Page 44 End-----------------------
+
+Position Advertised
+10. Senior Programme Officer Macroeconomic
+Convergence
+11. Liaison Officer – DRR
+12. Officer Resource Mobilizationx 1
+
+Status
+Filled
+
+Country/Comment
+Eswatini
+
+Filled
+Filled
+
+Eswatini
+Eswatini
+
+Officer Resource Mobilizationx 1
+Programmer Officer Financial Sector
+Programmer officer Investment
+Officer Research & Statistics
+Senior Programme Officer-Food Security
+Director Human Resources and
+Administration
+18. Senior Officer Research and Statistics
+
+Not Filled
+Filled
+Filled
+Filled
+Filled
+Vacant
+
+To be re-advertised
+Madagascar
+Madagascar
+Madagascar
+Malawi
+
+19. Finance officer Project and Audit
+
+Filled
+
+20. Programme Officer Multilateral
+21. Programmer officer SQAM
+22. Programme Officer Customs Capacity
+Building
+
+Filled
+Filled
+Filled
+
+Mozambique
+Mozambique
+
+Filled
+Re-advertised
+Filled
+
+Mozambique
+On-going
+
+Filled
+Filled
+Filled
+Filled
+
+Namibia
+Namibia
+Namibia
+
+Filled
+Filled
+Filled
+Filled
+Filled
+Filled
+Filled
+Filled
+Filled
+
+South Africa
+South Africa
+Lesotho
+Seychelles
+Seychelles
+South Africa
+Mauritius
+Mauritius
+South Africa
+
+Offered
+
+Mauritius
+Candidate starting in September
+2019
+Mauritius
+Candidate starting in September
+2019
+South Africa
+Candidate starting in October
+2019
+The position to filled through
+Headhunting. The evaluation
+
+13.
+14.
+15.
+16.
+17.
+
+23. Reviser x 2
+Portuguese
+Reviser – French
+24. Senior Officer-Learning, Development and
+Performance Management
+25. Senior Programme Officer - Trade
+26. Public Security – Officer
+27. Officer Logistics
+28. Senior Programme Officer, Science
+Technology and Innovation
+29. Elections and Good Governance Officer
+30. Senior Officer Police/SARPCOO
+31. Senior Officer- Legal
+32. Senior Programme Officer – ICT
+33. Senior Officer – ICT
+34. Senior Officer - Administration
+35. Human Resources Officer
+36. IT Support Officer
+37. Senior Programme Officer-EX-SITU
+Conservation
+
+Filled
+
+38. AUC Liaison Senior Officer
+Offered
+39. Senior Officer - Education and Skills
+Development
+Offered
+40. Internal Auditor
+41. Director Internal Audit and Risk
+Management
+
+On-going
+
+37
+
+Incumbent resigned July 2019.
+Mauritius
+Mauritius
+
+Mozambique
+
+Namibia
+
+South Africa
+
+-----------------------Page 45 End-----------------------
+
+Position Advertised
+
+Status
+
+Country/Comment
+process for the firm to facilitate
+the process has been concluded.
+
+42.
+43.
+44.
+45.
+
+Senior Officer-Internal Audit
+On-going
+Head Civilian
+Re- advertised
+Senior Officer-Transport
+Re-advertised
+Senior Programme Officer IN-SITU
+Re- advertised
+Conservation
+46. Senior Programme Officer Documentation
+Re-advertised
+47. Operation and Planning Officer
+Re- advertised
+48. Planning and Budget Support Officer x 2
+Re- advertised
+49. Programme Officer -Gender Mainstreaming
+Re- advertised
+50. Programme Officer – Capital Markets
+Re-advertised
+New Positions Advertised and advert closed on 26th July 2019
+1. Senior Officer – Defense Affairs and
+Planning
+2. Senior Officer Operations & Training
+(Based in Harare, Zimbabwe)
+3. Senior Translator – Portuguese
+4. Senior Programme Officer –
+Meteorology
+5. Programme Officer - Wildlife
+6. Programme Officer – Value Chains
+7. Programme Officer – Industrial Policy
+8. Programme Officer – ICT
+9. Communication Officer – Internal
+10. Programme Officer – Fiscal
+11. Training and Roster Officer
+12. Officer – Meetings Management and
+Logistics x 2
+13. Programme Officer - Climate Database
+and IT
+(Climate Services Centre)
+14. Programme Officer - Climate Diagnosis
+and Monitoring (Climate Services
+Centre)
+15. Programme Officer - Climate
+Modelling (Climate Services Centre)
+16. Programme Officer - Seasonal and
+Climate Forecaster (Climate Services
+Centre)
+17. Information Systems Officer
+18. Translator x 2 (French)
+19. Legal Counsel
+20. Officer Research and Statistics x 2
+21. Officer Records
+22. IT Internal Auditor
+1. Director Industrial Development and
+Trade
+
+Advertised
+
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+
+Advertised
+Advertised
+
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Advertised
+Shortlisting
+
+38
+
+-----------------------Page 46 End-----------------------
+
+39
+
+-----------------------Page 47 End-----------------------
+
+Overview of the Budgetary and Financial Situation as of 31 March 2019
+During the year 2018/2019, a total budget of 71,068,780 USD was approved for operationalizing the Corporate activities. The budget
+was further revised to 78,854,924 USD, of which the Actual amount received by the Secretariat was 64,880,044 USD representing
+82%. Table 2, table 3 and table 4 provide details comparison of budget actuals as at 31 March, 2019; Income Statement Summary;
+and Statement of Change in Net Asset as Per 2018/19 Audited Financial.
+
+Description
+
+Table 2: Comparison of budget and Actual Amounts (Revenue) for the year ended 31 March 2019
+Original Budget
+Revised Adjusted Actual
+Variance
+Budget
+Budget
+Comparable
+Utilization
+Amount
+
+Revenue from non-exchange transactions
+Member States Contributions
+Contingency fund
+Other Income
+Development Partners Contributions
+Total revenue from non-exchange transactions
+Revenue from exchange transactions
+Institutional property rentals
+Investment Revenue
+Proceeds from Disposals
+Total revenue from exchange transactions
+Total Revenue
+
+46,973,095
+2,138,000
+21,627,685
+70,738,780
+
+52,593,210
+2,138,000
+23,793,714
+78,524,924
+
+2019
+45,114,662
+2,138,000
+79,379
+17,255,699
+64,587,740
+
+300,000
+30,000
+330,000
+71,068,780
+
+300,000
+30,000
+330,000
+78,854,924
+
+208,186
+43,608
+40,510
+292,304
+64,880,044
+
+40
+
+(7,478,548)
+79,379
+(6,538,015)
+(13,937,184)
+
+86%
+100%
+100%
+73%
+82%
+
+(91,814)
+43,608
+10,510
+(37,696)
+(13,974,880)
+
+69%
+100%
+135%
+89%
+82%
+
+-----------------------Page 48 End-----------------------
+
+Table 3: Income Statement Summary (US$)
+2015/16
+Description
+Income
+Member State
+Development Partner
+Other Income
+Total- income
+Change (%) YOY
+Operating Expenditure
+Change (%) YOY
+Programme Expenditure
+Member State
+Development Partner
+Sub-Total
+Change (%) YOY
+Other losses/(gains)
+Total- Expenditure
+Change (%) YOY
+Surplus/(deficit) for the year
+
+2016/17
+
+2017/18
+
+2018/19
+
+Actual
+
+Proportion
+
+Actual
+
+Proportion
+
+Actual
+
+Proportion
+
+Actual
+
+Proportion
+
+46,519,669
+26,119,020
+5,984,967
+78,623,656
+
+59%
+33%
+8%
+100%
+
+39,675,233
+17,005,224
+622,655
+57,303,112
+
+69%
+30%
+1%
+100%
+
+47,509,631
+15,773,744
+638,298
+63,921,673
+
+74%
+25%
+1%
+100%
+
+45,114,662
+17,255,699
+331,173
+62,701,534
+-2%
+19,002,538
+6%
+
+72%
+28%
+1%
+100%
+
+57%
+43%
+100%
+
+23,469,667
+17,081,018
+40,550,685
+11%
+2,498,237
+62,051,460
+16%
+650,074
+
+58%
+42%
+100%
+
+27,442,367
+
+13,335,194
+25,650,876
+38,986,070
+366,675
+66,795,112
+11,828,544
+
+26,158,046
+-5%
+34%
+66%
+100%
+
+7,430,116
+16,666,644
+24,096,760
+-38%
+935,280
+51,190,086
+-23%
+6,113,026
+
+41
+
+17,916,123
+
+31%
+69%
+100%
+
+20,728,251
+15,767,187
+36,495,438
+(904,372)
+53,507,189
+10,414,484
+
+-----------------------Page 49 End-----------------------
+
+Table 4: Statement of Change in Net Asset as Per 2018/19 Audited Financial.
+Reserves
+Notes
+
+Reserve
+Fund
+
+Asset Replacement
+Reserve
+
+Staff Loan
+Fund
+
+Accumulated surplus/ (deficit)
+Restated
+
+Total
+
+USD
+
+USD
+
+USD
+
+USD
+
+USD
+
+Balance as at 31 March 2017(2016/17)
+
+10,668,083
+
+4,082,326
+
+901,127
+
+28,197,997
+
+43,849,533
+
+Transfers to Reserve Fund
+
+3,406,805
+
+-
+
+-
+
+(3,406,805)
+
+-
+
+Asset replacement reserve
+
+-
+
+941,400
+
+-
+
+(941,400)
+
+-
+
+674,540
+
+-
+
+48,797
+
+(723,337)
+
+-
+
+Surplus/(deficit) for the period Restated
+
+-
+
+-
+
+-
+
+10,414,485
+
+10,414,485
+
+Transfers for the year
+
+-
+
+(729,203)
+
+-
+
+729,203
+
+-
+
+Interest(received/paid)
+
+(108)
+
+23,048
+
+(22,940)
+
+-
+
+Foreign exchange translations gains
+
+Balance as at 31 March 2018 (2017/18)
+
+14,749,320
+
+4,294,522
+
+972,972
+
+34,247,205
+
+54,264,019
+
+Transfers to Reserve Fund
+
+3,900,378
+
+-
+
+-
+
+(3,900,378)
+
+-
+
+Asset replacement reserve
+
+-
+
+965,984
+
+-
+
+(965,984)
+
+-
+
+(766,867)
+
+-
+
+(51,310)
+
+818,178
+
+-
+
+-
+
+-
+
+-
+
+650,074
+
+650,074
+
+Transfers for the year
+
+(5,308,000)
+
+(957,180)
+
+-
+
+6,265,180
+
+-
+
+Interest/(received/paid)
+
+4,867
+
+-
+
+21,783
+
+(26,650)
+
+-
+
+12,579,697
+
+4,303,326
+
+943,445
+
+37,087,625
+
+54,914,093
+
+Foreign exchange translations losses
+Surplus/(deficit) for the period
+
+Balance as at 31 March 2019 (2018/19)
+
+42
+
+-----------------------Page 50 End-----------------------
+
+8
+
+CONTINENTAL COOPERATION AND INTEGRATION
+
+The Secretariat continued to engage with the African Union in promoting continental
+integration in line with the Treaty establishing the African Economic Community,
+commonly referred to as the Abuja Treaty, of 1991. In this regard, SADC participated in
+tracking implementation of the continental integration agenda through the AU Executive
+Council and Assembly Meetings. In addition, technical engagements preceding these
+statutory meetings also contributed towards integration of SADC views in the work of the
+Union.
+Secretariat continued to track implementation of the various reforms and contributing to
+the process through engagement at the technical level with the AU Commission, and at
+the political level with the AU Permanent Representatives Committee (PRC), Executive
+Council, and Assembly of Heads of State and Government. This engagement has yielded
+positive results in that the majority of SADC’s concerns with the reform process were
+addressed, and SADC’s position safeguarded.
+The Secretariat further, engaged with the negotiations for a Post-Cotonou Partnership
+Agreement between African, Caribbean and Pacific (ACP) Group of States and the
+European Union, to succeed the Cotonou Agreement that expires in February 2020. The
+negotiations are progressing steadily, and SADC’s position that the negotiations should
+be conducted within the broader framework of the ACP prevailed over the proposal that
+Africa negotiates separately from the other continents. Importantly, while the Foundation
+Agreement is being negotiated within the framework of the ACP, Africa and the EU will
+also negotiate a protocol to govern cooperation between the two continents to be annexed
+to the ACP-EU framework.
+The Secretariat also collaborated with the AUC on the issues of Peace and Security and
+the broader agenda of Silencing the Guns in Africa by 2020 through, among others, the
+Africa Peace and Security Architecture (APSA) Programme.
+9
+
+DEVELOPMENT COOPERATION AND RESOURCE MOBILISATION
+
+To inform the development of the SADC Regional Resource Mobilisation Framework, in 2018/19,
+the Secretariat conducted an in-depth economic impact assessment of the viability of the
+proposed options, specifically, those on Import Levy, Tourism Levy, Transport Levy and Financial
+Transaction Tax. This is in addition to the benchmarking missions that were conducted to the
+African Union Commission (AUC), the Economic Community of West African States (ECOWAS),
+The Economic Community of Central African States (ECCAS) and the Republic of Rwanda.
+The draft SADC Regional Resource Mobilisation Framework was finalised and presented to
+Council at its meeting in August 2018, and thereafter to the joint meeting of Senior Treasury
+Officials and Central Bank Governors for review at its meeting in March 2019 as directed by
+Council. Senior Officials recommended the draft SADC Regional Resource Mobilisation
+Framework for adoption by Ministers of Finance and Investment and approval by Council.
+43
+
+-----------------------Page 51 End-----------------------
+
+The Secretariat also continued to enhance strategic engagement with the International
+Cooperating Partners (ICPs) in order to facilitate mobilisation of resources for the implementation
+of the priority regional programmes and projects that are aligned with the SADC priorities. In view
+of this, several agreements and other legal instruments were concluded with a number of ICPs,
+who continued to extend their support both technically and financially.
+
+9.1 SADC – AFRICAN DEVELOPMENT BANK COOPERATION
+SADC and the African Development Bank (AfDB) have had a long-standing bilateral partnership
+for development, which has produced substantial results in the priority areas of cooperation at
+both regional and national level. Since 1998 when the first cooperative agreement was signed
+between SADC and AfDB, a number of regional projects have been implemented.
+Following extensive engagements between SADC and AfDB at different levels to explore
+cooperation in the context of the Bank’s High Five Initiatives and in line with the SADC regional
+priorities, an Aide Memoire was signed between the SADC Secretariat and AfDB in 2018 to
+reaffirm the agreed areas of cooperation. In view of this, both sides have jointly developed a Work
+Plan for the implementation of the agreed areas as follows:
+i.
+ii.
+iii.
+iv.
+v.
+
+Development of SADC Regional Infrastructure Projects;
+SADC Industrialisation Strategy and Roadmap;
+SADC Regional Development Fund;
+Development of Financial Instruments; and
+Regional Strategy for Drug Abuse and Cybercrime
+
+This led ultimately to the Bank committing UA2 million to support the implementation of the agreed
+areas of cooperation. In Addition, the AfDB continues to provide support for the implementation
+of programmes in the SADC region through bi-lateral cooperation with individual SADC Member
+States and cooperation with the Secretariat for regional programmes.
+
+9.2 SADC – EU COOPERATION
+The European Union continues to be a strategic partner for SADC, particularly in pursuing our
+regional economic integration and peace and security cooperation agenda. The SADC-EU
+Cooperation is currently implemented through the 10th and 11th EDF Regional Indicative
+Programmes (RIP). The 10th EDF RIP (2008-2013) is mainly on its closure phase, with some
+programmes that have been granted no-costs extensions.
+The 11th EDF RIP covers three focal areas: Peace, Security and Regional Stability; Regional
+Economic Integration; and Regional Natural Resource Management with the following resource
+envelopes;
+i.
+ii.
+iii.
+iv.
+v.
+
+Sub- Regional Envelope
+Infrastructure Envelope
+Cross –Regional Envelope
+Technical Cooperation Facility Envelope and
+Reserve Envelope
+
+From the Sub-regional envelope, SADC was allocated 90 million Euros. The Secretariat, in
+collaboration with the EU, is in the process of programming its €90 million allocation of the Sub regional envelope through formulation of the following projects;
+44
+
+-----------------------Page 52 End-----------------------
+
+i.
+ii.
+iii.
+iv.
+
+Regional Natural Resources Management
+Peace, Security and Regional Stability
+Regional Economic Integration and
+Institutional Capacity Building
+
+From the Infrastructure Envelope, RECs will benefit through joint identification and
+implementation of hard and soft infrastructure projects. For hard infrastructure, an indicative list
+of 30 pipeline projects has been regularly updated to allow for a swift uptake of the €200 million
+tranche committed to the Africa Investment Platform. For soft infrastructure, the RECs who are
+jointly implementing the RIP are in the process of preparing soft infrastructure projects in the
+areas of Energy, Transport, ICT, Aviation, Maritime Transport and Railways. Energy and
+Transport projects worth €27 million have been approved by the EU and are under
+implementation. ICT and Air Transport programmes worth €10.8 million have passed the quality
+review stage and are likely to be approved during the calendar year 2019.
+From the Cross-Regional Envelope of €205 million, the EU and the RECs agreed to allocate
+funding for activities of a cross-regional nature for joint identification and implementation. These
+are projects that transcend the geographical borders of one REC. A notable progress has been
+made in the formulation of cross-regional projects under the 11th EDF
+The RIP earmarked €15 million for a TCF to fund the identification and formulation of projects, as
+well as costs related to the participation in and hosting of High Level Group meetings. €10 million
+was committed under the Annual Action Plan (AAP) 2015 and split among the five Regional
+Organisations. The remaining €5 million will be committed at a later date. The €10 million was
+divided into a 30% allocation for Cross-Regional actions and a 70% allocation for sub-regional
+actions
+Moreover, a mid-term review for the RIP was conducted in 2017 and the recommendations are
+yet to be implemented. This may impact on the financial overview of the RIP.
+
+9.3 SADC-GERMANY COOPERATION
+SADC and Germany have had a long-standing bilateral partnership for development, which has
+produced substantial results in the priority areas of cooperation. Since 1985, the total volume of
+bilateral Technical and Financial Cooperation (respectively through GIZ and KfW) provided by the
+Federal Ministry for Economic Cooperation and Development (BMZ) to the SADC Region
+exceeds €341 million. Germany provides further support to the SADC Regional Integration
+Agenda through its contributions to the EDF by virtue of its membership to the European Union;
+and has continued to cooperate with individual SADC Member States under bilateral cooperation
+as well as other sub-regional and national SADC institutions.
+The objective of SADC-Germany Cooperation is to enhance SADC's capacity as the main
+coordinating body for regional integration in the Region. Areas of cooperation are agreed through
+SADC-Germany Bilateral Negotiations on Cooperation. In June 2017, Germany committed to
+extend support to SADC to the value of 39.5 million Euro for technical and financial cooperation
+programmes, and both sides agreed to jointly support the 7 projects as follows:
+
+45
+
+-----------------------Page 53 End-----------------------
+
+i.
+ii.
+iii.
+iv.
+v.
+vi.
+vii.
+viii.
+
+Cooperation for the Enhancement of SADC Regional Economic Integration
+(CESARE)/
+Project Preparation and Development Facility
+Cross-Border use and protection of natural resources in the SADC region/
+Adaption of Agriculture to Climate Change/
+TFCA Financing Facility
+Strengthening national-regional linkages in SADC
+Peace, Security and Good Governance/
+Studies and Expert Fund
+
+The next Bilateral Negotiations between the SADC Secretariat and the Government of the Federal
+Republic of Germany are planned to take place in Botswana in November 2019. In preparation
+for this, the SADC-Germany High Level Consultations on development cooperation were held in
+Gaborone in February 2019 to, among others; review implementation of on-going programmes
+and discuss future areas of cooperation to be agreed upon at the next Bilateral Negotiations of
+November 2019.
+
+9.4 SADC – CHINA COOPERATION
+SADC’s cooperation with the People’s Republic of China is guided by the Forum on China–Africa
+Cooperation (FOCAC) Action Plan outlining cooperation in political, economic, social
+development, cultural and security areas. In a bid to enhance SADC-China Cooperation, the
+SADC Secretariat participated in a mission to China in the margins of the 2018 FOCAC Summit,
+which was held in Beijing, Peoples Republic of China in September 2018.
+The purpose of the mission was to represent SADC at the 2018 FOCAC summit, as well as, to
+explore available opportunities for; support and cooperation between China and SADC, especially
+in the fields of trade, peace and security, investments and infrastructure development.
+In line with the above, both sides finalized the Framework Agreement on Economy, Trade,
+Investment and Technical Cooperation between SADC and the Government of the People’s
+Republic of China, to enhance cooperation on areas of mutual interests in tandem with the
+aforementioned SADC Strategic Frameworks. The signing of the Framework Agreement is
+planned for 2019.
+
+9.5 SADC – RUSSIA COOPERATION
+SADC and Russia have concluded two major milestones on cooperation in 2018, through the
+signing of the two Memorandum of Understanding (MoUs). These are the MoU between the
+Government of the Russian Federation and the Southern African Development Community in the
+Area of Military-Technical Cooperation that was signed in July 2018; and the MoU on Basic
+Principles of Relations and Cooperation that was signed in October 2018, to guide cooperation
+and provide a framework for cooperation between SADC and Russia.
+The main objective of the MoU in the Area of Military-Technical Cooperation is to promote
+cooperation between Russia and SADC to enhance their capacity to participate in and contribute
+to maintenance of regional and international peace and security, in line with the Strategic
+Indicative Plan of the Organ (SIPO). The areas of cooperation envision cooperation in the military
+technological and technical areas particularly in the fields of, but not limited to, joint military
+production, research, development, and technology transfer as well as in military training and
+supply of arms and military equipment.
+46
+
+-----------------------Page 54 End-----------------------
+
+On the other hand, the MoU on Basic Principles of Relations and Cooperation aims to contribute
+to the vision of a common future that will ensure economic well-being, improvement of the
+standards of living and quality of life, freedom and social justice and peace and security for the
+peoples of SADC Member States and Russia. Through the MoU, SADC and Russia intend to
+promote mutually beneficial cooperation in political, industrial development, trade, economic,
+humanitarian, scientific, technical, social, and cultural and other fields of mutual interest, and
+agree to take steps in order to create favourable conditions for socio-economic development
+cooperation between SADC and Russia.
+
+9.6 SADC – ICP DIALOGUE PLATFORM
+The last SADC-ICP Dialogue Platform Meeting was held in November 2018. The objective of the
+meeting was to facilitate the dialogue, coordination, complementarity and alignment between
+SADC and the ICP partners. It also facilitated the update on the achievements made in the SADCICP Thematic Working Groups focusing on implementation of activities and main contributions to
+the regional strategy and policy priorities.
+Furthermore, in order to enhance strategic engagement with ICPs in line with the adopted SADCICP Partnership Statement and Generic Terms of Reference, Thematic Group Meetings were
+held regularly. The Peace and Security Thematic Group was also launched and the ICT Thematic
+Group supported with the identification of co-chair from the ICPs side. These Thematic Group
+Meetings enhanced engagement with ICPs and facilitated information sharing for effective
+utilization of resources to be aligned to SADC priorities.
+
+10 CONCLUSIONS
+Significant progress was made in 2018/19. The region has remained relatively calm with stable in
+terms of both political and economic developments. On the one hand, the Secretariat has made
+strides towards ensuring that there are amongst other, policies and guidelines to guide election
+processes in the Region. All the elections in 2018/19 were observed and the processes were
+successful in what was concluded as democratic and free election. On the other hand, the
+economy has remained relatively stable with a global decline observed in 2018.19.
+Continued efforts towards implementation of key programmes of regional cooperation and
+integration indicates a slight improvement in implementation of planned outputs in line with the
+approved Annual Corporate Plan. This is in turn translated to an increase in the overall
+expenditure for both Member States and ICP budget. The Secretariat continues to mobilise
+resources to further increase implementation of the Regional Integration Agenda and further
+through continental cooperation and integration.
+The report highlights major challenges across the different interventions. However, the Secretariat
+continues to implements measures to further improve the performance. In 2018/19, staff
+recruitment process was achieved as planned, with staff complement relatively in line with the
+Secretariat structure. Critical areas such as Project Management Unit was staffed to improve the
+overall coordination and management of projects and programmes. As such, more standardised
+and systematic approach will be adopted and it is under this auspice that the overall utilisation of
+ICP funding will increase while strategic objectives outlined in the Revised RISDP and SIPO are
+achieved.
+47
+
+-----------------------Page 55 End-----------------------
+
+48
+
+-----------------------Page 56 End-----------------------
+

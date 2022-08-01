@@ -1,0 +1,5287 @@
+ANNUAL REPORT
+2018
+World Health Organization
+Syrian Arab Republic
+
+-----------------------Page 1 End-----------------------
+
+WHO Library Cataloguing in Publication Data
+World Health Organization. Regional Office for the Eastern Mediterranean
+World Health Organization Syrian Arab Republic annual report 2018 / World Health Organization. Regional Office for the
+Eastern Mediterranean
+p.
+ISBN: 978-92-9022-254-5
+ISBN: 978-92-9022-255-2 (online)
+1. Health Status - Syria 2. Health Services Accessibility - Syria 3. Delivery of Health Care 4. Emergency Medical Services
+5. Health Information Systems 6. Nutritional Status 7. Annual Reports I. Title II. Regional Office for the Eastern
+Mediterranean
+(NLM Classification: WA 300)
+
+© World Health Organization 2018
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the
+work is appropriately cited. In any use of this work, there should be no suggestion that WHO endorses any specific
+organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license
+your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add
+the following disclaimer along with the suggested citation: “This translation was not created by the World Health
+Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall
+be the binding and authentic edition”.
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of
+the World Intellectual Property Organization.
+Suggested citation. [Title]. Cairo: WHO Regional Office for the Eastern Mediterranean; 2018. Licence: CC BYNC-SA 3.0 IGO.
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for
+commercial use and queries on rights and licensing, see http://www.who.int/about/licensing.
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures
+or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from
+the copyright holder. The risk of claims resulting from infringement of any third-partyowned component in the work rests
+solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the
+expression of any opinion whatsoever on the part of the World Health Organization concerning the legal status of any
+country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines
+on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or
+recommended by the World Health Organization in preference to others of a similar nature that are not mentioned. Errors
+and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this
+publication. However, the published material is being distributed without warranty of any kind, either expressed or implied.
+The responsibility for the interpretation and use of the material lies with the reader. In no event shall the World Health
+Organization be liable for damages arising from its use.
+
+-----------------------Page 2 End-----------------------
+
+CONTENTS
+
+Ambulances donated by WHO to
+the Syrian Arab Red Crescent.
+
+Foreword
+
+4
+
+Situation in 2018
+
+6
+
+2018 at a glance
+
+22
+
+WHO’s health response
+Health objective 1:
+Provide life-saving and life-sustaining humanitarian health assistance
+Health objective 2:
+Strengthen health sector coordination and health information systems
+Health objective 3:
+Improve health system capacity for support of continuity of care and
+strengthen resilience and response to IDP movements and disease outbreaks
+Nutrition objective:
+Improve equitable access to quality life-saving curative nutrition services
+Water, sanitation and hygiene (WASH) objective:
+Support water, sanitation and sewage systems
+
+24
+24
+
+Managing WHO’s operations
+
+60
+
+Looking ahead
+
+64
+
+Funds received in 2018
+
+65
+
+Priorities and funding requirements for 2019
+
+66
+
+Acknowledgements
+
+67
+
+Appendix 1: Vaccination campaigns implemented in 2018
+
+68
+
+Appendix 2: Health assessments conducted/assessment reports published in 2018
+
+70
+
+42
+48
+
+57
+59
+
+WHO
+
+2
+
+Annual report 2018
+
+3
+
+-----------------------Page 3 End-----------------------
+
+FOREWORD
+Regular health assessments underpin everything
+we do. They allow us to implement transparent,
+impartial and timely interventions that are grounded
+in science and based on demonstrated needs. They
+focus our response on substantive matters and
+reduce the scope for political considerations. This
+past year we assessed the health situation in IDP
+camps in the northeast and the status of trauma care
+services in Ar-Raqqa city and surrounding areas. The
+health cluster in Amman, led by WHO, produced the
+first comprehensive picture of health care services in
+southern Syria. Our hub in Gaziantep examined the
+treatment options for growing numbers of patients
+with tuberculosis in north-west Syria. These are just
+some examples – there were many more.
+
+In 2018, the rapidly evolving situation in Syria
+required WHO to intervene in many different
+geographic locations. We responded to simultaneous
+health emergencies in eastern Ghouta, northern rural
+Homs, south-west, north-east and north-west Syria.
+Our focal points across the country were our eyes and
+ears. Working under difficult and often dangerous
+circumstances, they assessed each situation and
+worked closely with our office in Damascus, our
+
+4
+
+hubs in Gaziantep and Amman and our cross-border
+partners in north-east Syria to plan and implement
+interventions targeting those most in need.
+We monitored almost 1100 hospitals and primary
+health care (PHC) centres throughout the country
+and delivered medicines and supplies to where they
+were needed most. Almost 100 hospitals received
+essential medical equipment in 2018.
+
+We responded to outbreaks of acute diarrhoea and
+typhoid fever in the north and hepatitis A in the
+south. In response to measles outbreaks across the
+country, we worked closely with partners to vaccinate
+children at points of entry in IDP camps, through
+routine immunization services and during national
+immunization days. An outbreak of circulating
+vaccine-derived poliovirus type 2, first detected in
+2017, was successfully controlled thanks to strong
+coordination between our offices in Damascus,
+Amman and Gaziantep, with close support from our
+regional and headquarters offices. We worked with
+government agencies and partners to test water
+quality throughout the country and make sure that
+hospitals had safe water supplies. We expanded our
+nutrition activities. Over 800 nutritional surveillance
+units in health care facilities screened children
+for malnutrition and referred them for specialized
+treatment when necessary. We successfully launched
+a school-based mental health programme and
+continued to train non-specialist health professionals
+in PHC centres on basic interventions to help patients
+in distress.
+
+WHO continues to be the authoritative voice on the
+health situation in Syria. On behalf of all partners,
+we appealed for an end to attacks on health care
+and called for the guaranteed medical evacuation of
+critically ill patients and their families from besieged
+and hard-to-reach areas. In November, we briefed
+the UN Security Council in New York on the impact
+of the crisis on Syria’s health care system and set out
+the minimum steps to be taken to improve the lives
+of millions of vulnerable people.
+Primary health care is the backbone of the health
+response in Syria and the theme of this year’s annual
+report. Strong collaboration with our NGO partners
+ensured that millions of Syrians, especially those
+in besieged and hard-to-reach areas, continued to
+receive basic health care through mobile teams and
+clinics.
+Over the past seven years, we have trained tens of
+thousands of health care providers throughout Syria.
+An evaluation of the effectiveness of our training
+programme is underway. We are assessing the
+quality of our NGO partners and continuing to train
+them and other health care providers to help ensure
+that they are able to provide quality care to some of
+the most vulnerable people in Syria.
+Over the last year I travelled throughout the country
+to meet and talk with ordinary Syrians, many of whom
+have lost everything. Their dignity and resilience
+in the face of so much suffering is a testament to
+their courage and spirit. I also met many health care
+staff working in cities, towns and villages throughout
+Syria. Seeing at first hand the difference that they are
+making in the lives of their fellow Syrians has been
+one of the most humbling and moving experiences
+of my life.
+
+Annual report 2018
+
+5
+
+-----------------------Page 4 End-----------------------
+
+SITUATION IN 2018
+Overview
+Millions of innocent civilians continued to bear the
+brunt of the Syrian conflict. In 2018, approximately 1.5
+million people were newly displaced by hostilities in
+many areas including eastern Ghouta, the south and
+north-west, northern rural Homs and eastern Deirez-Zor. Overall, more than 13 million people in Syria
+need humanitarian assistance, 5.2 million acutely
+so. At least 6.2 million people have been displaced,
+many of them more than once. Two thirds of Syrians
+are living under the poverty line.
+Political instability persisted. By the end of June,
+the Syrian government had ended its longstanding
+sieges and regained control of several areas formerly
+controlled by non-state armed groups. Conversely,
+Syrian non-state armed groups and Turkish military
+forces took control of most of Afrin district in Aleppo
+governorate, resulting in the collapse of the local
+health system and the displacement of 167 000
+people.
+Changes in political control led to further waves of
+displacement to and within north-west Syria. Tens of
+thousands of internally displaced people (IDPs) from
+eastern Ghouta, northern rural Homs and southern
+Hama were forcibly evacuated to Idleb governorate.
+The population of Idleb has doubled since 2011 and
+most IDPs there have very limited access to health
+care and other services.
+There were outbreaks of measles, leishmaniasis and
+acute bloody diarrhoea, fuelled by displacement,
+hostilities and poor living conditions. Vaccination
+coverage rates remained low despite mass
+immunization campaigns and routine vaccination
+
+activities to curb the spread of diseases such as
+vaccine-derived polio and measles. Shortages of
+safe drinking water, due in part to the deliberate
+targeting of water networks, left up to 35% of the
+population relying on alternative and often unsafe
+water sources1.
+The operating environment in Syria continued to be
+demanding. WHO and other humanitarian agencies
+faced significant challenges to delivering assistance
+because of heavy fighting, the widespread presence
+of improvised explosive devices, and delays in
+obtaining authorization to enter many areas. In
+December 2018, the United Nations Security Council
+reiterated its grave concern over hindrances to the
+delivery of humanitarian assistance. It called on all
+parties to allow the safe, unimpeded and sustained
+passage of humanitarian convoys to all parts of
+Syria and renewed its earlier resolution (2165)
+authorizing the delivery of humanitarian aid from the
+neighbouring countries of Iraq, Jordan and Turkey2 .
+In 2018, WHO and the United Nations shifted from
+a response by geographical location to one based
+on a detailed assessment of the severity of needs in
+all 270 sub-districts in Syria3. While this has allowed
+for a more targeted delivery of assistance, it cannot
+be used as the only measure for determining health
+interventions. WHO has continued to work in areas
+with relatively low severity of need4 in order to
+vaccinate children and raise vaccination coverage
+rates across the country. It also continues to support
+referral hospitals located in areas of low severity
+because they provide essential services to people
+from nearby areas still caught up in the conflict.
+
+Syria HNO, 2017, https://hno-syria.org/data/downloads/en/full.pdf.
+UN Security Council Resolution 2449 of 13 December 2018.
+3
+Severity scales are used by humanitarian agencies to estimate the severity of needs at sub-district level. The severity scale, set out in the Humanitarian
+Response Plan for 2018, is derived from a range of data sources that yield information on 1) accessibility to health care, 2) number of people affected, 3)
+humanitarian access, 4) the availability of health resources and services, and 5) the impact of the conflict on health and morbidity.
+4
+The severity of needs in different geographic locations in Syria are based on a scale from 0 to 6. Areas ranked between 4 and 6 are classified as being
+in acute and immediate need of humanitarian assistance.
+1
+2
+
+6
+
+It is clear that humanitarian needs will continue
+throughout Syria for some time, regardless of
+who is in charge. Two thirds of people in need of
+humanitarian assistance currently live in areas under
+the control of the government, with the remainder
+in areas controlled by non-state armed groups and
+other forces.
+
+Annual report 2018
+
+7
+
+-----------------------Page 5 End-----------------------
+
+The impact of the crisis
+on health care delivery
+The continuing conflict and waves of displacement
+placed a massive strain on the health system. In
+2018, fewer than half of the previously existing public
+health care facilities were fully functioning. Fighting
+continued in many areas; mobile medical teams were
+unable to reach patients and patients were unable to
+reach hospitals and PHC centres. The situation was
+compounded by attacks on health care facilities and
+personnel that deprived tens of thousands of Syrians
+of health care at the time they needed it most.
+There were severe shortages of medical specialists,
+medicines and supplies, especially in rural and
+historically deprived areas and those that were
+formerly besieged or hard to reach. In many parts
+of the country, medical supply chains functioned
+only sporadically, leading to widespread shortages
+of medicines to treat common diseases. Although
+public health care facilities were supposed to provide
+medicines free of charge, many patients were forced
+to buy them in private pharmacies because they
+were not available otherwise.
+For people wounded in the conflict, the outlook was
+grim. In many hospitals, essential equipment was
+broken and could not be repaired, partly because
+international sanctions prevented the importation
+
+5
+
+of critical spare parts. There were acute shortages
+of reconstructive surgery and other services to treat
+badly burned patients. Emergency surgery for trauma
+patients was often delayed because supplies and
+equipment were lacking. Thousands of wounded
+Syrians had no access to physical rehabilitation
+services. Approximately 15% of Syrians have suffered
+disabilities as a result of the conflict, and almost half
+of them are likely to have lifelong impairments that
+will require specialist support long after the hostilities
+have ended.
+Widespread bombing and shelling have wounded
+hundreds of thousands, but the disruption of the health
+care system has been equally devastating for millions
+of Syrians who are living with one or more chronic
+diseases. WHO estimates that approximately 12% of
+Syrians have diabetes and around 20% suffer from
+high blood pressure5. Left untreated, these diseases
+can lead to serious complications such as heart attacks
+and kidney failure. There were widespread shortages
+of medicines and specialist services to treat patients
+with cancer, renal failure and other serious illnesses.
+Untold numbers of people in Syria have died because
+they could no longer obtain the life-saving medicines
+and treatments they once took for granted.
+
+The WHO team views the badly
+damaged TB hospital in Aleppo.
+WHO
+
+Disease outbreaks
+In 2018, there were outbreaks of acute bloody
+diarrhoea, typhoid fever and hepatitis A. These
+diseases are almost always the result of unclean
+water and poor sanitation and they disproportionately
+affect the poorest and most vulnerable.
+The number of cases of measles doubled compared
+with 2017. Rates of cutaneous leishmaniasis,
+which is endemic in north-west Syria, rose sharply,
+highlighting Syrians’ increasing vulnerability to
+communicable diseases. Rates of tuberculosis (TB)
+are estimated to be on the rise (15.8 per 100 000
+people in 2017 compared with 13 per 100 000
+people in 2013). Because the national TB surveillance
+system has been badly disrupted, the real number
+might be much higher.
+
+There were also success stories. WHO and the health
+authorities managed to stem an outbreak of vaccinederived poliovirus that began in 2017. Cases of
+vaccine-derived poliovirus are a warning sign. They
+occur when vaccination rates are dangerously low.
+WHO and UNICEF are working to strengthen routine
+vaccination services in PHC centres and support mass
+vaccination campaigns in newly accessible areas.
+Sustained efforts will be required to protect the
+country’s children against measles, polio and other
+vaccine-preventable diseases.
+Page 50 of this report describes WHO’s response to
+disease outbreaks in greater detail.
+
+https://www.who.int/nmh/publications/ncd-profiles-2018/en/.
+
+8
+
+Annual report 2018
+
+9
+
+-----------------------Page 6 End-----------------------
+
+Attacks on health care
+Access to people
+in need
+In 2018, the number of people living in hard-to-reach
+areas dropped from almost 3 million to just over 1.1
+million. Moreover, for the first time in over five years,
+no areas in Syria were classified as besieged by the
+UN. This led to improved access to several parts of
+the country to deliver humanitarian aid. However,
+ongoing hostilities, the widespread presence of
+explosive remnants of war and bureaucratic obstacles
+continued to hamper operations.
+WHO’s efforts focused on reaching people in areas
+where political control had changed and where
+health needs were severe. In many of these areas,
+people had suffered for years under siege, had been
+subjected to intense military activity, or had seen no
+resumption of basic services since changes in control.
+
+UN Security Council Resolution 2165 (2014) authorizing
+the UN and partners to deliver humanitarian aid to
+people throughout Syria from neighbouring countries
+provided a lifeline to millions of Syrians. WHO’s
+cross-border operations from Iraq, Jordan and Turkey
+were crucial to delivering humanitarian assistance to
+people who could not be reached from Damascus.
+WHO’s hub in Gaziantep accounted for approximately
+43% of the total volume of medical supplies delivered
+by WHO in 2018.
+
+WHO uses the Organization’s new online system –
+the global Surveillance System for Attacks on Health
+Care (SSA) - to track attacks on health care facilities
+and personnel in Syria. The SSA uses a standardized
+methodology to allow it to identify global and
+context-specific trends and allow comparisons
+between regions and contexts. There were 139
+confirmed attacks on health care in Syria in 2018.
+Syria accounted for the second-highest number
+of attacks worldwide, second only to the occupied
+Palestine Territories.
+
+Number of attacks by governorate
+Al-Hasakeh
+Aleppo
+
+7
+
+Idleb
+
+Ar-Raqqa
+
+47
+
+Lattakia
+
+Hama
+Tartous
+
+Deir-ez-Zor
+
+10
+
+2
+
+Homs
+
+3
+
+Damascus
+Qunaitra
+
+7
+
+14
+
+Dar’a
+
+As-Sweida
+
+Rural Damascus
+
+46
+
+Unidentified locations
+
+3
+
+Throughout the year, WHO advocated on behalf
+of all its health partners for the free passage of
+medicines, equipment, supplies and personnel to all
+parts of Syria and the safe passage of critically ill and
+wounded patients to health care facilities outside
+conflict zones.
+
+Inter-agency convoys
+The number of inter-agency convoys inside Syria
+dropped sharply (17 in 2018 compared with 41 in
+2017) as more areas came under government control.
+At the request of the government, WHO and its UN
+partners delivered supplies to these locations through
+their regular programmes rather than through interagency convoys.
+
+Kafr Nubbol Hospital in north-west
+Syria after it was damaged in the
+hostilities.
+WHO Gaziantep
+
+6
+
+10
+
+https://publicspace.who.int/sites/ssa/SitePages/PublicDashboard.aspx.
+
+Annual report 2018
+
+11
+
+-----------------------Page 7 End-----------------------
+
+139 Total Attacks
+101 Killed
+
+189 Injured
+
+Of whom
+17 were health care providers
+11 were patients
+
+Of whom
+44 were health care providers
+41 were patients
+
+Impact of attacks
+43
+
+attacks
+affected personnel
+
+112 attacks
+
+affected health facilities
+
+14
+
+attacks
+affected patients
+
+12
+
+attacks
+affected warehouses
+
+In June 2018, the Al-Ehsan hospital and the E.
+Ghariyeh blood bank in Dar’a were badly damaged by
+airstrikes and forced to close. The airstrikes killed one
+health care worker and injured two others. Until then,
+the hospital had been providing 8300 consultations
+each month and the blood bank had been providing
+480 units of blood each month to health care facilities
+throughout southern Syria. The airstrikes essentially
+wiped out the entire blood supply for all areas in
+southern Syria that were under the control of nonstate armed groups.
+In north-west Syria, there were nine separate
+reports of kidnappings of health care staff. The real
+number may be much higher; many incidents likely
+
+12
+
+42
+
+attacks
+affected supplies
+
+19
+
+attacks
+affected transport
+
+Reported use of chemical weapons
+In early April, reports emerged concerning the new
+use of chemical weapons in the town of Douma in
+eastern Ghouta. The signs and symptoms reported
+to WHO were consistent with exposure to toxic
+chemicals. At the time of writing, the incident is
+still under investigation by the Organization for the
+Prohibition of Chemical Weapons (OPCW).
+On 24 November 2018, WHO received unconfirmed
+reports of patients arriving in health care facilities in
+Aleppo with symptoms consistent with exposure to
+chemical agents. At approximately the same time,
+the United Nations Department of Safety and Security
+office in Syria reported unconfirmed information that
+several areas of Aleppo city had been shelled with
+rounds of mortar fire that included an unknown type
+of gas. According to unconfirmed reports, dozens
+of patients were admitted to Aleppo’s two public
+hospitals. WHO activated its emergency procedures
+and immediately distributed supplies requested by
+the hospitals and the Syrian Arab Red Crescent (SARC).
+All 122 victims of these attacks were discharged from
+the hospitals the following day. This incident is also
+under investigation by the OPCW.
+
+WHO has been helping the country prepare for
+the management of chemical events since 2012.
+It has trained more than 900 health care workers
+(including 265 clinicians in Aleppo and 80 in Idleb)
+on immediate decontamination, referral, triage and
+treatment measures. WHO maintains strategic stocks
+of protective equipment for health care workers and
+kits of medicines that are distributed to hospitals and
+medical points that undergo training. The Organization
+has issued clinical management protocols, distributed
+personal protective equipment to hospitals and health
+care facilities, and raised Syrians’ awareness of how
+to protect themselves against exposure and when to
+seek treatment. WHO’s hub in Gaziantep has recently
+trained 160 first responders in northern Syria on basic
+measures to respond to the victims of exposure to
+toxic chemical agents. To help manage Syrian patients
+evacuated to Turkey, WHO has also trained Turkish
+medical rescue teams in areas bordering Syria.
+WHO reiterates the United Nations SecretaryGeneral’s statement that any confirmed use of such
+weapons, by any party to the conflict and under any
+circumstances, is abhorrent and a clear violation of
+international law.
+
+go unreported so as not to jeopardize the safety of
+hostages and their families.
+The consequences of every attack on a hospital or
+PHC centre are immediate and devastating. Hospitals
+are forced to suspend their services, putting the lives
+of their patients at risk. The psychological toll on
+staff and patients is enormous. Each attack is a major
+violation of international humanitarian law and an
+affront to the universal right to health care. In Syria,
+these attacks continue unabated despite universal
+outrage and condemnation. Tens of thousands of
+Syrians injured in the conflict have died or suffered
+lifelong disabilities because they were unable to
+obtain timely medical assistance.
+
+Participants at a training course on
+preparedness for chemical events practise
+putting on personal protective equipment.
+WHO Gaziantep
+
+Annual report 2018
+
+13
+
+-----------------------Page 8 End-----------------------
+
+Joint contingency and
+preparedness planning
+WHO contributed to UN and health partners’
+preparedness and response plans that focused on
+locations where changes in political control or access
+status were likely to significantly affect humanitarian
+needs. All WHO offices and hubs in Syria worked
+closely to coordinate response plans with each other
+and with other health partners.
+WHO’s hub in Gaziantep continually updated its
+contingency plans in preparation for potential largescale military operations in north-west Syria. It
+identified 21 hospitals in potentially volatile areas
+that could respond to mass casualty events, including
+
+chemical incidents. Over 250 first responders and
+other health care staff in this region were trained on
+managing trauma patients.
+In March 2018, in anticipation of increased conflict
+in southern Syria, WHO’s hub in Amman convened
+a planning workshop with health cluster partners,
+security experts and local authorities. The group
+identified areas where hostilities were likely to be
+concentrated and where pre-positioned supplies
+would be critical for treating wounded or displaced
+people.
+
+Main geographic areas
+of response
+Eastern Ghouta
+In early 2018, up to 400 000 people in eastern Ghouta
+were subjected to heavy bombardments and ground
+attacks that led to increasing civilian casualties. Almost
+100 000 people fled the area, and tens of thousands
+sought refuge in eight shelters in Rural Damascus.
+WHO supported health care services for these
+IDPs, many of whom had serious health problems
+following years of living under siege. The Organization
+delivered 74 tonnes of health supplies, visited all
+shelters regularly to assess health needs, established
+disease surveillance, supported the delivery of lifesaving health care and identified and filled gaps in
+services. Thirty-four mobile teams supported by WHO
+provided nutritional screening services and referred
+18 severely malnourished children for specialized
+
+14
+
+treatment. NGOs supported by WHO provided almost
+409 000 consultations. More than 4200 people were
+referred to public hospitals and over 55 000 children
+were vaccinated against polio and other childhood
+diseases. Community workers and mobile teams
+provided basic psychological interventions to almost
+34 000 people.
+
+IDPs from eastern Ghouta wait to
+be seen by health care staff at the
+SARC medical point in Dweir camp,
+Rural Damascus. This medical point
+is supported by WHO.
+WHO
+
+A degree of stability has returned to eastern Ghouta,
+but health needs are still immense and growing.
+Thousands of people are returning to areas that were
+previously densely populated but have been largely
+destroyed. The recovery of severely disrupted health
+care services in eastern Ghouta will require shortand long-term support from WHO.
+
+Annual report 2018
+
+15
+
+-----------------------Page 9 End-----------------------
+
+South-west Syria
+In June 2018, heavy and sustained air and ground
+offensives in southern Syria killed dozens of civilians
+including children and injured hundreds of others.
+By the end of the month, up to 325 000 people
+had reportedly fled their homes and villages. Tens
+of thousands of IDPs gathered at the closed border
+crossing between Jordan and Syria. WHO and other
+UN agencies and partners worked with the Jordanian
+authorities to support the coordination of medical
+consultations and patient referrals to hospitals in
+Jordan. WHO donated emergency health supplies to
+the Jordanian Royal Medical Services to support the
+increasing caseload of wounded patients.
+In Dar’a, several hospitals and health care centres
+were damaged and forced to close. Cross-border aid
+convoys from Jordan were temporarily suspended
+due to the intensive bombardment. WHO’s office in
+Damascus and its hub in Amman worked closely on
+the emergency response, in coordination with local
+health authorities. WHO distributed over 70 tonnes
+of medicines and supplies to health care facilities in
+
+Rukban
+south-west Syria and supported NGOs that provided
+more than 97 000 PHC consultations through fixed
+clinics and mobile teams.
+In early July 2018, cross-border access from Amman
+to Syria was blocked after the Government of Syria
+regained control of the border. As a result, WHO’s
+hub in Amman ceased its cross-border support
+and transferred operations to WHO’s main office in
+Damascus.
+Although families displaced during the hostilities
+are gradually returning to their homes, the relative
+calm has not reduced their need for health assistance
+and services. However, badly damaged health
+care facilities and severe shortages of health care
+professionals, compounded by bureaucratic delays,
+have limited the ability of the health sector to address
+health needs. Revitalizing health care facilities and
+reintegrating and training health care staff remain
+key priorities for WHO.
+
+Around 40 000 people, mostly women and children,
+remained stranded in dire conditions in Rukban
+settlement close to the Jordanian border. Only very
+basic health care was available, and the only freeof-charge facility had no electricity, running water or
+official medical supplies. There were no doctors in the
+camp (health care services were provided by nurses
+and midwives), and morbidity and mortality rates
+were reported to be high.
+People in Rukban were able to obtain health care
+services at the UN clinic in the militarized zone on
+the Jordanian side of the border, after first being
+screened and transported by the Jordanian armed
+forces. The clinic provided paediatric, immunization,
+reproductive health and adult health care services.
+Patients requiring specialized or emergency care
+were transferred to hospitals in Jordan. However, for
+security reasons, the clinic did not provide round-theclock services and its activities were suspended when
+deemed necessary by the Jordanian authorities.
+
+Direct access by the UN to the Rukban population
+from Jordan remained prohibited. In early November,
+an inter-agency and SARC convoy managed to reach
+people in Rukban for the first time in over nine months.
+WHO delivered over three tonnes of medicines and
+medical supplies (enough for 31 601 treatments) to
+health personnel in the camp and assessed the health
+situation and health needs. In late December, the UN’s
+Emergency Relief Coordinator briefed the UN Security
+Council on the situation in Rukban and asked for its
+support to obtain secure access to the settlement and
+rapid approval for the next humanitarian convoy.
+The residents of Rukban wanted to leave the
+settlement. The UN urged that they be allowed
+to leave voluntarily, in dignity and security, with
+guarantees for their safe return to their places of
+relocation.
+
+A UN and SARC convoy
+arrives at Rukban camp.
+WHO
+WHO’s shipment of
+medical supplies to
+southern Syria is made
+ready for delivery.
+WHO
+
+16
+
+Annual report 2018
+
+17
+
+-----------------------Page 10 End-----------------------
+
+Northern Rural Homs
+The predominantly agricultural area of northern rural
+Homs was besieged for several years until a ceasefire
+agreement was reached in May 2018. Following the
+change in political control, responsibility for northern
+rural Homs was transferred from WHO’s hub in
+Gaziantep to its office in Damascus.
+Over 30 000 people left for Idleb governorate as
+part of the ceasefire agreement, but the more than
+18 0000 people who remained had very little access
+to health care services. Years of living under siege
+with limited access to food and health care had led to
+
+high rates of malnutrition and deaths from untreated
+life-threatening diseases such as cancer. Thousands
+of children had not been vaccinated for several
+years. WHO supported the operating costs of health
+care services provided by mobile medical teams and
+clinics. By the end of the year, around 14 000 children
+had been vaccinated against routine childhood
+illnesses, 14 PHC centres had partially reopened and
+the disease surveillance system had been reactivated.
+Access to northern rural Homs improved in late 2018
+following the government’s agreement to grant UN
+staff blanket access to the area.
+
+North-west Syria
+Almost 4 million people in north-west Syria live in
+areas7 controlled by non-state armed groups. The
+security situation remained highly precarious in 2018
+and the continuing hostilities in many locations cut
+off humanitarian access to people in need. Highintensity shelling and airstrikes damaged hospitals
+and PHC centres and disrupted referral systems and
+medical supply chains. Attacks on health care facilities
+rose significantly compared with 2017. There were
+widespread shortages of medicines and supplies and
+severe shortages of specialized health care services
+to treat diseases such as cancer, leishmaniasis and
+kidney disease.
+Hundreds of thousands of new IDPs arrived in Idleb
+governorate following changes of political control in
+other parts of the country. IDPs accounted for half of
+Idleb’s population. Many had suffered conflict-related
+injuries that required hospitalization, placing a further
+strain on severely overstretched health care facilities
+in the governorate.
+
+7
+
+Idleb was by no means a safe haven for the hundreds
+of thousands of people evacuated from besieged
+areas. The governorate remained on the edge of a
+humanitarian disaster. Most IDPs were living in dire
+conditions with very limited access to health care,
+water and sanitation and other basic services. Regular
+airstrikes, growing levels of crime, kidnappings
+and inter-factional fighting continued to hamper
+humanitarian access.
+
+In preparation for a possible large-scale offensive and
+to mitigate potentially difficult cross-border access
+during military operations, WHO and health partners
+scaled up preparedness and contingency planning
+for north-west Syria. The plans included provisions
+for potentially high numbers of trauma patients in
+the event of major hostilities and the possible use of
+chemical weapons. In the autumn of 2018, Gaziantep
+delivered its largest-ever cross-border shipment of
+
+emergency medicines and supplies to north-west
+Syria. A total of 104 tonnes of supplies were delivered
+to 180 health care facilities.
+In September 2018, Russia and Turkey announced the
+creation of a demilitarized zone, but no further details
+of the agreement emerged. The UN Secretary-General
+warned of the dire humanitarian consequences of a
+further escalation of violence.
+
+In September 2018, WHO’s
+hub in Gaziantep delivered
+its largest-ever shipment to
+north-west Syria.
+WHO Gaziantep
+
+Throughout the year, WHO’s hub in Gaziantep
+supported the operating costs of 38 primary and
+secondary health care facilities, 185 mobile teams
+and 54 mobile clinics and ambulances. Gaziantep
+delivered 497 tonnes of medical supplies to the areas
+where health needs were greatest and supported
+1.8 million PHC consultations and the treatment of
+more than 88 800 trauma patients. Gaziantep also
+supported partners through the provision of technical
+expertise and training.
+
+Parts of Idleb, western Aleppo, northern Hama and eastern Lattakia.
+
+18
+
+Annual report 2018
+
+19
+
+-----------------------Page 11 End-----------------------
+
+Afrin district
+In March 2018, following almost two months of
+military operations, Syrian non-state armed groups
+and Turkish military forces took control of Afrin
+district in western Aleppo governorate, resulting in
+the displacement of at least 167 000 people and
+the severe disruption of the health system. Most
+PHC centres ceased to operate, and only one of the
+four hospitals in Afrin city remained open during the
+hostilities.
+Most people were displaced to the neighbouring
+areas of Fafin, Nabul, Taal Refaat and Zahraa.
+WHO supported the operational costs of six mobile
+teams and two fixed health care facilities providing
+
+North-east Syria
+integrated PHC and mental health services in areas of
+displacement. The Organization delivered trauma kits,
+intravenous fluids, antibiotics and other medicines to
+the SARC, NGO partners and the Directorate of Health
+of Aleppo.
+By the end of 2018, basic health care services had
+been re-established in Afrin district. In some areas,
+a system was put in place to refer patients who
+needed specialized medical treatment. For example,
+patients with kidney disease were being referred to
+haemodialysis centres in Azaz, Jarablus, Nabul and
+Taal Refaat.
+
+Health care services in the three governorates of
+north-east Syria8 were almost non-existent and
+health needs were high. Although Ar-Raqqa city
+remained highly dangerous and littered with the
+explosive remnants of war, none of its public
+hospitals was adequately staffed and equipped to
+treat trauma patients. Very few health partners were
+operating inside the city or in the entire governorate.
+To compound the challenges, all three governorates
+operated under different governments that did not
+recognize the Ministry of Health (MOH) and vice
+versa.
+
+supplies. The situation remained highly volatile. In
+late 2018, thousands of people in Deir-ez-Zor were
+displaced following military operations against the
+Islamic State of Iraq and the Levant. In December
+2018, WHO updated its contingency plans in
+preparation for possible Turkish military incursions
+into north-east Syria. WHO anticipated that any such
+incursion would have a dramatic effect on the already
+highly compromised health care services in the area
+and might require a shift in operations from WHO’s
+office in Damascus to its hub in Gaziantep.
+
+In four IDP camps assessed by WHO, two thirds of
+households were struggling with mental health
+problems. The measles vaccine coverage rate was not
+high enough to ensure herd immunity9. There were
+shortages of medicines to treat chronic diseases, and
+referral services were extremely limited. Even when
+patients were referred, most hospitals had very little
+capacity to treat them.
+In 2018, WHO delivered over 245 tonnes of medical
+equipment and supplies (enough to address the
+health needs of more than 200 000 people) to northeast Syria through the Al-Yarubiyah border crossing in
+Iraq. The supplies, transported in nine separate crossborder convoys, were delivered to eight international
+NGOs working in the northeast. WHO also supported
+an international NGO that was providing PHC and
+emergency referral services in Ar-Raqqa city. In 2018,
+this NGO provided health care to over 10 000 people.
+
+IDPs queue up to be
+treated at WHO-supported
+mobile clinics in Afrin.
+WHO
+
+WHO’s office in Damascus initiated a comprehensive
+programme to restore basic health care and routine
+immunization services throughout the northeast.
+However, due to the fraught political situation, it
+encountered significant delays in obtaining approval
+to initiate activities and deliver medicines and
+
+8
+9
+
+20
+
+A WHO team carries out a field visit to Ein-Issa
+camp in Ar-Raqqa.
+WHO
+
+Al-Hasakeh, Ar-Raqqa and Deir-ez-Zor.
+Nearly 90% of reported cases of measles in Q2, 2018 were from north-east Syria.
+
+Annual report 2018
+
+21
+
+-----------------------Page 12 End-----------------------
+
+2018 AT A GLANCE
+Almost
+
+10 million
+
+treatments were
+delivered across Syria,
+of which 4.3 million
+were delivered
+through cross-border
+operations.
+
+58 besieged and
+
+hard-to-reach areas
+received regular
+deliveries from within
+Syria.
+
+575 986
+
+trauma patients were
+supported.
+
+75 mobile medical
+
+teams were rolled out.
+
+22
+
+1909 tons
+
+of health supplies were
+delivered within Syria,
+of which 909 tons were
+delivered through
+cross-border
+operations.
+
+3.5 million
+
+outpatient
+consultations were
+supported.
+
+430 273 mental
+
+health and psychosocial
+support interventions
+were provided.
+
+75 NGO
+
+implementing partners
+were supported.
+
+2.6 million
+
+2.6 million
+
+Four PHC centres and
+one TB centre were
+rehabilitated.
+
+Nine hospitals in
+north-west Syria
+underwent minor
+rehabilitation.
+
+1553 sentinel sites
+
+30 865 health care
+
+children were
+vaccinated against
+polio.
+
+across Syria reported
+to WHO’s disease early
+warning and response
+system.
+
+2386 unsafe
+
+sources of drinking
+water were tested and
+mitigation measures
+were taken.
+
+children were
+vaccinated against
+measles.
+
+staff were trained on a
+wide range of topics.
+
+917 943
+
+children were screened
+for malnutrition.
+Water supply and
+purification systems
+were strengthened in
+five hospitals.
+
+Annual report 2018
+
+23
+
+-----------------------Page 13 End-----------------------
+
+WHO’S HEALTH RESPONSE
+This year’s annual report is structured around the
+health objectives set out in the joint Humanitarian
+Response Plan for Syria10 for 2018. WHO contributes
+to five objectives (three for health, one for nutrition
+and one for water, sanitation and hygiene).
+
+Health objective 1:
+Provide life-saving and life-sustaining
+humanitarian health assistance
+
+A WHO-supported mobile
+mental health clinic in Saraqeb,
+Idleb governorate.
+
+PHC services
+
+WHO Gaziantep
+
+Over the course of 2018, more than 137 000
+refugees returned to Syria, and this trend looks set
+to continue and increase. The rehabilitation of PHC
+services, water and sanitation networks and other
+basic infrastructure will be increasingly important as
+hundreds of thousands of people begin returning to
+their homes and villages. Good PHC services improve
+the health status of the people they serve, provide
+preventive care and health education, and alleviate
+the burden of disease. At their heart, they are about
+caring for people rather than simply treating specific
+diseases or conditions.
+While PHC centres meet most of an individual’s health
+needs over the course of his or her life, they are
+also the entry point to refer patients for secondary
+and tertiary health care. Maintaining PHC services is
+
+Mobile teams
+
+therefore critical to ensure that patients can obtain
+specialist health care when needed.
+In 2018, WHO monitored stocks in over 1200 PHC
+centres and delivered medicines, supplies and
+medical equipment to facilities throughout the
+country. The Organization trained thousands of PHC
+staff and supported follow-up on-the-job supervision.
+PHC centres supported by WHO provided over 3.5
+million consultations.
+NGOs throughout Syria have stepped in to provide
+essential PHC services, especially in besieged and
+hard-to-reach areas. WHO works with a network of
+75 national health NGs and supports them through
+providing training opportunities and technical advice
+and delivering medicines and supplies. Page 48 of
+this report describes how WHO has trained its NGO
+partners and monitored their work.
+
+WHO supported approximately 75 mobile teams that
+provided PHC services throughout Syria, particularly in
+hard-to-reach areas. In 2018, these teams provided
+more than 600 000 consultations. Page 49 of this report
+describes the work of mobile teams in more detail.
+10
+
+https://reliefweb.int/report/syrian-arab-republic/2018-syrian-arab-republic-humanitarian-response-plan-january-december
+
+24
+
+Essential package of
+health care services
+In 2018, more than half of functioning PHC centres in
+Syria provided all services in the essential package of
+health care services developed by the Syrian MOH.
+The package describes the services, staff, medicines,
+equipment and supplies that should be available in
+all centres.
+WHO’s hub in Gaziantep has introduced a similar
+package of essential health care services for northwest Syria. Approximately half of PHC centres
+provided the full range of services. Most of them
+provided nutritional screening services and treatment
+for communicable and noncommunicable diseases,
+but other services were lacking. One of the main
+challenges was the lack of reliable long-term funding
+to support the sustainability of services.
+
+Main components of the essential package
+of health care services in Syria
+•
+
+General clinical services including oral health and
+dental care
+
+•
+
+Child health: vaccination, under-5 clinic,
+management of diarrhoea
+
+•
+
+Nutrition: screening, management of acute
+malnutrition
+
+•
+
+Communicable diseases: diagnosis and treatment
+of TB and other locally relevant diseases
+
+•
+
+Noncommunicable diseases: asthma, chronic
+obstructive pulmonary disease, cardiovascular
+disease, hypertension, diabetes
+
+•
+
+Sexual and reproductive health: maternal and
+newborn health, sexually transmitted infections,
+HIV/AIDS
+
+•
+
+Mental health care
+
+•
+
+Emergency trauma care
+
+•
+
+Referral services
+
+Annual report 2018
+
+25
+
+-----------------------Page 14 End-----------------------
+
+Types of PHC services
+Standard precautions
+
+95%
+91%
+
+Water: sufficient and safe water available during opening hours
+Sanitation: at least 1 clean and functioning toilet
+
+90%
+
+Waste: timely and safe waste collection with use of appropriate personal protective equipment (PPE)
+
+88%
+
+Outpatient services
+
+86%
+
+Waste: segregation of hazardous and non-hazardous waste
+
+85%
+
+Diarrhoea management
+
+84%
+
+Hypertension management
+
+82%
+
+Immediate reporting of unexpected or unusual health events through EWARS or routine surveillance
+
+81%
+
+Family planning
+
+81%
+
+EPI: routine immunization against all national target diseases and adequate cold chain in place
+
+81%
+
+Antenatal care
+
+79%
+
+Tetanus shot
+
+79%
+
+Availability of free condoms
+
+77%
+
+Diabetes management
+
+73%
+
+Growth monitoring and/or screening of acute malnutrition (MUAC or weight- for-height (W/H))
+
+72%
+
+Emergency services
+
+66%
+
+Cardiovascular services
+
+63%
+
+Referral capacity
+
+62%
+
+Regular reporting sentinel site of local relevant diseases/ conditions through EWARS
+
+61%
+
+Asthma and chronic obstructive pulmonary disease (COPD): classification, treatment and follow-up
+
+61%
+
+Post-partum care: examination of mother and new-born baby (up to 6 weeks)
+
+60%
+
+Oral health and dental care
+
+53%
+
+Basic laboratory
+
+48%
+
+Diagnosis and treatment of TB cases
+
+33%
+
+Psychosocial support services
+
+31%
+
+Syndromic management of sexually transmitted infections
+
+31%
+
+Clinical diagnosis and management of other locally relevant diseases,such as cutaneous leishmaniosis, brucellosis
+
+30%
+
+Community-based management of acute malnutrition (CMAM)
+
+29%
+
+Post-exposure (PEP) for STI infections
+
+27%
+
+Management of mental disorders by specialized and and supervised non-specialized health-care providers
+
+26%
+
+Under-5 clinic conducted by IMCI-trained health staff
+
+Gaziantep also supported supplementary polio and
+measles vaccination campaigns that aimed to reach
+at least 80% vaccination coverage in each district of
+north-west Syria.
+
+In 2018, the number of vaccination centres
+supported by WHO’s hub in Gaziantep rose from 54
+to 94. The new centres are located in Afrin (where
+vaccination centres were forced to close following
+military operations in early 2018) and areas with
+high population densities. As of the end of 2018,
+up to 26 700 children under one year of age were
+being vaccinated with Penta vaccine11 each month.
+
+WHO helped strengthen Syria’s national polio
+programme by improving surveillance, training
+health care workers and supporting the establishment
+of a system to collect sewage water and test it for
+poliovirus. The system was launched in January
+2018 in two governorates; by the end of the year it
+had expanded to cover 10 out of 14 governorates.
+WHO also upgraded the national polio laboratory in
+Damascus.
+
+Essential newborn care
+
+16%
+8%
+2%
+
+Children in Ar-Raqqa
+display their inked
+fingers to show they
+have been vaccinated.
+
+care facilities. By the end of 2018, 4400 patients
+were being referred through the network each
+month. Coordination among the centres makes better
+use of limited resources by reducing overlaps and
+duplication in services. To mitigate severe shortages
+of health care staff and ease the pressure on health
+care professionals, some tasks formerly handled by
+physicians were transferred to support staff.
+
+WHO
+
+11
+
+26
+
+Gaziantep collaborates closely with the Syrian
+Immunization Group, a consortium of NGOs
+implementing immunization activities in northwest Syria. WHO provided technical guidance for
+vaccination activities, supported the operational costs
+of 35 vaccination centres and trained and deployed
+over 4900 field workers to support vaccination
+campaigns.
+
+17%
+
+Basic Emergency Obstetric Care (BEOC)
+
+WHO’s hub in Gaziantep coordinated and supported
+a network of 38 PHC centres that adopted common
+standards to strengthen the quality of care and
+increase health care coverage. This experience led to
+the creation of a larger referral network of 62 primary
+and secondary health care structures, with technical
+and operational support provided by WHO. The
+network allowed patients to be rapidly referred for
+diagnosis and treatment in other participating health
+
+Over 1300 vaccination centres supported by 195
+mobile teams and 94 outreach teams provided routine
+vaccination services throughout Syria. Mobile teams
+vaccinated children in schools, IDP camps, collective
+shelters and high-risk areas. WHO supported mass
+vaccination campaigns, local campaigns and national
+immunization weeks. It focused on vaccinating
+children in areas of northern Syria where access
+improved in 2018. However, vaccination coverage
+rates in these areas remain dangerously low; in some
+areas of Deir-ez-Zor governorate, the coverage rate
+for diphtheria, tetanus and polio was as low as 8% as
+of October 2018.
+
+26%
+
+Prophylaxis and treatment of opportunistic infections, prevention of mother-to-child HIV transmission (PMTCT)
+
+HIV testing and counselling
+
+Routine immunization
+
+The vaccine protects children against five diseases: diphtheria, pertussis, tetanus, hepatitis B and Haemophilus influenzae type b.
+
+Annual report 2018
+
+27
+
+-----------------------Page 15 End-----------------------
+
+WHO’s hub in Gaziantep has established a surveillance
+system to better detect wild and vaccine-derived
+poliovirus. Samples from people suspected of having
+the disease are collected in north-west Syria and
+sent to Turkey’s national polio laboratory in Ankara
+for diagnosis. In 2018, 1624 samples were sent to
+the laboratory in Ankara; all tested negative for the
+disease.
+By the end of 2018, approximately 2.6 million children
+in Syria had been vaccinated against polio. Oral polio
+vaccine needs to be administered many times to
+be fully effective. The number of doses it takes to
+immunize a child depends entirely on the child’s
+health and nutritional status, and how many other
+viruses s/he has been exposed to. Children who are
+
+not fully immunized are still at risk from polio. This
+emphasizes the need for all children to be vaccinated
+during every round of national immunization days.
+By the end of 2018, WHO estimated that vaccination
+coverage rates had risen by 4% compared with the
+end of 2017. While this indicates that WHO’s efforts
+are meeting with some success, the increase is not
+enough to ensure herd immunity. Continued efforts
+will be required to help ensure that every last child is
+immunized against measles and polio.
+Appendix 1 at the end of this report gives more details
+concerning the vaccination campaigns supported by
+WHO in 2018.
+
+“This training will help educate Syrian mothers and
+eliminate potentially harmful practices”, said Fatima,
+a community health worker from Homs governorate.
+“After years of turmoil affecting access to health care
+for pregnant women and mothers, a programme like
+this is needed more than ever.”
+
+“Although pregnant women normally receive
+antenatal care, the equally important period following
+birth is sometimes neglected”, said Elizabeth Hoff,
+the WHO Representative in Syria. “Syria is one of the
+first countries in the Region to implement this WHO
+programme.”
+
+WHO Gaziantep
+
+Maternal and newborn health
+
+28
+
+Childbirth is often filled with uncertainty, especially
+for women living in conflict-affected or insecure
+environments. WHO has launched a new programme
+to help Syrian mothers manage this life-changing
+event during pregnancy and after birth. The “caring
+for the newborn at home” initiative guides all
+mothers on the steps they and their families can take
+to ensure their newborn children have a healthy start
+in life.
+Under the new programme, WHO-trained community
+health workers make home visits to help mothers
+during pregnancy and after childbirth. To begin with,
+the programme is being introduced in areas that are
+newly reconciled, or where there is limited access to
+health care. It aims to reach 10 000 beneficiaries per
+year.
+
+Vaccination teams from the
+Syria Immunization Group
+arrive at a town in north-west
+Syria to vaccinate children
+under five years of age
+against polio.
+
+In 2018, WHO’s office in Damascus supported 25
+PHC centres that provided services for the integrated
+management of childhood illnesses. WHO’s hub in
+Gaziantep supported the running costs of 11 PHC
+centres providing these services in north-west Syria.
+
+CARING FOR THE NEWBORN
+AT HOME
+
+WHO launched a new initiative to improve newborn
+care at home. The initiative was implemented in 35
+villages in ten governorates.
+
+Fathyah, from Homs governorate, says that she is very
+happy to be part of the programme. “Unlike during
+my previous pregnancies, health care workers have
+been visiting me at home to help me take care of
+my baby”, she said. “I’ve learned so much, including
+how important it is to begin breastfeeding within half
+an hour of birth. For the first time since the conflict
+began, I feel that there are people who really care
+about me and my family”, she added.
+
+A community health worker visits a new
+mother at home.
+WHO
+
+Annual report 2018
+
+29
+
+-----------------------Page 16 End-----------------------
+
+Mental health care in the community
+
+Mental health
+Rates of mental health disorders in Syria are
+increasing12, but mental health services continue
+to be in short supply. In north-west Syria, just over
+a fifth of PHC clinics are able to offer basic mental
+health care. Only two hospitals in north-west Syria
+provide services for patients with severe mental
+health disorders.
+WHO is supporting the integration of mental health
+and psychosocial support (MHPSS) services into
+PHC centres across the country by training health
+care and community workers and providing followup supervision. Training is based on WHO’s Mental
+Health Gap Action Programme (mh-GAP), which aims
+to increase the availability of mental health services
+in low- and middle-income countries. Training
+courses include considerations of gender equality and
+counselling for victims of gender-based violence. In
+March 2018, 12 physicians working in southern Syria
+travelled to Jordan to attend a training workshop on
+mh-GAP. Seventy health care professionals in northwest Syria completed an intensive six-month mh-GAP
+training course. In total, 3465 health care workers
+throughout Syria were trained on different aspects of
+mental health care in 2018.
+
+The stigma surrounding mental illness means that
+many people are reluctant to seek help. In 2018,
+WHO hosted a series of meetings with senior officials
+in the Syrian ministries of health and education, other
+UN agencies and national NGOs to mobilize efforts to
+eliminate the stigma of mental illness and increase
+patients’ access to care. WHO’s training programmes
+and advocacy efforts have also helped dispel
+misconceptions about mental health disorders. This
+has resulted in changing attitudes towards mental
+health patients and their families and helped reduce
+the abuse and discrimination often suffered by these
+patients.
+Currently more than 520 PHC and secondary health
+facilities and community centres in Syria are providing
+mental health services. Psychiatric wards are now in
+operation in three general hospitals in Damascus,
+Hama and Lattakia that were previously rehabilitated
+by WHO. WHO’s hub in Gaziantep is supporting acute
+mental health services in Sarmada hospital in Idleb.
+Gaziantep is also collaborating with hospital-based
+psychiatrists in northern Aleppo who are treating
+patients with severe mental health conditions. An
+increasing number of mobile teams supported by
+WHO include personnel trained in providing mental
+health care.
+
+Community mental health services are easily
+accessible, lessen social exclusion, and are costeffective. Talking through problems and feelings with
+trained psychosocial workers helps alleviate distress
+and staves off more serious mental health disorders.
+WHO is training and supporting staff in community
+centres and mobile teams on basic mental health
+interventions such as psychological first aid, family
+and group counselling, and first-line support for
+survivors of gender-based violence. In 2018, WHO
+supported five family well-being community centres
+in Aleppo, Al-Hasakeh and Homs governorates and
+plans to establish at least 15 new community centres
+in 2019.
+
+A training curriculum for community health workers,
+developed by WHO’s hub in Gaziantep, includes
+a component on mental health. A total of 221
+psychosocial workers were trained and are now able
+to identify patients in need in the community and
+refer them to specialized mental health services.
+In 2018, WHO supported 32 NGO mental health
+mobile teams working in areas such as eastern
+Ghouta and south and north-west Syria that were the
+focus of intense fighting. WHO’s hub in Gaziantep is
+also supporting four mobile clinics that are providing
+mental health care for patients in Idleb and northern
+Aleppo. WHO-supported community centres and
+mobile teams provided almost 84 000 MHPSS
+interventions to people suffering from mental health
+problems.
+
+School mental health programme
+The school mental health programme (SMHP),
+launched in 2018, aims to train teachers, counsellors
+and social workers in schools and community centres
+on how to detect and help children suffering from
+mental health disorders and refer them for specialist
+care when necessary. A total of 25 counsellors from
+different governorates attended training-of-trainers
+
+workshops. They have since gone on to train 843
+teachers and counsellors in 37 training courses
+held in different governorates. WHO has contracted
+specialized MHPSS professionals to provide on-thejob training and supervision to new trainees. Currently
+more than 650 schools and community centres in 11
+governorates are implementing the SMHP.
+
+12
+WHO estimates that one in 30 people in Syria is suffering from a severe mental health condition and at least one in five is suffering from a mild to
+moderate mental health condition as a result of prolonged exposure to violence.
+
+30
+
+Annual report 2018
+
+31
+
+-----------------------Page 17 End-----------------------
+
+Noncommunicable diseases
+According to the Syrian MOH, noncommunicable
+diseases (NCDs) account for 45% of all deaths in
+Syria13. Although the national NCD database tracks
+only the number of patients with diabetes and
+cancer, the MOH plans to expand it to include all
+other NCDs. WHO has supported the development of
+a system to monitor the quality of services in PHC
+centres, using standard indicators for NCDs and other
+health interventions. The project is being pilot-tested
+and will be refined and expanded following the result
+of the initial roll-out.
+In 2018, WHO delivered 174 NCD kits to all
+governorates. The kits contain medicines and medical
+devices to manage the most common NCDs including
+
+hypertension and cardiac conditions, diabetes and
+endocrine disorders, chronic respiratory diseases, and
+mental health and neurological conditions. In total,
+the kits provided sufficient medicines and medical
+devices to treat 435 000 NCD patients for up to one
+year.
+In early 2018, WHO’s hub in Amman launched a project
+to improve the quality of NCD care in four health
+care facilities in southern Syria. Amman delivered
+medicines and supplies that enabled the centres to
+provide more than 10 000 consultations, including for
+232 mental health patients. WHO’s hub in Gaziantep
+introduced a pilot project to improve NCD care in nine
+health care facilities in north-west Syria.
+
+Gender-based violence
+In Syria, MHPSS services have been the entry point
+for helping the victims of gender-based violence
+(GBV). Through its MHPSS training courses, WHO
+has trained more than 200 gynaecologists and 140
+community psychosocial support workers on basic
+psychological interventions for GBV survivors. Five
+community well-being centres in Aleppo and Homs
+are providing psychological support to people who
+have been exposed to GBV.
+
+Despite the above, services to treat GBV survivors
+remain scarce. Syria is one of six countries selected
+to pilot a WHO project to strengthen the health sector
+response to GBV. The project aims to better integrate
+GBV projects into WHO’s work by training WHO staff,
+ensuring the availability of staff and supplies to
+support GBV services, and improving coordination
+among health sector partners. WHO will begin
+implementing the project in early 2019.
+
+Mandala community centre in the city of Aleppo
+opened in 2017. Since then, it has become a busy
+and popular hub for local residents, providing a mix
+of services that include reproductive health care,
+vocational training and mental health counselling,
+including sessions tailored for survivors of genderbased violence. These services are offered at the
+centre, through community visits and by mobile
+teams working at IDP sites. Community visits help
+ensure that elderly people are not isolated and that
+they and their carers obtain the health care and
+emotional support they need.
+
+https://www.who.int/nmh/countries/2018/syr_en.pdf?ua=1
+
+32
+
+Dr Nabil Samarji, a mental health specialist based
+in WHO’s sub-office in Aleppo, says that being able
+to share and talk through traumatic experiences is a
+powerful healing tool. He has trained the centre staff
+on MHPSS and keeps in regular contact with them
+through on-site visits and online coaching.
+
+The centre promotes a holistic approach to
+helping community members deal with traumatic
+experiences. Three psychologists and three physicians
+in the centre’s walk-in clinic provide MPHSS and
+reproductive health services. A family-friendly space
+allows parents to bring their children and interact
+with other families.
+The centre also offers vocational training, including
+hairdressing, make up and cookery classes that are
+designed to empower community residents and
+help them find new meaning in their lives. They are
+encouraged to undergo counselling at the same time.
+An eight-session counselling course helps them come
+to terms with what they have lived through. Over
+the course of two months, they learn how to share
+
+Counselling sessions at the centre.
+13
+
+their experiences, deal with grief and trauma, and
+minimize or tolerate stress.
+
+WHO
+
+Cookery classes at Mandala community centre.
+WHO
+
+“People like coming here. They feel empowered”,
+said Dr Samarji. “This centre is a model of its kind. We
+can learn a lot from its holistic approach and how it
+has been a force for good in the community. When
+people first come here, you observe how they are
+withdrawn and afraid. In a relatively short space of
+time, they become engaged in what they are doing.
+You see how they interact with other people. The
+difference is noticeable.”
+WHO has delivered medicines and other supplies
+and equipment to the centre, trained its staff on
+mental health interventions and provided advice
+and supervision. In 2018, the centre provided
+1270 vocational services and 3822 mental health
+consultations, including many to women who were
+survivors of gender-based violence. More than 3000
+reproductive health consultations were provided at
+the centre and through mobile teams.
+
+Annual report 2018
+
+33
+
+-----------------------Page 18 End-----------------------
+
+Reproductive health care
+Sexual and reproductive health services are a critical
+entry point to reach women and girls and help them
+exercise their rights to reproductive health care. The
+availability of local female health staff facilitates
+the access of women and girls to these services and
+opens the possibility for them to be referred to other
+health and psychosocial services including those for
+the survivors of gender-based violence. However,
+female health professionals in Syria are severely
+underrepresented. A recent WHO assessment
+in southern Syria found that fewer than half of
+obstetricians and gynaecologists were female and
+that women accounted for only 18% of the overall
+health workforce14.
+
+A day in the life of a PHC centre
+WHO supported the development of a national plan
+to set strategic directions and actions to improve
+reproductive and maternal health care in Syria over the
+next five years. It trained approximately 500 health
+care workers in nine governorates on reproductive
+health care and supported the development of
+reproductive health care guidelines for health care
+workers and information booklets for communities.
+NGOs supported by WHO delivered 1485 children by
+normal delivery and 2242 by Caesarean section.
+In 2018, WHO’s hub in Gaziantep delivered
+reproductive health medicines and supplies and 10
+kits to support reproductive health and obstetric and
+newborn care in 19 health care facilities. The supplies
+were sufficient to cover 16 640 treatment courses.
+
+Community care
+Community health workers play an important role in
+remote and rural areas where access to health care is
+extremely limited. They explain the basic preventive
+measures that community members can take to
+protect their health, and they identify patients who
+need to be referred for specialist treatment. In north-
+
+west Syria, where the distribution of PHC centres is
+highly uneven15 and the number of doctors, nurses
+and midwives is well below international standards16,
+243 health workers trained by WHO provided these
+services in their communities.
+
+Referral systems
+In 2018, WHO’s office in Damascus strengthened
+referral services by improving diagnostic capacities in
+PHC centres to minimize the need for unnecessary
+referrals. WHO donated 36 ambulances and eight
+mobile clinics to support referral services across the
+country.
+In north-west Syria, patients who required secondary
+or tertiary care were referred through a network
+
+14
+15
+16
+
+of 62 PHC centres that was established to improve
+coordination and support continuity of care for
+patients. Referrals were supported through seven
+mobile clinics, nine ambulances and 15 nonemergency vehicles. In collaboration with other
+partners in north-west Syria, WHO also supported
+50 ambulances to improve referrals during mass
+casualty events.
+
+Fardous PHC centre in December 2016, after it
+had been destroyed.
+WHO
+Fardous PHC centre is located in a bustling, popular
+neighbourhood in Eastern Aleppo. The area was badly
+damaged in the fighting of 2016 and the PHC centre
+was destroyed. Since the end of the conflict in Aleppo,
+almost 50 000 people have returned to Fardous to
+begin rebuilding their lives and their communities.
+In March 2017, the centre re-opened following
+extensive rehabilitation. Its team of 23 staff including
+seven doctors and eight nurses and midwives offers
+a full range of PHC services and sees around 300
+patients per day. WHO has trained team members
+on vaccination techniques, nutritional screening and
+basic mental health interventions, and regularly
+delivers medicines and other supplies to keep the
+centre running.
+
+Fardous PHC centre in March 2017 after extensive
+rehabilitation by local health authorities.
+WHO
+
+The day begins
+By the time the centre opens at 9 a.m., a queue of
+patients has already formed.
+Amina is bringing her children to be vaccinated. She
+has come because she has heard that some children in
+the city have fallen seriously ill with measles and that
+the disease can be prevented through vaccination.
+The team vaccinates her children and also screens
+them for malnutrition.
+
+The vaccination
+team at work.
+WHO
+
+Health Services and Population Status Report: Southern Syria, March 2018.
+107 of 271 sub-districts have no fully functioning PHC centres.
+2.45 health staff per 1000 population compared with minimum standards of 4.45 per 1000 population.
+
+34
+
+Annual report 2018
+
+35
+
+-----------------------Page 19 End-----------------------
+
+42-year old Abo Ahmad has to be helped in by two
+relatives. He has a high fever and severe abdominal
+pain. The medical team suspects that Abo is suffering
+from acute appendicitis and calls an ambulance to
+take him to the nearest hospital.
+Om Abdo, a mother of five children, comes seeking
+family planning advice. She already has five children,
+and her last two deliveries were by Caesarean section.
+Her female physician implants an intrauterine device
+and explains how to take care of it. She asks Om Abdo
+to come back the following week for a check-up.
+
+70-year old Hajeh Siham is next in line. She suffers
+from severe arthritis and diabetes. Her doctor checks
+her glucose levels and prescribes diabetes medicines
+that she can collect from the centre’s pharmacy.
+
+For 83-year old Hussein, the PHC centre is his only
+hope. He has high blood pressure and cardiovascular
+disease. All other PHC centres in the vicinity have
+been destroyed or forced to close, and he cannot
+
+afford the cost of treatment in private clinics. Thanks
+to the centre and the supplies donated by WHO,
+Hussein receives regular check-ups and obtains the
+medicines he needs to keep him healthy.
+
+Seven-year old Mahmoud comes to complete his course
+of injections to treat his leishmaniasis. He is happy that
+the painful lesion on his face has finally disappeared.
+The team painstakingly maintains paper records so
+that each patient can be tracked and receive followup care. New IDPs arrive every day, others leave, and
+there is a constant flow of new patients. This high
+patient turnover is challenging.
+
+Hussein and his
+wife outside the
+centre.
+WHO
+
+Seven-year old Mahmoud
+is delighted that the painful
+leishmaniasis lesion on his face
+has finally disappeared.
+WHO
+
+There is a steady stream of patients throughout the
+day. Most people have fairly minor ailments but
+some have more serious illnesses. By the time the
+clinic closes at 3 p.m., the team has seen almost 300
+patients.
+
+36
+
+Many patients are still waiting. The team checks to
+be sure that none of them is seriously ill and asks
+everyone to return the following day. The team
+knows the following morning it will find another
+queue of people waiting to be seen.
+
+The clinic staff has seen many changes over the
+past seven years. Before the conflict began, people
+came to be treated for common illnesses. Now, the
+team regularly sees patients suffering from diseases
+such as malnutrition that were previously unheard
+of. There has been a huge increase in the number
+of patients with depression, disabilities and conflictrelated injuries. Many people are sleeping in the ruins
+of their homes, where they are bitten by sandflies.
+This has led to a dramatic increase in leishmaniasis.
+The clinic is setting up a designated leishmaniasis unit
+
+The centre’s
+ambulance staff.
+
+A patient waits to receive
+medicines free of charge from
+the centre’s pharmacy.
+
+WHO
+
+WHO
+
+to treat the growing numbers of patients with the
+disease. WHO has donated leishmaniasis medicines
+and bednets.
+The clinic staff work at a relentless pace. They know
+that without them, their patients would have no
+access to health care. Mustafa, one of the doctors at
+the centre, said “Seeing the happiness on Mahmoud’s
+face when he is cured of leishmaniasis, and being
+able to save the lives of patients like Abo Ahmad,
+makes every day worthwhile.”
+
+Annual report 2018
+
+37
+
+-----------------------Page 20 End-----------------------
+
+Hospitals and secondary health care facilities
+Just over half of hospitals in Syria were fully
+functioning in 2018. A quarter were working at
+minimum capacity and had severe shortages of staff,
+medicines and supplies, and the remainder were
+closed altogether. Hospitals in Dar’a, Idleb, north-east
+Syria and Quneitra were some of the worst affected.
+In 2018, WHO’s office in Damascus delivered over
+1.9 million treatment courses to support surgical,
+intensive care, haemodialysis and cancer services. It
+delivered 110 pieces of medical equipment including
+CT scanners, incubators, ventilators, basic X-ray
+equipment and haemodialysis machines to over 60
+hospitals. WHO supported neonatal resuscitation
+programmes in 34 hospitals in Syria.
+Major gaps in secondary health care persisted in northwest Syria. Shortages were particularly severe in areas
+near the Turkish border in Idleb, rural western Aleppo
+and Afrin. Hospitals lacked specialized services for
+patients with cancer and kidney disease. There were
+not enough beds in intensive care units and those that
+were available were taken up by trauma patients.
+Equipment to support orthopaedic and reconstructive
+surgery was outdated or malfunctioning and there
+were shortages of other materials such as external
+fixatures and plates. Centres treating patients with
+kidney disease had severe shortages of supplies to
+
+38
+
+support haemodialysis sessions. Only two hospitals
+were providing in-patient care for mental health
+patients.
+In 2018, WHO’s hub in Gaziantep delivered trauma
+and surgical supplies (enough to cover 290 000
+treatment courses) and other medicines and supplies
+to hospitals in north-west Syria. Gaziantep supported
+three facilities with operational costs throughout
+2018 to ensure key facilities were providing services.
+It also supported the running costs of the maternity
+and paediatric hospital in Harem city, close to the
+Turkish border. Harem is an area of high displacement
+and a crossroads for many different populations. The
+hospital provides 1200 outpatient consultations, 40
+deliveries and 50 surgeries per month for a catchment
+population of over 800 000 people.
+At the end of March 2018, following the withdrawal
+of a health partner from Dar’a in southern Syria, WHO
+stepped in as the provider of last resort to support the
+only operational blood bank in all of areas of southern
+Syria controlled by non-state armed groups, thereby
+ensuring access to safe blood and blood products for
+trauma, emergency and routine surgery. Between
+April and June, WHO supplied more than 1000 units of
+blood to health care facilities in Dar’a and Quneitra.
+In July 2018, the area came under the control of the
+Syrian government.
+
+Fifty-five-year-old Um Mohammad from Ar-Raqqa
+governorate was diagnosed with breast cancer two
+years ago. There are no public hospitals in the whole of
+Ar-Raqqa governorate that can provide the treatment
+she needs, so she has had to travel every two
+weeks to the National Hospital in the neighbouring
+governorate of Hama for chemotherapy. The journey
+takes eight hours each way.
+A tearful Um Mohammad said that the constant
+travel, on top of her illness, had left her exhausted.
+“I have been travelling to Hama for almost two years
+now; I am on the verge of physical and financial
+collapse.” Each trip costs Um Mohammad 10 000
+Syrian pounds (the equivalent of US$ 23), a small
+fortune considering that two thirds of the population
+is living on less than $2 a day. “I am trying to get by
+and borrowing money from friends and neighbours,
+but they are all suffering too, and have no money to
+spare.”
+
+and forced to close, and its five other hospitals are
+providing only limited services. The destruction of
+health care facilities in neighbouring governorates
+has exacerbated the situation. The hospital regularly
+admits patients from Al-Hasakeh, Ar-Raqqa and
+Deir-ez-Zor governorates. Its emergency department
+alone receives 800 patients each day.
+Ms Hoff said that WHO would continue to support
+the hospital as much as possible. “Rehabilitating the
+badly damaged National Hospital in Ar-Raqqa will be
+costly and time-consuming. In the meantime, Hama
+National Hospital provides the only hope for so many
+people.”
+Um Mohammad expressed her deep gratitude to the
+doctors and nurses at the hospital. “They have been
+amazing”, she said. “They’ve supported me and taken
+care of me. When I needed to talk, they listened. I
+will never forget what they have done for me.”
+
+Um Muhammad is one of hundreds of thousands of
+Syrian patients who have been badly affected by the
+conflict. “Syria’s disrupted health system has led to
+a public health catastrophe. Over half the country’s
+hospitals are closed, and those that remain open are
+working under severe pressure”, said Ms Elizabeth
+Hoff, the WHO Representative in Syria. “People,
+especially those in rural and conflict-affected areas,
+are obliged to travel long distances to obtain health
+care. Many of them simply cannot afford to make
+the journey. In the absence of health care services,
+chronic diseases such as diabetes and hypertension health conditions that would be treatable in normal
+times - have become deadly.”
+Hama National Hospital is one of many hospitals
+that WHO is supporting through training staff and
+delivering medicines, supplies and equipment to
+maintain essential services. However, it is operating
+under severe and increasing pressure. It is the only
+public hospital that is providing specialized health care
+in the whole of Hama governorate. Two other public
+hospitals in the governorate have been destroyed
+
+The WHO Representative visits a cancer patient
+at Hama National hospital.
+WHO
+
+Annual report 2018
+
+39
+
+-----------------------Page 21 End-----------------------
+
+Trauma care
+Good outcomes for injured patients require longterm personalized follow up which is extremely
+challenging in times of war. In north-west Syria, only
+45 out of 377 functioning health care facilities were
+providing physical rehabilitation services. WHO’s
+hubs in Amman and Gaziantep provided material
+and financial support to a health partner managing
+nine physical rehabilitation facilities (four in southern
+and five in northern Syria17). By the end of 2018, this
+partner had assisted over 15 270 patients including
+more than 3200 children. However, this covered only
+a fraction of needs.
+
+WHO’s office in Damascus delivered 145 pieces of
+medical equipment to strengthen hospitals’ surgical
+and trauma care services as well as medicines and
+supplies to treat over 470 000 trauma patients. It
+also delivered prosthetic materials for more than 350
+artificial limbs to two physical rehabilitation centres
+in Damascus and Homs and supported the costs of
+physiotherapy sessions. These two centres receive
+patients from all over the country. Over 7600 patients
+were supported with assistive devices, artificial limbs
+and physiotherapy sessions, and 4170 health care
+workers were trained on trauma care, first aid and
+basic life support. WHO also rehabilitated a damaged
+public physiotherapy centre in Homs.
+
+In September 2018, WHO assessed the status of
+trauma care services in Ar-Raqqa city and surrounding
+areas. The lack of trauma care services in the city was
+a critical concern because of the high risk of trauma
+injuries due to the presence of tens of thousands of
+landmines and other explosive remnants of war. The
+assessment team found that there were no public
+hospitals in Ar-Raqqa city that were able to perform
+emergency life-saving surgery on trauma patients
+before transferring them to more advanced facilities.
+Two private hospitals had adequate facilities, but
+most trauma patients could not afford the cost of
+treatment. Based on the recommendations of the
+report, WHO delivered emergency equipment and
+supplies to strengthen the public hospital in
+Al-Tabqa (within two hours’ driving distance of
+Ar-Raqqa city). WHO also signed an agreement with
+Al-Hekma private hospital (Al-Hasakeh governorate)
+
+to cover the costs of patients admitted for trauma
+and emergency care. As of the end of 2018, WHO was
+in the process of negotiating a similar agreement
+with Al-Teb Al-Hadeeth private hospital in Ar-Raqqa
+city. WHO also delivered 11 blood bank refrigerators
+to hospitals in the northeast.
+Under a collaborative agreement between WHO and
+the Bambino Gesù paediatric hospital in Rome, a
+team of physicians from the hospital in Rome visited
+Syria twice in 2018 to train their counterparts from
+university hospitals in Damascus and Aleppo on
+the latest techniques in laparoscopy, interventional
+radiography,
+paediatric
+catheterization
+and
+paediatric intensive care. A team of Syrian specialists
+subsequently visited Bambino Gesù hospital in Rome
+to observe these techniques at first hand. They have
+returned to train other specialists in their hospitals.
+
+A health care worker in a
+prosthetics centre in Damascus
+fits a patient with an artificial
+limb. The centre is supported by
+WHO.
+WHO
+
+Participants at a trauma care
+training workshop in north-west
+Syria practise airway clearance
+techniques.
+WHO Gaziantep
+
+17
+
+Support for the four facilities in southern Syria was suspended at the end of June after the Government of Syria regained control of the area.
+
+40
+
+Annual report 2018
+
+41
+
+-----------------------Page 22 End-----------------------
+
+Amman, Jordan
+
+Health objective 2:
+Strengthen health sector coordination
+and health information systems
+Damascus
+WHO’s office in Damascus co-leads a network of 100
+health sector partners18. It leads strategic planning,
+health advocacy and information management efforts
+on behalf of the whole health sector. It also provides
+technical advice to partners and ensures that critical
+gaps in the emergency response are filled.
+In 2018, Damascus worked closely with all health
+sector partners to expand health care services
+to newly accessible areas and other locations
+
+where health needs were high. To prepare for
+the shift from a response based on geographical
+location to one based on severity of needs, health
+partners completed approximately 50 health needs
+assessments in different parts of the country. WHO
+led work on health sector monitoring, evaluation and
+accountability, and coordinated the development of
+joint contingency and preparedness plans for disease
+outbreaks and changing conflict dynamics.
+
+WHO’s hub in Amman leads 25 health sector partners
+comprising five UN agencies, 13 international and
+seven local NGOs. It also co-leads three working
+groups (one on mental health and psychosocial
+support, one on community health workers and one
+on quality and remote monitoring).
+Amman is responsible for maintaining information
+on the activities of all health sector partners (who
+does what, where and when, or the 4Ws). The data
+are used to monitor progress and plan and coordinate
+overall health sector operations. In 2018, it produced
+regular snapshots of health sector activities and
+progress towards the health objectives set out in the
+Humanitarian Response Plan for 2018.
+
+Information management
+WHO uses two main tools to monitor the health
+situation in Syria.
+
+Gaziantep, Turkey
+WHO’s hub in Gaziantep leads over 100 health cluster
+partners, 50 of which are implementing operations in
+north-west Syria. The health cluster has established
+technical working groups on reproductive health (led
+by UNFPA), advocacy and communications, mental
+health, trauma and rehabilitation. In 2018, Gaziantep
+
+conducted several health needs assessments
+and mapping exercises. It also coordinated the
+health response to mass population displacements
+from southern Idleb and eastern Ghouta and the
+restructuring of health care services in Afrin.
+
+In July 2018, cross-border health sector members
+in Amman completed a survey assessing the
+effectiveness of health sector coordination. The survey
+results, published in October 2018, showed that
+12 of 13 measures were rated good or satisfactory
+and just one was rated unsatisfactory. The findings
+highlighted the need for a dedicated information
+management officer and better information-sharing
+protocols. Partners also wanted the health cluster to
+play a stronger role in setting norms for health care
+service delivery and standards of care. The WHO hub
+in Amman shared the survey results with other WHO
+hubs working on the Syria response.
+
+WHO’s Health Resources and Services Availability
+Monitoring System (HeRAMS) tracks the functionality,
+accessibility, infrastructure, services and staffing
+levels of hospitals and health care facilities throughout
+Syria. WHO uses this information to strengthen health
+care facilities in the areas shown to be in greatest
+need. In 2018, all of Syria’s 111 public hospitals and
+almost all of its 1810 PHC centres reported to HeRAMS
+on a regular basis.
+WHO’s emergency disease surveillance systems
+(EWARS, managed by Damascus and EWARN,
+
+supported by Gaziantep) are key to detecting cases
+of epidemic-prone diseases and halting their spread.
+Over 1550 sentinel sites report to EWARS/N. Together,
+these two systems have allowed WHO to monitor and
+rapidly respond to disease outbreaks and alerts across
+the country. Since the crisis began, WHO has trained
+tens of thousands of health care workers on disease
+surveillance and reporting, outbreak investigation
+and response, laboratory diagnosis, infection
+control and the case management of communicable
+diseases. This has helped alleviate the impact of
+badly disrupted health care services and has allowed
+WHO and partners to detect and respond to disease
+outbreaks, preventing their further spread.
+
+18
+2 Syrian line ministries, 7 UN agencies, 2 sectors, 2 national societies, 8 international and 79 national NGOs. Nine other agencies attend meetings as
+observers.
+
+42
+
+Annual report 2018
+
+43
+
+-----------------------Page 23 End-----------------------
+
+most public hospitals had no capacity to treat
+referred patients. WHO has taken several steps
+to address these findings, including training
+additional health care workers on mh-GAP. As a
+result of this training, the number of IPDs who
+received mental health counselling doubled
+from 3385 in 2017 to over 7700 in 2018. WHO
+also established a registry of patients with NCDs
+that links them to health care facilities with
+the capacity to treat them. Children in all four
+camps were vaccinated against measles in 2018.
+WHO has strengthened the referral system by
+establishing standard timeframes within which
+referrals must be completed. It has also signed
+agreements with hospitals to cover the costs of
+treating patients referred from the camps.
+
+Health assessments
+Health assessments are crucial to underpin WHO’s
+work in Syria and ensure that its humanitarian
+interventions are transparent, impartial and based on
+demonstrated needs. In 2018, WHO completed the
+following major assessments:
+•
+
+•
+
+A study of patients’ views and experiences of
+cancer care in 16 specialized health care facilities
+in Syria. Preliminary findings of the study showed
+that the level of services provided in the oncology
+facilities was considered generally average
+(by 45% of surveyed patients) or good (46%).
+Similarly, emotional support provided was also
+deemed to be average (36% of patients) or good
+(31.4%), though a significant percentage still
+encountered weak (14%) or very weak (9%)
+support. Of significant concern, the majority of
+patients (56%) reported that medicines were
+not fully available, resulting in disruption of care
+and a potentially negative impact on health
+outcomes.
+A comprehensive assessment (derived from
+secondary data) of the status of health services
+and populations in areas of southern Syria that
+could be reached via cross-border activities from
+Jordan. The assessment, carried out by WHO’s hub
+in Amman, covered the period from late 2017 to
+early 2018. It found that although communicable
+
+disease accounted for only 1% of morbidities
+among patients seeking health care, both health
+professionals and community members cited
+communicable diseases as one of their main
+health concerns. Health data showed that typhoid
+fever, watery diarrhoea and respiratory infections
+were serious threats across the south. The review
+also revealed that the number of reported cases
+of suspected measles from Dar’a and Quneitra
+in 2017 was six times greater than the number
+reported in 2016. Based on the findings of the
+assessment, the health sector’s subsequent
+work plan focused on strengthening PHC, referral
+pathways and disease surveillance and response.
+•
+
+An assessment of the status of trauma care
+services in Ar-Raqqa city and surrounding areas.
+Page 41 of this report describes the findings of
+this report in greater detail.
+
+•
+
+An assessment of the health situation in four IDP
+camps in north-east Syria. The assessment found
+that two thirds of households were struggling
+with mental health problems and one third had
+at least one member who suffered from a chronic
+illness but had limited access to treatment. The
+measles vaccine coverage rate was not high
+enough to ensure herd immunity. Referral
+services in the camps were severely limited and
+
+A WHO team
+assesses the health
+situation in Al Hol
+camp in north-east
+Syria.
+WHO
+
+44
+
+•
+
+An assessment of health needs in Afrin, where
+changes in political control in 2018 led to the
+collapse of the local health system and the
+displacement of 167 000 people. The assessment,
+conducted by WHO’s hub in Gaziantep, found that
+there were very few functioning PHC centres and
+secondary health care facilities, and very limited
+health care options for patients with tuberculosis
+or leishmaniasis. Vaccination rates were low
+and there were no facilities for patients with
+disabilities or mental health problems. Referral
+services were piecemeal and hampered by
+lengthy clearance procedures, and there were
+very few ambulances to transport patients to the
+nearest hospitals in Aleppo. WHO is addressing
+the assessment’s findings by strengthening PHC
+centres and mobile clinics and re-establishing
+routine immunization centres.
+
+•
+
+An assessment of the incidence of TB in northwest Syria and the treatment options for TB
+patients. See page 54 of this report for more
+information.
+
+•
+
+A comprehensive assessment of the availability
+and readiness of all services in PHC centres across
+Syria. The Service Readiness and Availability
+Assessment (SARA) is conducted jointly by WHO
+
+and the MOH every two years. The findings of
+the 2018 survey will be used to support better
+planning and monitoring, as well as strengthen
+the national health information system.
+Appendix 2 contains a list of assessments conducted
+and/or assessment reports published in 2018.
+WHO also developed the following assessment tools:
+•
+
+A tool to assess the health situation in IDP camps.
+The tool has three components: 1) a household
+questionnaire (to assess the health status of
+households); 2) a health care facility questionnaire
+(to assess the range and quality of services) and
+3) an exit interview (to ascertain patients’ levels
+of satisfaction with services provided). The tool
+was pilot-tested in four IDP camps in north-east
+Syria and subsequently refined. WHO will use the
+tool to assess the health situation in other areas
+that have been heavily affected by the conflict.
+
+•
+
+A tool specifically developed to assess the
+health situation in shelters in eastern Ghouta
+after government forces regained control of
+the area. WHO assessed 1) the health situation
+at community level (main causes of morbidity)
+and 2) the services available in the health care
+facilities supporting the shelter residents. It
+used the findings to fill gaps in the emergency
+response and ensure that its interventions were
+meeting identified needs.
+
+•
+
+A tool to monitor patients’ and health care
+providers’ satisfaction with the assistance
+delivered by WHO. The tool comprises two
+components: 1) interviews with managers and
+staff of health care facilities and 2) patient
+satisfaction interviews (at least three patients
+per facility to be interviewed). WHO will use
+the findings to further refine its assistance (e.g.,
+by changing the types of medicines delivered
+and conducting additional training courses for
+staff in health care facilities supported by the
+Organization).
+
+Annual report 2018
+
+45
+
+-----------------------Page 24 End-----------------------
+
+Biomedical engineers attend a training
+course on maintaining medical
+equipment in Syrian hospitals.
+WHO
+
+46
+
+Annual report 2018
+
+47
+
+-----------------------Page 25 End-----------------------
+
+Health objective 3:
+Improve health system capacity for support
+of continuity of care and strengthen
+resilience and response to IDP movements
+and disease outbreaks
+disease surveillance, mh-GAP, trauma care and mass
+casualty management.
+
+Given the extent of damage to the public health
+system, the need for national health NGOs will not
+end with the return of peace to Syria. WHO/Syria’s
+five-year strategy (2018-2022), sets out how the
+Organization plans to support NGOs during the conflict
+and beyond. Developed in consultation with NGOs,
+this strategy describes how WHO will monitor and
+assess NGOs’ performance and support them through
+continuous professional training. Accompanying
+guidelines provide NGOs with the guidance they
+need to transform their strategies into annual plans
+and establish mechanisms they can use to improve
+their performance. WHO will use the data it gathers
+to show national authorities the value of its NGO
+partners and advocate for their continued financial
+support.
+
+WHO has initiated a comprehensive evaluation of
+its training programme. Phase 1 (desk review) was
+completed in late 2018. Phase 2 (interviews and field
+evaluation) will be launched in early 2019.
+
+Mobile clinics
+
+Training
+Around two thirds of skilled medical staff have left Syria
+since the crisis began. WHO has trained hundreds of
+thousands of health care workers to keep basic health
+services afloat. These efforts have helped ensure that
+millions of people areas continued to have access to
+basic health care. In 2018, WHO trained 30 865 health
+care workers on topics including infection control,
+
+Working with NGOs
+National NGOs continued to be WHO’s implementing
+partners19. Working in insecure, hard-to-reach areas
+that were inaccessible to UN agencies, they filled
+gaps created by the disruption of national health care
+services. By doing so, they ensured that millions of
+Syrians continued to have access to basic health care.
+For example, in April 2018, NGO teams and mobile
+
+19
+
+clinics were the first to arrive in areas of displacement
+around eastern Ghouta, where they provided roundthe-clock services for more than 50 000 IDPs. NGOs
+also provided essential health care services in south,
+north-east and north-west Syria, all of which saw
+massive waves of displacement in 2018.
+
+Mobile clinics are literally a lifeline in areas that
+are remote or hard to reach, or where health care
+facilities have been destroyed. They are the only
+source of health care for many people. Mobile teams
+can go where they are needed and respond swiftly to
+changing conditions on the ground. They are equipped
+with separate rooms for examinations and medical
+procedures, enabling health care services, especially
+for women and girls, to be provided in privacy and
+dignity and with respect for cultural sensitivities.
+In 2018, WHO donated eight mobile clinics to underserved areas in Aleppo, Dar’a, north-east Syria,
+
+WHO has hired an external organization to carry out
+third party monitoring of the health care services
+provided by its NGO partners, as well as their financial
+and project management capacities. Thus far, 22
+NGOs in seven governorates have been assessed.
+Based on the results of these evaluations, WHO is
+hiring a second external organization to help build
+NGOs’ capacity by addressing compliance issues
+and recommending actions to address identified
+weaknesses and gaps.
+
+northern rural Homs and Rural Damascus. WHO’s hub in
+Gaziantep supported approximately 16 mobile clinics
+per month, including four dedicated to mental health.
+In response to massive population movements in the
+northwest, WHO’s health partners deployed mobile
+clinics at Qalaat Al Madiq, the main arrival site for
+IDPs from other parts of Syria. Mobile teams carried
+out basic health checks, provided mental health first
+aid and vaccinated children and screened them for
+malnutrition. Ill and wounded patients were referred
+to hospitals and clinics in the area. WHO mapped
+underserved areas, coordinated the deployment of
+mobile clinics and delivered medicines and supplies.
+
+WHO’s office in Damascus works with 52 health NGOs. Its hubs in Gaziantep and Amman work with 19 and four NGOs respectively.
+
+48
+
+Annual report 2018
+
+49
+
+-----------------------Page 26 End-----------------------
+
+More than 6 million IDPs in Syria are living in
+overcrowded temporary settlements that lack
+adequate water, sanitation and health care. Another
+1.1 million people in hard-to-reach areas have only
+limited access to basic services. Millions of children
+who have been displaced or who live in besieged
+or hard-to-reach areas have not been vaccinated. In
+many areas of the country, vaccination teams have
+not been able to reach children for several years. All
+of these factors have created conditions that allow
+for the rapid spread of disease.
+
+In 2018, there were outbreaks of acute bloody
+diarrhoea (in Deir-ez-Zor governorate), typhoid fever
+(in Al-Hasakeh) and hepatitis A (in Aleppo and Dar’a
+governorates). Rates of cutaneous leishmaniasis, a
+disease which is endemic in Syria, rose sharply. These
+diseases are almost always the result of unclean water
+and poor sanitation. In addition, several outbreaks of
+measles across the country reflected low vaccination
+coverage rates among children.
+
+1200
+
+EWARS/National Immunization Day
+
+1000
+800
+
+EWARS/Round 1 measles campaign
+EWARS/Round 2 measles campaign
+
+600
+
+EWARS/Measles and Rubella
+campaign, Nov 2018
+
+400
+200
+0
+
+Circulating vaccine-derived poliovirus type 2
+two measles campaigns in north-west Syria. Over 1.6
+million children were vaccinated in the course of these
+campaigns. WHO also supported vaccination activities
+in IDP camps and during national immunization
+week. The National Immunization Technical Advisory
+Group introduced an extra dose of measles vaccine
+at the age of seven months in addition to the two
+recommended doses of measles, mumps and rubella
+vaccine at 12 and 18 months. Perhaps as a result, the
+number of laboratory-confirmed measles cases fell
+sharply, from 1090 in the first few months of 2018 to
+71 in the second half of the year.
+
+In March 2017, an outbreak of vaccine-derived
+poliovirus type 2 (cVDPV2) disease emphasized the
+dangers of disrupted immunization services. (Cases
+of vaccine-derived polio are rare and occur when
+vaccination coverage rates are low; if a population
+is fully immunized, it will be protected against both
+vaccine-derived and wild poliovirus disease.) The
+cVDPV2 outbreak occurred close to the border with
+Iraq and in an area with continuous population
+movements; it raised fears that the virus would
+spread into neighbouring countries. The Emergency
+Committee of the International Health Regulations
+
+20
+
+50
+
+EWARS/Measles and Rubella
+campaign, Apr 2018
+
+2018
+
+Measles
+A total of 24 004 suspected cases of measles were
+reported in 2018, of which 1530 were laboratoryconfirmed. This represents an increase of 104 %
+compared with the previous year. Most cases were
+from the northern governorates, where health
+care services have been severely disrupted. WHO
+supported a national vaccination campaign that was
+implemented in two phases. Over 2.6 million children
+were vaccinated against measles in the course of this
+campaign, which, in addition to targeting areas under
+government control, reached areas in south and northeast Syria that were under the control of non-state
+armed groups. WHO’s hub in Gaziantep supported
+
+1400
+
+WK1
+WK2
+WK3
+WK4
+WK5
+WK6
+WK7
+WK8
+WK9
+WK10
+WK11
+WK12
+WK13
+WK14
+WK15
+WK16
+WK17
+WK18
+WK19
+WK20
+WK21
+WK22
+WK23
+WK24
+WK25
+WK26
+WK27
+WK28
+WK29
+WK30
+WK31
+WK32
+WK33
+WK34
+WK35
+WK36
+WK37
+WK38
+WK39
+WK40
+WK41
+WK42
+WK43
+WK44
+WK45
+WK46
+WK47
+WK48
+WK49
+WK50
+WK51
+WK52
+
+Disease outbreaks and other communicable diseases
+
+Trend analysis of suspected measles cases in 2018
+(data taken from EWARS/N)
+
+(IHR) issued temporary recommendations to help
+prevent the further spread of the disease.
+WHO led efforts to halt the spread of the virus. In
+October 2018, WHO’s Outbreak Assessment team
+concluded that the transmission of cVDPV2 had been
+interrupted. No new cases of cVDPV2 disease have
+been reported since September 2017, but Syrian
+children are vulnerable to re-infection20. Syria remains
+subject to the temporary recommendations issued by
+the emergency committee of the IHR.
+
+http://polioeradication.org/polio-today/polio-now/public-health-emergency-status/.
+
+Annual report 2018
+
+51
+
+-----------------------Page 27 End-----------------------
+
+Cutaneous leishmaniasis
+Acute bloody diarrhoea
+In May 2018, health partners reported outbreaks of
+acute bloody diarrhoea in two locations in Deir-ez-Zor
+governorate. Access to these highly insecure areas
+has been extremely difficult for the past several
+years, leading to a serious deterioration in basic
+infrastructure including the water supply network. As
+of 30 September 2018, 784 people had fallen ill and
+12 had died.
+WHO and UNICEF conducted a joint field mission to
+the affected areas. Laboratory tests indicated that
+E. coli infection was the predominant cause of the
+outbreak. An analysis of water samples taken from
+the nearby Euphrates river showed E. coli levels
+above accepted standards. The team found that many
+people were swimming in the river or using river
+water for washing, drinking and cooking. To stem
+the immediate outbreak, the team distributed more
+
+than 572 000 chlorine tablets to 35 860 households.
+WHO distributed approximately 145 000 cubic metres
+of water to around 70 000 people in 13 villages in
+the most affected areas. (One cubic metre of water
+is enough to cover the daily needs of one family.)
+WHO and UNICEF organized community meetings
+to brief residents about the importance of washing
+hands thoroughly with soap and water, treating
+household water through chlorination, boiling and
+sieving, and immediately treating sick children with
+oral rehydration salts. WHO and UNICEF are expanding
+these water safety measures to neighbouring areas.
+As a longer-term measure, both agencies are working
+jointly to chlorinate drinking water sources, tankers
+and reservoirs in the main outbreak areas and other
+villages along the Euphrates valley. The number of
+cases had declined to seasonal standards by the
+middle of July.
+
+Typhoid
+Between 1 March and 9 June 2018, 1219 suspected
+cases of typhoid fever in Al Hol camp, Al-Hasakeh
+governorate were reported to the disease surveillance
+system (EWARS/N). WHO delivered medicines to
+hospitals in the area to help them treat patients
+admitted with the disease. WHO and partners
+distributed soap and water purification sachets to
+households and explained the simple measures they
+could take to reduce the risk of the disease. All water
+tankers in the camp were sterilized and jerry cans
+were discarded and replaced. By early April 2018 the
+number of cases had dropped sharply, in large part
+due to effective control and response measures.
+
+Rates of cutaneous leishmaniasis rose sharply in
+2018 (71 484 cases from January to November
+2018 compared with 52 223 for the whole of 2017).
+Almost all cases were reported from the six northern
+governorates21, where the disease is endemic. The
+increase can be attributed to continuous population
+movements, disrupted control programmes and the
+poor shelter and sanitation in camps. (Many people
+are forced to sleep on the ground, where they come
+into direct contact with the sandfly that causes
+leishmaniasis.) The lack of funding for vector control
+measures, compounded by a worldwide shortage of
+medicines to treat leishmaniasis, has exacerbated
+the problem and led to a rise in the incidence of the
+disease.
+In 2018, WHO delivered 170 000 vials of meglumine
+antimoniate (a treatment for leishmaniasis) and
+63 000 bed nets to Syria’s north-eastern governorates.
+WHO also donated 15 000 vials of meglumine
+antimoniate and related supplies to an international
+NGO that works to combat leishmaniasis in Syria.
+
+WHO
+
+Hepatitis A
+In August 2018, a separate outbreak of typhoid
+fever was detected in Areesha camp, Al-Hasakeh
+governorate. WHO delivered supplies and medicines
+to the camp and supported an awareness-raising
+campaign that was conducted by four health
+education teams. The teams visited five other IDP
+camps in the governorate to brief residents about
+the basic measures they could take to prevent
+waterborne diseases.
+
+In late August 2018, cases of suspected hepatitis A
+in rural areas of Dar’a governorate were detected
+through EWARS/N. Over the next three months, 958
+cases were reported, of which six were laboratory
+confirmed. The Directorate of Health delivered
+chlorine tablets in the affected areas and supported
+health awareness campaigns. By the end of the year,
+there had been a significant decrease in the number
+of reported cases. WHO and UNICEF are monitoring
+the quality of drinking water in the area and
+supporting the cleaning and chlorination of drinking
+water sources.
+
+21
+
+52
+
+Bed nets procured by WHO are distributed in
+Aleppo.
+
+A separate outbreak of hepatitis A in northern rural
+Aleppo affected mostly schoolchildren under the age
+of 15. Between July and November, 660 suspected
+cases were reported of which 12 were laboratory
+confirmed. An analysis of the water in wells, tanks
+and reservoirs in the area showed that seven out of
+15 sources tested were contaminated, including two
+in schools. WHO distributed information brochures
+on how to prevent hepatitis A and prepared
+recommendations on the basic measures to be taken
+to maintain clean water supplies. These included
+cleaning all wells and regularly chlorinating water
+sources. The information gathered by WHO was
+shared with colleagues from the Water, Sanitation
+and Hygiene sector for immediate action.
+
+Aleppo, Al-Hasakeh, Ar-Raqqa, Deir-ez-Zor, Hama, Idleb.
+
+Annual report 2018
+
+53
+
+-----------------------Page 28 End-----------------------
+
+Tuberculosis
+
+HIV/AIDS
+
+Rate of tuberculosis (TB) in Syria are estimated to
+be on the rise (15.8 per 100 000 people in 2017
+compared with 13 per 100 000 people in 2013). In July
+2018, the national control programme in Damascus
+and health partners in north-west Syria reported that
+3264 patients had registered for TB treatment; this
+suggests that the notification rate is 18 per 100 000
+people.
+
+WHO has developed TB recommendations for the
+MOH. They include deploying teams with mobile
+X-ray machines to screen all vulnerable populations,
+especially in areas of displacement, and improving
+TB indicators to help identify those at increased risk
+of catching the disease. The government is gradually
+re-establishing TB services; ten out of 14 national TB
+centres are now open and fully functioning.
+
+Since the crisis began, almost half of Syria’s TB
+centres have closed, and those that remain open do
+not always provide the full range of services. The
+national system for notifying new cases of TB has
+collapsed in some areas; Aleppo governorate, which
+used to account for the highest number of TB patients
+in Syria, has reported very few new cases since the
+crisis began. Similarly, little information on the status
+of TB is available in the north-eastern governorates.
+
+In July 2018, health partners in north-west Syria
+reported that 605 patients had registered for TB
+treatment. Based on current TB rates in Syria, the real
+number of people with TB is likely to be much higher.
+Because evidence shows that for every undiagnosed
+TB case about 10-15 persons can acquire the disease,
+urgent action is required to increase detection rates
+and provide treatment.
+
+In collaboration with the MOH and with financial
+support by the Global Fund to Fight AIDS, Tuberculosis
+and Malaria, WHO conducted active case finding for
+TB in 13 governorates. Over a 47-day period in August
+and September, 177 teams visited 38 136 families
+(two thirds of whom were displaced or refugees) and
+took sputum samples from 583 people suspected of
+having the disease. When samples tested positive
+for TB, the diagnosis was confirmed by chest X-ray.
+Among 846 individuals suspected of having TB22, 96
+were confirmed. Although this finding was based
+on surveillance of specific population groups, it
+suggested that the incidence rate for TB could be
+as high as 50 per 100 000 population. All patients
+diagnosed with TB were immediately enrolled in
+treatment programmes.
+
+An assessment of the status of TB care in north-west
+Syria carried out by Gaziantep showed there were
+severe shortages of TB drugs, use of expired drugs,
+weak lab tests (no single centre was able to perform
+TB cultures) and lack of qualified staff. In response,
+WHO’s hub in Gaziantep prepared a strategy to
+tackle TB in northern Syria. The strategy establishes
+a system to secure a sustainable supply of medicines
+for TB patients, complemented by increased medical
+supervision to limit treatment non-compliance and
+reduce the risk of developing multi-drug resistance.
+Gaziantep is assessing the quality of care in TB
+treatment centres in northern Syria and has procured
+sufficient quantities of TB drugs to treat all known TB
+patients.
+
+22
+The teams did not collect sputum samples from all 846 individuals. For example, it is difficult to collect sputum samples from children and so the
+diagnosis is made based on clinical symptoms and X-rays.
+
+54
+
+Population displacement, overcrowded households,
+unprotected sex and unsafe blood transfusion and
+surgical procedures all increase the risk of HIV. In
+collaboration with the International Organization for
+Migration and the MOH, and with financial support
+by the Global Fund to Fight AIDS, Tuberculosis and
+Malaria, WHO is working to strengthen HIV prevention
+among most-at-risk populations in Syria. In 2018,
+WHO supported the active case finding of patients
+with HIV/AIDS in 13 governorates. Fifty teams visited
+15 000 families (over half of whom were displaced)
+over a 30-day period. Out of a total of 14 352 HIV
+rapid tests performed, three were positive and were
+
+confirmed by laboratory diagnosis of blood samples.
+All three patients confirmed as having the disease
+were immediately enrolled in treatment programmes.
+Based on this experience, WHO developed a set of
+recommendations. They include a continuation of
+active case finding in all areas and the development
+of indicators to help identify those who are at greater
+risk of HIV infection. In the meantime, the national
+HIV control programme will use the initial findings
+to develop a plan to control the further spread of HIV
+by improving HIV detection rates and implementing
+effective control measures.
+
+Rehabilitation
+WHO supported the rehabilitation of two PHC centres
+in Aleppo and one PHC centre in Rural Damascus23.
+The reopening of the centres in Aleppo comes at a
+crucial time. People who fled the city at the height
+of the conflict are slowly returning to their homes,
+and the demand for health care is steadily increasing.
+Between them, the two centres will serve a caseload
+of more than 27 000 people who will benefit from
+comprehensive, free-of-charge health care services.
+
+The third centre in Rural Damascus serves more than
+3800 patients.
+WHO also supported the minor rehabilitation of Jib
+Al-Jandali PHC and physiotherapy centre in Homs. The
+centre provides physiotherapy for amputees, patients
+with artificial limbs and other people with movement
+difficulties. It has a caseload of approximately 50 000
+patients.
+
+23
+Khaled Ben Al Waleed PHC centre in north-west Aleppo, Al-Ma’asaraniyeh PHC centre in east Aleppo and Moadamyat Al Sham PHC centre in Rural
+Damascus.
+
+Annual report 2018
+
+55
+
+-----------------------Page 29 End-----------------------
+
+Nutrition objective:
+Improve equitable access to quality
+life-saving curative nutrition services
+
+Tuberculosis centre in
+Aleppo before and after
+its rehabilitation by WHO.
+WHO
+
+WHO also supported the rehabilitation of a TB
+treatment centre in Aleppo. This centre was selected
+as a priority because TB rates in Syria are growing and
+because the governorate has traditionally accounted
+for the highest number of TB cases in the country.
+
+WHO’s hub in Gaziantep supported the minor
+rehabilitation and equipping of nine secondary health
+care facilities in north-west Syria. These facilities
+cover a catchment population of approximately
+800 000 people.
+
+Rehabilitation work on the emergency department of
+the Paediatric Hospital in Damascus continues and is
+scheduled to be completed by May 2019.
+
+WHO has prepared a list of the health care facilities
+to be rehabilitated in 2019, based on the information
+generated by HeRAMS and the severity of needs
+in under-served areas. The number of health care
+facilities rehabilitated will depend on the availability
+of funds.
+
+WHO’s nutrition programme, launched in 2014, has
+continued to expand. A total of 755 PHC centres and 48
+private clinics in 13 governorates24 are now offering
+nutritional surveillance services for children under
+five years of age. In 2018, they screened 917 943
+children for malnutrition; those who were severely
+malnourished were referred for specialized treatment
+in outpatient therapeutic centres supported by
+UNICEF and WFP. A total of 906 malnourished children
+with medical complications were referred in 2018,
+compared with 1023 for 2017. This decrease can be
+partly attributed to better screening and preventive
+measures such as the Infant and Young Child Feeding
+Programme and the Baby-Friendly Hospital Initiative.
+All nutritional surveillance and stabilization centres
+are now reporting through the national nutritional
+surveillance system. WHO delivered equipment and
+supplies, including new and improved therapeutic
+treatments, to support 33 stabilization centres.
+WHO is also supporting the nutritional screening of
+children in IDP camps in Aleppo, Dar’a, Homs, Rural
+Damascus and north-east Syria. A total of 186 000
+children were screened, of whom 6000 were found to
+be severely malnourished and referred for treatment.
+
+A WHO staff member screens a child for
+malnutrition by measuring his mid-upper arm
+circumference.
+WHO
+
+24
+
+56
+
+Global acute malnutrition rates remained more
+or less stable compared with 2017, and mortality
+rates for hospitalized children decreased (2.4% in
+2018 compared to 2.6 in 2017), due in part to the
+implementation of updated WHO guidelines on
+managing hospital patients.
+
+Nutritional screening was expanded to Ar-Raqqa and Deir-ez-Zor governorates in 2018.
+
+Annual report 2018
+
+57
+
+-----------------------Page 30 End-----------------------
+
+Global Acute Malnutrition Rates 2015 - 2018
+
+5.25
+3.6
+2.6
+
+2015
+
+2.4
+
+child mortality. In emergencies, the implementation
+of the IYCF is critical to ensure child survival and
+development.
+
+Adequate supplies of clean water are essential to
+maintain health and reduce the risk of epidemics,
+especially in overcrowded settings such as IDP camps.
+Water is essential for cooking, drinking and cleaning.
+If people do not have adequate supplies of clean
+water, they will obtain it from sources that are likely
+to be contaminated. In the first six months of 2018,
+WHO assessed the quality of water in Aleppo, Homs,
+north-west and north-east Syria and Rural Damascus.
+A total of 1865 ground wells, 521 reservoirs and
+over 190 jerry cans were tested. WHO worked with
+national authorities and partners to disinfect polluted
+water and make it safe to use.
+
+In 2018, 592 health care workers were trained on
+IYCF. WHO estimates that they will go on to provide
+counselling to approximately 162 000 people per
+year.
+
+The key to preventing diseases from unclean
+water is to ensure that water is of a high quality
+when consumed, not just after treatment or at
+water distribution points. In 2018, working in close
+
+2016
+
+2017
+
+2018
+
+Infant and young child feeding programme
+The infant and young child feeding programme (IYCF),
+jointly developed by WHO and UNICEF, aims to create
+an environment that will enable mothers, families
+and other caregivers to make informed choices about
+optimal feeding practices for infants and young
+children. The IYCF emphasizes the importance of
+breastfeeding as the preventive intervention with
+potentially the single largest impact on reducing
+
+Water, sanitation and hygiene
+(WASH) objective:
+Support water, sanitation and sewage systems
+collaboration with national authorities, WASH sector
+partners and local communities, WHO procured over
+600 000 chlorine tablets for distribution to households
+and chlorinated approximately 200 000 cubic metres
+of water in 22 000 water tankers that were used to
+supply villages and IDP camps in north-east Syria. One
+cubic metre of water is enough to cover the needs of
+one family per day.
+WHO also works to improve water and sanitation
+facilities in hospitals to protect the health of patients
+and medical staff. This includes measures to ensure
+the safe disposal of medical waste. In the first six
+months of 2018, WHO strengthened the water supply
+systems of five hospitals in Aleppo, Damascus and
+Deir-ez-Zor and provided 450 bins to store and
+transport medical waste in hospitals in Aleppo.
+
+Baby-friendly hospital initiative
+The Baby-friendly hospital initiative (BFHI) was
+launched by WHO and UNICEF in 1991. The BFHI is
+a global effort to implement practices that protect,
+promote and support breastfeeding. In 2018, WHO
+and UNICEF issued new guidance on promoting
+breastfeeding in maternity hospitals and other health
+care facilities.
+
+58
+
+In 2018, staff in 38 hospitals in Syria were trained
+on the BFHI. WHO estimates that they will go on to
+counsel approximately 50 000 new mothers per year.
+
+Five-year-old Nada,
+displaced from eastern
+Ghouta, hugs her bottle
+of clean water.
+WHO
+
+Annual report 2018
+
+59
+
+-----------------------Page 31 End-----------------------
+
+MANAGING WHO’S OPERATIONS
+Whole-of-Syria internal coordination
+The “Whole-of-Syria” (WoS) approach allows
+humanitarian agencies to deliver cross-border
+assistance from neighbouring countries to people in
+parts of Syria that are not accessible from Damascus.
+WHO’s main office in Damascus and its hubs in
+Gaziantep (Turkey) and Amman (Jordan) work
+under a common WoS framework, with operational
+adjustments as the situation evolves.
+Given the complexity and fast-evolving nature of
+the Syrian conflict, close coordination among the
+WoS offices and hubs is essential. Staff from all three
+offices meet regularly to review and adapt operations,
+conduct strategic planning and ensure an integrated
+approach based on a common understanding of
+
+WHO’s aims and objectives. Senior staff from WHO’s
+headquarters and its regional office in Cairo also
+attend these meetings.
+
+Monitoring and evaluation
+
+Following changes in political control in 2018, WHO’s
+operations in southern Syria and northern rural Homs,
+managed by Amman and Gaziantep respectively,
+were transferred to its office in Damascus. Conversely,
+Damascus handed over responsibility for some areas
+of north-west Syria to WHO’s hub in Gaziantep.
+Damascus is now responsible for an area covering
+approximately 13.9 million people, while Gaziantep
+is responsible for an area covering approximately 4
+million people.
+
+WHO continues to improve its monitoring capacity.
+It issues monthly reports documenting progress
+measured against almost 70 key performance
+indicators. Other monthly reports include a “Who
+Does What, Where and When” (4Ws) report for the
+health cluster and a report documenting attacks on
+health care in Syria. All WoS hubs contribute to WHO’s
+global database documenting attacks on health care.
+WHO also issues epidemiological bulletins derived
+from aggregated EWARS/N data and regular reports
+on the status of health care facilities across Syria.
+Throughout the year, WHO focal points undertook
+monitoring visits, including in hard-to-reach areas.
+These visits allowed WHO to evaluate local needs and
+target its interventions accordingly. Focal points in
+most governorates monitored the use of equipment
+delivered by WHO through follow-up visits to
+hospitals, obtaining feedback from both patients (to
+find out if they benefited from the equipment) and
+health care staff (to obtain their views on the quality
+of the equipment). The focal points also visited health
+care facilities each month to collect HeRAMS data and
+train health care staff on how to complete HeRAMS
+questionnaires.
+WHO’s office in Damascus has hired an external
+organization to conduct third party monitoring of the
+Organization’s NGO partners in Syria. Thus far, the
+third party monitor has assessed the financial and
+technical capacity of 22 NGOs in seven governorates.
+WHO’s monitoring and evaluation officer works
+closely with the third party monitor to track the
+status of each assessed NGO and ensure the findings
+are addressed on a timely basis.
+
+60
+
+WHO focal points assessed the quality of active case
+finding for TB and HIV/AIDS. They accompanied
+MOH case finding teams and completed assessment
+questionnaires that were prepared by WHO’s office
+in Damascus. The completed questionnaires were
+analysed by staff in Damascus and the findings were
+shared with the MOH.
+WHO’s NGO partners submitted detailed monthly
+reports listing the number of patients treated and
+the services provided. WHO cross-checked this
+information through site visits to NGO facilities and
+phone calls to beneficiaries, asking them to confirm
+that they had received the services and to assess
+their quality.
+WHO’s hub in Gaziantep hired an external
+organization to monitor and assess its medical supply
+chain. The initial findings showed that many WHO
+warehouses were short-staffed and lacked proper
+temperature control mechanisms. Only two out of
+41 had secure storage for psychotropic substances.
+There were shortages of essential medicines in many
+PHC centres and hospitals. Based on these findings,
+Gaziantep prepared guidelines for the management
+of pharmaceutical products, as well as standard
+operating procedures for eight separate steps in
+the supply chain. Gaziantep plans to strengthen
+monitoring, supervision and training activities to
+improve the supply chain.
+
+Annual report 2018
+
+61
+
+-----------------------Page 32 End-----------------------
+
+Promoting gender equity
+WHO includes gender and age in its data collection
+activities because women, girls, boys and men differ
+in their needs for health care services in IDP camps
+and other settings. WHO’s national NGO partners are
+required to provide data disaggregated by gender and
+age in their reports to WHO. Given the male/female
+imbalance among health care workers in Syria, WHO
+advocates for the inclusion of female health workers
+in mobile teams, clinics and community centres in
+order to improve the access of women and girls to
+health care services.
+WHO monitors patient and health care provider
+satisfaction with health care services by allowing
+them to report on any gender discrimination they
+have encountered. This helps to ensure a gender
+perspective on the quality of services delivered. WHO
+encourages female staff to attend training workshops
+by providing special incentives; for example, WHO
+pays for the travel of an accompanying family
+
+member so that women do not have to travel alone.
+WHO is a member of the UN country team’s network
+on the prevention of sexual exploitation and abuse
+(PSEA). The network is developing a common
+approach to integrating PSEA considerations in all
+planning and programming, including developing
+community-based mechanisms to report on PSEA.
+All of WHO’s implementing partners are required to
+sign a code of conduct that includes PSEA provisions.
+Agreements signed with partners include a clause
+obliging them to take measures to prevent and
+respond to any violations of the code of conduct by its
+employees and other persons who perform services
+under the agreement. Implementing partners
+are also required to promptly report confirmed or
+suspected violations of WHO’s policies including its
+code of ethics and professional conduct and its policy
+on whistleblowing and protection against retaliation.
+
+Procurement is based on Syria’s Essential Medicines
+List (EML), which is updated at the beginning of
+each year. WHO, the MOH and the Ministry of Higher
+Education jointly determine the items to be included
+in the list based on a review of consumption patterns
+and morbidity trends over the preceding year.
+
+The Organization continues to require the prior
+approval of the MOH to withdraw supplies from
+WHO warehouses and deliver them to PHC centres
+and hospitals throughout Syria. The lengthy process
+to obtain these approvals is now the most important
+factor hampering WHO’s supply chain.
+To reflect the increasing prevalence of NCDs
+worldwide, WHO has recently developed standard
+kits to treat patients with NCDs. These kits are
+designed to meet initial primary health care needs in
+
+Medicines are prioritized for procurement whenever
+funds become available. The EML also includes
+essential equipment whose procurement is based on
+a review of hospitals’ needs. Information generated
+by HeRAMS provides the basis for this review.
+WHO has expanded the storage capacity and range
+of stocks in its Dubai warehouse. Emergency kits and
+supplies stored in Dubai can now be sent to Syria
+within as little as four weeks.
+Lengthy procurement delays have been greatly
+shortened by establishing long-term agreements
+between WHO and several newly approved suppliers.
+WHO is now able to place orders directly with these
+
+WHO’s value for money approach is built around
+economy, efficiency, effectiveness, equity and ethics.
+The Organization bulk purchases most medicines and
+supplies to ensure the best possible price and applies
+strict safeguards to ensure that medicines and
+pharmaceutical products meet acceptable standards.
+In Syria, it monitors all equipment, supplies and
+services delivered to verify that medicines reach
+intended beneficiaries and that equipment and
+services provided are of high quality. Its NGO
+partners are selected based on a comprehensive
+review of their proven capacity to deliver in difficult
+environments. WHO has invested heavily in training
+its NGO partners. Health NGOs will be essential for the
+foreseeable future as the country gradually stabilizes
+and begins the long process of rebuilding its health
+system.
+25
+
+62
+
+emergencies. Each kit contains enough medicines and
+medical devices to treat 10 000 NCD patients for three
+months. WHO procured 177 kits for its operations in
+Syria in 2018 (174 were delivered, three remain in
+WHO warehouses)25.
+The dire conditions in Idleb governorate have meant
+that tens of thousands of IDPs have been sleeping on
+the ground. In response, for the first time ever WHO’s
+hub in Gaziantep procured anti-venoms to treat snake
+and scorpion bites. Conditions in Idleb governorate
+also led to increasing rates of leishmaniasis.
+However, there is a worldwide shortage of medicines
+to treat this disease, and WHO was unable to procure
+sufficient quantities of anti-leishmaniasis treatments.
+TB medicines in north-west Syria were of low quality,
+highlighting the need for these medicines to be
+procured by WHO. WHO also encountered delays in
+procuring pneumococcal, anti-rabies and flu vaccines,
+largely because of global shortages of these vaccines.
+
+Value for money
+
+Procurement trends
+The procurement and delivery of medicines, supplies
+and medical equipment continued to be a major
+part of WHO’s operations. In 2018, these activities
+accounted for USD 28.8 million, or 40% of WHO’s
+overall expenditures. Medicines and supplies are
+stored in WHO warehouses in six locations (five in
+Syria and one in Turkey), ready to be deployed as
+needs arise.
+
+suppliers, obviating the need for time-consuming
+bidding procedures. However, to be eligible to supply
+goods for Syria, suppliers must be both approved by
+WHO and registered with the MOH. WHO is working to
+solve this problem by identifying additional suppliers
+that can receive WHO approval and by having its
+existing and potential suppliers approved by the
+MOH. Both processes remain slow and cumbersome.
+
+WHO focuses on reaching the people who are
+demonstrably most in need, based on an analysis
+of the severity of the health situation and health
+needs in all 270 sub-districts of Syria. Lastly, WHO’s
+emergency operations in Syria are based on the
+four humanitarian principles of humanity, neutrality,
+impartiality and independence.
+A review of WHO’s value for money strategy in
+Syria showed that 75% of assessed interventions
+demonstrated high impact against low investment,
+leading to better health outcomes for beneficiaries.
+Seven WoS staff (three from Damascus, two from
+Gaziantep and two from Amman) were trained on
+WHO’s value for money approach in 2018.
+
+Enough to treat 442 500 NCD patients for one year.
+
+Annual report 2018
+
+63
+
+-----------------------Page 33 End-----------------------
+
+LOOKING AHEAD
+
+The percentage of people who live in areas under
+government control is likely to increase in 2019.
+Regardless of who is in control, humanitarian needs
+will remain acute throughout the country. WHO will
+continue to apply the four humanitarian principles of
+humanity, neutrality, impartiality and independence
+during the emergency and recovery phases. We will:
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+64
+
+FUNDS RECEIVED IN 2018
+
+As stability returns to certain locations, we will work
+to support the resilience of health care services in
+these areas. To allow us to do this, some basic
+conditions have to be met:
+•
+
+We need sustained access to hard-to-reach areas
+to assess health care services and people’s health
+needs, and help rebuild basic services.
+
+Strengthen our evidence-based approach and
+focus our response on areas where the severity
+scale is 3 and above.
+
+•
+
+We need guarantees for the safe passage of
+critically ill and wounded patients to medical
+facilities outside conflict zones.
+
+Prioritize the geographic areas that have been hit
+hardest by the war as well as those that were
+disadvantaged before the crisis.
+
+•
+
+Health care facilities, their patients and their staff
+must be protected and made safe from attacks.
+
+Support health policies that are non-discriminatory
+and that target the most urgent needs of the
+population, e.g., those with lifelong disabilities
+as a result of the conflict.
+Advocate for the sanctity of health care facilities,
+patients and health workers, and take account
+of human rights and protection issues when
+delivering assistance.
+Engage at the community level to help ensure
+that civil society has a say in the rebuilding of the
+health system.
+Continue to deliver assistance in a transparent,
+equitable,
+non-discriminatory,
+respectful,
+dignified and non-politicized manner.
+
+•
+
+We need faster, more efficient approvals from
+national and local authorities to allow us to deliver
+health supplies to people in all parts of Syria,
+based on transparent, impartial assessments of
+needs.
+
+On behalf of our health partners, we will continue to
+advocate at the highest diplomatic levels for solutions
+that will allow us to overcome the above constraints.
+In 2019, as we support the country’s efforts to begin
+the long process of rehabilitating the health care
+system, the support of our humanitarian donors will
+be needed more than ever.
+
+Under the Humanitarian Response Plan for 2018,
+WHO appealed for US$ 141 549 161 to implement
+the activities outlined in this report. As of the end
+of 2018, it had received just over 52% of the funds
+required.
+
+Donor
+European Commission Directorate-General for European Civil Protection
+and Humanitarian Aid Operations (ECHO)
+
+Amount received (US$)
+12 887 354
+
+France
+
+983 191
+
+Italy
+
+493 827
+
+Japan
+
+15 782 246
+
+Norway
+
+8 666 313
+
+Sweden
+
+3 953 909
+
+UK Aid
+United Nations Office for the Coordination of Humanitarian Affairs –
+Syria Humanitarian Fund
+
+15 529 484
+1 196 763
+
+United States Agency for International Development, Office of U.S
+Foreign Disaster Assistance (US OFDA)
+
+14 500 000
+
+Total
+
+73 993 087
+
+Annual report 2018
+
+65
+
+-----------------------Page 34 End-----------------------
+
+PRIORITIES AND FUNDING
+REQUIREMENTS FOR 2019
+
+ACKNOWLEDGEMENTS
+
+Funds requested by WHO office/hub
+(in US$)
+Sector
+
+N
+
+Project title
+Damascus
+
+1
+
+Strengthen trauma care/mass
+casualty management and physical rehabilitation services
+
+2
+
+Enhance access to secondary health care and
+referral services
+
+3
+
+Improve access to primary health
+care services
+
+4
+
+Strengthen the Expanded Programme on Immunization
+across the country
+
+5
+
+23,255,500
+
+8,540,000
+
+0
+
+50,465,550
+
+9,720,000
+
+2,820,000
+
+31,826,000
+
+4,800,000
+
+6,620,000
+
+0
+
+11,420,000
+
+Reinforce surveillance systems for the early detection,
+prevention and control of potential epidemic-prone
+diseases and outbreak response in Syria
+
+4,922,000
+
+2,985,000
+
+0
+
+7,907,000
+
+6
+
+Enhance the mental health programme in Syria
+
+3,595,000
+
+2,665,000
+
+0
+
+6,260,000
+
+7
+
+Strengthen health information systems for evidence-based
+emergency response and resilience
+
+3,630,900
+
+645,000
+
+0
+
+4,275,900
+
+8
+
+Reinforce inter- and intra-hub health sector coordination for
+effective health response
+
+2,450,000
+
+950,000
+
+0
+
+3,400,000
+
+96,529,950
+
+38,585,000
+
+3,695,000
+
+138,809,950
+
+1,045,000
+
+60,000
+
+0
+
+1,105,000
+
+1,045,000
+
+60,000
+
+0
+
+1,105,000
+
+1,000,000
+
+0
+
+0
+
+1,000,000
+
+Total for WASH projects
+
+1,000,000
+
+0
+
+0
+
+1,000,000
+
+TOTAL
+
+98,574,950
+
+38,645,000
+
+3,695,000
+
+140,914,950
+
+9
+
+Enhance the prevention and early detection of
+malnutrition in children under five and referral for
+treatment of complicated cases of SAM
+Total for nutrition projects
+
+WASH
+
+Total (US$)
+
+875,000
+
+Total for health projects
+
+NUTRITION
+
+Iraq
+
+6,460,000
+
+HEALTH
+
+10
+
+Establish water quality monitoring in areas of
+returnees and IDP camps
+
+15,920,500
+
+Gaziantep
+
+41,925,550
+19,286,000
+
+Our work in Syria would not have been possible
+without the continued generous support of our
+humanitarian donors.
+It would not have been possible without the strong
+collaboration of our health partners, including our
+sister UN agencies and international health NGOs.
+It would not have been possible without the devoted
+efforts of the Syrian Arab Red Crescent and more than
+50 national health NGOs working in Syria.
+
+It would not have been possible without the energy
+and commitment of WHO staff in Syria, Amman and
+Gaziantep who pulled together on the emergency
+response.
+Most of all, it would not have been possible without
+the dedicated health care workers throughout Syria,
+who continued to save countless lives while putting
+their own at risk on a daily basis. In 2018, 17 health
+care staff were killed and 44 were injured in the
+course of carrying out their daily duties.
+
+Little girl in Ar-Raqqa,
+north-east Syria.
+WHO
+
+The above figures are provisional and subject to change.
+
+66
+
+Annual report 2018
+
+67
+
+-----------------------Page 35 End-----------------------
+
+APPENDIX 1:
+Vaccination campaigns
+implemented in 2018
+Governorate
+Al-Hasakeh, ArRaqqa, Deir-ez-Zor
++ parts of Aleppo
+and Homs
+
+Al-Hasakeh
+
+Type of
+campaign
+
+Month of
+campaign
+
+mOPV2
+(OBR)
+
+January
+2018
+
+mOPV2
+(OBR)
+
+Implementing
+partners
+
+February
+2018
+
+Age group
+targeted
+
+N° of children
+targeted
+
+N° of children
+vaccinated
+
+Coverage
+rate
+
+0-59
+months
+
+609,703
+
+665,736
+
+109%
+
+0-59
+months
+
+1,465
+
+1,456
+
+100%
+
+Localized campaign
+targeting only dropout children from
+January campaign
+Afrin, Jerablus and
+Atareb were not
+accessible due to
+active hostilities.
+
+Damascus,
+Aleppo, AlHasakeh, Rural
+Damascus
+
+IPV
+(OBR)
+
+February
+2018
+
+2-23
+months
+
+327,355
+
+238,945
+
+73%
+
+Aleppo (Ein Arab)
+
+IPV
+(OBR)
+
+February
+2018
+
+2-23
+months
+
+5,222
+
+5,427
+
+104%
+
+Ar-Raqqa (Ein Eisa
+camp)
+
+IPV
+(OBR)
+
+March 2018
+
+2-23
+months
+
+1,534
+
+1,458
+
+95%
+
+Ar-Raqqa (Tal
+Abyad district and
+Ar-Raqqa city)
+
+IPV
+(OBR)
+
+2-23
+months
+
+March 2018
+
+10,100
+
+3,339
+
+33%
+
+Idleb
+
+OPV
+
+March 2018
+
+SIG
+
+< 5 years
+
+419,165
+
+409,256
+
+98%
+
+Aleppo
+
+OPV
+
+March 2018
+
+SIG
+
+< 5 years
+
+279,677
+
+261,047
+
+93%
+
+Hama
+
+OPV
+
+March 2018
+
+SIG
+
+< 5 years
+
+28,346
+
+32,193
+
+114%
+
+All governorates
+
+bOPV
+
+March 2018
+
+0-59
+months
+
+2,791,082
+
+2,675,303
+
+96%
+
+April 2018
+
+0-59
+months
+(bOPV)
+2-23
+months
+(IPV)
+
+April 2018
+
+7-59
+months
+
+Aleppo, Al-Hasakeh,
+Ar-Raqqa, Damascus,
+Deir-ez-Zor, Rural
+Damascus
+
+bOPV
+IPV
+
+Aleppo (Ein Arab),
+Al-Hasakeh, Deir-ez- Measles
+Zor, Rural Damascus campaign
+(eastern Ghouta)
+
+68
+
+803,629
+
+540,910
+
+929,599
+
+425,019
+
+Comments
+
+116%
+
+79%
+
+WHO had limited
+access due to
+political differences
+between the MOH
+and the Kurdish
+health authorities.
+
+80,198 children
+vaccinated with IPV
+
+Governorate
+
+Type of
+campaign
+
+Month of
+campaign
+
+Implementing
+partners
+
+Age group targeted
+
+N° of children
+targeted
+
+N° of children
+vaccinated
+
+Coverage
+rate
+
+Idleb
+
+MR
+
+April 2018
+
+SIG
+
+6 –59 months
+
+377,252
+
+326,772
+
+87%
+
+Aleppo
+
+MR
+
+April 2018
+
+SIG
+
+6 –59 months
+
+251,707
+
+198,727
+
+79%
+
+Homs
+
+OPV
+
+April 2018
+
+SIG
+
+< 5 years
+
+37,362
+
+37,138
+
+99%
+
+Hama
+
+MR
+
+April 2018
+
+SIG
+
+6 –59 months
+
+25,510
+
+15,762
+
+62%
+
+Idleb
+
+OPV
+
+May 2018
+
+SIG
+
+< 5 years
+
+426,490
+
+451,373
+
+106%
+
+Aleppo
+
+OPV
+
+May 2018
+
+SIG
+
+< 5 years
+
+276,711
+
+304,668
+
+110%
+
+Hama
+
+OPV
+
+May 2018
+
+SIG
+
+< 5 years
+
+15,776
+
+25,084
+
+159%
+
+Aleppo, Al-Hasakeh,
+Ar-Raqqa, Deir-ezZor, Hama, Homs,
+Rural Damascus
+
+Measles
+
+July 2018
+
+7-71 months
+
+1,323,471
+
+1,142,817
+
+86%
+
+Aleppo, Al-Hasakeh,
+Ar-Raqqa,
+Damascus, Deir-ezZor, Hama, Homs
+
+Measles
+
+September
+2018
+
+6-12 years
+
+1,452,293
+
+1,439,848
+
+99%
+
+Aleppo (Afrin)
+
+OPV
+
+September
+2018
+
+< 5 years
+
+35,300
+
+38,145
+
+108%
+
+All governorates
+
+bOPV
+
+October
+2018
+
+0-59 months
+
+2,79,1082
+
+2,319,714
+
+83%
+
+All governorates
+
+bOPV
+
+November
+2018
+
+921,809
+
+549,104
+
+60%
+
+Idleb
+
+MR
+
+November
+2018
+
+SIG
+
+5–15 years
+
+728,151
+
+574,532
+
+79%
+
+Aleppo
+
+MR
+
+November
+2018
+
+SIG
+
+5–15 years
+
+589,534
+
+497,201
+
+84%
+
+Hama
+
+MR
+
+November
+2018
+
+SIG
+
+5-15 years
+
+31,982
+
+28,192
+
+88%
+
+Idleb
+
+OPV
+
+December
+2018
+
+SIG
+
+< 5 years
+
+451,147
+
+490,317
+
+109%
+
+Aleppo
+
+OPV
+
+December
+2018
+
+SIG
+
+< 5 years
+
+344,271
+
+366,742
+
+107%
+
+Hama
+
+OPV
+
+December
+2018
+
+SIG
+
+< 5 years
+
+19,824
+
+26,091
+
+132%
+
+SIG
+
+0-59 months
+(bOPV)
+2-23 months (IPV)
+
+mOPV2 Monovalent oral polio vaccine type 2
+SIG
+Syria Immunization Group
+OPV
+Oral polio vaccine
+bOPV Bivalent oral polio vaccine
+
+IPV
+MR
+OBR
+
+Comments
+
+348,549 (72%)
+children
+vaccinated with
+IPV.
+
+Inactivated polio vaccine
+Measles and rubella
+Outbreak Response
+
+Annual report 2018
+
+69
+
+-----------------------Page 36 End-----------------------
+
+APPENDIX 2:
+Health assessments conducted/assessment
+reports published in 2018
+Status
+
+“Location(s)
+Governorate/
+District/ Sub
+District”
+
+Assessment
+Report
+Availability *
+
+Assessment of cancer patients' experience
+and perspectives on cancer care
+
+Completed
+
+Across Syria
+
+Not yet issued
+
+WHO, MoH, MoHE
+
+National cancer registry
+
+Ongoing
+
+Across Syria
+
+Not yet issued
+
+WHO
+
+WHO
+
+Health profile monitoring in hard-to-reach
+and besieged areas
+
+Ongoing
+
+Across Syria
+
+4
+
+WHO
+
+WHO, MoH
+
+National Health Information System in
+public PHC centres
+
+Ongoing
+
+5
+
+WHO
+
+WHO, MoH, MoHE
+
+National Health Information System in
+public hospitals
+
+6
+
+WHO
+
+WHO, MoH, MoHE
+
+7
+
+WHO
+
+#
+
+Leading
+Organization(s)
+
+Participating
+Organization(s)
+
+Assessment Title
+
+1
+
+WHO
+
+WHO, MoH, MoHE
+
+2
+
+WHO
+
+3
+
+Status
+
+“Location(s)
+Governorate/
+District/ Sub
+District”
+
+Assessment
+Report
+Availability *
+
+Assessment of national register for people
+with disabilities
+
+Ongoing
+
+Across Syria
+
+Available on
+request
+
+WHO, MoE
+
+Assessment of school mental health
+programme
+
+Ongoing
+
+Across Syria
+
+Available on
+request
+
+WHO
+
+WHO, MoH
+
+Mental Health GAP evaluation
+
+Ongoing
+
+Across Syria
+
+Available on
+request
+
+22
+
+WHO
+
+WHO
+
+Assessment of health situation in IDP
+shelters in Eastern Ghouta
+
+Completed
+
+Rural
+Damascus
+
+Available on
+request
+
+Available on
+request
+
+23
+
+WHO
+
+WHO, UNICEF,
+UNFPA
+
+Rapid health needs assessment in
+Ar-Raqqa city
+
+Completed
+
+Ar-Raqqa
+
+Available on
+request
+
+Across Syria
+
+Available on
+request
+
+24
+
+WHO
+
+WHO
+
+Violence against health care
+
+Ongoing
+
+Across Syria
+
+Available on
+request
+
+Across Syria
+
+Available on request
+25
+
+WHO
+
+WHO
+
+Health sector assessmnent at community
+level for newly accessible areas in eastern
+Ghouta, Homs, north-east Syria, Dar'a
+
+Completed
+
+Across Syria
+
+Available on request
+
+#
+
+Leading
+Organization(s)
+
+Participating
+Organization(s)
+
+Assessment Title
+
+19
+
+WHO
+
+WHO
+
+20
+
+WHO
+
+Available on
+request
+
+21
+
+Across Syria
+
+Available on
+request
+
+Ongoing
+
+Across Syria
+
+Mortality and morbidity - Civil Registry
+Vital Statistics
+
+Ongoing
+
+WHO, MoH
+
+Assessment of online disease surveillance system
+
+Ongoing
+Ongoing
+
+Across Syria
+
+Available on request
+
+8
+
+WHO
+
+WHO, MoH, MoHE
+
+Health Resources and Services Availability
+Monitoring System (HeRAMS)
+
+9
+
+WHO
+
+WHO, MoH
+
+Early warning and response system (EWARS)
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+26
+
+WHO
+
+WHO
+
+Status of leishmaniasis
+
+Completed
+
+Al-Hasakeh
+
+Available on request
+
+10
+
+WHO
+
+WHO, MoH, MoHE
+
+Service availability and readiness assessment
+(SARA)
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+27
+
+WHO
+
+WHO
+
+Review of TB national control programme
+
+Completed
+
+Across Syria
+
+Available on request
+
+11
+
+WHO
+
+WHO, UNDP, UNICEF,
+WFP, UNFPA, CBS
+
+Multi-purpose social demographic survey
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+28
+
+WHO
+
+WHO, MoH
+
+Screening for TB among vulnerable populations
+in hard-to-reach areas and IDP settlements
+
+Completed
+
+Across Syria
+
+Available on request
+
+12
+
+WHO
+
+WHO
+
+Public health assessment in north-east Syria
+
+Completed
+
+29
+
+WHO
+
+WHO, MoH
+
+Screening for HIV among vulnerable populations
+in hard-to-reach areas and IDP settlements
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+13
+
+WHO
+
+WHO
+
+Monitoring of technical performance of
+national NGOs as implementing partners
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+30
+
+WHO
+
+WHO
+
+Health care situation and trauma
+management capacity in Ar-Raqqa city and
+surrounding areas
+
+Completed
+
+14
+
+WHO
+
+WHO, MoH
+
+Analysis and review of Essential Medicines
+List 2018, including medical equipment
+
+Completed
+
+Across Syria
+
+Available on request
+31
+
+WHO
+
+UNICEF
+
+6 months cVDPV2 polio outbreak response
+assessment
+
+Completed
+
+Syrian
+governorates
+
+Restricted distribution
+
+Assessment of national drug information
+management system
+
+Ongoing
+
+32
+
+WHO
+
+UNICEF
+
+12 months cVDPV2 polio outbreak response
+assessment
+
+Completed
+
+Syrian
+governorates
+
+Restricted distribution
+
+33
+
+WHO
+
+WHO
+
+Gender-based violence
+
+Completed
+
+Across Syria
+
+Available on request
+
+34
+
+WHO
+
+WHO
+
+Health national NGOs’ strategy for engagement
+in the health sector: a guide for sustainable
+capacity building, retention and performance
+management
+
+Completed
+
+Across Syria
+
+Available on request
+
+15
+
+WHO
+
+WHO
+
+North-east Syria Available on request
+
+Across Syria
+
+Available on request
+
+16
+
+WHO
+
+WHO, MoH
+
+Assessment of polio surveillance in the country
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+17
+
+WHO
+
+WHO
+
+Independent assessment of post-polio campaign
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+18
+
+70
+
+WHO
+
+WHO, MoH
+
+Assessment/supervisory visits on
+implementation of polio campaigns
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+Ar-Raqqa city
+and surrounding Available on request
+areas
+
+Annual report 2018
+
+71
+
+-----------------------Page 37 End-----------------------
+
+#
+
+Leading
+Organization(s)
+
+Participating
+Organization(s)
+
+Assessment Title
+
+Status
+
+“Location(s)
+Governorate/
+District/ Sub
+District”
+
+Assessment
+Report
+Availability *
+
+Completed
+
+Across Syria
+
+Available on request
+
+Completed
+
+Across Syria
+
+Available on request
+
+35
+
+WHO
+
+WHO
+
+Health national NGOs' engagement in the
+health sector: a guide for planning, monitoring
+and evaluation for continuous performance
+improvement
+
+36
+
+WHO
+
+WHO
+
+Health national NGO’ engagement in
+the health sector: a guide for quality
+assurance and continuous improvement
+
+37
+
+WHO
+
+WHO
+
+38
+
+WHO
+
+WHO
+
+Assessment of the effectiveness of WHO
+supported training programmes in Syria,
+including for national NGO partners (Phase 1)
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+39
+
+WHO
+
+WHO
+
+Assessment of the effectiveness of WHO
+supported training programmes in Syria,
+including for national NGO partners (Phase 2)
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+40
+
+WHO
+
+WHO
+
+Assessment of the effectiveness and efficiency
+of WHO-Syria training programmes (Phase 2)
+
+Ongoing
+
+Across Syria
+
+Available on request
+
+72
+
+Health situation in IDP camps in
+north-east Syria
+
+Completed
+
+North-east Syria Available on request
+
+-----------------------Page 38 End-----------------------
+
+WHO Country Office (Damascus, Syrian Arab Republic)
+Elizabeth Hoff, WHO Representative
+hoffe@who.int
+WHO Country Office (Damascus, Syrian Arab Republic)
+Noha Alarabi, Donor and Reporting Officer
+alarabin@who.int
+WHO Headquarters (Geneva, Switzerland)
+Laila Milad, Manager, Resource Mobilization
+WHO Health Emergencies Programme
+miladl@who.int
+
+Front and back cover:
+Children in Al Hol camp, north-east Syria.
+WHO
+
+-----------------------Page 39 End-----------------------
+
