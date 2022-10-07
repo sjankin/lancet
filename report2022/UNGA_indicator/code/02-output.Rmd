@@ -1,0 +1,1913 @@
+---
+title: "Lancet Draft Output - Climate Change UNGD"
+date: "`r format(Sys.time(), '%B %d, %Y | %H:%M:%S | %Z')`"
+output:
+  html_document:
+    code_folding: hide
+    df_print: paged
+    highlight: tango
+    number_sections: no
+    theme: cosmo
+    toc: no
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      eval = TRUE,
+                      error = FALSE,
+                      message = FALSE,
+                      warning = FALSE,
+                      comment = NA,
+                      fig.align = "center")
+```
+
+***
+
+
+ 
+```{r include=F}
+#Loading packages and data
+library(readtext)
+library(quanteda)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(ggplot2)
+library(rworldmap)
+library(RColorBrewer)
+library(haven)
+library(readxl)
+library(kableExtra)
+
+set.seed(1310)
+
+#load data
+load("../data/tallied_texts.RData")
+load("../data/total_counts.RData")
+load("../data/intersection_covid_gender.RData")
+corp_summary <- readr::read_csv("../output/corp_summary.csv")
+```
+
+
+## Data summary {.tabset .tabset-pills}
+
+### Corpus summary
+
+```{r}
+corp_summary %>% dplyr::filter(Year >= 1970) %>% knitr::kable(col.names = c("Year", "Total speeches", "Total sentences", "Total words")) %>% kableExtra::kable_styling()
+
+corp_summary %>% dplyr::filter(Year >= 1970) %>% readr::write_csv(., "../output/1-copus-summary.csv")
+```
+
+
+
+```{r fig.align="center", include = F}
+##########################################
+# extract counts and proportions for plotting
+
+##########################################
+# number of references per year ----------
+reference_df <- dplyr::left_join(
+  total_counts %>% 
+    dplyr::filter(year >= 1970) %>%
+    dplyr::group_by(year) %>%
+    dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                     health_references = sum(health_count, na.rm = T),
+                     intersection_references = sum(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("year"),
+                        names_to = "Type", values_to = "Count"),
+  total_counts %>% 
+    dplyr::filter(year >= 1970) %>%
+    dplyr::group_by(year) %>%
+    dplyr::summarize(climate_references = mean(climate_count, na.rm = T),
+                     health_references = mean(health_count, na.rm = T),
+                     intersection_references = mean(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("year"),
+                        names_to = "Type", values_to = "Avg")) %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L))
+
+# number of references per country/year ----------
+reference_country_df <- dplyr::left_join(
+  total_counts %>% 
+    dplyr::filter(year >= 1970) %>%
+    dplyr::group_by(year, Code) %>%
+    dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                     health_references = sum(health_count, na.rm = T),
+                     intersection_references = sum(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("year", "Code"),
+                        names_to = "Type", values_to = "Count"),
+  total_counts %>% 
+    dplyr::filter(year >= 1970) %>%
+    dplyr::group_by(year, Code) %>%
+    dplyr::summarize(climate_references = mean(climate_count, na.rm = T),
+                     health_references = mean(health_count, na.rm = T),
+                     intersection_references = mean(intersection_count, na.rm = T)
+    ) %>%
+    tidyr::pivot_longer(cols = -c("year", "Code"),
+                        names_to = "Type", values_to = "Avg")) %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L))
+
+##########################################
+
+# composite plot dataframe
+
+plot_df <- total_texts %>% dplyr::filter(year >= 1970)  %>%
+  tidyr::pivot_longer(cols = -c("year", "total_speeches"),
+                      names_to = "text", values_to = "value") %>%
+  dplyr::group_by(year, text) %>%
+  dplyr::summarise(total_texts = sum(total_speeches, na.rm = T),
+                   value = sum(value, na.rm = T)) %>%
+  dplyr::mutate(value = tidyr::replace_na(value, 0),
+                Prop = value/total_texts,
+                Key = factor(dplyr::case_when(text == "climate_texts" ~ "Climate",
+                                              text == "intersection_texts" ~ "Intersection",
+                                              text == "health_texts" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L)) %>%
+  dplyr::filter(!is.na(Key))
+
+```
+
+
+---
+
+### Yearly breakdown
+
+```{r}
+a <- corp_summary %>% dplyr::filter(Year >= 1970) %>% dplyr::select(Year, total_speeches) %>%
+  dplyr::rename("Speeches" = "total_speeches")
+
+b <- plot_df %>%
+  dplyr::select(Year, Key, value) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "value") %>%
+  dplyr::rename("Climate (N)" = "Climate", "Health (N)" = "Health", "Intersection (N)" = "Intersection")
+  
+c <- plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  dplyr::rename("Climate (Prop)" = "Climate", "Health (Prop)" = "Health", "Intersection (Prop)" = "Intersection")
+  
+summary_df <- dplyr::left_join(a, b) %>% left_join(., c)
+
+summary_df %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+summary_df %>% readr::write_csv("../output/2-yearly-breakdown.csv")
+```
+
+---
+
+### KWIC - Health
+
+```{r}
+readr::read_csv("../output/health_kwic_25_fixed.csv") %>% 
+  tidyr::separate(., docname, into = c("Country", "Year"), sep = "_") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+
+---
+
+### KWIC - Climate
+
+```{r}
+readr::read_csv("../output/climate_kwic_25_fixed.csv") %>% 
+  tidyr::separate(., docname, into = c("Country", "Year"), sep = "_") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+
+---
+
+### KWIC - Intersection
+
+```{r}
+readr::read_csv("../output/intersection_kwic_25_fixed.csv") %>% 
+  tidyr::separate(., docname, into = c("Country", "Year"), sep = "_") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+
+---
+
+### Health per year
+
+```{r}
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Health (N)", "Health (Prop)") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Health (N)", "Health (Prop)") %>%
+  readr::write_csv("../output/3-yearly-breakdown-health.csv")
+```
+
+---
+
+### Climate per year
+
+```{r}
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Climate (N)", "Climate (Prop)") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Climate (N)", "Climate (Prop)") %>%
+  readr::write_csv("../output/4-yearly-breakdown-climate.csv")
+```
+
+---
+
+### Intersection per year
+
+```{r}
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Intersection (N)", "Intersection (Prop)") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+summary_df %>%
+  dplyr::select("Year", "Speeches", "Intersection (N)", "Intersection (Prop)") %>%
+  readr::write_csv("../output/5-yearly-breakdown-intersection.csv")
+```
+
+---
+
+# Aggregate results by UNGD session {.tabset .tabset-pills}
+
+## a. Main text - Proportion of countries, % {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+plot_df %>% 
+  ggplot(aes(x = Year, y = Prop, color = Key)) +
+  geom_path(aes(linetype = Key), size=1) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1990-05-31"), y = 0.55, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("1995-05-31"), y = 0.28, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2012-12-31"), y = 0.07, label = "Intersection", color = "red") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0,1)) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Proportion of countries, %") 
+
+ggsave("../output/6-prop-countries.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Prop = round(Prop, 2),
+                Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  readr::write_csv("../output/6-prop-countries.csv")
+```
+
+---
+
+## b. Appendix - Total number of references per UNGD session {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+reference_df %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2000-01-31"), y = 450, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2008-05-31"), y = 1100, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = 150, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+ggsave("../output/7-total-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+plot_df %>%
+  dplyr::select(Year, Key, value) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "value") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+plot_df %>%
+  dplyr::select(Year, Key, value) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "value") %>%
+  readr::write_csv("../output/7-total-references.csv")
+```
+
+---
+
+## c. Appendix - Total number of references (Intersection) {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## c. Appendix - Total number of references (Intersection)
+reference_df %>% 
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line() +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = 110, label = "Intersection", color = "red") +
+  theme_minimal() +
+  scale_y_continuous(limits = c(0, 400)) +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references") 
+
+ggsave("../output/8-total-references-intersection.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_df %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  dplyr::select(Year, Intersection) %>%
+  readr::write_csv("../output/8-total-references-intersection.csv")
+
+reference_df %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+---
+
+## d. Appendix - Proportion of countries, % (Intersection) {.tabset .tabset-pills}
+
+### Plot
+
+
+```{r fig.align="center"}
+plot_df %>% 
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Prop, color = Key)) +
+  geom_path(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2008-12-31"), y = 0.25, label = "Intersection", color = "red") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 1)) +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Proportion of countries, %") 
+
+ggsave("../output/9-prop-references-intersection.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Prop = round(Prop, 2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  dplyr::select(Year, Intersection) %>%
+  readr::write_csv("../output/9-prop-references-intersection.csv")
+
+plot_df %>%
+  dplyr::select(Year, Key, Prop) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Prop = round(Prop, 2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Prop") %>%
+  dplyr::select(Year, Intersection) %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+---
+
+## e. Appendix - Average number of references {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## d. Appendix - Average number of references
+reference_df %>%
+  ggplot(aes(x = Year, y = Avg, color = Key)) +
+  geom_line(aes(linetype = Key)) +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2000-01-31"), y = 3.3, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2008-01-01"), y = 6, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = 1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Average number of references") 
+
+ggsave("../output/10-avg-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_df %>%
+  dplyr::select(Year, Key, Avg) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Avg = round(Avg,2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Avg") %>%
+  dplyr::select(Year, Intersection) %>%
+  readr::write_csv("../output/10-avg-references.csv")
+
+reference_df %>%
+  dplyr::select(Year, Key, Avg) %>%
+  dplyr::mutate(Year = lubridate::year(Year),
+                Avg = round(Avg,2)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Avg") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+```
+
+---
+
+## f. Appendix - Total number of references by WHO region {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## e. Appendix - Total number of references by WHO region
+who_counts <- total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "who_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L)) %>%
+  dplyr::filter(!is.na(who_region))
+
+
+who_counts %>%
+  dplyr::filter(Key == "Intersection") %>%
+  ggplot(aes(x = Year, y = Count, color = who_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "WHO Region") +
+  theme(legend.position = "bottom") +
+  guides(color = guide_legend(title.position="top", title.hjust = 0.5))
+
+ggsave("../output/11-who-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(who_region, year) %>%
+  knitr::kable(col.names = c("Year", "WHO Region", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(who_region, year) %>%
+  readr::write_csv("../output/11-who-references.csv")
+
+```
+
+---
+
+## g. Appendix - Proportion of references by WHO region {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by by SIDS, Tier 1 and Tier 2 categories
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "who_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(who_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = who_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of countries, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.7)) +
+  theme(legend.position = "bottom") +
+  guides(color = guide_legend(title.position="top", title.hjust = 0.5))
+
+ggsave("../output/12-who-prop-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(who_region), year) %>%
+  dplyr::filter(!is.na(who_region)) %>%
+  knitr::kable(col.names = c("Year", "WHO Region", "Total documents", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, who_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(who_region), year) %>%
+  dplyr::filter(!is.na(who_region)) %>%
+  readr::write_csv("../output/12-who-prop-references.csv")
+```
+
+---
+
+## h. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2 {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## i. Appendix - Total number of regerences by SIDS, Tier 1 and Tier 2
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "tier_region"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L)) %>%
+  dplyr::filter(!is.na(tier_region)) %>% 
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Count, color = tier_region)) +
+  geom_path() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "Region") +
+  theme(legend.position = "bottom") +
+  guides(color = guide_legend(title.position="top", title.hjust = 0.5))
+
+ggsave("../output/13-sids-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  dplyr::arrange(tier_region, year) %>%
+  knitr::kable(col.names = c("Year", "Region", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  dplyr::arrange(tier_region, year) %>%
+  readr::write_csv("../output/13-sids-references.csv")
+```
+
+---
+
+## i. Appendix - Proportion of references by SIDS, Tier 1 and Tier 2 {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by by SIDS, Tier 1 and Tier 2 categories
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "tier_region"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L)) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(tier_region)) %>%
+  ggplot(aes(x = Year, y = Prop, color = tier_region)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of countries, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 1)) +
+  theme(legend.position = "bottom")
+
+  ggsave("../output/14-sids-prop-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(tier_region), year) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  knitr::kable(col.names = c("Year", "Category", "Total documents", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, tier_region) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(tier_region), year) %>%
+  dplyr::filter(!is.na(tier_region)) %>%
+  readr::write_csv("../output/14-sids-prop-references.csv")
+
+```
+
+
+
+---
+
+## j. Appendix - Total number of regerences by HDI categories {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by HDI categories
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "hdi_level"),
+                      names_to = "Type", values_to = "Count") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_references" ~ "Climate",
+                                              Type == "intersection_references" ~ "Intersection",
+                                              Type == "health_references" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Count, color = hdi_level)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Total number of references",
+       color = "") 
+
+ggsave("../output/15-hdi-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>% 
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), year) %>%
+  dplyr::filter(!is.na(hdi_level)) %>%
+  knitr::kable(col.names = c("Year", "HDI Level", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>% 
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(climate_references = sum(climate_count, na.rm = T),
+                   health_references = sum(health_count, na.rm = T),
+                   intersection_references = sum(intersection_count, na.rm = T)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), year) %>%
+  dplyr::filter(!is.na(hdi_level)) %>%
+  readr::write_csv("../output/15-hdi-references.csv")
+
+```
+
+
+---
+
+## k. Appendix - Proportion of references by HDI categories {.tabset .tabset-pills}
+
+### Plot
+
+```{r fig.align="center"}
+## j. Appendix - Total number of regerences by HDI categories
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  tidyr::pivot_longer(cols = -c("year", "hdi_level"),
+                      names_to = "Type", values_to = "Prop") %>%
+  dplyr::mutate(Key = factor(dplyr::case_when(Type == "climate_prop" ~ "Climate",
+                                              Type == "intersection_prop" ~ "Intersection",
+                                              Type == "health_prop" ~ "Health"), 
+                             levels = c("Intersection", "Climate", "Health")),
+                Year = lubridate::ymd(year, truncated = 2L),
+                hdi_level = factor(hdi_level, levels = c("Very high human development",
+                                                         "High human development",
+                                                         "Medium human development",
+                                                         "Low human development"))) %>%
+  dplyr::filter(Key == "Intersection" & !is.na(hdi_level)) %>%
+  ggplot(aes(x = Year, y = Prop, color = hdi_level)) +
+  geom_line() +
+  theme_minimal() +
+  labs(y = "Proportion of companies, %",
+       color = "") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.5))
+
+ggsave("../output/16-hdi-prop-references.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), year) %>%
+  dplyr::filter(!is.na(hdi_level)) %>%
+  knitr::kable(col.names = c("Year", "HDI Level", "Total documents", "Climate", "Health", "Intersection")) %>%
+  kableExtra::kable_styling()
+
+total_counts %>% 
+  dplyr::filter(year >= 1970) %>%
+  dplyr::mutate(climate_n = ifelse(climate_count >= 1, 1, 0),
+                health_n = ifelse(health_count >= 1, 1, 0),
+                intersection_n = ifelse(intersection_count >= 1, 1, 0)
+                ) %>%
+  dplyr::group_by(year, hdi_level) %>%
+  dplyr::summarize(total_counts = n(),
+                   climate_prop = round(sum(climate_n, na.rm = T)/total_counts,2), 
+                   health_prop = round(sum(health_n, na.rm = T)/total_counts,2),
+                   intersection_prop = round(sum(intersection_n, na.rm = T)/total_counts,2)
+  ) %>%
+  dplyr::arrange(desc(hdi_level), year) %>%
+  dplyr::filter(!is.na(hdi_level)) %>%
+  readr::write_csv("../output/16-hdi-prop-references.csv")
+```
+
+
+---
+
+## l. Table with COVID and Gender dictionary counts in intersection documents 
+
+### COVID
+
+```{r fig.align="center"}
+intersection_covid %>% dplyr::mutate(prop_doct = round(prop_doct, 2)) %>% knitr::kable(col.names = c("Year", "Total documents", "Keyword hits", "Flagged documents (N)", "Flagged documents (Prop)")) %>%
+  kableExtra::add_header_above(c("", "", "COVID dictionary" = 3)) %>% 
+  kableExtra::kable_styling()
+
+intersection_covid %>% readr::write_csv("../output/17-intersection-covid.csv")
+```
+
+
+### Gender {.tabset .tabset-pills}
+
+#### Plot 
+
+```{r fig.align="center"}
+intersection_gender %>%
+  dplyr::mutate(Year = as.numeric(year)) %>%
+ggplot(aes(x = Year, y = prop_doct, group = 1)) +
+  geom_line(color = "#cc0055") +
+  theme_minimal() +
+  labs(x= "Year",
+       y = "Proportion of documents\n Gender mention in intersection, %\n") +
+  scale_y_continuous(labels = scales::percent_format(), limits = c(0, 0.4)) + 
+  scale_x_continuous()
+
+ggsave("../output/18-intersection-gender.pdf", width = 10, height = 7)
+```
+
+#### Table 
+
+```{r}
+intersection_gender %>% knitr::kable(col.names = c("Year", "Documents in intersection", "Keyword hits", "Flagged documents (N)", "Flagged documents (Prop)")) %>%
+  kableExtra::add_header_above(c("", "", "Gender dictionary" = 3)) %>% 
+  kableExtra::kable_styling()
+
+intersection_gender %>% readr::write_csv("../output/18-intersection_gender.csv")
+```
+
+
+
+
+# Country-specific results {.tabset .tabset-pills}
+
+
+---
+
+## Antigua and Barbuda {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "ATG") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Antigua and Barbuda\n")  +
+  scale_y_continuous(limits = c(-1,25))
+
+ggsave("../output/19x-antigua.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "ATG") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "ATG") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-antigua.csv")
+```
+
+
+
+---
+
+## Brazil {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "BRA") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 11, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Brazil\n")  +
+  scale_y_continuous(limits = c(-1,12))
+
+ggsave("../output/19x-brazil.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "BRA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "BRA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-brazil.csv")
+```
+
+
+
+
+
+---
+
+## Canada {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "CAN") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 14, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Canada\n")  +
+  scale_y_continuous(limits = c(-1,15))
+
+ggsave("../output/19x-canada.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "CAN") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "CAN") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-canada.csv")
+```
+
+
+
+
+---
+
+## Barbados {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "BRB") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Barbados\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/19x-barbados.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "BRB") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "BRB") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-barbados.csv")
+```
+
+
+
+
+
+---
+
+## Dominica {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "DMA") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Dominica\n")  +
+  scale_y_continuous(limits = c(-1,30))
+
+ggsave("../output/19x-dominica.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "DMA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "DMA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-dominica.csv")
+```
+
+
+
+
+---
+
+## Fiji {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "FJI") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Fiji\n")  +
+  scale_y_continuous(limits = c(-1,25))
+
+ggsave("../output/19x-fiji.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "FJI") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "FJI") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-fiji.csv")
+```
+
+
+
+---
+
+## Jamaica {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "JAM") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Jamaica\n")  +
+  scale_y_continuous(limits = c(-1,15))
+
+ggsave("../output/19x-jamaica.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "JAM") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "JAM") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-jamaica.csv")
+```
+
+
+
+
+---
+
+## Trinidad and Tobago {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "TTO") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Trinidad and Tobago\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/19x-trinidad.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "TTO") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "TTO") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-trinidad.csv")
+```
+
+
+
+
+---
+
+## Tuvalu {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "TUV") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("2000-01-31"), y = 10, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Tuvalu\n")  +
+  scale_y_continuous(limits = c(-1,30))
+
+ggsave("../output/19x-tuvalu.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "TUV") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "TUV") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-tuvalu.csv")
+```
+
+
+
+
+
+
+---
+
+## Solomon Islands {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "SLB") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+#  ggplot2::annotate("text", x = as.Date("2005-01-31"), y = 10, label = "Health", color = "#619cff") +
+#  ggplot2::annotate("text", x = as.Date("2014-05-31"), y = 15, label = "Climate Change", color = "darkgreen") +
+  theme_minimal() +
+#  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+#  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Solomon Islands\n")  +
+  scale_y_continuous(limits = c(-1,25))
+
+ggsave("../output/19x-solomon.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "SLB") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "SLB") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19x-solomon.csv")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Australia {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "AUS") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 7, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 17, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Australia\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/19-australia.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "AUS") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "AUS") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/19-australia.csv")
+```
+
+---
+
+## China {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "CHN") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1990-01-31"), y = 2, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 10, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "China\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/20-china.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "CHN") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/20-china.csv")
+
+reference_country_df %>%
+  dplyr::filter(Code == "CHN") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+```
+
+---
+
+## Germany {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "DEU") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1987-01-31"), y = 5, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2009-05-31"), y = 10, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "Germany\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/21-germany.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "DEU") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "DEU") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/21-germany.csv")
+
+```
+
+---
+
+## EU {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "EU") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2019-10-31"), y = 7, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2015-01-31"), y = 7, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2019-10-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "European Union\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/22-eu.pdf", width = 10, height = 7)
+
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "EU") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "EU") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/22-eu.csv")
+
+```
+
+---
+
+## France {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "FRA") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1999-01-31"), y = 8, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2018-01-31"), y = 18, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "France\n")  +
+  scale_y_continuous(limits = c(-1,35))
+
+ggsave("../output/23-france.pdf", width = 10, height = 7)
+
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "FRA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "FRA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/23-france.csv")
+```
+
+---
+
+## United Kingdom {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "GBR") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1987-01-31"), y = 5, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2006-05-31"), y = 15, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "United Kingdom\n")  +
+  scale_y_continuous(limits = c(-1,25))
+
+ggsave("../output/24-uk.pdf", width = 10, height = 7)
+
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "GBR") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "GBR") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/24-uk.csv")
+
+```
+
+---
+
+## India {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "IND") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("1987-01-31"), y = 5, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("2008-05-31"), y = 10, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "India\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/25-india.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "IND") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "IND") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/25-india.csv")
+
+```
+
+---
+
+## United States of America {.tabset .tabset-pills}
+
+### Plot
+
+```{r, fig.align="center"}
+reference_country_df %>%
+  dplyr::filter(Code == "USA") %>%
+  ggplot(aes(x = Year, y = Count, color = Key)) +
+  geom_line(aes(linetype = Key))  +
+  scale_linetype_manual(values = c("solid", "longdash", "twodash")) +
+  ggplot2::annotate("text", x = as.Date("2007-01-31"), y = 15, label = "Health", color = "#619cff") +
+  ggplot2::annotate("text", x = as.Date("1985-05-31"), y = -1, label = "Climate Change", color = "darkgreen") +
+  ggplot2::annotate("text", x = as.Date("2013-12-31"), y = -1, label = "Intersection", color = "red") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  labs(y = "Total number of references",
+       title = "United States of America\n")  +
+  scale_y_continuous(limits = c(-1,20))
+
+ggsave("../output/26-usa.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r}
+reference_country_df %>%
+  dplyr::filter(Code == "USA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  knitr::kable() %>%
+  kableExtra::kable_styling()
+
+reference_country_df %>%
+  dplyr::filter(Code == "USA") %>%
+  dplyr::select(Year, Key, Count) %>%
+  dplyr::mutate(Year = lubridate::year(Year)) %>%
+  tidyr::pivot_wider(id_cols = Year, names_from = "Key", values_from = "Count") %>%
+  readr::write_csv("../output/26-usa.csv")
+```
+
+
+---
+
+# Maps {.tabset .tabset-pills}
+
+```{r fig.align="center", include = F}
+iso_codes <- readr::read_csv("../data/iso_3.csv")
+map_df <- ggplot2::map_data("world") %>% dplyr::filter(region != "Antarctica") %>%
+  dplyr::mutate(country_name = dplyr::case_when(region == "Antigua" ~ "Antigua and Barbuda",
+                                                region == "Barbuda" ~ "Antigua and Barbuda",
+                                                region == "Republic of Congo" ~ "Republic of the Congo",
+                                                region == "Saint Kitts" ~ "Saint Kitts and Nevis",
+                                                region == "Laos" ~ "Lao People's Democratic Republic",
+                                                region == "North Korea"~ "Democratic People's Republic of Korea",
+                                                region == "Palestine" ~ "Palestinian Territory",
+                                                region == "Syria" ~ "Syrian Arab Republic",
+                                                region == "Trinidad" ~ "Trinidad and Tobago",
+                                                region == "Tobago" ~ "Trinidad and Tobago",
+                                                region == "Saint Vincent" ~ "Saint Vincent and the Grenadines",
+                                                region == "Grenadines" ~ "Saint Vincent and the Grenadines",
+                                                region == "Vietnam" ~ "Viet Nam",
+                                                region == "USA" ~ "United States",
+                                                region == "UK" ~ "United Kingdom",
+                                                region == "Vatican" ~ "Holy See (Vatican City State)",
+                                                T ~ region)) %>%
+  dplyr::left_join(., iso_codes, by = c("country_name" = "country"))
+
+reference_2020_health <- reference_country_df %>% dplyr::filter(year == "2020" & Key == "Health")
+reference_2020_climate <- reference_country_df %>% dplyr::filter(year == "2020" & Key == "Climate")
+reference_2020_intersection <- reference_country_df %>% dplyr::filter(year == "2020" & Key == "Intersection")
+```
+
+## Health {.tabset .tabset-pills}
+
+### Map
+
+```{r fig.align="center"}
+map_health <- dplyr::left_join(map_df, reference_2020_health, by = c("code" = "Code"))
+
+ggplot(map_health, aes(long, lat, group=group, fill = Count)) +
+  scale_fill_gradient(low = "#ffffff", high = '#08519c', na.value = '#ffffff'
+                      ) + 
+  geom_polygon(color = "#636363", size = 0.05) +
+  theme_void() +
+  theme(legend.position = c(0.13, 0.2)) + 
+  labs(fill = "Number of references") +
+  guides(fill = guide_colourbar(title.position = "top",
+                                direction = "horizontal"))
+
+ggsave("../output/27-health-map.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r fig.align="center"}
+reference_2020_health %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  knitr::kable(col.names = c("Year", "Code", "Country", "References")) %>%
+  kableExtra::kable_styling()
+
+reference_2020_health %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  readr::write_csv("../output/27-health-map.csv")
+```
+
+
+---
+
+## Climate {.tabset .tabset-pills}
+
+### Map
+
+```{r fig.align="center"}
+map_climate <- dplyr::left_join(map_df, reference_2020_climate, by = c("code" = "Code"))
+
+ggplot(map_climate, aes(long, lat, group=group, fill = Count)) +
+  scale_fill_gradient(low = "#ffffff", high = '#238b45', na.value = '#FFFFFF'
+                      ) + 
+  geom_polygon(color = "#636363", size = 0.05) +
+  theme_void() +
+  theme(legend.position = c(0.13, 0.2)) + 
+  labs(fill = "Number of references") +
+  guides(fill = guide_colourbar(title.position = "top",
+                                direction = "horizontal"))
+
+ggsave("../output/28-climate-map.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r fig.align="center"}
+reference_2020_climate %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  knitr::kable(col.names = c("Year", "Code", "Country", "References")) %>%
+  kableExtra::kable_styling()
+
+reference_2020_climate %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  readr::write_csv("../output/28-climate-map.csv")
+```
+
+---
+
+## Intersection {.tabset .tabset-pills}
+
+### Map
+
+```{r fig.align="center"}
+map_intersection <- dplyr::left_join(map_df, reference_2020_intersection, by = c("code" = "Code"))
+
+ggplot(map_intersection, aes(long, lat, group=group, fill = Count)) +
+  scale_fill_gradient(low = "#ffffff", high = '#cb181d', na.value = '#FFFFFF'
+                      ) + 
+  geom_polygon(color = "#636363", size = 0.05) +
+  theme_void() +
+  theme(legend.position = c(0.13, 0.2)) + 
+  labs(fill = "Number of references") +
+  guides(fill = guide_colourbar(title.position = "top",
+                                direction = "horizontal"))
+
+ggsave("../output/29-intersection-map.pdf", width = 10, height = 7)
+```
+
+### Table
+
+```{r fig.align="center"}
+reference_2020_intersection %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  knitr::kable(col.names = c("Year", "Code", "Country", "References")) %>%
+  kableExtra::kable_styling()
+
+reference_2020_intersection %>%
+  dplyr::left_join(., iso_codes, by = c("Code" = "code")) %>%
+  dplyr::select(year, Code, country, Count) %>%
+  dplyr::arrange(desc(Count)) %>%
+  readr::write_csv("../output/29-intersection-map.csv")
+```
+
+
+---

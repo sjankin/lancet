@@ -1,0 +1,48 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,181.0,1810.0,4339.0
+1,Alternative Energy,335.0,3662.0,2963.0
+2,Automobiles & Parts,546.0,8992.0,13122.0
+3,Banks,427.0,8594.0,10630.0
+4,Basic Resources,0.0,0.0,0.0
+5,Beverages,446.0,5356.0,10050.0
+6,Chemicals,1744.0,12366.0,32323.0
+7,Construction & Materials,1068.0,14515.0,25843.0
+8,Diversified,791.0,9119.0,18308.0
+9,Electricity,568.0,11700.0,12016.0
+10,Electronic & Electrical Equ...,391.0,5900.0,12859.0
+11,Equity Investment Instruments,52.0,530.0,1493.0
+12,Financial Services,1591.0,28907.0,27529.0
+13,Fixed Line Telecommunications,240.0,2447.0,5523.0
+14,Food & Drug Retailers,165.0,1766.0,3221.0
+15,Food Producers,1533.0,9657.0,35078.0
+16,Forestry & Paper,285.0,5362.0,5714.0
+17,"Gas, Water & Multiutilities",298.0,5971.0,6369.0
+18,General Industrials,1560.0,17869.0,35913.0
+19,General Retailers,416.0,8190.0,14056.0
+20,Health Care Equipment & Ser...,414.0,2144.0,17145.0
+21,Household Goods & Home Cons...,326.0,5686.0,10907.0
+22,Industrial Engineering,478.0,5428.0,10500.0
+23,Industrial Goods & Services,0.0,3.0,7.0
+24,Industrial Metals & Mining,660.0,7731.0,17784.0
+25,Industrial Transportation,501.0,6669.0,11914.0
+26,Leisure Goods,41.0,1515.0,1927.0
+27,Life Insurance,190.0,1250.0,3766.0
+28,Media,139.0,3115.0,5736.0
+29,Mining,325.0,3563.0,10567.0
+30,Mobile Telecommunications,429.0,5217.0,10082.0
+31,Nonequity Investment Instru...,24.0,174.0,505.0
+32,Nonlife Insurance,140.0,1109.0,2681.0
+33,Not Applicable,87.0,1726.0,2532.0
+34,Oil & Gas Producers,1312.0,16382.0,22963.0
+35,"Oil Equipment, Services & D...",184.0,2071.0,4344.0
+36,Personal Goods,337.0,3991.0,9428.0
+37,Pharmaceuticals & Biotechno...,1588.0,6342.0,52681.0
+38,Real Estate,11.0,24.0,34.0
+39,Real Estate Investment & Se...,467.0,6398.0,10429.0
+40,Real Estate Investment Trusts,309.0,2212.0,2754.0
+41,Retail,0.0,1.0,2.0
+42,Software & Computer Services,570.0,7156.0,11494.0
+43,Support Services,1095.0,14015.0,25886.0
+44,Technology Hardware & Equip...,649.0,11041.0,18021.0
+45,Tobacco,2.0,43.0,117.0
+46,Travel & Leisure,296.0,6386.0,9890.0

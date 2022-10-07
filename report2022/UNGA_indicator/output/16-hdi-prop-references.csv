@@ -1,0 +1,209 @@
+year,hdi_level,total_counts,climate_prop,health_prop,intersection_prop
+1970,Very high human development,10,0,1,0
+1971,Very high human development,11,0,1,0
+1972,Very high human development,14,0,1,0
+1973,Very high human development,12,0,1,0
+1974,Very high human development,14,0,1,0
+1975,Very high human development,11,0,1,0
+1976,Very high human development,11,0,1,0
+1977,Very high human development,16,0.12,0.88,0
+1978,Very high human development,19,0.21,0.89,0
+1979,Very high human development,14,0.07,1,0
+1980,Very high human development,20,0.05,0.95,0
+1981,Very high human development,18,0,1,0
+1982,Very high human development,16,0,1,0
+1983,Very high human development,11,0,1,0
+1984,Very high human development,17,0,1,0
+1985,Very high human development,28,0,1,0
+1986,Very high human development,22,0,1,0
+1987,Very high human development,20,0,1,0
+1988,Very high human development,21,0.38,1,0.1
+1989,Very high human development,31,0.61,0.74,0.06
+1990,Very high human development,27,0.44,0.74,0.04
+1991,Very high human development,22,0.55,0.64,0.05
+1992,Very high human development,25,0.36,0.72,0
+1993,Very high human development,23,0.3,0.83,0
+1994,Very high human development,27,0.15,0.93,0
+1995,Very high human development,26,0.38,0.88,0.12
+1996,Very high human development,25,0.44,0.8,0.04
+1997,Very high human development,29,0.48,0.83,0
+1998,Very high human development,27,0.56,0.74,0.04
+1999,Very high human development,30,0.37,0.87,0.07
+2000,Very high human development,40,0.4,0.88,0.03
+2001,Very high human development,32,0.31,0.84,0
+2002,Very high human development,34,0.26,0.91,0.06
+2003,Very high human development,35,0.26,0.94,0.11
+2004,Very high human development,37,0.38,0.89,0.03
+2005,Very high human development,38,0.34,0.84,0.03
+2006,Very high human development,43,0.37,0.91,0.12
+2007,Very high human development,60,0.95,0.5,0.2
+2008,Very high human development,58,0.91,0.59,0.14
+2009,Very high human development,62,0.95,0.52,0.21
+2010,Very high human development,59,0.88,0.54,0.2
+2011,Very high human development,51,0.84,0.67,0.27
+2012,Very high human development,40,0.82,0.6,0.07
+2013,Very high human development,46,0.67,0.74,0.09
+2014,Very high human development,53,0.83,0.75,0.26
+2015,Very high human development,54,0.83,0.57,0.09
+2016,Very high human development,55,0.91,0.51,0.11
+2017,Very high human development,54,0.85,0.54,0.06
+2018,Very high human development,59,0.88,0.56,0.2
+2019,Very high human development,58,0.95,0.6,0.22
+2020,Very high human development,64,0.81,1,0.53
+2021,Very high human development,64,0.91,1,0.75
+1970,Medium human development,3,0,1,0
+1971,Medium human development,6,0,1,0
+1972,Medium human development,9,0,1,0
+1973,Medium human development,7,0,1,0
+1974,Medium human development,7,0,1,0
+1975,Medium human development,3,0,1,0
+1976,Medium human development,7,0,1,0
+1977,Medium human development,14,0,1,0
+1978,Medium human development,10,0,1,0
+1979,Medium human development,10,0,1,0
+1980,Medium human development,13,0,1,0
+1981,Medium human development,12,0.08,1,0
+1982,Medium human development,12,0.08,0.92,0
+1983,Medium human development,11,0,1,0
+1984,Medium human development,11,0,1,0
+1985,Medium human development,14,0,1,0
+1986,Medium human development,14,0,1,0
+1987,Medium human development,11,0,1,0
+1988,Medium human development,13,0.23,0.92,0
+1989,Medium human development,15,0.33,0.87,0
+1990,Medium human development,14,0.14,0.86,0
+1991,Medium human development,18,0.39,0.78,0.06
+1992,Medium human development,13,0.23,0.77,0
+1993,Medium human development,16,0.06,0.94,0
+1994,Medium human development,22,0.18,0.95,0
+1995,Medium human development,21,0.14,1,0
+1996,Medium human development,23,0.22,0.96,0.04
+1997,Medium human development,16,0.31,0.81,0
+1998,Medium human development,18,0.39,0.72,0
+1999,Medium human development,22,0.14,0.91,0
+2000,Medium human development,22,0.32,0.91,0.05
+2001,Medium human development,25,0.36,0.96,0.08
+2002,Medium human development,25,0.28,0.88,0.12
+2003,Medium human development,25,0.2,0.96,0.04
+2004,Medium human development,28,0.11,1,0.04
+2005,Medium human development,25,0.2,0.96,0
+2006,Medium human development,23,0.26,1,0.09
+2007,Medium human development,29,0.93,0.62,0.14
+2008,Medium human development,28,0.96,0.61,0.21
+2009,Medium human development,28,0.96,0.75,0.29
+2010,Medium human development,30,0.97,0.63,0.33
+2011,Medium human development,28,0.89,0.71,0.21
+2012,Medium human development,26,0.73,0.69,0.12
+2013,Medium human development,27,0.7,0.85,0.11
+2014,Medium human development,30,0.8,0.87,0.33
+2015,Medium human development,27,0.89,0.59,0.19
+2016,Medium human development,30,0.83,0.87,0.17
+2017,Medium human development,31,0.94,0.65,0.23
+2018,Medium human development,27,0.93,0.63,0.15
+2019,Medium human development,31,0.97,0.65,0.23
+2020,Medium human development,32,0.72,1,0.5
+2021,Medium human development,31,0.9,1,0.61
+1970,Low human development,2,0,1,0
+1971,Low human development,10,0,1,0
+1972,Low human development,12,0,1,0
+1973,Low human development,13,0,1,0
+1974,Low human development,9,0,1,0
+1975,Low human development,6,0,1,0
+1976,Low human development,11,0,1,0
+1977,Low human development,15,0,1,0
+1978,Low human development,15,0,1,0
+1979,Low human development,17,0,1,0
+1980,Low human development,18,0.06,1,0
+1981,Low human development,15,0.07,0.93,0
+1982,Low human development,11,0.09,1,0
+1983,Low human development,10,0,1,0
+1984,Low human development,18,0,1,0
+1985,Low human development,20,0.05,0.95,0
+1986,Low human development,18,0.06,1,0
+1987,Low human development,17,0,1,0
+1988,Low human development,13,0,1,0
+1989,Low human development,15,0.07,0.93,0
+1990,Low human development,22,0.09,0.95,0
+1991,Low human development,14,0.07,0.93,0
+1992,Low human development,20,0.3,0.9,0
+1993,Low human development,16,0.06,1,0
+1994,Low human development,17,0.12,0.88,0
+1995,Low human development,21,0.1,0.95,0
+1996,Low human development,21,0.05,1,0
+1997,Low human development,18,0.17,0.94,0
+1998,Low human development,13,0,1,0
+1999,Low human development,19,0.05,0.95,0
+2000,Low human development,22,0,1,0
+2001,Low human development,24,0.04,1,0
+2002,Low human development,24,0,1,0
+2003,Low human development,23,0,1,0
+2004,Low human development,24,0,1,0
+2005,Low human development,24,0.04,1,0.04
+2006,Low human development,23,0.09,1,0
+2007,Low human development,28,0.86,0.75,0.25
+2008,Low human development,29,0.76,0.79,0.14
+2009,Low human development,32,0.91,0.69,0.16
+2010,Low human development,28,0.75,0.71,0.18
+2011,Low human development,27,0.74,0.74,0.11
+2012,Low human development,23,0.57,0.87,0.13
+2013,Low human development,26,0.42,1,0.12
+2014,Low human development,30,0.7,0.93,0.2
+2015,Low human development,30,0.73,0.83,0.17
+2016,Low human development,30,0.93,0.6,0.17
+2017,Low human development,30,0.93,0.53,0.1
+2018,Low human development,26,0.88,0.62,0.19
+2019,Low human development,32,1,0.75,0.25
+2020,Low human development,30,0.8,1,0.5
+2021,Low human development,32,0.88,1,0.41
+1970,High human development,6,0,1,0
+1971,High human development,10,0,1,0
+1972,High human development,10,0,1,0
+1973,High human development,11,0.09,0.91,0
+1974,High human development,11,0,1,0
+1975,High human development,8,0,1,0
+1976,High human development,9,0,1,0
+1977,High human development,14,0,1,0
+1978,High human development,7,0,1,0
+1979,High human development,15,0.07,0.93,0
+1980,High human development,13,0.08,1,0
+1981,High human development,9,0,1,0
+1982,High human development,11,0,1,0
+1983,High human development,18,0.06,1,0
+1984,High human development,15,0,1,0
+1985,High human development,17,0,1,0
+1986,High human development,9,0,1,0
+1987,High human development,19,0.05,1,0
+1988,High human development,21,0.24,0.86,0
+1989,High human development,23,0.43,0.78,0.04
+1990,High human development,23,0.3,0.83,0
+1991,High human development,22,0.36,0.77,0.05
+1992,High human development,27,0.33,0.81,0
+1993,High human development,28,0.29,0.89,0.04
+1994,High human development,25,0.16,0.96,0
+1995,High human development,26,0.23,0.96,0.04
+1996,High human development,25,0.28,0.96,0
+1997,High human development,25,0.36,0.72,0
+1998,High human development,29,0.24,0.83,0.03
+1999,High human development,27,0.07,0.96,0.04
+2000,High human development,38,0.21,0.95,0
+2001,High human development,33,0.27,0.91,0.03
+2002,High human development,36,0.31,0.94,0.06
+2003,High human development,33,0.18,0.94,0.03
+2004,High human development,33,0.21,0.94,0.03
+2005,High human development,38,0.26,0.95,0.08
+2006,High human development,31,0.26,0.97,0.03
+2007,High human development,46,0.91,0.61,0.15
+2008,High human development,48,0.94,0.73,0.27
+2009,High human development,49,0.94,0.63,0.24
+2010,High human development,47,0.94,0.57,0.17
+2011,High human development,43,0.91,0.67,0.23
+2012,High human development,42,0.86,0.67,0.17
+2013,High human development,44,0.73,0.77,0.18
+2014,High human development,47,0.74,0.91,0.26
+2015,High human development,46,0.96,0.61,0.17
+2016,High human development,44,0.95,0.68,0.27
+2017,High human development,46,0.93,0.63,0.15
+2018,High human development,43,0.84,0.79,0.37
+2019,High human development,47,0.94,0.6,0.19
+2020,High human development,52,0.71,1,0.38
+2021,High human development,52,0.92,1,0.52

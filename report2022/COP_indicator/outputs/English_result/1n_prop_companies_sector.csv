@@ -1,0 +1,48 @@
+,Sector,Climate,Health,Intersection,Year
+0,Aerospace & Defense,0.61,0.76,0.2,2021
+1,Alternative Energy,0.85,0.84,0.45,2021
+2,Automobiles & Parts,0.59,0.84,0.29,2021
+3,Banks,0.77,0.86,0.29,2021
+4,Basic Resources,0.0,0.0,0.0,2021
+5,Beverages,0.71,0.82,0.32,2021
+6,Chemicals,0.78,0.9,0.47,2021
+7,Construction & Materials,0.7,0.81,0.3,2021
+8,Diversified,0.76,0.85,0.34,2021
+9,Electricity,0.85,0.83,0.4,2021
+10,Electronic & Electrical Equ...,0.57,0.79,0.2,2021
+11,Equity Investment Instruments,0.54,0.77,0.19,2021
+12,Financial Services,0.76,0.76,0.27,2021
+13,Fixed Line Telecommunications,0.74,0.82,0.31,2021
+14,Food & Drug Retailers,0.82,0.82,0.55,2021
+15,Food Producers,0.68,0.86,0.36,2021
+16,Forestry & Paper,0.72,0.85,0.28,2021
+17,"Gas, Water & Multiutilities",0.73,0.78,0.35,2021
+18,General Industrials,0.65,0.82,0.26,2021
+19,General Retailers,0.62,0.79,0.22,2021
+20,Health Care Equipment & Ser...,0.53,0.88,0.22,2021
+21,Household Goods & Home Cons...,0.67,0.89,0.32,2021
+22,Industrial Engineering,0.6,0.78,0.22,2021
+23,Industrial Goods & Services,0.5,0.5,0.0,2021
+24,Industrial Metals & Mining,0.77,0.91,0.32,2021
+25,Industrial Transportation,0.69,0.85,0.26,2021
+26,Leisure Goods,0.6,0.74,0.23,2021
+27,Life Insurance,0.79,0.73,0.37,2021
+28,Media,0.53,0.74,0.09,2021
+29,Mining,0.73,0.86,0.45,2021
+30,Mobile Telecommunications,0.76,0.9,0.38,2021
+31,Nonequity Investment Instru...,0.75,0.96,0.5,2021
+32,Nonlife Insurance,0.61,0.75,0.25,2021
+33,Not Applicable,0.54,0.72,0.19,2021
+34,Oil & Gas Producers,0.82,0.91,0.52,2021
+35,"Oil Equipment, Services & D...",0.67,0.87,0.31,2021
+36,Personal Goods,0.62,0.84,0.2,2021
+37,Pharmaceuticals & Biotechno...,0.68,0.92,0.44,2021
+38,Real Estate,1.0,1.0,0.67,2021
+39,Real Estate Investment & Se...,0.75,0.82,0.37,2021
+40,Real Estate Investment Trusts,0.84,0.91,0.58,2021
+41,Retail,0.5,1.0,0.0,2021
+42,Software & Computer Services,0.53,0.78,0.16,2021
+43,Support Services,0.56,0.75,0.15,2021
+44,Technology Hardware & Equip...,0.67,0.84,0.27,2021
+45,Tobacco,1.0,1.0,0.5,2021
+46,Travel & Leisure,0.76,0.84,0.21,2021
