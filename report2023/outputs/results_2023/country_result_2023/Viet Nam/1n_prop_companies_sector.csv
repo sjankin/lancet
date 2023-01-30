@@ -1,0 +1,14 @@
+,Sector,Climate,Health,Intersection,Year
+0,Beverages,0.33,1.0,0.0,2021
+1,Construction & Materials,0.0,1.0,0.0,2021
+2,Electronic & Electrical Equ...,0.33,1.0,0.33,2021
+3,Financial Services,0.29,0.14,0.0,2021
+4,Food Producers,1.0,1.0,0.0,2021
+5,"Gas, Water & Multiutilities",0.0,0.0,0.0,2021
+6,General Industrials,0.0,1.0,0.0,2021
+7,Household Goods & Home Cons...,0.0,1.0,0.0,2021
+8,Industrial Engineering,1.0,1.0,0.0,2021
+9,Oil & Gas Producers,0.33,1.0,0.0,2021
+10,Personal Goods,0.33,1.0,0.11,2021
+11,Software & Computer Services,0.4,1.0,0.4,2021
+12,Support Services,0.0,1.0,0.0,2021

@@ -1,0 +1,15 @@
+,Sector,intersection,health,climate
+0,Chemicals,0.0,8.0,1.5
+1,Construction & Materials,0.0,4.0,0.0
+2,Diversified,0.0,4.0,0.0
+3,Financial Services,0.5,5.5,2.0
+4,General Industrials,0.0,38.5,9.0
+5,Health Care Equipment & Ser...,1.0,9.0,4.0
+6,Industrial Metals & Mining,5.0,93.25,37.5
+7,Industrial Transportation,1.0,13.67,9.0
+8,Mining,0.0,0.0,0.0
+9,Mobile Telecommunications,1.0,154.0,6.0
+10,Nonequity Investment Instru...,3.0,67.0,36.0
+11,Oil & Gas Producers,0.0,1.0,4.0
+12,"Oil Equipment, Services & D...",0.0,40.0,27.0
+13,Software & Computer Services,0.0,11.5,0.0

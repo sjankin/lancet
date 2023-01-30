@@ -1,0 +1,15 @@
+,Sector,Climate,Health,Intersection,Year
+0,Alternative Energy,1.0,0.0,0.0,2021
+1,Banks,0.93,0.86,0.21,2021
+2,Construction & Materials,1.0,1.0,1.0,2021
+3,Diversified,0.5,1.0,0.5,2021
+4,Fixed Line Telecommunications,0.53,1.0,0.13,2021
+5,Food Producers,1.0,1.0,0.5,2021
+6,General Industrials,0.25,0.5,0.0,2021
+7,Industrial Engineering,1.0,1.0,0.0,2021
+8,Oil & Gas Producers,0.67,1.0,0.0,2021
+9,Personal Goods,1.0,0.0,0.0,2021
+10,Pharmaceuticals & Biotechno...,0.89,1.0,0.33,2021
+11,Real Estate Investment & Se...,1.0,1.0,0.6,2021
+12,Software & Computer Services,0.33,1.0,0.0,2021
+13,Technology Hardware & Equip...,1.0,1.0,0.0,2021

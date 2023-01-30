@@ -1,0 +1,50 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,230.0,2133.0,4547.0
+1,Alternative Energy,388.0,5067.0,4854.0
+2,Automobiles & Parts,362.0,6737.0,11286.0
+3,Banks,564.0,10805.0,12628.0
+4,Basic Resources,0.0,5.0,17.0
+5,Beverages,351.0,4843.0,8615.0
+6,Chemicals,1235.0,7526.0,23704.0
+7,Construction & Materials,885.0,12229.0,27811.0
+8,Diversified,1338.0,14716.0,25869.0
+9,Electricity,477.0,11267.0,9538.0
+10,Electronic & Electrical Equ...,211.0,3050.0,7373.0
+11,Equity Investment Instruments,162.0,1416.0,1651.0
+12,Financial Services,1311.0,18683.0,23427.0
+13,Fixed Line Telecommunications,245.0,2348.0,5836.0
+14,Food & Drug Retailers,130.0,1551.0,4111.0
+15,Food Producers,1089.0,8578.0,25881.0
+16,Forestry & Paper,254.0,4253.0,4415.0
+17,"Gas, Water & Multiutilities",383.0,5766.0,9344.0
+18,General Industrials,981.0,11935.0,24721.0
+19,General Retailers,407.0,7817.0,15377.0
+20,Health Care,0.0,7.0,50.0
+21,Health Care Equipment & Ser...,447.0,2714.0,21096.0
+22,Household Goods & Home Cons...,152.0,2033.0,4329.0
+23,Industrial Engineering,501.0,5954.0,13565.0
+24,Industrial Goods & Services,2.0,50.0,675.0
+25,Industrial Metals & Mining,358.0,5124.0,10031.0
+26,Industrial Transportation,493.0,6878.0,11865.0
+27,Leisure Goods,41.0,769.0,1912.0
+28,Life Insurance,144.0,2074.0,4258.0
+29,Media,140.0,3130.0,6805.0
+30,Mining,61.0,642.0,2637.0
+31,Mobile Telecommunications,190.0,2884.0,4875.0
+32,Nonequity Investment Instru...,12.0,200.0,359.0
+33,Nonlife Insurance,327.0,3254.0,7421.0
+34,Not Applicable,50.0,817.0,6965.0
+35,Oil & Gas Producers,820.0,9644.0,14962.0
+36,"Oil Equipment, Services & D...",198.0,2141.0,3726.0
+37,Other,0.0,26.0,146.0
+38,Personal Goods,263.0,3334.0,8044.0
+39,Pharmaceuticals & Biotechno...,843.0,3597.0,29473.0
+40,Real Estate Investment & Se...,362.0,4819.0,7878.0
+41,Real Estate Investment Trusts,292.0,1599.0,2144.0
+42,Retail,3.0,49.0,415.0
+43,Software & Computer Services,451.0,7187.0,14841.0
+44,Support Services,1077.0,14785.0,34481.0
+45,Technology,0.0,8.0,51.0
+46,Technology Hardware & Equip...,350.0,5227.0,9480.0
+47,Tobacco,2.0,43.0,117.0
+48,Travel & Leisure,426.0,6081.0,10577.0

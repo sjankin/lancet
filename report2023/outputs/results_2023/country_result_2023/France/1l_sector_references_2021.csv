@@ -1,0 +1,42 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,4.0,201.0,406.0
+1,Alternative Energy,15.0,121.0,294.0
+2,Automobiles & Parts,77.0,1698.0,2528.0
+3,Banks,14.0,297.0,419.0
+4,Beverages,5.0,159.0,298.0
+5,Chemicals,55.0,383.0,955.0
+6,Construction & Materials,16.0,275.0,739.0
+7,Diversified,85.0,982.0,1762.0
+8,Electricity,12.0,602.0,498.0
+9,Electronic & Electrical Equ...,37.0,569.0,1658.0
+10,Equity Investment Instruments,0.0,11.0,16.0
+11,Financial Services,112.0,1638.0,2589.0
+12,Fixed Line Telecommunications,9.0,263.0,704.0
+13,Food & Drug Retailers,8.0,139.0,436.0
+14,Food Producers,172.0,1196.0,6653.0
+15,Forestry & Paper,1.0,20.0,25.0
+16,"Gas, Water & Multiutilities",19.0,190.0,322.0
+17,General Industrials,139.0,1635.0,3227.0
+18,General Retailers,57.0,1393.0,2609.0
+19,Health Care Equipment & Ser...,20.0,331.0,1724.0
+20,Household Goods & Home Cons...,16.0,326.0,647.0
+21,Industrial Engineering,30.0,520.0,1278.0
+22,Industrial Metals & Mining,27.0,363.0,580.0
+23,Industrial Transportation,73.0,671.0,848.0
+24,Leisure Goods,6.0,79.0,172.0
+25,Life Insurance,16.0,273.0,531.0
+26,Media,9.0,332.0,916.0
+27,Mobile Telecommunications,4.0,57.0,159.0
+28,Nonequity Investment Instru...,0.0,18.0,12.0
+29,Nonlife Insurance,9.0,161.0,553.0
+30,Not Applicable,4.0,103.0,74.0
+31,Oil & Gas Producers,76.0,919.0,1390.0
+32,"Oil Equipment, Services & D...",11.0,255.0,178.0
+33,Personal Goods,52.0,439.0,773.0
+34,Pharmaceuticals & Biotechno...,131.0,554.0,5465.0
+35,Real Estate Investment & Se...,12.0,197.0,284.0
+36,Real Estate Investment Trusts,68.0,589.0,776.0
+37,Software & Computer Services,87.0,1916.0,4055.0
+38,Support Services,185.0,3248.0,7520.0
+39,Technology Hardware & Equip...,61.0,786.0,1195.0
+40,Travel & Leisure,11.0,390.0,553.0

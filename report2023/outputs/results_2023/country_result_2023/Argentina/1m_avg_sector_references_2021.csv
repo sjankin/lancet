@@ -1,0 +1,31 @@
+,Sector,intersection,health,climate
+0,Alternative Energy,1.0,61.0,10.0
+1,Automobiles & Parts,0.0,16.67,2.67
+2,Banks,1.0,116.67,9.67
+3,Construction & Materials,0.0,6.5,1.5
+4,Diversified,1.17,24.33,5.33
+5,Electricity,0.5,29.75,6.0
+6,Electronic & Electrical Equ...,4.5,80.0,38.5
+7,Financial Services,0.0,52.0,3.67
+8,Food & Drug Retailers,0.0,1.33,0.33
+9,Food Producers,0.6,21.4,3.3
+10,Forestry & Paper,3.0,44.0,3.0
+11,"Gas, Water & Multiutilities",0.0,32.75,4.25
+12,General Industrials,0.25,17.25,2.88
+13,General Retailers,1.5,14.0,12.5
+14,Health Care Equipment & Ser...,2.33,161.33,2.33
+15,Household Goods & Home Cons...,1.0,6.0,14.0
+16,Industrial Engineering,0.0,17.0,2.0
+17,Industrial Transportation,1.33,35.0,5.33
+18,Media,0.0,14.0,0.0
+19,Mining,0.0,43.0,5.5
+20,Nonlife Insurance,0.6,32.0,2.0
+21,Oil & Gas Producers,0.12,36.88,6.5
+22,"Oil Equipment, Services & D...",0.0,0.0,0.0
+23,Personal Goods,0.0,7.0,2.0
+24,Pharmaceuticals & Biotechno...,0.5,30.5,1.0
+25,Real Estate Investment & Se...,0.0,8.0,0.0
+26,Software & Computer Services,0.4,10.8,1.0
+27,Support Services,1.54,32.23,6.69
+28,Technology Hardware & Equip...,5.0,42.0,4.0
+29,Travel & Leisure,0.2,16.6,0.6

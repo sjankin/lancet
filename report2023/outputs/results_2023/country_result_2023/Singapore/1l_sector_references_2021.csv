@@ -1,0 +1,31 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,48.0,303.0,681.0
+1,Alternative Energy,93.0,635.0,572.0
+2,Automobiles & Parts,4.0,11.0,39.0
+3,Banks,1.0,73.0,17.0
+4,Chemicals,4.0,115.0,325.0
+5,Construction & Materials,0.0,0.0,3.0
+6,Diversified,189.0,1049.0,2958.0
+7,Electronic & Electrical Equ...,0.0,8.0,36.0
+8,Equity Investment Instruments,2.0,12.0,36.0
+9,Financial Services,3.0,149.0,68.0
+10,Fixed Line Telecommunications,0.0,0.0,0.0
+11,Food Producers,114.0,686.0,2024.0
+12,Forestry & Paper,12.0,97.0,171.0
+13,"Gas, Water & Multiutilities",63.0,278.0,443.0
+14,General Industrials,52.0,576.0,1196.0
+15,Health Care Equipment & Ser...,2.0,4.0,19.0
+16,Industrial Engineering,0.0,9.0,0.0
+17,Industrial Transportation,43.0,228.0,333.0
+18,Life Insurance,39.0,102.0,253.0
+19,Media,0.0,4.0,32.0
+20,Mobile Telecommunications,12.0,165.0,335.0
+21,Not Applicable,0.0,1.0,17.0
+22,Oil & Gas Producers,5.0,218.0,119.0
+23,"Oil Equipment, Services & D...",0.0,1.0,12.0
+24,Pharmaceuticals & Biotechno...,27.0,76.0,374.0
+25,Real Estate Investment & Se...,132.0,1685.0,2321.0
+26,Software & Computer Services,0.0,20.0,8.0
+27,Support Services,5.0,93.0,138.0
+28,Technology Hardware & Equip...,0.0,0.0,8.0
+29,Travel & Leisure,42.0,587.0,848.0

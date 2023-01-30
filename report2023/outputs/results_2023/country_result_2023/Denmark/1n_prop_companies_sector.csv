@@ -1,0 +1,39 @@
+,Sector,Climate,Health,Intersection,Year
+0,Aerospace & Defense,1.0,0.9,0.2,2021
+1,Alternative Energy,0.83,1.0,0.43,2021
+2,Automobiles & Parts,0.3,1.0,0.07,2021
+3,Banks,0.96,0.91,0.35,2021
+4,Beverages,0.74,0.97,0.23,2021
+5,Chemicals,0.83,1.0,0.5,2021
+6,Construction & Materials,0.71,0.88,0.31,2021
+7,Diversified,0.78,0.85,0.19,2021
+8,Electricity,0.98,0.94,0.31,2021
+9,Electronic & Electrical Equ...,0.59,0.89,0.13,2021
+10,Equity Investment Instruments,0.45,0.82,0.27,2021
+11,Financial Services,0.91,0.9,0.29,2021
+12,Fixed Line Telecommunications,0.86,1.0,0.07,2021
+13,Food & Drug Retailers,0.25,0.5,0.0,2021
+14,Food Producers,0.69,0.94,0.33,2021
+15,Forestry & Paper,0.62,0.76,0.14,2021
+16,"Gas, Water & Multiutilities",0.92,0.92,0.12,2021
+17,General Industrials,0.54,0.75,0.17,2021
+18,General Retailers,0.34,0.86,0.12,2021
+19,Health Care Equipment & Ser...,0.51,0.92,0.31,2021
+20,Household Goods & Home Cons...,0.35,0.93,0.12,2021
+21,Industrial Engineering,0.54,0.93,0.19,2021
+22,Industrial Transportation,0.82,0.93,0.22,2021
+23,Leisure Goods,0.54,0.87,0.15,2021
+24,Media,0.51,1.0,0.07,2021
+25,Mobile Telecommunications,0.83,1.0,0.67,2021
+26,Nonequity Investment Instru...,1.0,1.0,0.0,2021
+27,Nonlife Insurance,0.94,1.0,0.46,2021
+28,Not Applicable,0.67,0.89,0.0,2021
+29,Oil & Gas Producers,0.0,1.0,0.0,2021
+30,"Oil Equipment, Services & D...",0.82,1.0,0.25,2021
+31,Personal Goods,0.43,0.86,0.07,2021
+32,Pharmaceuticals & Biotechno...,0.71,0.97,0.4,2021
+33,Real Estate Investment & Se...,0.45,0.64,0.18,2021
+34,Software & Computer Services,0.45,0.74,0.1,2021
+35,Support Services,0.48,0.78,0.15,2021
+36,Technology Hardware & Equip...,0.69,0.98,0.29,2021
+37,Travel & Leisure,0.75,0.96,0.23,2021

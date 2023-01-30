@@ -1,0 +1,19 @@
+,Sector,intersection,climate,health
+0,Alternative Energy,0.0,5.0,2.0
+1,Beverages,6.0,43.0,105.0
+2,Electricity,6.0,292.0,397.0
+3,Electronic & Electrical Equ...,0.0,0.0,4.0
+4,Financial Services,1.0,190.0,232.0
+5,Fixed Line Telecommunications,0.0,76.0,155.0
+6,Food Producers,4.0,49.0,70.0
+7,"Gas, Water & Multiutilities",1.0,24.0,284.0
+8,General Industrials,2.0,40.0,149.0
+9,General Retailers,31.0,625.0,927.0
+10,Health Care Equipment & Ser...,0.0,5.0,300.0
+11,Industrial Transportation,7.0,23.0,124.0
+12,Media,0.0,0.0,5.0
+13,Mobile Telecommunications,0.0,81.0,174.0
+14,Not Applicable,0.0,0.0,5.0
+15,Real Estate Investment Trusts,0.0,23.0,3.0
+16,Software & Computer Services,0.0,0.0,4.0
+17,Support Services,5.0,49.0,125.0

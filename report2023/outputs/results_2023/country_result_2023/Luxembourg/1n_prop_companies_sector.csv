@@ -1,0 +1,19 @@
+,Sector,Climate,Health,Intersection,Year
+0,Alternative Energy,1.0,1.0,0.0,2021
+1,Chemicals,0.67,1.0,0.33,2021
+2,Construction & Materials,0.58,0.83,0.08,2021
+3,Diversified,0.4,1.0,0.2,2021
+4,Financial Services,0.62,0.75,0.12,2021
+5,General Industrials,1.0,1.0,0.43,2021
+6,Health Care Equipment & Ser...,1.0,1.0,1.0,2021
+7,Industrial Metals & Mining,1.0,1.0,0.75,2021
+8,Industrial Transportation,0.78,0.78,0.17,2021
+9,Media,0.0,0.5,0.0,2021
+10,Mining,0.0,0.0,0.0,2021
+11,Mobile Telecommunications,1.0,0.8,0.4,2021
+12,Nonequity Investment Instru...,1.0,1.0,1.0,2021
+13,Oil & Gas Producers,1.0,1.0,0.0,2021
+14,"Oil Equipment, Services & D...",1.0,1.0,0.67,2021
+15,Software & Computer Services,0.3,0.7,0.04,2021
+16,Support Services,1.0,0.75,0.25,2021
+17,Travel & Leisure,0.2,1.0,0.0,2021

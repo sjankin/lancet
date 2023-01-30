@@ -1,0 +1,39 @@
+,Sector,intersection,health,climate
+0,Aerospace & Defense,7.0,50.5,27.5
+1,Alternative Energy,0.0,12.0,1.5
+2,Automobiles & Parts,2.0,19.71,3.57
+3,Banks,0.6,17.2,5.0
+4,Beverages,1.75,36.5,7.5
+5,Chemicals,0.0,1.0,1.0
+6,Construction & Materials,0.74,19.39,5.43
+7,Diversified,1.52,30.61,10.91
+8,Electricity,1.0,21.33,6.67
+9,Electronic & Electrical Equ...,0.0,7.0,2.0
+10,Equity Investment Instruments,0.0,5.0,1.0
+11,Financial Services,0.33,22.89,5.0
+12,Fixed Line Telecommunications,2.0,81.0,11.0
+13,Food & Drug Retailers,0.0,0.0,0.0
+14,Food Producers,0.62,31.52,4.29
+15,Forestry & Paper,0.0,14.0,3.0
+16,"Gas, Water & Multiutilities",4.0,132.5,62.0
+17,General Industrials,0.38,9.71,1.21
+18,General Retailers,0.44,34.11,14.44
+19,Health Care Equipment & Ser...,0.4,23.6,1.4
+20,Industrial Engineering,0.0,60.33,3.0
+21,Industrial Metals & Mining,12.5,272.5,82.0
+22,Industrial Transportation,0.5,25.75,11.75
+23,Life Insurance,1.0,9.75,1.75
+24,Media,0.0,21.79,1.29
+25,Mining,0.0,49.0,7.0
+26,Mobile Telecommunications,0.0,12.0,0.0
+27,Nonlife Insurance,6.75,41.75,12.75
+28,Oil & Gas Producers,0.5,39.0,3.75
+29,"Oil Equipment, Services & D...",0.0,32.5,4.5
+30,Personal Goods,1.0,17.0,4.0
+31,Pharmaceuticals & Biotechno...,19.0,98.0,31.0
+32,Real Estate Investment & Se...,0.5,26.5,1.0
+33,Real Estate Investment Trusts,0.33,21.0,17.33
+34,Software & Computer Services,0.0,21.75,0.25
+35,Support Services,0.16,15.52,2.96
+36,Technology Hardware & Equip...,0.0,13.0,1.5
+37,Travel & Leisure,0.5,32.1,3.9

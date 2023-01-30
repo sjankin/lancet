@@ -1,0 +1,11 @@
+,Sector,Climate,Health,Intersection,Year
+0,Banks,1.0,1.0,1.0,2021
+1,Beverages,0.0,0.0,0.0,2021
+2,Electricity,1.0,1.0,1.0,2021
+3,Financial Services,0.0,1.0,0.0,2021
+4,General Industrials,0.0,0.0,0.0,2021
+5,Media,0.0,1.0,0.0,2021
+6,Mobile Telecommunications,1.0,1.0,0.0,2021
+7,Pharmaceuticals & Biotechno...,0.0,0.0,0.0,2021
+8,Software & Computer Services,1.0,1.0,0.0,2021
+9,Support Services,0.0,0.17,0.0,2021

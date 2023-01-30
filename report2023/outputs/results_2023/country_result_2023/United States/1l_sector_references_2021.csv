@@ -1,0 +1,40 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,0.0,0.0,0.0
+1,Alternative Energy,10.0,259.0,104.0
+2,Automobiles & Parts,22.0,311.0,246.0
+3,Banks,51.0,1280.0,763.0
+4,Beverages,65.0,499.0,1030.0
+5,Chemicals,400.0,3041.0,4400.0
+6,Construction & Materials,245.0,1365.0,2008.0
+7,Diversified,144.0,1348.0,2777.0
+8,Electricity,2.0,28.0,97.0
+9,Electronic & Electrical Equ...,55.0,444.0,1043.0
+10,Equity Investment Instruments,1.0,36.0,32.0
+11,Financial Services,158.0,2756.0,1524.0
+12,Fixed Line Telecommunications,2.0,17.0,41.0
+13,Food Producers,478.0,1748.0,9092.0
+14,Forestry & Paper,3.0,23.0,30.0
+15,General Industrials,340.0,2262.0,4668.0
+16,General Retailers,38.0,705.0,677.0
+17,Health Care Equipment & Ser...,127.0,458.0,2664.0
+18,Household Goods & Home Cons...,31.0,574.0,813.0
+19,Industrial Engineering,5.0,61.0,117.0
+20,Industrial Metals & Mining,31.0,342.0,597.0
+21,Industrial Transportation,1.0,48.0,53.0
+22,Leisure Goods,4.0,38.0,60.0
+23,Life Insurance,0.0,0.0,0.0
+24,Media,21.0,300.0,975.0
+25,Mining,15.0,148.0,290.0
+26,Mobile Telecommunications,23.0,359.0,273.0
+27,Nonlife Insurance,0.0,22.0,12.0
+28,Not Applicable,37.0,105.0,638.0
+29,Oil & Gas Producers,132.0,1446.0,1463.0
+30,"Oil Equipment, Services & D...",4.0,35.0,8.0
+31,Personal Goods,126.0,1657.0,2143.0
+32,Pharmaceuticals & Biotechno...,682.0,2341.0,24326.0
+33,Real Estate Investment & Se...,66.0,728.0,1805.0
+34,Real Estate Investment Trusts,5.0,235.0,34.0
+35,Software & Computer Services,257.0,2461.0,2886.0
+36,Support Services,187.0,2537.0,2974.0
+37,Technology Hardware & Equip...,212.0,3425.0,5439.0
+38,Travel & Leisure,21.0,572.0,417.0

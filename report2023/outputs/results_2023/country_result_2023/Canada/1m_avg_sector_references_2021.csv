@@ -1,0 +1,19 @@
+,Sector,intersection,health,climate
+0,Aerospace & Defense,13.5,216.5,60.5
+1,Automobiles & Parts,2.0,66.0,10.0
+2,Chemicals,6.0,84.0,18.0
+3,Construction & Materials,5.0,11.0,12.0
+4,Diversified,1.0,7.0,5.25
+5,Electricity,7.0,79.0,89.0
+6,Financial Services,3.0,76.0,79.0
+7,Food & Drug Retailers,5.0,22.0,10.0
+8,General Industrials,1.75,33.25,14.0
+9,Industrial Engineering,10.0,90.25,81.0
+10,Industrial Metals & Mining,6.09,67.73,25.36
+11,Media,3.0,18.0,14.0
+12,Mining,2.0,2.0,3.0
+13,Oil & Gas Producers,11.5,59.25,39.5
+14,"Oil Equipment, Services & D...",9.0,57.0,45.0
+15,Software & Computer Services,1.67,42.0,22.0
+16,Support Services,5.0,63.33,43.67
+17,Technology Hardware & Equip...,1.0,7.0,4.5

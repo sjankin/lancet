@@ -1,0 +1,5 @@
+Year,Companies (N),Climate (N),Health (N),Intersection (N),Climate (Prop),Health (Prop),Intersection (Prop)
+2019,1,1,1,0,1.0,1.0,0.0
+2020,1,1,1,0,1.0,1.0,0.0
+2021,1,1,1,0,1.0,1.0,0.0
+2022,4,3,3,1,0.75,0.75,0.25

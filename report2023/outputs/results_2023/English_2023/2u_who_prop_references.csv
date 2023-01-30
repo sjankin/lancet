@@ -1,0 +1,68 @@
+,Year,WHO,Climate,Health,Intersection
+0,2011,Africa,1.0,1.0,0.0
+6,2012,Africa,1.0,1.0,1.0
+12,2013,Africa,0.0,1.0,0.0
+18,2014,Africa,0.25,1.0,0.25
+24,2015,Africa,0.4,1.0,0.2
+30,2016,Africa,0.25,1.0,0.25
+35,2017,Africa,0.0,1.0,0.0
+40,2018,Africa,0.25,1.0,0.25
+45,2019,Africa,0.17,1.0,0.17
+50,2020,Africa,0.33,1.0,0.33
+56,2021,Africa,0.5,1.0,0.5
+62,2022,Africa,0.5,1.0,0.25
+1,2011,Americas,1.0,1.0,0.0
+7,2012,Americas,0.6,0.8,0.4
+13,2013,Americas,0.14,0.57,0.0
+19,2014,Americas,0.33,0.33,0.0
+25,2015,Americas,0.17,0.5,0.0
+31,2016,Americas,0.0,0.0,0.0
+36,2017,Americas,0.33,0.33,0.33
+41,2018,Americas,0.67,0.5,0.33
+46,2019,Americas,0.83,0.83,0.17
+51,2020,Americas,0.71,0.86,0.14
+57,2021,Americas,0.67,0.8,0.53
+63,2022,Americas,0.73,0.93,0.67
+2,2011,Eastern Mediterranean,0.0,1.0,0.0
+8,2012,Eastern Mediterranean,0.0,1.0,0.0
+14,2013,Eastern Mediterranean,0.33,1.0,0.0
+20,2014,Eastern Mediterranean,0.0,1.0,0.0
+26,2015,Eastern Mediterranean,0.0,1.0,0.0
+52,2020,Eastern Mediterranean,0.0,1.0,0.0
+58,2021,Eastern Mediterranean,0.0,1.0,0.0
+3,2011,Europe,0.6,1.0,0.0
+9,2012,Europe,0.3,0.9,0.0
+15,2013,Europe,0.19,0.88,0.0
+21,2014,Europe,0.29,0.88,0.12
+27,2015,Europe,0.5,1.0,0.14
+32,2016,Europe,0.28,0.83,0.06
+37,2017,Europe,0.48,0.95,0.0
+42,2018,Europe,0.65,0.95,0.3
+47,2019,Europe,0.65,1.0,0.3
+53,2020,Europe,0.63,0.87,0.33
+59,2021,Europe,0.82,0.97,0.45
+64,2022,Europe,0.78,0.87,0.49
+4,2011,South-East Asia,0.5,1.0,0.0
+10,2012,South-East Asia,0.0,1.0,0.0
+16,2013,South-East Asia,0.0,0.0,0.0
+22,2014,South-East Asia,0.0,1.0,0.0
+28,2015,South-East Asia,0.0,1.0,0.0
+33,2016,South-East Asia,0.5,1.0,0.0
+38,2017,South-East Asia,0.5,1.0,0.0
+43,2018,South-East Asia,0.5,1.0,0.0
+48,2019,South-East Asia,0.5,1.0,0.0
+54,2020,South-East Asia,1.0,1.0,0.5
+60,2021,South-East Asia,0.25,1.0,0.0
+65,2022,South-East Asia,0.0,1.0,0.0
+5,2011,Western Pacific,1.0,1.0,0.0
+11,2012,Western Pacific,1.0,1.0,0.0
+17,2013,Western Pacific,0.8,0.8,0.2
+23,2014,Western Pacific,0.67,0.67,0.33
+29,2015,Western Pacific,1.0,1.0,0.5
+34,2016,Western Pacific,1.0,0.8,0.6
+39,2017,Western Pacific,0.6,0.6,0.2
+44,2018,Western Pacific,1.0,1.0,0.4
+49,2019,Western Pacific,0.8,0.8,0.4
+55,2020,Western Pacific,1.0,1.0,0.25
+61,2021,Western Pacific,0.83,0.83,0.5
+66,2022,Western Pacific,0.62,1.0,0.62

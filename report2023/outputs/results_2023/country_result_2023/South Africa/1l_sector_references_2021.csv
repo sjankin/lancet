@@ -1,0 +1,27 @@
+,Sector,intersection,climate,health
+0,Aerospace & Defense,0.0,1.0,1.0
+1,Beverages,0.0,5.0,43.0
+2,Chemicals,5.0,99.0,180.0
+3,Construction & Materials,0.0,4.0,28.0
+4,Diversified,1.0,3.0,39.0
+5,Electricity,17.0,217.0,94.0
+6,Equity Investment Instruments,0.0,0.0,3.0
+7,Financial Services,78.0,1345.0,881.0
+8,Fixed Line Telecommunications,0.0,11.0,20.0
+9,Food Producers,11.0,95.0,236.0
+10,Forestry & Paper,48.0,667.0,487.0
+11,General Industrials,0.0,114.0,118.0
+12,General Retailers,61.0,540.0,1042.0
+13,Health Care Equipment & Ser...,8.0,82.0,200.0
+14,Industrial Metals & Mining,22.0,256.0,832.0
+15,Industrial Transportation,9.0,187.0,1025.0
+16,Media,1.0,4.0,15.0
+17,Mining,33.0,288.0,1103.0
+18,Mobile Telecommunications,14.0,253.0,476.0
+19,Nonlife Insurance,8.0,21.0,443.0
+20,Not Applicable,5.0,47.0,57.0
+21,Pharmaceuticals & Biotechno...,43.0,242.0,1211.0
+22,Real Estate Investment Trusts,7.0,16.0,10.0
+23,Software & Computer Services,5.0,55.0,68.0
+24,Support Services,0.0,94.0,74.0
+25,Travel & Leisure,8.0,129.0,473.0

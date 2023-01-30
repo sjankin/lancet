@@ -1,0 +1,11 @@
+,Sector,Climate,Health,Intersection,Year
+0,Banks,1.0,1.0,0.4,2021
+1,Beverages,1.0,1.0,0.0,2021
+2,Construction & Materials,1.0,1.0,0.0,2021
+3,Financial Services,0.0,0.71,0.0,2021
+4,Food Producers,0.67,1.0,0.33,2021
+5,"Gas, Water & Multiutilities",0.75,1.0,0.75,2021
+6,Health Care Equipment & Ser...,0.0,1.0,0.0,2021
+7,Nonlife Insurance,0.5,1.0,0.0,2021
+8,Personal Goods,0.0,0.0,0.0,2021
+9,Travel & Leisure,0.0,0.5,0.0,2021
