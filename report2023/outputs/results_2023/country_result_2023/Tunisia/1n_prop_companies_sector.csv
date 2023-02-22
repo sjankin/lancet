@@ -1,24 +1,24 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Alternative Energy,1.0,0.88,0.0,2021
-1,Automobiles & Parts,0.57,0.86,0.14,2021
-2,Banks,0.6,0.8,0.0,2021
-3,Beverages,0.6,0.8,0.2,2021
-4,Chemicals,0.0,0.83,0.0,2021
-5,Construction & Materials,0.86,0.86,0.29,2021
-6,Diversified,0.62,1.0,0.0,2021
-7,Electronic & Electrical Equ...,0.0,1.0,0.0,2021
-8,Equity Investment Instruments,0.0,1.0,0.0,2021
-9,Financial Services,1.0,1.0,0.0,2021
-10,Food Producers,0.89,1.0,0.0,2021
-11,"Gas, Water & Multiutilities",0.71,1.0,0.0,2021
-12,General Industrials,0.33,0.89,0.0,2021
-13,Industrial Engineering,0.0,1.0,0.0,2021
-14,Mining,0.5,1.0,0.0,2021
-15,Mobile Telecommunications,1.0,1.0,0.0,2021
-16,Oil & Gas Producers,1.0,1.0,0.8,2021
-17,"Oil Equipment, Services & D...",0.0,1.0,0.0,2021
-18,Personal Goods,0.0,1.0,0.0,2021
-19,Pharmaceuticals & Biotechno...,0.5,0.5,0.0,2021
-20,Software & Computer Services,0.0,0.83,0.0,2021
-21,Support Services,0.2,0.8,0.0,2021
-22,Travel & Leisure,0.0,0.5,0.0,2021
+0,Alternative Energy,1.0,0.88,0.0,2022
+1,Automobiles & Parts,0.57,0.86,0.14,2022
+2,Banks,0.6,0.8,0.0,2022
+3,Beverages,0.6,0.8,0.2,2022
+4,Chemicals,0.0,0.83,0.0,2022
+5,Construction & Materials,0.86,0.86,0.29,2022
+6,Diversified,0.62,1.0,0.0,2022
+7,Electronic & Electrical Equ...,0.0,1.0,0.0,2022
+8,Equity Investment Instruments,0.0,1.0,0.0,2022
+9,Financial Services,1.0,1.0,0.0,2022
+10,Food Producers,0.89,1.0,0.0,2022
+11,"Gas, Water & Multiutilities",0.71,1.0,0.0,2022
+12,General Industrials,0.33,0.89,0.0,2022
+13,Industrial Engineering,0.0,1.0,0.0,2022
+14,Mining,0.5,1.0,0.0,2022
+15,Mobile Telecommunications,1.0,1.0,0.0,2022
+16,Oil & Gas Producers,1.0,1.0,0.8,2022
+17,"Oil Equipment, Services & D...",0.0,1.0,0.0,2022
+18,Personal Goods,0.0,1.0,0.0,2022
+19,Pharmaceuticals & Biotechno...,0.5,0.5,0.0,2022
+20,Software & Computer Services,0.0,0.83,0.0,2022
+21,Support Services,0.2,0.8,0.0,2022
+22,Travel & Leisure,0.0,0.5,0.0,2022

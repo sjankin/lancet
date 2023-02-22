@@ -1,30 +1,30 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Banks,0.98,1.0,0.56,2021
-1,Beverages,1.0,1.0,0.57,2021
-2,Chemicals,0.0,1.0,0.0,2021
-3,Construction & Materials,0.94,0.88,0.53,2021
-4,Diversified,0.97,0.85,0.21,2021
-5,Electricity,0.91,0.86,0.45,2021
-6,Electronic & Electrical Equ...,0.88,0.88,0.08,2021
-7,Financial Services,0.85,0.73,0.19,2021
-8,Food Producers,0.91,1.0,0.0,2021
-9,Forestry & Paper,0.75,0.75,0.75,2021
-10,"Gas, Water & Multiutilities",1.0,1.0,0.0,2021
-11,General Industrials,0.7,0.81,0.26,2021
-12,General Retailers,0.2,0.8,0.2,2021
-13,Industrial Engineering,0.3,1.0,0.3,2021
-14,Industrial Metals & Mining,0.75,0.75,0.33,2021
-15,Industrial Transportation,0.78,0.74,0.3,2021
-16,Leisure Goods,1.0,1.0,0.0,2021
-17,Life Insurance,0.5,0.0,0.0,2021
-18,Media,0.0,0.75,0.0,2021
-19,Mobile Telecommunications,1.0,1.0,0.29,2021
-20,Nonlife Insurance,1.0,1.0,1.0,2021
-21,Oil & Gas Producers,1.0,1.0,1.0,2021
-22,Personal Goods,0.83,0.67,0.42,2021
-23,Pharmaceuticals & Biotechno...,0.64,1.0,0.45,2021
-24,Real Estate Investment & Se...,0.33,0.33,0.0,2021
-25,Software & Computer Services,0.86,0.86,0.43,2021
-26,Support Services,0.6,0.73,0.07,2021
-27,Technology Hardware & Equip...,1.0,1.0,0.0,2021
-28,Travel & Leisure,1.0,1.0,0.14,2021
+0,Banks,0.98,1.0,0.56,2022
+1,Beverages,1.0,1.0,0.57,2022
+2,Chemicals,0.0,1.0,0.0,2022
+3,Construction & Materials,0.94,0.88,0.53,2022
+4,Diversified,0.97,0.85,0.21,2022
+5,Electricity,0.91,0.86,0.45,2022
+6,Electronic & Electrical Equ...,0.88,0.88,0.08,2022
+7,Financial Services,0.85,0.73,0.19,2022
+8,Food Producers,0.91,1.0,0.0,2022
+9,Forestry & Paper,0.75,0.75,0.75,2022
+10,"Gas, Water & Multiutilities",1.0,1.0,0.0,2022
+11,General Industrials,0.7,0.81,0.26,2022
+12,General Retailers,0.2,0.8,0.2,2022
+13,Industrial Engineering,0.3,1.0,0.3,2022
+14,Industrial Metals & Mining,0.75,0.75,0.33,2022
+15,Industrial Transportation,0.78,0.74,0.3,2022
+16,Leisure Goods,1.0,1.0,0.0,2022
+17,Life Insurance,0.5,0.0,0.0,2022
+18,Media,0.0,0.75,0.0,2022
+19,Mobile Telecommunications,1.0,1.0,0.29,2022
+20,Nonlife Insurance,1.0,1.0,1.0,2022
+21,Oil & Gas Producers,1.0,1.0,1.0,2022
+22,Personal Goods,0.83,0.67,0.42,2022
+23,Pharmaceuticals & Biotechno...,0.64,1.0,0.45,2022
+24,Real Estate Investment & Se...,0.33,0.33,0.0,2022
+25,Software & Computer Services,0.86,0.86,0.43,2022
+26,Support Services,0.6,0.73,0.07,2022
+27,Technology Hardware & Equip...,1.0,1.0,0.0,2022
+28,Travel & Leisure,1.0,1.0,0.14,2022

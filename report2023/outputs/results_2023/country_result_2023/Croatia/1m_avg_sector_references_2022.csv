@@ -1,0 +1,18 @@
+,Sector,intersection,health,climate
+0,Beverages,4.0,125.0,57.0
+1,Chemicals,0.0,0.0,0.0
+2,Construction & Materials,8.0,193.33,105.33
+3,Diversified,2.0,64.0,31.5
+4,Financial Services,7.0,38.5,29.0
+5,Fixed Line Telecommunications,2.5,68.5,33.5
+6,Food & Drug Retailers,4.0,125.0,57.0
+7,Food Producers,1.33,62.0,21.67
+8,General Retailers,2.67,84.0,45.0
+9,Mobile Telecommunications,3.0,81.5,93.5
+10,Nonlife Insurance,1.0,71.0,42.0
+11,Oil & Gas Producers,0.0,4.0,0.0
+12,"Oil Equipment, Services & D...",0.0,8.0,3.0
+13,Software & Computer Services,0.0,1.0,0.0
+14,Support Services,0.5,1.5,0.5
+15,Technology Hardware & Equip...,6.0,71.0,52.0
+16,Travel & Leisure,0.0,1.0,0.0

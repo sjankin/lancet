@@ -1,24 +1,24 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Automobiles & Parts,1.0,1.0,0.25,2021
-1,Banks,1.0,1.0,0.0,2021
-2,Beverages,0.67,0.92,0.42,2021
-3,Chemicals,0.92,0.92,0.0,2021
-4,Construction & Materials,0.92,0.92,0.65,2021
-5,Diversified,0.71,1.0,0.14,2021
-6,Financial Services,0.53,0.93,0.2,2021
-7,Fixed Line Telecommunications,1.0,1.0,0.73,2021
-8,Food & Drug Retailers,1.0,1.0,1.0,2021
-9,Food Producers,0.73,0.93,0.13,2021
-10,Forestry & Paper,0.0,0.0,0.0,2021
-11,"Gas, Water & Multiutilities",0.0,0.0,0.0,2021
-12,General Retailers,1.0,1.0,0.75,2021
-13,Media,0.5,1.0,0.0,2021
-14,Mobile Telecommunications,1.0,1.0,0.75,2021
-15,Nonlife Insurance,1.0,1.0,1.0,2021
-16,Oil & Gas Producers,0.88,1.0,0.75,2021
-17,"Oil Equipment, Services & D...",1.0,1.0,0.0,2021
-18,Pharmaceuticals & Biotechno...,0.5,1.0,0.17,2021
-19,Software & Computer Services,0.42,1.0,0.17,2021
-20,Support Services,0.29,0.86,0.1,2021
-21,Technology Hardware & Equip...,1.0,1.0,0.25,2021
-22,Travel & Leisure,0.14,0.29,0.0,2021
+0,Automobiles & Parts,1.0,1.0,0.25,2022
+1,Banks,1.0,1.0,0.0,2022
+2,Beverages,0.67,0.92,0.42,2022
+3,Chemicals,0.92,0.92,0.0,2022
+4,Construction & Materials,0.92,0.92,0.65,2022
+5,Diversified,0.71,1.0,0.14,2022
+6,Financial Services,0.53,0.93,0.2,2022
+7,Fixed Line Telecommunications,1.0,1.0,0.73,2022
+8,Food & Drug Retailers,1.0,1.0,1.0,2022
+9,Food Producers,0.73,0.93,0.13,2022
+10,Forestry & Paper,0.0,0.0,0.0,2022
+11,"Gas, Water & Multiutilities",0.0,0.0,0.0,2022
+12,General Retailers,1.0,1.0,0.75,2022
+13,Media,0.5,1.0,0.0,2022
+14,Mobile Telecommunications,1.0,1.0,0.75,2022
+15,Nonlife Insurance,1.0,1.0,1.0,2022
+16,Oil & Gas Producers,0.88,1.0,0.75,2022
+17,"Oil Equipment, Services & D...",1.0,1.0,0.0,2022
+18,Pharmaceuticals & Biotechno...,0.5,1.0,0.17,2022
+19,Software & Computer Services,0.42,1.0,0.17,2022
+20,Support Services,0.29,0.86,0.1,2022
+21,Technology Hardware & Equip...,1.0,1.0,0.25,2022
+22,Travel & Leisure,0.14,0.29,0.0,2022

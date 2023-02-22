@@ -1,12 +1,12 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Banks,0.33,1.0,0.0,2021
-1,Electricity,1.0,0.3,0.0,2021
-2,Financial Services,1.0,1.0,0.0,2021
-3,Fixed Line Telecommunications,1.0,1.0,0.0,2021
-4,Food Producers,1.0,1.0,0.67,2021
-5,General Industrials,0.0,0.0,0.0,2021
-6,Industrial Metals & Mining,0.0,0.0,0.0,2021
-7,Industrial Transportation,0.86,0.86,0.29,2021
-8,Mobile Telecommunications,1.0,1.0,0.43,2021
-9,Nonlife Insurance,0.67,0.67,0.33,2021
-10,Oil & Gas Producers,1.0,1.0,0.67,2021
+0,Banks,0.33,1.0,0.0,2022
+1,Electricity,1.0,0.3,0.0,2022
+2,Financial Services,1.0,1.0,0.0,2022
+3,Fixed Line Telecommunications,1.0,1.0,0.0,2022
+4,Food Producers,1.0,1.0,0.67,2022
+5,General Industrials,0.0,0.0,0.0,2022
+6,Industrial Metals & Mining,0.0,0.0,0.0,2022
+7,Industrial Transportation,0.86,0.86,0.29,2022
+8,Mobile Telecommunications,1.0,1.0,0.43,2022
+9,Nonlife Insurance,0.67,0.67,0.33,2022
+10,Oil & Gas Producers,1.0,1.0,0.67,2022

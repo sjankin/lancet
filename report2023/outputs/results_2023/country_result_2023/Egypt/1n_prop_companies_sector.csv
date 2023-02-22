@@ -1,26 +1,26 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Automobiles & Parts,0.4,0.9,0.0,2021
-1,Banks,0.85,1.0,0.23,2021
-2,Beverages,0.62,1.0,0.0,2021
-3,Chemicals,0.75,1.0,0.25,2021
-4,Construction & Materials,0.6,1.0,0.27,2021
-5,Diversified,0.83,0.83,0.0,2021
-6,Electronic & Electrical Equ...,1.0,1.0,0.0,2021
-7,Equity Investment Instruments,0.0,0.0,0.0,2021
-8,Financial Services,0.5,0.75,0.25,2021
-9,Food Producers,0.76,0.97,0.41,2021
-10,General Industrials,0.86,0.43,0.0,2021
-11,General Retailers,1.0,1.0,0.0,2021
-12,Household Goods & Home Cons...,0.33,0.5,0.17,2021
-13,Industrial Transportation,0.09,1.0,0.09,2021
-14,Media,0.0,0.5,0.0,2021
-15,Mobile Telecommunications,1.0,1.0,0.0,2021
-16,Nonequity Investment Instru...,0.0,1.0,0.0,2021
-17,Nonlife Insurance,1.0,1.0,1.0,2021
-18,Not Applicable,0.67,1.0,0.33,2021
-19,Oil & Gas Producers,0.67,1.0,0.67,2021
-20,Pharmaceuticals & Biotechno...,0.71,1.0,0.71,2021
-21,Real Estate Investment & Se...,0.67,0.92,0.25,2021
-22,Software & Computer Services,0.0,1.0,0.0,2021
-23,Support Services,0.36,0.84,0.14,2021
-24,Travel & Leisure,0.62,1.0,0.12,2021
+0,Automobiles & Parts,0.4,0.9,0.0,2022
+1,Banks,0.85,1.0,0.23,2022
+2,Beverages,0.62,1.0,0.0,2022
+3,Chemicals,0.75,1.0,0.25,2022
+4,Construction & Materials,0.6,1.0,0.27,2022
+5,Diversified,0.83,0.83,0.0,2022
+6,Electronic & Electrical Equ...,1.0,1.0,0.0,2022
+7,Equity Investment Instruments,0.0,0.0,0.0,2022
+8,Financial Services,0.5,0.75,0.25,2022
+9,Food Producers,0.76,0.97,0.41,2022
+10,General Industrials,0.86,0.43,0.0,2022
+11,General Retailers,1.0,1.0,0.0,2022
+12,Household Goods & Home Cons...,0.33,0.5,0.17,2022
+13,Industrial Transportation,0.09,1.0,0.09,2022
+14,Media,0.0,0.5,0.0,2022
+15,Mobile Telecommunications,1.0,1.0,0.0,2022
+16,Nonequity Investment Instru...,0.0,1.0,0.0,2022
+17,Nonlife Insurance,1.0,1.0,1.0,2022
+18,Not Applicable,0.67,1.0,0.33,2022
+19,Oil & Gas Producers,0.67,1.0,0.67,2022
+20,Pharmaceuticals & Biotechno...,0.71,1.0,0.71,2022
+21,Real Estate Investment & Se...,0.67,0.92,0.25,2022
+22,Software & Computer Services,0.0,1.0,0.0,2022
+23,Support Services,0.36,0.84,0.14,2022
+24,Travel & Leisure,0.62,1.0,0.12,2022

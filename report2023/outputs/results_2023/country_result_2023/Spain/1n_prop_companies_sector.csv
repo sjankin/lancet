@@ -1,48 +1,48 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Aerospace & Defense,0.84,0.91,0.38,2021
-1,Alternative Energy,0.88,0.85,0.49,2021
-2,Automobiles & Parts,0.61,0.92,0.19,2021
-3,Banks,0.53,0.83,0.2,2021
-4,Basic Resources,0.33,0.67,0.0,2021
-5,Beverages,0.63,0.81,0.27,2021
-6,Chemicals,0.61,0.84,0.16,2021
-7,Construction & Materials,0.54,0.84,0.13,2021
-8,Diversified,0.67,0.9,0.25,2021
-9,Electricity,0.59,0.79,0.17,2021
-10,Electronic & Electrical Equ...,0.3,0.61,0.05,2021
-11,Equity Investment Instruments,0.78,0.78,0.56,2021
-12,Financial Services,0.66,0.77,0.15,2021
-13,Fixed Line Telecommunications,0.57,0.77,0.15,2021
-14,Food & Drug Retailers,0.62,0.86,0.11,2021
-15,Food Producers,0.65,0.84,0.15,2021
-16,Forestry & Paper,0.67,0.87,0.37,2021
-17,"Gas, Water & Multiutilities",0.78,0.94,0.36,2021
-18,General Industrials,0.69,0.88,0.19,2021
-19,General Retailers,0.46,0.72,0.18,2021
-20,Health Care,0.5,1.0,0.0,2021
-21,Health Care Equipment & Ser...,0.59,0.96,0.17,2021
-22,Household Goods & Home Cons...,0.47,0.74,0.26,2021
-23,Industrial Engineering,0.5,0.85,0.13,2021
-24,Industrial Goods & Services,0.45,0.8,0.04,2021
-25,Industrial Metals & Mining,0.59,0.85,0.15,2021
-26,Industrial Transportation,0.57,0.76,0.14,2021
-27,Leisure Goods,0.69,1.0,0.08,2021
-28,Life Insurance,0.86,0.86,0.57,2021
-29,Media,0.53,0.75,0.09,2021
-30,Mining,0.55,0.9,0.15,2021
-31,Mobile Telecommunications,0.44,0.78,0.22,2021
-32,Nonequity Investment Instru...,0.75,0.67,0.42,2021
-33,Nonlife Insurance,0.89,0.91,0.34,2021
-34,Not Applicable,0.47,0.75,0.1,2021
-35,Oil & Gas Producers,0.59,0.87,0.18,2021
-36,"Oil Equipment, Services & D...",0.91,0.82,0.36,2021
-37,Other,0.75,0.94,0.0,2021
-38,Personal Goods,0.55,0.78,0.17,2021
-39,Pharmaceuticals & Biotechno...,0.75,0.98,0.38,2021
-40,Real Estate Investment & Se...,0.64,0.84,0.19,2021
-41,Retail,0.4,0.95,0.05,2021
-42,Software & Computer Services,0.4,0.86,0.1,2021
-43,Support Services,0.42,0.81,0.07,2021
-44,Technology,1.0,1.0,0.0,2021
-45,Technology Hardware & Equip...,0.35,0.79,0.07,2021
-46,Travel & Leisure,0.75,0.9,0.25,2021
+0,Aerospace & Defense,0.84,0.91,0.38,2022
+1,Alternative Energy,0.88,0.85,0.49,2022
+2,Automobiles & Parts,0.61,0.92,0.19,2022
+3,Banks,0.53,0.83,0.2,2022
+4,Basic Resources,0.33,0.67,0.0,2022
+5,Beverages,0.63,0.81,0.27,2022
+6,Chemicals,0.61,0.84,0.16,2022
+7,Construction & Materials,0.54,0.84,0.13,2022
+8,Diversified,0.67,0.9,0.25,2022
+9,Electricity,0.59,0.79,0.17,2022
+10,Electronic & Electrical Equ...,0.3,0.61,0.05,2022
+11,Equity Investment Instruments,0.78,0.78,0.56,2022
+12,Financial Services,0.66,0.77,0.15,2022
+13,Fixed Line Telecommunications,0.57,0.77,0.15,2022
+14,Food & Drug Retailers,0.62,0.86,0.11,2022
+15,Food Producers,0.65,0.84,0.15,2022
+16,Forestry & Paper,0.67,0.87,0.37,2022
+17,"Gas, Water & Multiutilities",0.78,0.94,0.36,2022
+18,General Industrials,0.69,0.88,0.19,2022
+19,General Retailers,0.46,0.72,0.18,2022
+20,Health Care,0.5,1.0,0.0,2022
+21,Health Care Equipment & Ser...,0.59,0.96,0.17,2022
+22,Household Goods & Home Cons...,0.47,0.74,0.26,2022
+23,Industrial Engineering,0.5,0.85,0.13,2022
+24,Industrial Goods & Services,0.45,0.8,0.04,2022
+25,Industrial Metals & Mining,0.59,0.85,0.15,2022
+26,Industrial Transportation,0.57,0.76,0.14,2022
+27,Leisure Goods,0.69,1.0,0.08,2022
+28,Life Insurance,0.86,0.86,0.57,2022
+29,Media,0.53,0.75,0.09,2022
+30,Mining,0.55,0.9,0.15,2022
+31,Mobile Telecommunications,0.44,0.78,0.22,2022
+32,Nonequity Investment Instru...,0.75,0.67,0.42,2022
+33,Nonlife Insurance,0.89,0.91,0.34,2022
+34,Not Applicable,0.47,0.75,0.1,2022
+35,Oil & Gas Producers,0.59,0.87,0.18,2022
+36,"Oil Equipment, Services & D...",0.91,0.82,0.36,2022
+37,Other,0.75,0.94,0.0,2022
+38,Personal Goods,0.55,0.78,0.17,2022
+39,Pharmaceuticals & Biotechno...,0.75,0.98,0.38,2022
+40,Real Estate Investment & Se...,0.64,0.84,0.19,2022
+41,Retail,0.4,0.95,0.05,2022
+42,Software & Computer Services,0.4,0.86,0.1,2022
+43,Support Services,0.42,0.81,0.07,2022
+44,Technology,1.0,1.0,0.0,2022
+45,Technology Hardware & Equip...,0.35,0.79,0.07,2022
+46,Travel & Leisure,0.75,0.9,0.25,2022

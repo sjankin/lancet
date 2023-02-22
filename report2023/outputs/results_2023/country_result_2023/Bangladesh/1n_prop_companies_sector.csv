@@ -1,17 +1,17 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Automobiles & Parts,0.0,0.6,0.0,2021
-1,Banks,0.5,1.0,0.25,2021
-2,Construction & Materials,0.2,0.8,0.2,2021
-3,Financial Services,1.0,1.0,0.67,2021
-4,Food Producers,1.0,1.0,1.0,2021
-5,General Industrials,0.72,0.96,0.56,2021
-6,General Retailers,0.0,0.8,0.0,2021
-7,Household Goods & Home Cons...,0.0,1.0,0.0,2021
-8,Media,0.75,0.88,0.25,2021
-9,Nonlife Insurance,0.75,1.0,0.0,2021
-10,Not Applicable,1.0,1.0,0.0,2021
-11,"Oil Equipment, Services & D...",0.33,1.0,0.33,2021
-12,Personal Goods,0.71,0.88,0.24,2021
-13,Pharmaceuticals & Biotechno...,0.38,1.0,0.0,2021
-14,Software & Computer Services,0.38,0.56,0.0,2021
-15,Technology Hardware & Equip...,0.27,0.64,0.0,2021
+0,Automobiles & Parts,0.0,0.6,0.0,2022
+1,Banks,0.5,1.0,0.25,2022
+2,Construction & Materials,0.2,0.8,0.2,2022
+3,Financial Services,1.0,1.0,0.67,2022
+4,Food Producers,1.0,1.0,1.0,2022
+5,General Industrials,0.72,0.96,0.56,2022
+6,General Retailers,0.0,0.8,0.0,2022
+7,Household Goods & Home Cons...,0.0,1.0,0.0,2022
+8,Media,0.75,0.88,0.25,2022
+9,Nonlife Insurance,0.75,1.0,0.0,2022
+10,Not Applicable,1.0,1.0,0.0,2022
+11,"Oil Equipment, Services & D...",0.33,1.0,0.33,2022
+12,Personal Goods,0.71,0.88,0.24,2022
+13,Pharmaceuticals & Biotechno...,0.38,1.0,0.0,2022
+14,Software & Computer Services,0.38,0.56,0.0,2022
+15,Technology Hardware & Equip...,0.27,0.64,0.0,2022

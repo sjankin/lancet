@@ -1,32 +1,32 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Aerospace & Defense,0.0,1.0,0.0,2021
-1,Alternative Energy,0.75,0.25,0.0,2021
-2,Automobiles & Parts,0.0,0.5,0.0,2021
-3,Banks,1.0,1.0,0.56,2021
-4,Beverages,0.67,0.94,0.22,2021
-5,Chemicals,0.2,1.0,0.2,2021
-6,Construction & Materials,0.18,0.91,0.0,2021
-7,Diversified,0.73,0.91,0.27,2021
-8,Electricity,0.8,1.0,0.0,2021
-9,Electronic & Electrical Equ...,0.79,1.0,0.43,2021
-10,Financial Services,0.65,1.0,0.12,2021
-11,Fixed Line Telecommunications,0.86,1.0,0.14,2021
-12,Food Producers,0.72,0.97,0.2,2021
-13,Forestry & Paper,0.67,0.83,0.0,2021
-14,"Gas, Water & Multiutilities",1.0,0.0,0.0,2021
-15,General Industrials,0.22,1.0,0.0,2021
-16,General Retailers,0.0,1.0,0.0,2021
-17,Health Care Equipment & Ser...,0.31,1.0,0.23,2021
-18,Household Goods & Home Cons...,0.0,1.0,0.0,2021
-19,Industrial Engineering,0.5,1.0,0.17,2021
-20,Industrial Metals & Mining,0.0,1.0,0.0,2021
-21,Industrial Transportation,0.5,0.75,0.25,2021
-22,Media,0.2,0.8,0.0,2021
-23,Mining,0.0,0.89,0.0,2021
-24,Mobile Telecommunications,0.41,0.91,0.23,2021
-25,Not Applicable,0.0,0.75,0.0,2021
-26,Pharmaceuticals & Biotechno...,0.4,1.0,0.0,2021
-27,Software & Computer Services,0.73,0.91,0.0,2021
-28,Support Services,0.21,0.92,0.06,2021
-29,Technology Hardware & Equip...,0.25,0.88,0.12,2021
-30,Travel & Leisure,0.7,0.9,0.05,2021
+0,Aerospace & Defense,0.0,1.0,0.0,2022
+1,Alternative Energy,0.75,0.25,0.0,2022
+2,Automobiles & Parts,0.0,0.5,0.0,2022
+3,Banks,1.0,1.0,0.56,2022
+4,Beverages,0.67,0.94,0.22,2022
+5,Chemicals,0.2,1.0,0.2,2022
+6,Construction & Materials,0.18,0.91,0.0,2022
+7,Diversified,0.73,0.91,0.27,2022
+8,Electricity,0.8,1.0,0.0,2022
+9,Electronic & Electrical Equ...,0.79,1.0,0.43,2022
+10,Financial Services,0.65,1.0,0.12,2022
+11,Fixed Line Telecommunications,0.86,1.0,0.14,2022
+12,Food Producers,0.72,0.97,0.2,2022
+13,Forestry & Paper,0.67,0.83,0.0,2022
+14,"Gas, Water & Multiutilities",1.0,0.0,0.0,2022
+15,General Industrials,0.22,1.0,0.0,2022
+16,General Retailers,0.0,1.0,0.0,2022
+17,Health Care Equipment & Ser...,0.31,1.0,0.23,2022
+18,Household Goods & Home Cons...,0.0,1.0,0.0,2022
+19,Industrial Engineering,0.5,1.0,0.17,2022
+20,Industrial Metals & Mining,0.0,1.0,0.0,2022
+21,Industrial Transportation,0.5,0.75,0.25,2022
+22,Media,0.2,0.8,0.0,2022
+23,Mining,0.0,0.89,0.0,2022
+24,Mobile Telecommunications,0.41,0.91,0.23,2022
+25,Not Applicable,0.0,0.75,0.0,2022
+26,Pharmaceuticals & Biotechno...,0.4,1.0,0.0,2022
+27,Software & Computer Services,0.73,0.91,0.0,2022
+28,Support Services,0.21,0.92,0.06,2022
+29,Technology Hardware & Equip...,0.25,0.88,0.12,2022
+30,Travel & Leisure,0.7,0.9,0.05,2022

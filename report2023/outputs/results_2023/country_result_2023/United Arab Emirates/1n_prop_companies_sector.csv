@@ -1,25 +1,25 @@
 ,Sector,Climate,Health,Intersection,Year
-0,Alternative Energy,1.0,1.0,0.67,2021
-1,Automobiles & Parts,1.0,0.86,0.14,2021
-2,Banks,0.4,0.8,0.2,2021
-3,Construction & Materials,0.36,0.71,0.07,2021
-4,Diversified,0.88,0.92,0.38,2021
-5,Equity Investment Instruments,0.5,1.0,0.33,2021
-6,Financial Services,0.33,0.5,0.0,2021
-7,Food Producers,1.0,1.0,1.0,2021
-8,"Gas, Water & Multiutilities",0.9,1.0,0.2,2021
-9,General Industrials,1.0,1.0,0.62,2021
-10,General Retailers,0.91,0.91,0.09,2021
-11,Health Care Equipment & Ser...,0.0,1.0,0.0,2021
-12,Household Goods & Home Cons...,0.0,1.0,0.0,2021
-13,Industrial Transportation,0.0,0.6,0.0,2021
-14,Media,1.0,1.0,0.33,2021
-15,Mining,1.0,1.0,1.0,2021
-16,Mobile Telecommunications,1.0,1.0,0.83,2021
-17,Nonlife Insurance,0.0,1.0,0.0,2021
-18,Oil & Gas Producers,0.0,1.0,0.0,2021
-19,Personal Goods,0.53,1.0,0.21,2021
-20,Real Estate Investment & Se...,0.75,0.69,0.0,2021
-21,Software & Computer Services,0.5,0.5,0.0,2021
-22,Support Services,0.53,0.81,0.14,2021
-23,Travel & Leisure,0.89,0.78,0.0,2021
+0,Alternative Energy,1.0,1.0,0.67,2022
+1,Automobiles & Parts,1.0,0.86,0.14,2022
+2,Banks,0.4,0.8,0.2,2022
+3,Construction & Materials,0.36,0.71,0.07,2022
+4,Diversified,0.88,0.92,0.38,2022
+5,Equity Investment Instruments,0.5,1.0,0.33,2022
+6,Financial Services,0.33,0.5,0.0,2022
+7,Food Producers,1.0,1.0,1.0,2022
+8,"Gas, Water & Multiutilities",0.9,1.0,0.2,2022
+9,General Industrials,1.0,1.0,0.62,2022
+10,General Retailers,0.91,0.91,0.09,2022
+11,Health Care Equipment & Ser...,0.0,1.0,0.0,2022
+12,Household Goods & Home Cons...,0.0,1.0,0.0,2022
+13,Industrial Transportation,0.0,0.6,0.0,2022
+14,Media,1.0,1.0,0.33,2022
+15,Mining,1.0,1.0,1.0,2022
+16,Mobile Telecommunications,1.0,1.0,0.83,2022
+17,Nonlife Insurance,0.0,1.0,0.0,2022
+18,Oil & Gas Producers,0.0,1.0,0.0,2022
+19,Personal Goods,0.53,1.0,0.21,2022
+20,Real Estate Investment & Se...,0.75,0.69,0.0,2022
+21,Software & Computer Services,0.5,0.5,0.0,2022
+22,Support Services,0.53,0.81,0.14,2022
+23,Travel & Leisure,0.89,0.78,0.0,2022
