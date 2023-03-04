@@ -1,29 +1,47 @@
 ,Sector,intersection,health,climate
-0,Alternative Energy,0.0,95.5,36.0
-1,Banks,1.0,36.0,1.0
-2,Beverages,1.67,28.67,12.67
-3,Chemicals,0.0,6.0,0.0
-4,Construction & Materials,0.86,25.64,11.86
-5,Diversified,0.85,20.31,9.15
-6,Electricity,2.17,97.0,45.83
-7,Financial Services,1.33,63.0,49.33
-8,Fixed Line Telecommunications,0.33,54.67,13.33
-9,Food Producers,0.17,38.17,5.17
-10,"Gas, Water & Multiutilities",0.33,28.0,3.0
-11,General Industrials,1.71,41.43,11.86
-12,General Retailers,1.0,16.5,2.75
-13,Health Care Equipment & Ser...,2.0,158.67,6.67
-14,Industrial Engineering,0.0,12.0,3.0
-15,Industrial Metals & Mining,1.0,48.0,17.0
-16,Industrial Transportation,0.0,14.33,3.17
-17,Media,1.0,57.0,9.0
-18,Mining,0.0,109.0,13.0
-19,Mobile Telecommunications,2.0,85.0,29.0
-20,Nonlife Insurance,1.5,19.5,9.5
-21,Oil & Gas Producers,1.0,47.67,8.11
-22,"Oil Equipment, Services & D...",2.29,39.43,21.29
-23,Personal Goods,0.0,8.0,0.0
-24,Pharmaceuticals & Biotechno...,0.0,25.0,0.67
-25,Software & Computer Services,0.25,26.25,1.5
-26,Support Services,0.38,16.69,3.04
-27,Travel & Leisure,1.0,38.0,3.0
+0,Aerospace & Defense,2.39,55.85,28.45
+1,Alternative Energy,2.41,29.67,27.88
+2,Automobiles & Parts,2.03,39.28,30.3
+3,Banks,2.46,47.15,40.33
+4,Basic Resources,0.0,5.0,2.0
+5,Beverages,2.28,40.23,23.52
+6,Chemicals,4.7,59.04,34.04
+7,Construction & Materials,1.77,29.95,20.09
+8,Diversified,1.41,26.54,14.75
+9,Electricity,3.74,57.93,49.94
+10,Electronic & Electrical Equ...,1.62,32.86,24.34
+11,Equity Investment Instruments,2.4,21.36,22.8
+12,Financial Services,2.05,30.77,29.03
+13,Fixed Line Telecommunications,1.09,34.26,16.3
+14,Food & Drug Retailers,2.18,60.82,25.79
+15,Food Producers,2.22,44.82,15.21
+16,Forestry & Paper,2.31,43.47,29.67
+17,"Gas, Water & Multiutilities",3.04,55.28,44.81
+18,General Industrials,1.37,28.53,17.07
+19,General Retailers,1.12,27.97,15.03
+20,Health Care Equipment & Ser...,3.33,71.32,10.99
+21,Household Goods & Home Cons...,1.88,56.95,40.32
+22,Industrial Engineering,1.46,23.93,16.2
+23,Industrial Goods & Services,0.5,8.25,3.5
+24,Industrial Metals & Mining,2.86,51.76,31.54
+25,Industrial Transportation,1.62,26.29,17.18
+26,Leisure Goods,1.19,23.85,15.3
+27,Life Insurance,11.92,76.18,45.11
+28,Media,0.5,17.95,7.1
+29,Mining,4.58,79.87,49.26
+30,Mobile Telecommunications,1.42,42.36,29.34
+31,Nonequity Investment Instru...,0.17,6.0,11.17
+32,Nonlife Insurance,2.63,39.56,21.39
+33,Oil & Gas Producers,3.62,48.18,41.16
+34,"Oil Equipment, Services & D...",1.9,24.85,20.85
+35,Other,0.0,6.0,2.5
+36,Personal Goods,1.52,33.23,16.97
+37,Pharmaceuticals & Biotechno...,4.84,92.72,16.93
+38,Real Estate Investment & Se...,2.44,46.04,31.38
+39,Real Estate Investment Trusts,5.11,53.83,47.06
+40,Retail,0.0,4.75,0.75
+41,Software & Computer Services,0.78,13.69,9.08
+42,Support Services,0.83,18.36,9.58
+43,Technology,0.0,19.0,2.0
+44,Technology Hardware & Equip...,1.16,24.43,18.79
+45,Travel & Leisure,1.44,32.76,17.79
