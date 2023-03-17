@@ -1,0 +1,363 @@
+year,WHO Region,climate_references,health_references,intersection_references
+1970,Africa,0,11,0
+1971,Africa,0,21,0
+1972,Africa,0,29,0
+1973,Africa,0,23,0
+1974,Africa,0,15,0
+1975,Africa,0,17,0
+1976,Africa,0,25,0
+1977,Africa,0,31,0
+1978,Africa,0,34,0
+1979,Africa,0,48,0
+1980,Africa,1,48,0
+1981,Africa,1,32,0
+1982,Africa,3,22,0
+1983,Africa,0,30,0
+1984,Africa,0,44,0
+1985,Africa,1,47,0
+1986,Africa,0,48,0
+1987,Africa,0,39,0
+1988,Africa,1,51,0
+1989,Africa,6,45,0
+1990,Africa,6,47,0
+1991,Africa,4,35,0
+1992,Africa,6,47,0
+1993,Africa,2,36,0
+1994,Africa,4,51,0
+1995,Africa,2,62,0
+1996,Africa,4,58,0
+1997,Africa,8,42,0
+1998,Africa,3,48,0
+1999,Africa,1,91,0
+2000,Africa,1,124,0
+2001,Africa,3,139,0
+2002,Africa,1,129,0
+2003,Africa,5,138,0
+2004,Africa,9,127,0
+2005,Africa,4,115,3
+2006,Africa,10,125,11
+2007,Africa,227,108,32
+2008,Africa,97,102,14
+2009,Africa,196,94,20
+2010,Africa,129,97,15
+2011,Africa,107,85,9
+2012,Africa,47,83,7
+2013,Africa,49,124,15
+2014,Africa,116,256,10
+2015,Africa,118,119,16
+2016,Africa,165,103,12
+2017,Africa,159,77,9
+2018,Africa,97,71,11
+2019,Africa,280,150,30
+2020,Africa,109,545,70
+2021,Africa,197,510,54
+2022,Africa,239,297,53
+1970,Americas,0,10,0
+1971,Americas,0,12,0
+1972,Americas,0,24,0
+1973,Americas,1,26,0
+1974,Americas,0,23,0
+1975,Americas,0,20,0
+1976,Americas,0,13,0
+1977,Americas,0,22,0
+1978,Americas,3,30,0
+1979,Americas,2,45,0
+1980,Americas,2,28,0
+1981,Americas,1,34,0
+1982,Americas,0,24,0
+1983,Americas,2,26,0
+1984,Americas,0,32,0
+1985,Americas,0,45,0
+1986,Americas,0,18,0
+1987,Americas,0,36,0
+1988,Americas,6,36,0
+1989,Americas,18,39,0
+1990,Americas,4,54,0
+1991,Americas,13,41,3
+1992,Americas,13,38,0
+1993,Americas,6,45,4
+1994,Americas,5,43,0
+1995,Americas,18,36,1
+1996,Americas,7,46,0
+1997,Americas,8,33,0
+1998,Americas,15,33,1
+1999,Americas,4,54,2
+2000,Americas,11,102,0
+2001,Americas,17,73,0
+2002,Americas,8,84,1
+2003,Americas,8,64,1
+2004,Americas,12,71,0
+2005,Americas,21,77,1
+2006,Americas,18,52,1
+2007,Americas,190,98,9
+2008,Americas,115,97,19
+2009,Americas,229,78,14
+2010,Americas,144,84,19
+2011,Americas,135,121,25
+2012,Americas,115,80,14
+2013,Americas,77,169,8
+2014,Americas,133,139,13
+2015,Americas,163,86,6
+2016,Americas,128,102,9
+2017,Americas,172,72,4
+2018,Americas,178,98,17
+2019,Americas,230,65,12
+2020,Americas,110,464,63
+2021,Americas,227,428,110
+2022,Americas,200,198,33
+1971,Eastern Mediterranean,0,7,0
+1972,Eastern Mediterranean,0,6,0
+1973,Eastern Mediterranean,0,6,0
+1974,Eastern Mediterranean,0,11,0
+1975,Eastern Mediterranean,0,3,0
+1976,Eastern Mediterranean,0,5,0
+1977,Eastern Mediterranean,0,13,0
+1978,Eastern Mediterranean,0,6,0
+1979,Eastern Mediterranean,0,11,0
+1980,Eastern Mediterranean,0,12,0
+1981,Eastern Mediterranean,0,8,0
+1982,Eastern Mediterranean,0,9,0
+1983,Eastern Mediterranean,0,6,0
+1984,Eastern Mediterranean,0,12,0
+1985,Eastern Mediterranean,0,9,0
+1986,Eastern Mediterranean,1,12,0
+1987,Eastern Mediterranean,0,13,0
+1988,Eastern Mediterranean,0,11,0
+1989,Eastern Mediterranean,1,11,1
+1990,Eastern Mediterranean,1,17,0
+1991,Eastern Mediterranean,0,14,0
+1992,Eastern Mediterranean,1,18,0
+1993,Eastern Mediterranean,1,23,0
+1994,Eastern Mediterranean,2,14,0
+1995,Eastern Mediterranean,1,9,0
+1996,Eastern Mediterranean,0,18,0
+1997,Eastern Mediterranean,0,13,0
+1998,Eastern Mediterranean,1,14,0
+1999,Eastern Mediterranean,1,24,0
+2000,Eastern Mediterranean,0,43,0
+2001,Eastern Mediterranean,2,18,0
+2002,Eastern Mediterranean,1,28,1
+2003,Eastern Mediterranean,0,20,0
+2004,Eastern Mediterranean,0,24,0
+2005,Eastern Mediterranean,0,15,0
+2006,Eastern Mediterranean,0,19,0
+2007,Eastern Mediterranean,27,21,2
+2008,Eastern Mediterranean,36,14,0
+2009,Eastern Mediterranean,45,23,6
+2010,Eastern Mediterranean,42,23,1
+2011,Eastern Mediterranean,10,10,1
+2012,Eastern Mediterranean,11,19,2
+2013,Eastern Mediterranean,16,12,2
+2014,Eastern Mediterranean,21,17,4
+2015,Eastern Mediterranean,23,13,1
+2016,Eastern Mediterranean,20,10,0
+2017,Eastern Mediterranean,34,13,3
+2018,Eastern Mediterranean,11,9,2
+2019,Eastern Mediterranean,45,12,1
+2020,Eastern Mediterranean,26,161,18
+2021,Eastern Mediterranean,62,148,18
+2022,Eastern Mediterranean,83,66,11
+1970,Europe,0,7,0
+1971,Europe,0,7,0
+1972,Europe,0,9,0
+1973,Europe,0,8,0
+1974,Europe,0,8,0
+1975,Europe,0,7,0
+1976,Europe,0,7,0
+1977,Europe,1,14,0
+1978,Europe,3,14,0
+1979,Europe,0,8,0
+1980,Europe,0,11,0
+1981,Europe,0,12,0
+1982,Europe,0,13,0
+1983,Europe,0,11,0
+1984,Europe,0,16,0
+1985,Europe,0,31,0
+1986,Europe,0,25,0
+1987,Europe,0,25,0
+1988,Europe,7,17,2
+1989,Europe,26,17,1
+1990,Europe,16,17,1
+1991,Europe,12,17,0
+1992,Europe,4,20,0
+1993,Europe,4,21,0
+1994,Europe,1,25,0
+1995,Europe,5,29,1
+1996,Europe,7,22,3
+1997,Europe,16,27,0
+1998,Europe,18,23,1
+1999,Europe,6,30,1
+2000,Europe,13,55,1
+2001,Europe,9,36,0
+2002,Europe,8,42,2
+2003,Europe,10,44,4
+2004,Europe,13,50,1
+2005,Europe,20,52,1
+2006,Europe,29,55,2
+2007,Europe,189,42,11
+2008,Europe,142,55,14
+2009,Europe,197,55,17
+2010,Europe,134,40,16
+2011,Europe,104,62,17
+2012,Europe,51,36,2
+2013,Europe,69,73,10
+2014,Europe,116,77,13
+2015,Europe,151,30,4
+2016,Europe,122,36,8
+2017,Europe,128,47,3
+2018,Europe,143,61,16
+2019,Europe,368,87,24
+2020,Europe,138,618,58
+2021,Europe,331,464,78
+2022,Europe,211,205,59
+2007,N/A,2,0,0
+2008,N/A,2,0,0
+2009,N/A,2,0,0
+2010,N/A,1,0,0
+2015,N/A,0,1,0
+2017,N/A,3,0,0
+2018,N/A,2,0,0
+2019,N/A,1,0,0
+2020,N/A,4,17,5
+2021,N/A,5,8,1
+2022,N/A,6,3,3
+1970,South-East Asia,0,3,0
+1971,South-East Asia,0,2,0
+1972,South-East Asia,0,4,0
+1974,South-East Asia,0,3,0
+1975,South-East Asia,0,1,0
+1976,South-East Asia,0,3,0
+1977,South-East Asia,0,8,0
+1978,South-East Asia,0,4,0
+1979,South-East Asia,0,8,0
+1980,South-East Asia,0,10,0
+1981,South-East Asia,0,4,0
+1982,South-East Asia,0,3,0
+1983,South-East Asia,0,1,0
+1984,South-East Asia,0,12,0
+1985,South-East Asia,0,13,0
+1986,South-East Asia,0,6,0
+1987,South-East Asia,0,5,0
+1988,South-East Asia,4,9,0
+1989,South-East Asia,6,8,0
+1990,South-East Asia,8,7,0
+1991,South-East Asia,3,8,1
+1992,South-East Asia,3,14,0
+1993,South-East Asia,0,14,0
+1994,South-East Asia,1,17,0
+1995,South-East Asia,0,13,0
+1996,South-East Asia,3,10,0
+1997,South-East Asia,8,6,0
+1998,South-East Asia,9,10,0
+1999,South-East Asia,2,12,0
+2000,South-East Asia,2,14,0
+2001,South-East Asia,2,14,0
+2002,South-East Asia,2,7,0
+2003,South-East Asia,2,29,0
+2004,South-East Asia,1,16,0
+2005,South-East Asia,2,25,0
+2006,South-East Asia,5,15,0
+2007,South-East Asia,76,13,0
+2008,South-East Asia,45,18,4
+2009,South-East Asia,72,19,6
+2010,South-East Asia,65,20,9
+2011,South-East Asia,31,11,0
+2012,South-East Asia,33,14,5
+2013,South-East Asia,24,20,0
+2014,South-East Asia,24,19,5
+2015,South-East Asia,39,18,2
+2016,South-East Asia,34,16,2
+2017,South-East Asia,48,22,2
+2018,South-East Asia,40,26,1
+2019,South-East Asia,55,29,4
+2020,South-East Asia,15,154,11
+2021,South-East Asia,55,144,29
+2022,South-East Asia,70,102,16
+1970,Western Pacific,0,3,0
+1971,Western Pacific,0,4,0
+1972,Western Pacific,0,3,0
+1973,Western Pacific,0,10,0
+1974,Western Pacific,0,7,0
+1975,Western Pacific,0,3,0
+1976,Western Pacific,0,4,0
+1977,Western Pacific,1,12,0
+1978,Western Pacific,1,5,0
+1979,Western Pacific,0,8,0
+1980,Western Pacific,0,4,0
+1981,Western Pacific,0,7,0
+1982,Western Pacific,0,3,0
+1983,Western Pacific,0,8,0
+1984,Western Pacific,0,5,0
+1985,Western Pacific,0,22,0
+1986,Western Pacific,0,18,0
+1987,Western Pacific,1,16,0
+1988,Western Pacific,1,7,0
+1989,Western Pacific,21,12,1
+1990,Western Pacific,8,9,0
+1991,Western Pacific,37,4,0
+1992,Western Pacific,24,6,0
+1993,Western Pacific,18,6,0
+1994,Western Pacific,16,13,0
+1995,Western Pacific,27,27,2
+1996,Western Pacific,32,19,2
+1997,Western Pacific,26,6,0
+1998,Western Pacific,35,9,0
+1999,Western Pacific,43,15,4
+2000,Western Pacific,27,34,2
+2001,Western Pacific,47,37,11
+2002,Western Pacific,40,28,5
+2003,Western Pacific,37,69,4
+2004,Western Pacific,33,45,5
+2005,Western Pacific,36,65,2
+2006,Western Pacific,58,41,6
+2007,Western Pacific,189,28,10
+2008,Western Pacific,200,26,4
+2009,Western Pacific,260,42,19
+2010,Western Pacific,163,73,16
+2011,Western Pacific,153,90,16
+2012,Western Pacific,125,34,4
+2013,Western Pacific,134,54,5
+2014,Western Pacific,193,85,43
+2015,Western Pacific,180,53,11
+2016,Western Pacific,165,58,25
+2017,Western Pacific,149,34,19
+2018,Western Pacific,174,56,18
+2019,Western Pacific,303,84,38
+2020,Western Pacific,126,290,47
+2021,Western Pacific,246,311,56
+2022,Western Pacific,224,192,68
+1971,NA,0,1,0
+1972,NA,0,1,0
+1974,NA,0,2,0
+1975,NA,0,1,0
+1977,NA,0,2,0
+1979,NA,0,9,0
+1981,NA,0,2,0
+1982,NA,0,3,0
+1983,NA,0,5,0
+1984,NA,0,2,0
+1985,NA,0,4,0
+1986,NA,1,1,0
+1987,NA,0,3,0
+1988,NA,0,3,0
+1990,NA,0,1,0
+1991,NA,0,2,0
+2004,NA,0,2,0
+2005,NA,1,3,1
+2006,NA,0,1,0
+2007,NA,1,1,0
+2008,NA,3,0,0
+2009,NA,1,0,0
+2010,NA,1,0,0
+2011,NA,3,2,0
+2012,NA,2,1,0
+2013,NA,2,0,0
+2014,NA,0,2,0
+2015,NA,11,1,3
+2016,NA,5,1,0
+2017,NA,5,0,0
+2018,NA,7,1,0
+2019,NA,6,1,0
+2020,NA,4,17,1
+2021,NA,5,20,0
+2022,NA,13,10,2

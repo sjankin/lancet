@@ -1,0 +1,365 @@
+year,LC Grouping,climate_references,health_references,intersection_references
+1970,Africa,0,11,0
+1971,Africa,0,24,0
+1972,Africa,0,31,0
+1973,Africa,0,25,0
+1974,Africa,0,16,0
+1975,Africa,0,18,0
+1976,Africa,0,24,0
+1977,Africa,0,30,0
+1978,Africa,0,33,0
+1979,Africa,0,51,0
+1980,Africa,1,54,0
+1981,Africa,1,30,0
+1982,Africa,3,22,0
+1983,Africa,0,30,0
+1984,Africa,0,46,0
+1985,Africa,1,42,0
+1986,Africa,1,47,0
+1987,Africa,0,46,0
+1988,Africa,1,54,0
+1989,Africa,6,46,1
+1990,Africa,6,58,0
+1991,Africa,4,35,0
+1992,Africa,6,57,0
+1993,Africa,1,38,0
+1994,Africa,5,51,0
+1995,Africa,2,62,0
+1996,Africa,3,53,0
+1997,Africa,5,39,0
+1998,Africa,1,47,0
+1999,Africa,1,93,0
+2000,Africa,1,145,0
+2001,Africa,3,134,0
+2002,Africa,1,133,1
+2003,Africa,0,133,0
+2004,Africa,0,120,0
+2005,Africa,2,105,3
+2006,Africa,3,103,0
+2007,Africa,200,101,27
+2008,Africa,95,90,14
+2009,Africa,179,91,20
+2010,Africa,119,89,13
+2011,Africa,88,79,9
+2012,Africa,33,83,6
+2013,Africa,40,121,15
+2014,Africa,90,238,10
+2015,Africa,114,114,14
+2016,Africa,148,99,11
+2017,Africa,155,72,12
+2018,Africa,78,64,9
+2019,Africa,268,152,29
+2020,Africa,96,545,55
+2021,Africa,196,517,54
+2022,Africa,262,295,56
+1970,Asia,0,7,0
+1971,Asia,0,7,0
+1972,Asia,0,11,0
+1973,Asia,0,12,0
+1974,Asia,0,20,0
+1975,Asia,0,8,0
+1976,Asia,0,8,0
+1977,Asia,0,26,0
+1978,Asia,1,10,0
+1979,Asia,0,14,0
+1980,Asia,0,15,0
+1981,Asia,0,14,0
+1982,Asia,0,13,0
+1983,Asia,0,6,0
+1984,Asia,0,25,0
+1985,Asia,0,34,0
+1986,Asia,0,26,0
+1987,Asia,0,18,0
+1988,Asia,4,21,0
+1989,Asia,9,22,1
+1990,Asia,4,11,0
+1991,Asia,4,23,1
+1992,Asia,5,26,0
+1993,Asia,4,38,0
+1994,Asia,2,41,0
+1995,Asia,3,33,1
+1996,Asia,6,35,0
+1997,Asia,6,29,0
+1998,Asia,6,34,0
+1999,Asia,2,43,0
+2000,Asia,8,44,1
+2001,Asia,2,31,0
+2002,Asia,10,33,1
+2003,Asia,6,64,1
+2004,Asia,2,49,1
+2005,Asia,2,76,0
+2006,Asia,1,51,0
+2007,Asia,171,30,4
+2008,Asia,99,43,9
+2009,Asia,173,53,15
+2010,Asia,132,68,17
+2011,Asia,73,32,4
+2012,Asia,47,32,8
+2013,Asia,58,51,3
+2014,Asia,88,65,19
+2015,Asia,87,53,6
+2016,Asia,80,36,5
+2017,Asia,84,33,5
+2018,Asia,76,52,7
+2019,Asia,159,73,6
+2020,Asia,72,419,24
+2021,Asia,199,431,63
+2022,Asia,195,228,44
+1970,Europe,0,4,0
+1971,Europe,0,7,0
+1972,Europe,0,8,0
+1973,Europe,0,7,0
+1974,Europe,0,7,0
+1975,Europe,0,3,0
+1976,Europe,0,7,0
+1977,Europe,1,14,0
+1978,Europe,3,14,0
+1979,Europe,0,8,0
+1980,Europe,0,9,0
+1981,Europe,0,11,0
+1982,Europe,0,11,0
+1983,Europe,0,8,0
+1984,Europe,0,11,0
+1985,Europe,0,27,0
+1986,Europe,0,23,0
+1987,Europe,0,25,0
+1988,Europe,6,15,2
+1989,Europe,25,16,1
+1990,Europe,16,14,1
+1991,Europe,12,14,0
+1992,Europe,4,17,0
+1993,Europe,3,17,0
+1994,Europe,1,15,0
+1995,Europe,5,25,1
+1996,Europe,7,17,3
+1997,Europe,16,21,0
+1998,Europe,17,16,1
+1999,Europe,6,25,1
+2000,Europe,9,51,0
+2001,Europe,8,33,0
+2002,Europe,6,38,2
+2003,Europe,10,39,4
+2004,Europe,13,41,1
+2005,Europe,18,39,1
+2006,Europe,28,45,2
+2007,Europe,176,40,11
+2008,Europe,132,47,11
+2009,Europe,183,47,14
+2010,Europe,113,33,9
+2011,Europe,95,56,17
+2012,Europe,46,35,2
+2013,Europe,54,66,10
+2014,Europe,96,65,9
+2015,Europe,127,25,3
+2016,Europe,104,24,6
+2017,Europe,116,41,3
+2018,Europe,136,47,16
+2019,Europe,325,64,23
+2020,Europe,123,537,60
+2021,Europe,280,386,69
+2022,Europe,184,172,56
+1970,Northern America,0,1,0
+1971,Northern America,0,2,0
+1972,Northern America,0,3,0
+1973,Northern America,0,2,0
+1974,Northern America,0,3,0
+1975,Northern America,0,3,0
+1976,Northern America,0,2,0
+1977,Northern America,0,1,0
+1978,Northern America,3,4,0
+1979,Northern America,1,4,0
+1980,Northern America,0,1,0
+1981,Northern America,0,6,0
+1982,Northern America,0,1,0
+1984,Northern America,0,3,0
+1985,Northern America,0,4,0
+1986,Northern America,0,1,0
+1987,Northern America,0,3,0
+1988,Northern America,3,4,0
+1989,Northern America,3,6,0
+1990,Northern America,0,4,0
+1991,Northern America,2,5,2
+1992,Northern America,1,1,0
+1993,Northern America,0,12,0
+1994,Northern America,0,3,0
+1995,Northern America,1,4,0
+1996,Northern America,1,3,0
+1997,Northern America,2,4,0
+1998,Northern America,1,1,0
+1999,Northern America,1,12,2
+2000,Northern America,1,2,0
+2001,Northern America,0,2,0
+2002,Northern America,0,3,0
+2003,Northern America,0,11,0
+2004,Northern America,0,11,0
+2005,Northern America,0,7,0
+2006,Northern America,0,1,0
+2007,Northern America,2,15,2
+2008,Northern America,7,7,0
+2009,Northern America,17,8,2
+2010,Northern America,2,8,1
+2011,Northern America,1,12,2
+2012,Northern America,0,1,0
+2013,Northern America,1,6,0
+2014,Northern America,3,15,0
+2015,Northern America,8,9,0
+2016,Northern America,4,8,0
+2017,Northern America,2,6,0
+2018,Northern America,4,0,0
+2019,Northern America,8,4,3
+2020,Northern America,4,7,3
+2021,Northern America,20,21,5
+2022,Northern America,17,18,9
+1970,Oceania,0,1,0
+1971,Oceania,0,1,0
+1976,Oceania,0,2,0
+1977,Oceania,1,0,0
+1978,Oceania,0,1,0
+1979,Oceania,0,2,0
+1982,Oceania,0,2,0
+1983,Oceania,0,3,0
+1984,Oceania,0,1,0
+1985,Oceania,0,2,0
+1986,Oceania,0,2,0
+1987,Oceania,0,1,0
+1988,Oceania,0,1,0
+1989,Oceania,10,3,0
+1990,Oceania,2,6,0
+1991,Oceania,1,0,0
+1992,Oceania,1,2,0
+1993,Oceania,2,0,0
+1994,Oceania,0,3,0
+1995,Oceania,0,5,0
+1996,Oceania,0,2,0
+1997,Oceania,2,0,0
+1998,Oceania,1,0,0
+1999,Oceania,2,1,0
+2000,Oceania,1,1,0
+2001,Oceania,0,3,0
+2002,Oceania,1,1,0
+2003,Oceania,0,1,0
+2004,Oceania,0,4,0
+2005,Oceania,0,1,0
+2006,Oceania,10,3,3
+2007,Oceania,19,1,1
+2008,Oceania,7,2,1
+2009,Oceania,22,1,0
+2010,Oceania,21,3,6
+2011,Oceania,8,6,1
+2012,Oceania,8,8,0
+2013,Oceania,5,4,0
+2014,Oceania,7,1,0
+2015,Oceania,3,1,0
+2016,Oceania,5,2,4
+2017,Oceania,9,2,1
+2018,Oceania,14,1,0
+2019,Oceania,23,2,2
+2020,Oceania,5,17,1
+2021,Oceania,28,26,6
+2022,Oceania,12,12,8
+1970,SIDS,0,4,0
+1971,SIDS,0,6,0
+1972,SIDS,0,9,0
+1973,SIDS,1,6,0
+1974,SIDS,0,8,0
+1975,SIDS,0,5,0
+1976,SIDS,0,8,0
+1977,SIDS,0,17,0
+1978,SIDS,0,16,0
+1979,SIDS,0,33,0
+1980,SIDS,1,22,0
+1981,SIDS,0,26,0
+1982,SIDS,0,12,0
+1983,SIDS,2,18,0
+1984,SIDS,0,22,0
+1985,SIDS,0,34,0
+1986,SIDS,0,19,0
+1987,SIDS,1,27,0
+1988,SIDS,5,24,0
+1989,SIDS,21,18,0
+1990,SIDS,15,31,0
+1991,SIDS,46,34,1
+1992,SIDS,33,25,0
+1993,SIDS,21,34,4
+1994,SIDS,18,34,0
+1995,SIDS,40,31,2
+1996,SIDS,35,41,2
+1997,SIDS,35,21,0
+1998,SIDS,51,31,1
+1999,SIDS,42,34,4
+2000,SIDS,29,104,2
+2001,SIDS,62,91,11
+2002,SIDS,42,94,5
+2003,SIDS,46,95,4
+2004,SIDS,50,84,4
+2005,SIDS,59,95,2
+2006,SIDS,76,75,15
+2007,SIDS,274,94,18
+2008,SIDS,263,80,18
+2009,SIDS,349,86,30
+2010,SIDS,239,117,29
+2011,SIDS,219,170,32
+2012,SIDS,213,85,14
+2013,SIDS,198,141,12
+2014,SIDS,274,174,46
+2015,SIDS,281,72,15
+2016,SIDS,260,111,28
+2017,SIDS,270,88,16
+2018,SIDS,281,119,30
+2019,SIDS,408,114,43
+2020,SIDS,181,505,104
+2021,SIDS,299,433,109
+2022,SIDS,310,263,64
+1970,South and Central America,0,6,0
+1971,South and Central America,0,6,0
+1972,South and Central America,0,13,0
+1973,South and Central America,0,21,0
+1974,South and Central America,0,13,0
+1975,South and Central America,0,14,0
+1976,South and Central America,0,6,0
+1977,South and Central America,0,12,0
+1978,South and Central America,0,15,0
+1979,South and Central America,1,16,0
+1980,South and Central America,1,12,0
+1981,South and Central America,1,10,0
+1982,South and Central America,0,13,0
+1983,South and Central America,0,17,0
+1984,South and Central America,0,13,0
+1985,South and Central America,0,24,0
+1986,South and Central America,0,9,0
+1987,South and Central America,0,14,0
+1988,South and Central America,0,12,0
+1989,South and Central America,4,21,0
+1990,South and Central America,0,27,0
+1991,South and Central America,0,8,0
+1992,South and Central America,1,15,0
+1993,South and Central America,0,6,0
+1994,South and Central America,3,16,0
+1995,South and Central America,2,16,0
+1996,South and Central America,1,22,0
+1997,South and Central America,0,13,0
+1998,South and Central America,4,8,0
+1999,South and Central America,3,18,0
+2000,South and Central America,5,25,0
+2001,South and Central America,5,23,0
+2002,South and Central America,0,16,0
+2003,South and Central America,0,21,0
+2004,South and Central America,3,24,0
+2005,South and Central America,2,26,1
+2006,South and Central America,2,29,0
+2007,South and Central America,58,29,1
+2008,South and Central America,34,43,2
+2009,South and Central America,78,25,1
+2010,South and Central America,52,19,1
+2011,South and Central America,56,24,3
+2012,South and Central America,35,22,4
+2013,South and Central America,13,63,0
+2014,South and Central America,45,35,4
+2015,South and Central America,54,46,2
+2016,South and Central America,33,45,2
+2017,South and Central America,57,23,3
+2018,South and Central America,56,38,3
+2019,South and Central America,91,18,3
+2020,South and Central America,47,219,25
+2021,South and Central America,101,199,40
+2022,South and Central America,53,75,6
